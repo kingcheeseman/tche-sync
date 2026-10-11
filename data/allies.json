@@ -630,8 +630,8 @@
         "displayName": "mazen_67",
         "role": "member",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1177,
-        "wpm": 37,
+        "allTimeRaces": 1184,
+        "wpm": 42,
         "highestWPM": 56,
         "teamRaces": 536,
         "acc": 88.09,
@@ -670,7 +670,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791732337906
+    "_syncedAt": 1791733201757
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791732410471
+    "_syncedAt": 1791733274827
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1353,6 +1353,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791732482878
+    "_syncedAt": 1791733347167
   }
 }
