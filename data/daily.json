@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 260,
+      "rank": 215,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 0,
-      "accuracy": 83.4,
-      "wpm": 5,
+      "accuracy": 83.8,
+      "wpm": 7,
       "points": 139,
       "ppr": 0
     },
     {
-      "rank": 291,
+      "rank": 290,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 0,
@@ -31,7 +31,7 @@
       "ppr": 0
     },
     {
-      "rank": 503,
+      "rank": 506,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 0,
@@ -41,5 +41,5 @@
       "ppr": 0
     }
   ],
-  "_syncedAt": 1791759248207
+  "_syncedAt": 1791759878298
 }
