@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 109,
+      "rank": 110,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 0,
@@ -9,7 +9,17 @@
       "wpm": 4,
       "points": 132,
       "ppr": 0
+    },
+    {
+      "rank": 264,
+      "username": "taylorja32",
+      "displayName": "Mr Cheese",
+      "races": 0,
+      "accuracy": 91.9,
+      "wpm": 403,
+      "points": 134,
+      "ppr": 0
     }
   ],
-  "_syncedAt": 1791733192770
+  "_syncedAt": 1791734020222
 }

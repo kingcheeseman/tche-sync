@@ -489,11 +489,11 @@
       "displayName": "Mr Cheese",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4194,
-      "wpm": 90,
+      "allTimeRaces": 4210,
+      "wpm": 79,
       "highestWPM": 118,
-      "teamRaces": 1767,
-      "acc": 92.24,
+      "teamRaces": 1784,
+      "acc": 92.26,
       "season": null,
       "status": "active",
       "lastLogin": 1791732788
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49158,
+      "races": 49175,
       "avgWPM": 75,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 262,
-      "avgWPM": 86,
+      "races": 278,
+      "avgWPM": 85,
       "avgAcc": 94.77,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791733144151
+  "_syncedAt": 1791733986402
 }
