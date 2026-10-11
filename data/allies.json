@@ -630,14 +630,14 @@
         "displayName": "mazen_67",
         "role": "member",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1156,
+        "allTimeRaces": 1166,
         "wpm": 37,
         "highestWPM": 56,
-        "teamRaces": 515,
-        "acc": 87.94,
+        "teamRaces": 520,
+        "acc": 87.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1791655399
+        "lastLogin": 1791730514
       },
       {
         "username": "dirk_nowitzki41",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75035,
+        "races": 75040,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 46
       },
       "daily": {
-        "races": 210,
-        "avgWPM": 71,
-        "avgAcc": 90.47,
+        "races": 215,
+        "avgWPM": 70,
+        "avgAcc": 90.46,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791730437521
+    "_syncedAt": 1791731028756
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791730509626
+    "_syncedAt": 1791731101251
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1353,6 +1353,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791730581965
+    "_syncedAt": 1791731173997
   }
 }
