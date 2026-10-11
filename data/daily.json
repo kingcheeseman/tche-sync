@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 99,
+      "rank": 100,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 0,
@@ -11,27 +11,37 @@
       "ppr": 0
     },
     {
-      "rank": 186,
+      "rank": 226,
       "username": "taylorja32",
       "displayName": "Mr Cheese",
       "races": 0,
-      "accuracy": 83.6,
-      "wpm": 8,
+      "accuracy": 83,
+      "wpm": 7,
       "points": 130,
       "ppr": 0
     },
     {
-      "rank": 202,
+      "rank": 276,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 0,
-      "accuracy": 90.4,
-      "wpm": 8,
-      "points": 133,
+      "accuracy": 89.3,
+      "wpm": 5,
+      "points": 132,
       "ppr": 0
     },
     {
-      "rank": 619,
+      "rank": 599,
+      "username": "me_likey_typey",
+      "displayName": "me_likey_typey",
+      "races": 0,
+      "accuracy": 55.3,
+      "wpm": 216,
+      "points": 108,
+      "ppr": 0
+    },
+    {
+      "rank": 620,
       "username": "jules_dot",
       "displayName": "cone_manager",
       "races": 0,
@@ -41,5 +51,5 @@
       "ppr": 0
     }
   ],
-  "_syncedAt": 1791735984707
+  "_syncedAt": 1791736863610
 }
