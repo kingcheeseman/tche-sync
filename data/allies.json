@@ -462,11 +462,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13391,
-        "wpm": 80,
+        "allTimeRaces": 13402,
+        "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11183,
-        "acc": 93.42,
+        "teamRaces": 11193,
+        "acc": 93.41,
         "season": null,
         "status": "active",
         "lastLogin": 1791737046
@@ -670,13 +670,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75072,
+        "races": 75082,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 47
       },
       "daily": {
-        "races": 247,
+        "races": 249,
         "avgWPM": 66,
         "avgAcc": 90.6,
         "members": 47
@@ -684,7 +684,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791738276082
+    "_syncedAt": 1791739516565
   },
   "SVC": {
     "tag": "SVC",
@@ -1321,15 +1321,15 @@
         "members": 44
       },
       "daily": {
-        "races": 19,
-        "avgWPM": 102,
-        "avgAcc": 96.08,
+        "races": 8,
+        "avgWPM": 127,
+        "avgAcc": 97.2,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791738348832
+    "_syncedAt": 1791739588970
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1367,6 +1367,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791738421661
+    "_syncedAt": 1791739661578
   }
 }
