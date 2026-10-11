@@ -546,14 +546,14 @@
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1414,
-        "wpm": 61,
+        "allTimeRaces": 1415,
+        "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 85,
-        "acc": 92.9,
+        "teamRaces": 86,
+        "acc": 92.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1791726516
+        "lastLogin": 1791742271
       },
       {
         "username": "watermelonsupreme",
@@ -644,14 +644,14 @@
         "displayName": "mazen_67",
         "role": "member",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1193,
-        "wpm": 41,
+        "allTimeRaces": 1195,
+        "wpm": 38,
         "highestWPM": 56,
         "teamRaces": 552,
         "acc": 88.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1791735013
+        "lastLogin": 1791742566
       },
       {
         "username": "dirk_nowitzki41",
@@ -670,21 +670,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75087,
+        "races": 75088,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 47
       },
       "daily": {
-        "races": 212,
+        "races": 179,
         "avgWPM": 64,
-        "avgAcc": 90.26,
+        "avgAcc": 91,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791741843079
+    "_syncedAt": 1791743346605
   },
   "SVC": {
     "tag": "SVC",
@@ -1329,7 +1329,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791741915711
+    "_syncedAt": 1791743419049
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1367,6 +1367,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791741988519
+    "_syncedAt": 1791743491475
   }
 }
