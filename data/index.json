@@ -1,0 +1,30 @@
+{
+  "_syncedAt": 1791728792685,
+  "team": 1791728502936,
+  "startrack": 1791728521710,
+  "comps": 1791728526515,
+  "seasons": 1791728792685,
+  "weekly": 1791728792685,
+  "daily": 1791728792685,
+  "allies": [
+    "KEYCAT",
+    "SVC",
+    "TCHE2"
+  ],
+  "took": 291247,
+  "ok": [
+    "team",
+    "startrack",
+    "comps",
+    "season",
+    "weekly",
+    "daily",
+    "ally-KEYCAT",
+    "ally-sr-KEYCAT",
+    "ally-SVC",
+    "ally-sr-SVC",
+    "ally-TCHE2",
+    "ally-sr-TCHE2"
+  ],
+  "failed": []
+}
