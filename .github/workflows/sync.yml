@@ -1,0 +1,50 @@
+name: TCHE sync
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub Actions can delay cron under load, but it's close enough.
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}  # lets you trigger manually from the Actions tab
+
+concurrency:
+  group: tche-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # needed so the job can commit data/ back to the repo
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Run sync
+        env:
+          TCHE_TAG: TCHE
+          ALLY_TAGS: KEYCAT,SVC,TCHE2
+        run: node sync.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "tche-sync-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "sync: $(date -u +%FT%TZ)"
+            git push
+          fi
