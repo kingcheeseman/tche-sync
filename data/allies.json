@@ -6,7 +6,7 @@
     "activePercent": 82,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2773,
+    "profileViews": 2774,
     "leagueTier": 10,
     "racers": [
       {
@@ -630,14 +630,14 @@
         "displayName": "mazen_67",
         "role": "member",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1184,
-        "wpm": 42,
+        "allTimeRaces": 1193,
+        "wpm": 41,
         "highestWPM": 56,
-        "teamRaces": 543,
-        "acc": 88.18,
+        "teamRaces": 552,
+        "acc": 88.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1791734211
+        "lastLogin": 1791735013
       },
       {
         "username": "dirk_nowitzki41",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75063,
+        "races": 75072,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 46
       },
       "daily": {
-        "races": 238,
-        "avgWPM": 67,
-        "avgAcc": 90.58,
+        "races": 247,
+        "avgWPM": 66,
+        "avgAcc": 90.6,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791734629655
+    "_syncedAt": 1791735984901
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791734702239
+    "_syncedAt": 1791736057495
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1353,6 +1353,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791734775134
+    "_syncedAt": 1791736130294
   }
 }
