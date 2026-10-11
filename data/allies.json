@@ -567,7 +567,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791653005
+        "lastLogin": 1791732322
       },
       {
         "username": "daisyiscute2026",
@@ -630,11 +630,11 @@
         "displayName": "mazen_67",
         "role": "member",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1166,
+        "allTimeRaces": 1177,
         "wpm": 37,
         "highestWPM": 56,
-        "teamRaces": 520,
-        "acc": 87.96,
+        "teamRaces": 536,
+        "acc": 88.09,
         "season": null,
         "status": "active",
         "lastLogin": 1791730514
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75040,
+        "races": 75056,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 46
       },
       "daily": {
-        "races": 215,
-        "avgWPM": 70,
-        "avgAcc": 90.46,
+        "races": 231,
+        "avgWPM": 68,
+        "avgAcc": 90.51,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791731028756
+    "_syncedAt": 1791732337906
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791731101251
+    "_syncedAt": 1791732410471
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1353,6 +1353,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791731173997
+    "_syncedAt": 1791732482878
   }
 }
