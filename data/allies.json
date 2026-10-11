@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 151,
-        "avgWPM": 60,
-        "avgAcc": 91.77,
+        "races": 142,
+        "avgWPM": 59,
+        "avgAcc": 91.89,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791750392861
+    "_syncedAt": 1791751192415
   },
   "SVC": {
     "tag": "SVC",
@@ -553,7 +553,7 @@
     "activePercent": 72,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1973,
+    "profileViews": 1974,
     "leagueTier": 10,
     "racers": [
       {
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791750465278
+    "_syncedAt": 1791751264677
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1222,6 +1222,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791750537726
+    "_syncedAt": 1791751337061
   }
 }
