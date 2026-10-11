@@ -10,7 +10,7 @@
     },
     "season": null,
     "week": {
-      "rank": 32,
+      "rank": 33,
       "races": 2963,
       "accuracy": 93.93,
       "wpm": 82,
@@ -18,7 +18,7 @@
       "ppr": 132
     },
     "weekly": {
-      "rank": 45,
+      "rank": 46,
       "races": 62,
       "accuracy": 91.24,
       "wpm": 81.4,
@@ -41,5 +41,5 @@
   "points": null,
   "ppr": null,
   "source": "ntstartrack.org",
-  "_syncedAt": 1791753936492
+  "_syncedAt": 1791754792093
 }
