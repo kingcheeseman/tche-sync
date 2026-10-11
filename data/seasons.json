@@ -35,7 +35,17 @@
           "ppr": 130
         },
         {
-          "rank": 578,
+          "rank": 577,
+          "username": "me_likey_typey",
+          "displayName": "me_likey_typey",
+          "races": 857,
+          "accuracy": 75.15,
+          "wpm": 54.3,
+          "points": 81899,
+          "ppr": 96
+        },
+        {
+          "rank": 579,
           "username": "e113572b376d66c088861de8c5797a20",
           "displayName": "-kczo-",
           "races": 618,
@@ -43,16 +53,6 @@
           "wpm": 81.1,
           "points": 81702,
           "ppr": 132
-        },
-        {
-          "rank": 583,
-          "username": "me_likey_typey",
-          "displayName": "me_likey_typey",
-          "races": 850,
-          "accuracy": 75.11,
-          "wpm": 54.3,
-          "points": 81193,
-          "ppr": 96
         },
         {
           "rank": 631,
@@ -266,12 +266,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1791739498233
+      "_syncedAt": 1791740326439
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1791739498233
+  "_syncedAt": 1791740326439
 }
