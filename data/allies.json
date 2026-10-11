@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 46,
+    "members": 47,
     "activePercent": 82,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
@@ -292,7 +292,7 @@
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
         "displayName": "12345b",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1786134734,
         "allTimeRaces": 3599,
         "wpm": 46,
@@ -416,6 +416,20 @@
         "lastLogin": 1791564324
       },
       {
+        "username": "sukuna3",
+        "displayName": "sukuna3",
+        "role": "member",
+        "joinStamp": 1791737054,
+        "allTimeRaces": 2054,
+        "wpm": 39,
+        "highestWPM": 83,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1791734020
+      },
+      {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
         "displayName": "ECLIPS - MARIO CART",
         "role": "member",
@@ -455,7 +469,7 @@
         "acc": 93.42,
         "season": null,
         "status": "active",
-        "lastLogin": 1791718434
+        "lastLogin": 1791737046
       },
       {
         "username": "quickbrownpony",
@@ -659,18 +673,18 @@
         "races": 75072,
         "avgWPM": 55,
         "avgAcc": 93.59,
-        "members": 46
+        "members": 47
       },
       "daily": {
         "races": 247,
         "avgWPM": 66,
         "avgAcc": 90.6,
-        "members": 46
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791736863753
+    "_syncedAt": 1791737674148
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1329,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791736936064
+    "_syncedAt": 1791737746826
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1353,6 +1367,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791737008535
+    "_syncedAt": 1791737819662
   }
 }
