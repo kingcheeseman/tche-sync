@@ -6,7 +6,7 @@
     "activePercent": 82,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2780,
+    "profileViews": 2781,
     "leagueTier": 10,
     "racers": [
       {
@@ -70,7 +70,7 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 393,
+        "allTimeRaces": 394,
         "wpm": 49,
         "highestWPM": 105,
         "teamRaces": 88,
@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1588,
-        "wpm": 63,
+        "allTimeRaces": 1592,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 543,
-        "acc": 90.54,
+        "teamRaces": 545,
+        "acc": 90.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1791689816
+        "lastLogin": 1791758784
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75092,
+        "races": 75094,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 37
       },
       "daily": {
-        "races": 127,
-        "avgWPM": 56,
-        "avgAcc": 91.91,
+        "races": 121,
+        "avgWPM": 55,
+        "avgAcc": 92.04,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791758407520
+    "_syncedAt": 1791759248352
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791758480000
+    "_syncedAt": 1791759320603
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1222,6 +1222,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791758552483
+    "_syncedAt": 1791759393234
   }
 }

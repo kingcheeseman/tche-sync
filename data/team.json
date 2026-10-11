@@ -5,7 +5,7 @@
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
-  "profileViews": 1845,
+  "profileViews": 1852,
   "leagueTier": 10,
   "racers": [
     {
@@ -223,10 +223,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8123,
-      "wpm": 88,
+      "allTimeRaces": 8141,
+      "wpm": 85,
       "highestWPM": 110,
-      "teamRaces": 7304,
+      "teamRaces": 7326,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49216,
+      "races": 49238,
       "avgWPM": 75,
-      "avgAcc": 95.01,
+      "avgAcc": 95.02,
       "members": 48
     },
     "daily": {
-      "races": 92,
-      "avgWPM": 80,
-      "avgAcc": 93.86,
+      "races": 114,
+      "avgWPM": 81,
+      "avgAcc": 94.62,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791758364735
+  "_syncedAt": 1791759206871
 }
