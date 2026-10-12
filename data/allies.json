@@ -73,8 +73,8 @@
         "allTimeRaces": 414,
         "wpm": 50,
         "highestWPM": 105,
-        "teamRaces": 99,
-        "acc": 93.88,
+        "teamRaces": 109,
+        "acc": 93.46,
         "season": null,
         "status": "active",
         "lastLogin": 1791827073
@@ -185,8 +185,8 @@
         "allTimeRaces": 2362,
         "wpm": 77,
         "highestWPM": 94,
-        "teamRaces": 63,
-        "acc": 93.43,
+        "teamRaces": 64,
+        "acc": 93.4,
         "season": null,
         "status": "active",
         "lastLogin": 1791826691
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75350,
+        "races": 75361,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 263,
+        "races": 274,
         "avgWPM": 65,
-        "avgAcc": 91.7,
+        "avgAcc": 91.65,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827897381
+    "_syncedAt": 1791828533256
   },
   "SVC": {
     "tag": "SVC",
@@ -816,8 +816,8 @@
         "allTimeRaces": 2489,
         "wpm": 79,
         "highestWPM": 99,
-        "teamRaces": 552,
-        "acc": 87.54,
+        "teamRaces": 557,
+        "acc": 87.53,
         "season": null,
         "status": "active",
         "lastLogin": 1791827264
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38889,
+        "races": 38894,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 101,
+        "races": 106,
         "avgWPM": 80,
-        "avgAcc": 95.4,
+        "avgAcc": 95.01,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827917361
+    "_syncedAt": 1791828552059
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827936140
+    "_syncedAt": 1791828570891
   }
 }
