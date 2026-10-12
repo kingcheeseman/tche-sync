@@ -8,7 +8,14 @@
       "points": 18936,
       "ppr": 134
     },
-    "season": null,
+    "season": {
+      "rank": 34,
+      "races": 11839,
+      "accuracy": 93.33,
+      "wpm": 78.7,
+      "points": 1539714,
+      "ppr": 130
+    },
     "week": {
       "rank": 33,
       "races": 3042,
@@ -18,7 +25,7 @@
       "ppr": 133
     },
     "weekly": {
-      "rank": 38,
+      "rank": 39,
       "races": 141,
       "accuracy": 94.83,
       "wpm": 83.2,
@@ -34,12 +41,12 @@
       "ppr": 131
     }
   },
-  "rank": null,
-  "races": null,
-  "accuracy": null,
-  "wpm": null,
-  "points": null,
-  "ppr": null,
+  "rank": 34,
+  "races": 11839,
+  "accuracy": 93.33,
+  "wpm": 78.7,
+  "points": 1539714,
+  "ppr": 130,
   "source": "ntstartrack.org",
-  "_syncedAt": 1791762761458
+  "_syncedAt": 1791763480803
 }
