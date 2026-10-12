@@ -336,10 +336,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13462,
-        "wpm": 79,
+        "allTimeRaces": 13466,
+        "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 11254,
+        "teamRaces": 11255,
         "acc": 93.4,
         "season": null,
         "status": "active",
@@ -378,14 +378,14 @@
         "displayName": "Lillieeeeeeeeee",
         "role": "member",
         "joinStamp": 1776686482,
-        "allTimeRaces": 1640,
-        "wpm": 37,
+        "allTimeRaces": 1642,
+        "wpm": 38,
         "highestWPM": 49,
         "teamRaces": 885,
         "acc": 94.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1790860985
+        "lastLogin": 1791821114
       },
       {
         "username": "haleyyrose",
@@ -420,14 +420,14 @@
         "displayName": "Watermelon Cat ALT",
         "role": "member",
         "joinStamp": 1790553861,
-        "allTimeRaces": 286,
-        "wpm": 72,
+        "allTimeRaces": 287,
+        "wpm": 71,
         "highestWPM": 94,
-        "teamRaces": 1,
-        "acc": 96.45,
+        "teamRaces": 2,
+        "acc": 93.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1791683934
+        "lastLogin": 1791820418
       },
       {
         "username": "bob_ate_bob_twice",
@@ -441,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791816795
+        "lastLogin": 1791820725
       },
       {
         "username": "daisyiscute2026",
@@ -530,13 +530,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75295,
+        "races": 75297,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 232,
+        "races": 234,
         "avgWPM": 65,
         "avgAcc": 91.39,
         "members": 37
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791820110016
+    "_syncedAt": 1791821269397
   },
   "SVC": {
     "tag": "SVC",
@@ -967,11 +967,11 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1223,
-        "wpm": 64,
+        "allTimeRaces": 1232,
+        "wpm": 65,
         "highestWPM": 80,
-        "teamRaces": 850,
-        "acc": 93.73,
+        "teamRaces": 862,
+        "acc": 93.72,
         "season": null,
         "status": "active",
         "lastLogin": 1791819288
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38854,
+        "races": 38866,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 66,
-        "avgWPM": 79,
-        "avgAcc": 95.4,
+        "races": 78,
+        "avgWPM": 77,
+        "avgAcc": 95.16,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791820129236
+    "_syncedAt": 1791821288171
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791820148191
+    "_syncedAt": 1791821306870
   }
 }
