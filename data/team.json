@@ -1,11 +1,11 @@
 {
   "tag": "TCHE",
   "name": "The Cheese Empire",
-  "members": 48,
+  "members": 49,
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
-  "profileViews": 1857,
+  "profileViews": 1858,
   "leagueTier": 10,
   "racers": [
     {
@@ -205,6 +205,20 @@
       "lastLogin": 1791659613
     },
     {
+      "username": "ed5ee52fec9a45ef66efc2972feadcc2",
+      "displayName": "trellybd",
+      "role": "member",
+      "joinStamp": 1791813682,
+      "allTimeRaces": 1956,
+      "wpm": 69,
+      "highestWPM": 86,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1791813513
+    },
+    {
       "username": "813d4229906a6d50e606a1fba7857e3f",
       "displayName": "MrGlasy",
       "role": "member",
@@ -366,7 +380,7 @@
       "allTimeRaces": 2273,
       "wpm": 69,
       "highestWPM": 90,
-      "teamRaces": 376,
+      "teamRaces": 378,
       "acc": 93.83,
       "season": null,
       "status": "active",
@@ -489,10 +503,10 @@
       "displayName": "Mr Cheese",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4210,
+      "allTimeRaces": 4215,
       "wpm": 79,
       "highestWPM": 118,
-      "teamRaces": 1785,
+      "teamRaces": 1787,
       "acc": 92.26,
       "season": null,
       "status": "active",
@@ -590,7 +604,7 @@
       "allTimeRaces": 2386,
       "wpm": 70,
       "highestWPM": 124,
-      "teamRaces": 2386,
+      "teamRaces": 2390,
       "acc": 99.02,
       "season": null,
       "status": "active",
@@ -683,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49322,
+      "races": 49330,
       "avgWPM": 75,
       "avgAcc": 95.02,
-      "members": 48
+      "members": 49
     },
     "daily": {
-      "races": 164,
+      "races": 172,
       "avgWPM": 77,
-      "avgAcc": 96.64,
-      "members": 48
+      "avgAcc": 96.61,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791813262840
+  "_syncedAt": 1791813795457
 }

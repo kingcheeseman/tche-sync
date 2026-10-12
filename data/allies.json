@@ -31,8 +31,8 @@
         "allTimeRaces": 2525,
         "wpm": 63,
         "highestWPM": 87,
-        "teamRaces": 146,
-        "acc": 91.69,
+        "teamRaces": 148,
+        "acc": 91.67,
         "season": null,
         "status": "active",
         "lastLogin": 1791810931
@@ -392,14 +392,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4820,
-        "wpm": 77,
+        "allTimeRaces": 4821,
+        "wpm": 75,
         "highestWPM": 108,
-        "teamRaces": 384,
+        "teamRaces": 385,
         "acc": 95.02,
         "season": null,
         "status": "active",
-        "lastLogin": 1791810084
+        "lastLogin": 1791813510
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -476,11 +476,11 @@
         "displayName": "HappyPurpleLlama",
         "role": "member",
         "joinStamp": 1790498953,
-        "allTimeRaces": 710,
-        "wpm": 30,
+        "allTimeRaces": 716,
+        "wpm": 32,
         "highestWPM": 45,
-        "teamRaces": 79,
-        "acc": 87.47,
+        "teamRaces": 90,
+        "acc": 86.91,
         "season": null,
         "status": "active",
         "lastLogin": 1791811028
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75217,
+        "races": 75231,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 37
       },
       "daily": {
-        "races": 192,
-        "avgWPM": 59,
-        "avgAcc": 91.95,
+        "races": 197,
+        "avgWPM": 58,
+        "avgAcc": 91.61,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813331188
+    "_syncedAt": 1791813847299
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813403612
+    "_syncedAt": 1791813866499
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813476046
+    "_syncedAt": 1791813885542
   }
 }
