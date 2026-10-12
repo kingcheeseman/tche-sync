@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1593,
-        "wpm": 66,
+        "allTimeRaces": 1607,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 548,
-        "acc": 90.55,
+        "teamRaces": 557,
+        "acc": 90.56,
         "season": null,
         "status": "active",
-        "lastLogin": 1791805733
+        "lastLogin": 1791808106
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -406,11 +406,11 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4805,
-        "wpm": 85,
+        "allTimeRaces": 4809,
+        "wpm": 82,
         "highestWPM": 108,
-        "teamRaces": 369,
-        "acc": 95.04,
+        "teamRaces": 373,
+        "acc": 95.03,
         "season": null,
         "status": "active",
         "lastLogin": 1791806686
@@ -544,21 +544,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75120,
+        "races": 75133,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 38
       },
       "daily": {
-        "races": 96,
-        "avgWPM": 55,
-        "avgAcc": 93.19,
+        "races": 109,
+        "avgWPM": 57,
+        "avgAcc": 92.99,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791807041314
+    "_syncedAt": 1791809236907
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791807113743
+    "_syncedAt": 1791809309210
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1241,6 +1241,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791807186263
+    "_syncedAt": 1791809382096
   }
 }
