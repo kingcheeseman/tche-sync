@@ -209,11 +209,11 @@
       "displayName": "trellybd",
       "role": "member",
       "joinStamp": 1791813682,
-      "allTimeRaces": 1956,
-      "wpm": 69,
+      "allTimeRaces": 1957,
+      "wpm": 68,
       "highestWPM": 86,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 2,
+      "acc": 95.19,
       "season": null,
       "status": "active",
       "lastLogin": 1791813513
@@ -503,11 +503,11 @@
       "displayName": "Mr Cheese",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4215,
-      "wpm": 79,
+      "allTimeRaces": 4223,
+      "wpm": 89,
       "highestWPM": 118,
-      "teamRaces": 1787,
-      "acc": 92.26,
+      "teamRaces": 1795,
+      "acc": 92.27,
       "season": null,
       "status": "active",
       "lastLogin": 1791813051
@@ -601,10 +601,10 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2386,
-      "wpm": 70,
+      "allTimeRaces": 2389,
+      "wpm": 71,
       "highestWPM": 124,
-      "teamRaces": 2390,
+      "teamRaces": 2391,
       "acc": 99.02,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49330,
+      "races": 49341,
       "avgWPM": 75,
       "avgAcc": 95.02,
       "members": 49
     },
     "daily": {
-      "races": 172,
+      "races": 183,
       "avgWPM": 77,
-      "avgAcc": 96.61,
+      "avgAcc": 96.48,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791813795457
+  "_syncedAt": 1791814377066
 }

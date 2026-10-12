@@ -28,11 +28,11 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2525,
-        "wpm": 63,
+        "allTimeRaces": 2529,
+        "wpm": 62,
         "highestWPM": 87,
-        "teamRaces": 148,
-        "acc": 91.67,
+        "teamRaces": 149,
+        "acc": 91.69,
         "season": null,
         "status": "active",
         "lastLogin": 1791810931
@@ -479,8 +479,8 @@
         "allTimeRaces": 716,
         "wpm": 32,
         "highestWPM": 45,
-        "teamRaces": 90,
-        "acc": 86.91,
+        "teamRaces": 91,
+        "acc": 86.85,
         "season": null,
         "status": "active",
         "lastLogin": 1791811028
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75231,
+        "races": 75233,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 37
       },
       "daily": {
-        "races": 197,
+        "races": 198,
         "avgWPM": 58,
-        "avgAcc": 91.61,
+        "avgAcc": 91.57,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813847299
+    "_syncedAt": 1791814430949
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813866499
+    "_syncedAt": 1791814471598
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791813885542
+    "_syncedAt": 1791814490526
   }
 }
