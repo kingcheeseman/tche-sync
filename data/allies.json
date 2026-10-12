@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2794,
+    "profileViews": 2795,
     "leagueTier": 10,
     "racers": [
       {
@@ -238,11 +238,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1619,
-        "wpm": 64,
+        "allTimeRaces": 1623,
+        "wpm": 66,
         "highestWPM": 90,
-        "teamRaces": 570,
-        "acc": 90.53,
+        "teamRaces": 578,
+        "acc": 90.51,
         "season": null,
         "status": "active",
         "lastLogin": 1791817270
@@ -339,7 +339,7 @@
         "allTimeRaces": 13462,
         "wpm": 79,
         "highestWPM": 111,
-        "teamRaces": 11252,
+        "teamRaces": 11254,
         "acc": 93.4,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75285,
+        "races": 75295,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 245,
-        "avgWPM": 62,
-        "avgAcc": 91.53,
+        "races": 239,
+        "avgWPM": 63,
+        "avgAcc": 91.44,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791817498708
+    "_syncedAt": 1791818995276
   },
   "SVC": {
     "tag": "SVC",
@@ -774,8 +774,8 @@
         "allTimeRaces": 4199,
         "wpm": 79,
         "highestWPM": 99,
-        "teamRaces": 840,
-        "acc": 93.01,
+        "teamRaces": 845,
+        "acc": 93,
         "season": null,
         "status": "active",
         "lastLogin": 1791816183
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38848,
+        "races": 38853,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 60,
+        "races": 65,
         "avgWPM": 80,
-        "avgAcc": 95.79,
+        "avgAcc": 95.47,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791817519010
+    "_syncedAt": 1791819014783
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791817537778
+    "_syncedAt": 1791819033993
   }
 }
