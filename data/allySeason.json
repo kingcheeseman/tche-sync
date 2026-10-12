@@ -3,10 +3,10 @@
     "timeframes": {
       "24h": {
         "rank": 38,
-        "races": 272,
-        "accuracy": 90.92,
+        "races": 270,
+        "accuracy": 90.91,
         "wpm": 64.8,
-        "points": 32743,
+        "points": 32502,
         "ppr": 120
       },
       "season": {
@@ -49,7 +49,7 @@
     "points": 263494,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791845099987
+    "_syncedAt": 1791845959089
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 1122145,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791845118886
+    "_syncedAt": 1791845978145
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791845288310
+    "_syncedAt": 1791846147690
   }
 }
