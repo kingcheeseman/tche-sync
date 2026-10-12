@@ -236,7 +236,7 @@
       {
         "username": "1e47c8cfaf1f8f2565f896d4d9b4ef7a",
         "displayName": "Reinhard Van Astreaa",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1790358284,
         "allTimeRaces": 1623,
         "wpm": 66,
@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 239,
-        "avgWPM": 63,
-        "avgAcc": 91.44,
+        "races": 232,
+        "avgWPM": 65,
+        "avgAcc": 91.39,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791818995276
+    "_syncedAt": 1791820110016
   },
   "SVC": {
     "tag": "SVC",
@@ -967,14 +967,14 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1219,
-        "wpm": 66,
+        "allTimeRaces": 1223,
+        "wpm": 64,
         "highestWPM": 80,
-        "teamRaces": 849,
+        "teamRaces": 850,
         "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1791812716
+        "lastLogin": 1791819288
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38853,
+        "races": 38854,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 65,
-        "avgWPM": 80,
-        "avgAcc": 95.47,
+        "races": 66,
+        "avgWPM": 79,
+        "avgAcc": 95.4,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791819014783
+    "_syncedAt": 1791820129236
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791819033993
+    "_syncedAt": 1791820148191
   }
 }
