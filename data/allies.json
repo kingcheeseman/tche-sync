@@ -241,7 +241,7 @@
         "allTimeRaces": 1593,
         "wpm": 66,
         "highestWPM": 90,
-        "teamRaces": 547,
+        "teamRaces": 548,
         "acc": 90.55,
         "season": null,
         "status": "active",
@@ -406,14 +406,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4801,
-        "wpm": 80,
+        "allTimeRaces": 4805,
+        "wpm": 85,
         "highestWPM": 108,
-        "teamRaces": 365,
+        "teamRaces": 369,
         "acc": 95.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1791574587
+        "lastLogin": 1791806686
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -544,21 +544,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75115,
+        "races": 75120,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 38
       },
       "daily": {
-        "races": 104,
-        "avgWPM": 57,
-        "avgAcc": 92.6,
+        "races": 96,
+        "avgWPM": 55,
+        "avgAcc": 93.19,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791805778631
+    "_syncedAt": 1791807041314
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791805851029
+    "_syncedAt": 1791807113743
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1241,6 +1241,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791805923654
+    "_syncedAt": 1791807186263
   }
 }
