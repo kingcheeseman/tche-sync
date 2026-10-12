@@ -339,7 +339,7 @@
         "allTimeRaces": 13466,
         "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 11255,
+        "teamRaces": 11258,
         "acc": 93.4,
         "season": null,
         "status": "active",
@@ -378,11 +378,11 @@
         "displayName": "Lillieeeeeeeeee",
         "role": "member",
         "joinStamp": 1776686482,
-        "allTimeRaces": 1642,
-        "wpm": 38,
+        "allTimeRaces": 1654,
+        "wpm": 39,
         "highestWPM": 49,
-        "teamRaces": 885,
-        "acc": 94.04,
+        "teamRaces": 895,
+        "acc": 94.06,
         "season": null,
         "status": "active",
         "lastLogin": 1791821114
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75297,
+        "races": 75310,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 234,
+        "races": 238,
         "avgWPM": 65,
-        "avgAcc": 91.39,
+        "avgAcc": 91.51,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791821269397
+    "_syncedAt": 1791822583908
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791821288171
+    "_syncedAt": 1791822603264
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791821306870
+    "_syncedAt": 1791822622695
   }
 }
