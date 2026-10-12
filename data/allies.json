@@ -6,7 +6,7 @@
     "activePercent": 82,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2784,
+    "profileViews": 2785,
     "leagueTier": 10,
     "racers": [
       {
@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 126,
+        "races": 125,
         "avgWPM": 53,
-        "avgAcc": 92.13,
+        "avgAcc": 92.09,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791763538263
+    "_syncedAt": 1791765551306
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791763610772
+    "_syncedAt": 1791765623610
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1222,6 +1222,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791763683442
+    "_syncedAt": 1791765695952
   }
 }
