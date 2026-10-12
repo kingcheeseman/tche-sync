@@ -381,8 +381,8 @@
         "allTimeRaces": 1654,
         "wpm": 39,
         "highestWPM": 49,
-        "teamRaces": 895,
-        "acc": 94.06,
+        "teamRaces": 899,
+        "acc": 94.07,
         "season": null,
         "status": "active",
         "lastLogin": 1791821114
@@ -406,14 +406,14 @@
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1415,
-        "wpm": 60,
+        "allTimeRaces": 1418,
+        "wpm": 61,
         "highestWPM": 78,
-        "teamRaces": 86,
-        "acc": 92.89,
+        "teamRaces": 89,
+        "acc": 92.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1791742271
+        "lastLogin": 1791822800
       },
       {
         "username": "watermelonsupreme",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75310,
+        "races": 75317,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 238,
-        "avgWPM": 65,
-        "avgAcc": 91.51,
+        "races": 245,
+        "avgWPM": 64,
+        "avgAcc": 91.57,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791822583908
+    "_syncedAt": 1791823563507
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791822603264
+    "_syncedAt": 1791823582607
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791822622695
+    "_syncedAt": 1791823601289
   }
 }
