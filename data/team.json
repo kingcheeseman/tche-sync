@@ -5,7 +5,7 @@
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
-  "profileViews": 1855,
+  "profileViews": 1857,
   "leagueTier": 10,
   "racers": [
     {
@@ -265,14 +265,14 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 1889,
-      "wpm": 84,
+      "allTimeRaces": 1890,
+      "wpm": 82,
       "highestWPM": 104,
-      "teamRaces": 434,
-      "acc": 90.63,
+      "teamRaces": 435,
+      "acc": 90.64,
       "season": null,
       "status": "active",
-      "lastLogin": 1791808775
+      "lastLogin": 1791812048
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -363,10 +363,10 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2267,
-      "wpm": 72,
+      "allTimeRaces": 2273,
+      "wpm": 69,
       "highestWPM": 90,
-      "teamRaces": 372,
+      "teamRaces": 376,
       "acc": 93.83,
       "season": null,
       "status": "active",
@@ -496,7 +496,7 @@
       "acc": 92.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1791755215
+      "lastLogin": 1791813051
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -587,11 +587,11 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2362,
-      "wpm": 69,
+      "allTimeRaces": 2386,
+      "wpm": 70,
       "highestWPM": 124,
-      "teamRaces": 2339,
-      "acc": 99.03,
+      "teamRaces": 2386,
+      "acc": 99.02,
       "season": null,
       "status": "active",
       "lastLogin": 1791811217
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49270,
+      "races": 49322,
       "avgWPM": 75,
       "avgAcc": 95.02,
       "members": 48
     },
     "daily": {
-      "races": 112,
-      "avgWPM": 80,
-      "avgAcc": 96.02,
+      "races": 164,
+      "avgWPM": 77,
+      "avgAcc": 96.64,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791811538921
+  "_syncedAt": 1791813262840
 }

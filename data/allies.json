@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2790,
+    "profileViews": 2792,
     "leagueTier": 10,
     "racers": [
       {
@@ -28,11 +28,11 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2518,
-        "wpm": 62,
+        "allTimeRaces": 2525,
+        "wpm": 63,
         "highestWPM": 87,
-        "teamRaces": 140,
-        "acc": 91.75,
+        "teamRaces": 146,
+        "acc": 91.69,
         "season": null,
         "status": "active",
         "lastLogin": 1791810931
@@ -336,11 +336,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13425,
-        "wpm": 82,
+        "allTimeRaces": 13440,
+        "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 11213,
-        "acc": 93.41,
+        "teamRaces": 11232,
+        "acc": 93.4,
         "season": null,
         "status": "active",
         "lastLogin": 1791809608
@@ -392,11 +392,11 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4819,
-        "wpm": 79,
+        "allTimeRaces": 4820,
+        "wpm": 77,
         "highestWPM": 108,
-        "teamRaces": 377,
-        "acc": 95.03,
+        "teamRaces": 384,
+        "acc": 95.02,
         "season": null,
         "status": "active",
         "lastLogin": 1791810084
@@ -476,11 +476,11 @@
         "displayName": "HappyPurpleLlama",
         "role": "member",
         "joinStamp": 1790498953,
-        "allTimeRaces": 685,
-        "wpm": 35,
+        "allTimeRaces": 710,
+        "wpm": 30,
         "highestWPM": 45,
-        "teamRaces": 56,
-        "acc": 88.7,
+        "teamRaces": 79,
+        "acc": 87.47,
         "season": null,
         "status": "active",
         "lastLogin": 1791811028
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75162,
+        "races": 75217,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 37
       },
       "daily": {
-        "races": 138,
-        "avgWPM": 61,
-        "avgAcc": 92.86,
+        "races": 192,
+        "avgWPM": 59,
+        "avgAcc": 91.95,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791811602712
+    "_syncedAt": 1791813331188
   },
   "SVC": {
     "tag": "SVC",
@@ -771,14 +771,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4173,
-        "wpm": 76,
+        "allTimeRaces": 4174,
+        "wpm": 75,
         "highestWPM": 99,
-        "teamRaces": 819,
+        "teamRaces": 820,
         "acc": 93,
         "season": null,
         "status": "active",
-        "lastLogin": 1791563031
+        "lastLogin": 1791812517
       },
       {
         "username": "hieuanp",
@@ -967,14 +967,14 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1213,
-        "wpm": 62,
+        "allTimeRaces": 1219,
+        "wpm": 66,
         "highestWPM": 80,
-        "teamRaces": 843,
-        "acc": 93.72,
+        "teamRaces": 849,
+        "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1791561256
+        "lastLogin": 1791812716
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38813,
+        "races": 38820,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 25,
-        "avgWPM": 64,
-        "avgAcc": 97.54,
+        "races": 32,
+        "avgWPM": 65,
+        "avgAcc": 96.72,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791811675191
+    "_syncedAt": 1791813403612
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791811747878
+    "_syncedAt": 1791813476046
   }
 }
