@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2795,
+    "profileViews": 2796,
     "leagueTier": 10,
     "racers": [
       {
@@ -343,7 +343,7 @@
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791825937
+        "lastLogin": 1791830551
       },
       {
         "username": "quickbrownpony",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791829926921
+    "_syncedAt": 1791831641630
   },
   "SVC": {
     "tag": "SVC",
@@ -553,7 +553,7 @@
     "activePercent": 72,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1978,
+    "profileViews": 1979,
     "leagueTier": 10,
     "racers": [
       {
@@ -1093,11 +1093,11 @@
         "displayName": "alexaaa",
         "role": "member",
         "joinStamp": 1789061656,
-        "allTimeRaces": 448,
+        "allTimeRaces": 450,
         "wpm": 75,
         "highestWPM": 107,
-        "teamRaces": 332,
-        "acc": 92.7,
+        "teamRaces": 335,
+        "acc": 92.68,
         "season": null,
         "status": "active",
         "lastLogin": 1791829083
@@ -1184,7 +1184,7 @@
         "acc": 96.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1791828730
+        "lastLogin": 1791831591
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38913,
+        "races": 38916,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 125,
+        "races": 128,
         "avgWPM": 83,
-        "avgAcc": 94.87,
+        "avgAcc": 94.78,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791829945784
+    "_syncedAt": 1791831660579
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791829969969
+    "_syncedAt": 1791831679278
   }
 }
