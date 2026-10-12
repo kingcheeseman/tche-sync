@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 274,
+        "races": 272,
         "avgWPM": 65,
-        "avgAcc": 91.66,
+        "avgAcc": 91.68,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791839148067
+    "_syncedAt": 1791840416012
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,12 +1217,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791839166848
+    "_syncedAt": 1791840439386
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791839185502,
+    "_syncedAt": 1791840458371,
     "aggregates": {
       "alltime": null,
       "daily": null,
