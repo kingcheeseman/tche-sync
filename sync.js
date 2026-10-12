@@ -115,18 +115,47 @@ async function fetchTeamAPI(context, tag) {
 async function startrackTimeframes(context, tag) {
   const page = await context.newPage();
   try {
-    await page.goto("https://ntstartrack.org", { waitUntil: "networkidle", timeout: 60000 });
+    // Use /leaderboards (Team Leaderboards tab) so even low-ranked allies are reachable
+    await page.goto("https://ntstartrack.org/leaderboards", { waitUntil: "networkidle", timeout: 60000 });
     await sleep(2500);
     const result = await page.evaluate(async (TAG) => {
-      const click = (txt) => { const b = [...document.querySelectorAll("button, [role='button']")].find(x => x.textContent.trim() === txt); if (b) { b.click(); return true; } return false; };
-      const needle = `[${TAG}]`;
       const sleepIn = ms => new Promise(r => setTimeout(r, ms));
-      function findRow() { return [...document.querySelectorAll("tr")].find(r => r.textContent.includes(needle)); }
-      async function tryType() {
+      const clickText = (texts) => {
+        const want = Array.isArray(texts) ? texts : [texts];
+        const els = [...document.querySelectorAll("button, [role='button'], a, .tab, li")];
+        for (const t of want) {
+          const b = els.find(x => x.textContent.trim() === t);
+          if (b) { b.click(); return t; }
+        }
+        return null;
+      };
+      // Try to switch to Team Leaderboards tab (names vary)
+      clickText(["Team Leaderboards", "Teams", "Team"]);
+      await sleepIn(1500);
+
+      const needle = `[${TAG}]`;
+      function findRow() {
+        return [...document.querySelectorAll("tr")].find(r => r.textContent.includes(needle));
+      }
+      async function selectTagFromDropdown() {
+        // Startrack uses a .tag-dropdown select; try that first
+        const sels = [...document.querySelectorAll("select")];
+        for (const s of sels) {
+          try {
+            if ([...s.options].some(o => o.value === TAG)) {
+              s.value = TAG;
+              s.dispatchEvent(new Event("change", { bubbles: true }));
+              for (let i = 0; i < 20; i++) { await sleepIn(400); if (findRow()) return true; }
+              return !!findRow();
+            }
+          } catch(_){}
+        }
+        return false;
+      }
+      async function typeIntoSearch() {
         const inputs = [...document.querySelectorAll("input")].filter(i => {
           const t = (i.type || "").toLowerCase();
-          if (t && t !== "text" && t !== "search") return false;
-          return true;
+          return !t || t === "text" || t === "search";
         });
         for (const inp of inputs) {
           try {
@@ -134,29 +163,35 @@ async function startrackTimeframes(context, tag) {
             const prev = inp.value;
             setter.call(inp, TAG);
             inp.dispatchEvent(new Event("input", { bubbles: true }));
-            await sleepIn(800);
+            inp.dispatchEvent(new Event("change", { bubbles: true }));
+            await sleepIn(900);
             if (findRow()) return true;
             setter.call(inp, prev || "");
             inp.dispatchEvent(new Event("input", { bubbles: true }));
-          } catch(_) {}
+          } catch(_){}
         }
         return false;
       }
       async function scrollFind() {
-        const containers = [document.scrollingElement, ...document.querySelectorAll("div, section, main")].filter(el => {
+        const containers = [document.scrollingElement, ...document.querySelectorAll("div, section, main, table, tbody")].filter(el => {
           try { const s = getComputedStyle(el); return (s.overflowY === "auto" || s.overflowY === "scroll") && el.scrollHeight > el.clientHeight; } catch(_){ return false; }
         });
         const scrollables = [window, ...containers];
-        for (let i = 0; i < 50; i++) {
+        for (let i = 0; i < 100; i++) {
           if (findRow()) return true;
-          for (const s of scrollables) { try { if (s === window) window.scrollBy(0, 1200); else s.scrollTop += 1200; } catch(_) {} }
-          await sleepIn(250);
+          for (const s of scrollables) {
+            try {
+              if (s === window) window.scrollBy(0, 2000);
+              else s.scrollTop = s.scrollTop + 2000;
+            } catch(_){}
+          }
+          await sleepIn(300);
         }
         return !!findRow();
       }
       async function cap() {
         await sleepIn(1200);
-        if (!findRow()) { if (!(await tryType())) { await scrollFind(); } }
+        if (!findRow()) { if (!(await selectTagFromDropdown())) { if (!(await typeIntoSearch())) { await scrollFind(); } } }
         const row = findRow();
         if (!row) return null;
         const c = [...row.querySelectorAll("td")].map(td => td.textContent.replace(/\s+/g, " ").trim());
@@ -166,7 +201,13 @@ async function startrackTimeframes(context, tag) {
       }
       const out = {};
       const map = { "24h": "24 Hour", "season": "Season", "week": "7 Day", "weekly": "Weekly", "alltime": "All-Time" };
-      for (const [k, label] of Object.entries(map)) { click(label); out[k] = await cap(); }
+      for (const [k, label] of Object.entries(map)) {
+        clickText(label);
+        await sleepIn(1500);
+        // Reset page-scroll before each capture so sticky-filtered table loads fresh
+        try { window.scrollTo(0, 0); } catch(_){}
+        out[k] = await cap();
+      }
       return out;
     }, tag);
     const season = result.season;
