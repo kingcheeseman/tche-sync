@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2796,
+    "profileViews": 2797,
     "leagueTier": 10,
     "racers": [
       {
@@ -28,14 +28,14 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2546,
-        "wpm": 65,
+        "allTimeRaces": 2548,
+        "wpm": 62,
         "highestWPM": 87,
         "teamRaces": 169,
         "acc": 91.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1791810931
+        "lastLogin": 1791834204
       },
       {
         "username": "polarbearqueen1",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791833357576
+    "_syncedAt": 1791834334135
   },
   "SVC": {
     "tag": "SVC",
@@ -631,28 +631,28 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1675,
-        "wpm": 80,
+        "allTimeRaces": 1680,
+        "wpm": 84,
         "highestWPM": 107,
         "teamRaces": 283,
         "acc": 94.44,
         "season": null,
         "status": "active",
-        "lastLogin": 1791778025
+        "lastLogin": 1791833881
       },
       {
         "username": "longeater",
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1409,
-        "wpm": 84,
+        "allTimeRaces": 1411,
+        "wpm": 81,
         "highestWPM": 105,
-        "teamRaces": 315,
+        "teamRaces": 316,
         "acc": 94.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1791651260
+        "lastLogin": 1791833939
       },
       {
         "username": "6a2fc92ea132c463ba9e2b9e91ed44b7",
@@ -1177,14 +1177,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 785,
-        "wpm": 116,
+        "allTimeRaces": 792,
+        "wpm": 113,
         "highestWPM": 138,
-        "teamRaces": 729,
-        "acc": 96.49,
+        "teamRaces": 732,
+        "acc": 96.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1791831591
+        "lastLogin": 1791833843
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38916,
+        "races": 38920,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 128,
+        "races": 132,
         "avgWPM": 83,
-        "avgAcc": 94.78,
+        "avgAcc": 94.79,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791833376418
+    "_syncedAt": 1791834352996
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791833395211
+    "_syncedAt": 1791834371746
   }
 }
