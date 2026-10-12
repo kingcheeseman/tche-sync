@@ -5,7 +5,7 @@
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
-  "profileViews": 1858,
+  "profileViews": 1859,
   "leagueTier": 10,
   "racers": [
     {
@@ -503,10 +503,10 @@
       "displayName": "Mr Cheese",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4223,
-      "wpm": 89,
+      "allTimeRaces": 4224,
+      "wpm": 88,
       "highestWPM": 118,
-      "teamRaces": 1795,
+      "teamRaces": 1799,
       "acc": 92.27,
       "season": null,
       "status": "active",
@@ -601,14 +601,14 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2389,
-      "wpm": 71,
+      "allTimeRaces": 2410,
+      "wpm": 72,
       "highestWPM": 124,
-      "teamRaces": 2391,
+      "teamRaces": 2425,
       "acc": 99.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1791811217
+      "lastLogin": 1791814493
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49341,
+      "races": 49379,
       "avgWPM": 75,
       "avgAcc": 95.02,
       "members": 49
     },
     "daily": {
-      "races": 183,
-      "avgWPM": 77,
-      "avgAcc": 96.48,
+      "races": 221,
+      "avgWPM": 76,
+      "avgAcc": 96.74,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791814377066
+  "_syncedAt": 1791815786087
 }

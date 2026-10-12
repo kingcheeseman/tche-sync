@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2792,
+    "profileViews": 2794,
     "leagueTier": 10,
     "racers": [
       {
@@ -28,11 +28,11 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2529,
-        "wpm": 62,
+        "allTimeRaces": 2546,
+        "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 149,
-        "acc": 91.69,
+        "teamRaces": 168,
+        "acc": 91.64,
         "season": null,
         "status": "active",
         "lastLogin": 1791810931
@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1609,
+        "allTimeRaces": 1615,
         "wpm": 66,
         "highestWPM": 90,
-        "teamRaces": 564,
-        "acc": 90.56,
+        "teamRaces": 570,
+        "acc": 90.53,
         "season": null,
         "status": "active",
-        "lastLogin": 1791808106
+        "lastLogin": 1791814959
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -336,10 +336,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13440,
-        "wpm": 80,
+        "allTimeRaces": 13457,
+        "wpm": 82,
         "highestWPM": 111,
-        "teamRaces": 11232,
+        "teamRaces": 11242,
         "acc": 93.4,
         "season": null,
         "status": "active",
@@ -392,14 +392,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4821,
+        "allTimeRaces": 4822,
         "wpm": 75,
         "highestWPM": 108,
-        "teamRaces": 385,
+        "teamRaces": 386,
         "acc": 95.02,
         "season": null,
         "status": "active",
-        "lastLogin": 1791813510
+        "lastLogin": 1791815590
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75233,
+        "races": 75269,
         "avgWPM": 55,
-        "avgAcc": 93.59,
+        "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 198,
-        "avgWPM": 58,
-        "avgAcc": 91.57,
+        "races": 234,
+        "avgWPM": 60,
+        "avgAcc": 91.46,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791814430949
+    "_syncedAt": 1791815841202
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791814471598
+    "_syncedAt": 1791815860193
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791814490526
+    "_syncedAt": 1791815879027
   }
 }
