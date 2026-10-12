@@ -87,7 +87,7 @@
         "allTimeRaces": 3897,
         "wpm": 79,
         "highestWPM": 97,
-        "teamRaces": 3095,
+        "teamRaces": 3096,
         "acc": 95.48,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75114,
+        "races": 75115,
         "avgWPM": 55,
         "avgAcc": 93.59,
         "members": 37
       },
       "daily": {
-        "races": 137,
-        "avgWPM": 55,
-        "avgAcc": 92.67,
+        "races": 130,
+        "avgWPM": 54,
+        "avgAcc": 92.83,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791776124756
+    "_syncedAt": 1791777560080
   },
   "SVC": {
     "tag": "SVC",
@@ -715,11 +715,11 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4463,
-        "wpm": 60,
+        "allTimeRaces": 4473,
+        "wpm": 59,
         "highestWPM": 78,
-        "teamRaces": 54,
-        "acc": 97.74,
+        "teamRaces": 72,
+        "acc": 97.9,
         "season": null,
         "status": "active",
         "lastLogin": 1791775609
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38790,
+        "races": 38808,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 2,
-        "avgWPM": 52,
-        "avgAcc": 98.78,
+        "races": 20,
+        "avgWPM": 59,
+        "avgAcc": 98.43,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791776197288
+    "_syncedAt": 1791777632369
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791776270015
+    "_syncedAt": 1791777704874
   }
 }
