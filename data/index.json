@@ -1,23 +1,22 @@
 {
-  "_syncedAt": 1791784203728,
-  "team": 1791783945448,
-  "startrack": 1791783955567,
-  "comps": 1791783959436,
-  "seasons": 1791784203728,
-  "weekly": 1791784203728,
-  "daily": 1791784203728,
+  "_syncedAt": 1791785631541,
+  "team": 1791785226495,
+  "startrack": 1791785262734,
+  "comps": 1791785267089,
+  "seasons": 1791785631541,
+  "weekly": null,
+  "daily": 1791785631541,
   "allies": [
     "KEYCAT",
     "SVC",
     "TCHE2"
   ],
-  "took": 258599,
+  "took": 405550,
   "ok": [
     "team",
     "startrack",
     "comps",
     "season",
-    "weekly",
     "daily",
     "ally-KEYCAT",
     "ally-sr-KEYCAT",
@@ -26,5 +25,7 @@
     "ally-TCHE2",
     "ally-sr-TCHE2"
   ],
-  "failed": []
+  "failed": [
+    "weekly: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://ntstartrack.org/leaderboards\", waiting until \"networkidle\"\n"
+  ]
 }
