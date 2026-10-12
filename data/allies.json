@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 38,
+    "members": 37,
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2787,
+    "profileViews": 2790,
     "leagueTier": 10,
     "racers": [
       {
@@ -28,14 +28,14 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2512,
-        "wpm": 63,
+        "allTimeRaces": 2518,
+        "wpm": 62,
         "highestWPM": 87,
-        "teamRaces": 135,
-        "acc": 91.8,
+        "teamRaces": 140,
+        "acc": 91.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1791596310
+        "lastLogin": 1791810931
       },
       {
         "username": "polarbearqueen1",
@@ -238,10 +238,10 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1607,
-        "wpm": 65,
+        "allTimeRaces": 1609,
+        "wpm": 66,
         "highestWPM": 90,
-        "teamRaces": 557,
+        "teamRaces": 564,
         "acc": 90.56,
         "season": null,
         "status": "active",
@@ -336,28 +336,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13408,
-        "wpm": 79,
+        "allTimeRaces": 13425,
+        "wpm": 82,
         "highestWPM": 111,
-        "teamRaces": 11200,
+        "teamRaces": 11213,
         "acc": 93.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1791804759
-      },
-      {
-        "username": "bd86f90920019811182bb0124bd929c2",
-        "displayName": "Cats_4_Eva Alt",
-        "role": "officer",
-        "joinStamp": 1791805604,
-        "allTimeRaces": 6041,
-        "wpm": 80,
-        "highestWPM": 105,
-        "teamRaces": 1526,
-        "acc": 95.15,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791804844
+        "lastLogin": 1791809608
       },
       {
         "username": "quickbrownpony",
@@ -406,14 +392,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4809,
-        "wpm": 82,
+        "allTimeRaces": 4819,
+        "wpm": 79,
         "highestWPM": 108,
-        "teamRaces": 373,
+        "teamRaces": 377,
         "acc": 95.03,
         "season": null,
         "status": "active",
-        "lastLogin": 1791806686
+        "lastLogin": 1791810084
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -490,14 +476,14 @@
         "displayName": "HappyPurpleLlama",
         "role": "member",
         "joinStamp": 1790498953,
-        "allTimeRaces": 681,
-        "wpm": 34,
+        "allTimeRaces": 685,
+        "wpm": 35,
         "highestWPM": 45,
         "teamRaces": 56,
         "acc": 88.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1790766928
+        "lastLogin": 1791811028
       },
       {
         "username": "speed_demon17888",
@@ -544,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75133,
+        "races": 75162,
         "avgWPM": 55,
         "avgAcc": 93.59,
-        "members": 38
+        "members": 37
       },
       "daily": {
-        "races": 109,
-        "avgWPM": 57,
-        "avgAcc": 92.99,
-        "members": 38
+        "races": 138,
+        "avgWPM": 61,
+        "avgAcc": 92.86,
+        "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791809236907
+    "_syncedAt": 1791811602712
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791809309210
+    "_syncedAt": 1791811675191
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1241,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791809382096
+    "_syncedAt": 1791811747878
   }
 }
