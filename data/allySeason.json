@@ -26,7 +26,7 @@
         "ppr": 121
       },
       "weekly": {
-        "rank": 40,
+        "rank": 41,
         "races": 379,
         "accuracy": 91.04,
         "wpm": 61.4,
@@ -49,7 +49,7 @@
     "points": 263494,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791841312443
+    "_syncedAt": 1791842112275
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 1122145,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791841331326
+    "_syncedAt": 1791842131327
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791841500627
+    "_syncedAt": 1791842300805
   }
 }
