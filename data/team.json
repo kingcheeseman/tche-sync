@@ -114,8 +114,8 @@
       "allTimeRaces": 6624,
       "wpm": 82,
       "highestWPM": 165,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 1,
+      "acc": 91.88,
       "season": null,
       "status": "active",
       "lastLogin": 1791777348
@@ -461,14 +461,14 @@
       "displayName": "YellowBronzeCoral",
       "role": "member",
       "joinStamp": 1786907870,
-      "allTimeRaces": 4421,
+      "allTimeRaces": 4422,
       "wpm": 89,
       "highestWPM": 125,
-      "teamRaces": 217,
-      "acc": 92.92,
+      "teamRaces": 218,
+      "acc": 92.93,
       "season": null,
       "status": "active",
-      "lastLogin": 1791568680
+      "lastLogin": 1791777969
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49267,
+      "races": 49269,
       "avgWPM": 75,
       "avgAcc": 95.02,
       "members": 48
     },
     "daily": {
-      "races": 143,
+      "races": 145,
       "avgWPM": 82,
-      "avgAcc": 95.07,
+      "avgAcc": 95.05,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791777517934
+  "_syncedAt": 1791778304592
 }

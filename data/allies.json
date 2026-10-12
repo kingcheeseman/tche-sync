@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 37,
-    "activePercent": 82,
+    "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
     "profileViews": 2785,
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791777560080
+    "_syncedAt": 1791778366786
   },
   "SVC": {
     "tag": "SVC",
@@ -631,14 +631,14 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1670,
-        "wpm": 81,
+        "allTimeRaces": 1675,
+        "wpm": 80,
         "highestWPM": 107,
-        "teamRaces": 278,
+        "teamRaces": 280,
         "acc": 94.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1791575293
+        "lastLogin": 1791778025
       },
       {
         "username": "longeater",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38808,
+        "races": 38810,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 20,
-        "avgWPM": 59,
-        "avgAcc": 98.43,
+        "races": 22,
+        "avgWPM": 61,
+        "avgAcc": 97.89,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791777632369
+    "_syncedAt": 1791778439189
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791777704874
+    "_syncedAt": 1791778511662
   }
 }
