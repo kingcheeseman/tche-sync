@@ -28,11 +28,11 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2548,
-        "wpm": 62,
+        "allTimeRaces": 2549,
+        "wpm": 61,
         "highestWPM": 87,
-        "teamRaces": 169,
-        "acc": 91.61,
+        "teamRaces": 172,
+        "acc": 91.6,
         "season": null,
         "status": "active",
         "lastLogin": 1791834204
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75361,
+        "races": 75364,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 271,
+        "races": 274,
         "avgWPM": 65,
-        "avgAcc": 91.67,
+        "avgAcc": 91.66,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791834334135
+    "_syncedAt": 1791835119098
   },
   "SVC": {
     "tag": "SVC",
@@ -631,10 +631,10 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1680,
-        "wpm": 84,
+        "allTimeRaces": 1687,
+        "wpm": 85,
         "highestWPM": 107,
-        "teamRaces": 283,
+        "teamRaces": 292,
         "acc": 94.44,
         "season": null,
         "status": "active",
@@ -648,8 +648,8 @@
         "allTimeRaces": 1411,
         "wpm": 81,
         "highestWPM": 105,
-        "teamRaces": 316,
-        "acc": 94.36,
+        "teamRaces": 317,
+        "acc": 94.35,
         "season": null,
         "status": "active",
         "lastLogin": 1791833939
@@ -1180,7 +1180,7 @@
         "allTimeRaces": 792,
         "wpm": 113,
         "highestWPM": 138,
-        "teamRaces": 732,
+        "teamRaces": 736,
         "acc": 96.48,
         "season": null,
         "status": "active",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38920,
+        "races": 38934,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 132,
-        "avgWPM": 83,
-        "avgAcc": 94.79,
+        "races": 146,
+        "avgWPM": 84,
+        "avgAcc": 94.83,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791834352996
+    "_syncedAt": 1791835138231
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791834371746
+    "_syncedAt": 1791835157054
   }
 }
