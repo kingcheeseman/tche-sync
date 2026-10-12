@@ -336,14 +336,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13466,
-        "wpm": 80,
+        "allTimeRaces": 13469,
+        "wpm": 82,
         "highestWPM": 111,
         "teamRaces": 11258,
         "acc": 93.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1791809608
+        "lastLogin": 1791825937
       },
       {
         "username": "quickbrownpony",
@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 244,
+        "races": 235,
         "avgWPM": 64,
-        "avgAcc": 91.58,
+        "avgAcc": 91.54,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791825097311
+    "_syncedAt": 1791826161347
   },
   "SVC": {
     "tag": "SVC",
@@ -553,7 +553,7 @@
     "activePercent": 72,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1977,
+    "profileViews": 1978,
     "leagueTier": 10,
     "racers": [
       {
@@ -729,14 +729,14 @@
         "displayName": "la balright",
         "role": "member",
         "joinStamp": 1789494640,
-        "allTimeRaces": 1433,
-        "wpm": 48,
+        "allTimeRaces": 1438,
+        "wpm": 46,
         "highestWPM": 97,
         "teamRaces": 760,
         "acc": 92.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1791480424
+        "lastLogin": 1791825806
       },
       {
         "username": "50d5f7895c884ded4124d56e33b9b79f",
@@ -900,7 +900,7 @@
         "allTimeRaces": 26479,
         "wpm": 119,
         "highestWPM": 161,
-        "teamRaces": 3771,
+        "teamRaces": 3772,
         "acc": 96.24,
         "season": null,
         "status": "active",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38877,
+        "races": 38878,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 89,
+        "races": 90,
         "avgWPM": 83,
-        "avgAcc": 95.65,
+        "avgAcc": 95.63,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791825116219
+    "_syncedAt": 1791826180105
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791825135115
+    "_syncedAt": 1791826198791
   }
 }
