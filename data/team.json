@@ -5,7 +5,7 @@
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
-  "profileViews": 1853,
+  "profileViews": 1854,
   "leagueTier": 10,
   "racers": [
     {
@@ -83,14 +83,14 @@
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20500,
+      "allTimeRaces": 20502,
       "wpm": 84,
       "highestWPM": 127,
-      "teamRaces": 148,
-      "acc": 94.17,
+      "teamRaces": 150,
+      "acc": 94.16,
       "season": null,
       "status": "active",
-      "lastLogin": 1791560019
+      "lastLogin": 1791775490
     },
     {
       "username": "mweid2",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49265,
+      "races": 49267,
       "avgWPM": 75,
       "avgAcc": 95.02,
       "members": 48
     },
     "daily": {
-      "races": 141,
+      "races": 143,
       "avgWPM": 82,
-      "avgAcc": 95.09,
+      "avgAcc": 95.07,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791774871642
+  "_syncedAt": 1791776082982
 }
