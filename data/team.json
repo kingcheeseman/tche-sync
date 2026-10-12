@@ -1,7 +1,7 @@
 {
   "tag": "TCHE",
   "name": "The Cheese Empire",
-  "members": 49,
+  "members": 48,
   "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁TCHE꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: https://tinyurl.com/the-cheese-empire",
@@ -203,20 +203,6 @@
       "season": null,
       "status": "active",
       "lastLogin": 1791659613
-    },
-    {
-      "username": "ed5ee52fec9a45ef66efc2972feadcc2",
-      "displayName": "trellybd",
-      "role": "member",
-      "joinStamp": 1791813682,
-      "allTimeRaces": 1957,
-      "wpm": 68,
-      "highestWPM": 86,
-      "teamRaces": 2,
-      "acc": 95.19,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1791813513
     },
     {
       "username": "813d4229906a6d50e606a1fba7857e3f",
@@ -503,14 +489,14 @@
       "displayName": "Mr Cheese",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4224,
-      "wpm": 88,
+      "allTimeRaces": 4227,
+      "wpm": 89,
       "highestWPM": 118,
-      "teamRaces": 1799,
+      "teamRaces": 1802,
       "acc": 92.27,
       "season": null,
       "status": "active",
-      "lastLogin": 1791813051
+      "lastLogin": 1791816911
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -601,10 +587,10 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2410,
+      "allTimeRaces": 2413,
       "wpm": 72,
       "highestWPM": 124,
-      "teamRaces": 2425,
+      "teamRaces": 2440,
       "acc": 99.02,
       "season": null,
       "status": "active",
@@ -697,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49379,
+      "races": 49397,
       "avgWPM": 75,
       "avgAcc": 95.02,
-      "members": 49
+      "members": 48
     },
     "daily": {
-      "races": 221,
+      "races": 239,
       "avgWPM": 76,
-      "avgAcc": 96.74,
-      "members": 49
+      "avgAcc": 96.82,
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791815786087
+  "_syncedAt": 1791817448116
 }

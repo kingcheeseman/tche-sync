@@ -31,8 +31,8 @@
         "allTimeRaces": 2546,
         "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 168,
-        "acc": 91.64,
+        "teamRaces": 169,
+        "acc": 91.61,
         "season": null,
         "status": "active",
         "lastLogin": 1791810931
@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1615,
-        "wpm": 66,
+        "allTimeRaces": 1619,
+        "wpm": 64,
         "highestWPM": 90,
         "teamRaces": 570,
         "acc": 90.53,
         "season": null,
         "status": "active",
-        "lastLogin": 1791814959
+        "lastLogin": 1791817270
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -336,10 +336,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13457,
-        "wpm": 82,
+        "allTimeRaces": 13462,
+        "wpm": 79,
         "highestWPM": 111,
-        "teamRaces": 11242,
+        "teamRaces": 11252,
         "acc": 93.4,
         "season": null,
         "status": "active",
@@ -392,11 +392,11 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4822,
-        "wpm": 75,
+        "allTimeRaces": 4827,
+        "wpm": 78,
         "highestWPM": 108,
-        "teamRaces": 386,
-        "acc": 95.02,
+        "teamRaces": 391,
+        "acc": 95.03,
         "season": null,
         "status": "active",
         "lastLogin": 1791815590
@@ -441,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791732322
+        "lastLogin": 1791816795
       },
       {
         "username": "daisyiscute2026",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75269,
+        "races": 75285,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 234,
-        "avgWPM": 60,
-        "avgAcc": 91.46,
+        "races": 245,
+        "avgWPM": 62,
+        "avgAcc": 91.53,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791815841202
+    "_syncedAt": 1791817498708
   },
   "SVC": {
     "tag": "SVC",
@@ -771,14 +771,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4174,
-        "wpm": 75,
+        "allTimeRaces": 4199,
+        "wpm": 79,
         "highestWPM": 99,
-        "teamRaces": 820,
-        "acc": 93,
+        "teamRaces": 840,
+        "acc": 93.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1791812517
+        "lastLogin": 1791816183
       },
       {
         "username": "hieuanp",
@@ -939,14 +939,14 @@
         "displayName": "ConfidentBeigeCougar",
         "role": "member",
         "joinStamp": 1787585308,
-        "allTimeRaces": 904,
-        "wpm": 131,
+        "allTimeRaces": 912,
+        "wpm": 133,
         "highestWPM": 157,
-        "teamRaces": 604,
+        "teamRaces": 612,
         "acc": 97.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1791662794
+        "lastLogin": 1791816164
       },
       {
         "username": "carsonthemaniac",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38820,
+        "races": 38848,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 44
       },
       "daily": {
-        "races": 32,
-        "avgWPM": 65,
-        "avgAcc": 96.72,
+        "races": 60,
+        "avgWPM": 80,
+        "avgAcc": 95.79,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791815860193
+    "_syncedAt": 1791817519010
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1227,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791815879027
+    "_syncedAt": 1791817537778
   }
 }
