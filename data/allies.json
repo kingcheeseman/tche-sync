@@ -77,7 +77,7 @@
         "acc": 93.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1791758356
+        "lastLogin": 1791827073
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -182,14 +182,14 @@
         "displayName": "Limit RyZex1x",
         "role": "member",
         "joinStamp": 1790268573,
-        "allTimeRaces": 2350,
-        "wpm": 75,
+        "allTimeRaces": 2356,
+        "wpm": 74,
         "highestWPM": 94,
-        "teamRaces": 52,
-        "acc": 93.27,
+        "teamRaces": 53,
+        "acc": 93.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1791475682
+        "lastLogin": 1791826691
       },
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
@@ -336,11 +336,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13469,
-        "wpm": 82,
+        "allTimeRaces": 13483,
+        "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11258,
-        "acc": 93.4,
+        "teamRaces": 11270,
+        "acc": 93.39,
         "season": null,
         "status": "active",
         "lastLogin": 1791825937
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75317,
+        "races": 75330,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 235,
+        "races": 243,
         "avgWPM": 64,
-        "avgAcc": 91.54,
+        "avgAcc": 91.62,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791826161347
+    "_syncedAt": 1791827140246
   },
   "SVC": {
     "tag": "SVC",
@@ -729,11 +729,11 @@
         "displayName": "la balright",
         "role": "member",
         "joinStamp": 1789494640,
-        "allTimeRaces": 1438,
-        "wpm": 46,
+        "allTimeRaces": 1442,
+        "wpm": 47,
         "highestWPM": 97,
-        "teamRaces": 760,
-        "acc": 92.91,
+        "teamRaces": 769,
+        "acc": 92.92,
         "season": null,
         "status": "active",
         "lastLogin": 1791825806
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38878,
+        "races": 38887,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 90,
-        "avgWPM": 83,
-        "avgAcc": 95.63,
+        "races": 99,
+        "avgWPM": 80,
+        "avgAcc": 95.54,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791826180105
+    "_syncedAt": 1791827159239
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791826198791
+    "_syncedAt": 1791827178062
   }
 }
