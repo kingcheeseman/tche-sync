@@ -70,11 +70,11 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 399,
-        "wpm": 41,
+        "allTimeRaces": 414,
+        "wpm": 50,
         "highestWPM": 105,
-        "teamRaces": 94,
-        "acc": 93.92,
+        "teamRaces": 99,
+        "acc": 93.88,
         "season": null,
         "status": "active",
         "lastLogin": 1791827073
@@ -182,11 +182,11 @@
         "displayName": "Limit RyZex1x",
         "role": "member",
         "joinStamp": 1790268573,
-        "allTimeRaces": 2356,
-        "wpm": 74,
+        "allTimeRaces": 2362,
+        "wpm": 77,
         "highestWPM": 94,
-        "teamRaces": 53,
-        "acc": 93.34,
+        "teamRaces": 63,
+        "acc": 93.43,
         "season": null,
         "status": "active",
         "lastLogin": 1791826691
@@ -339,7 +339,7 @@
         "allTimeRaces": 13483,
         "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11270,
+        "teamRaces": 11275,
         "acc": 93.39,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75330,
+        "races": 75350,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 243,
-        "avgWPM": 64,
-        "avgAcc": 91.62,
+        "races": 263,
+        "avgWPM": 65,
+        "avgAcc": 91.7,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827140246
+    "_syncedAt": 1791827897381
   },
   "SVC": {
     "tag": "SVC",
@@ -813,14 +813,14 @@
         "displayName": "Aiden2fast",
         "role": "member",
         "joinStamp": 1789571426,
-        "allTimeRaces": 2482,
-        "wpm": 77,
+        "allTimeRaces": 2489,
+        "wpm": 79,
         "highestWPM": 99,
-        "teamRaces": 550,
-        "acc": 87.53,
+        "teamRaces": 552,
+        "acc": 87.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791396500
+        "lastLogin": 1791827264
       },
       {
         "username": "inamejefff",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38887,
+        "races": 38889,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 99,
+        "races": 101,
         "avgWPM": 80,
-        "avgAcc": 95.54,
+        "avgAcc": 95.4,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827159239
+    "_syncedAt": 1791827917361
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791827178062
+    "_syncedAt": 1791827936140
   }
 }
