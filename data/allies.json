@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 37,
+    "members": 38,
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2786,
+    "profileViews": 2787,
     "leagueTier": 10,
     "racers": [
       {
@@ -194,7 +194,7 @@
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
         "displayName": "12345b",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1786134734,
         "allTimeRaces": 3599,
         "wpm": 46,
@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "member",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1592,
-        "wpm": 65,
+        "allTimeRaces": 1593,
+        "wpm": 66,
         "highestWPM": 90,
         "teamRaces": 547,
         "acc": 90.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1791758784
+        "lastLogin": 1791805733
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -343,7 +343,21 @@
         "acc": 93.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1791761384
+        "lastLogin": 1791804759
+      },
+      {
+        "username": "bd86f90920019811182bb0124bd929c2",
+        "displayName": "Cats_4_Eva Alt",
+        "role": "officer",
+        "joinStamp": 1791805604,
+        "allTimeRaces": 6041,
+        "wpm": 80,
+        "highestWPM": 105,
+        "teamRaces": 1526,
+        "acc": 95.15,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1791804844
       },
       {
         "username": "quickbrownpony",
@@ -533,18 +547,18 @@
         "races": 75115,
         "avgWPM": 55,
         "avgAcc": 93.59,
-        "members": 37
+        "members": 38
       },
       "daily": {
         "races": 104,
         "avgWPM": 57,
         "avgAcc": 92.6,
-        "members": 37
+        "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791804628694
+    "_syncedAt": 1791805778631
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791804701572
+    "_syncedAt": 1791805851029
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1241,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791804774553
+    "_syncedAt": 1791805923654
   }
 }
