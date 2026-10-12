@@ -2,11 +2,11 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 38,
-        "races": 270,
-        "accuracy": 90.91,
-        "wpm": 64.8,
-        "points": 32502,
+        "rank": 37,
+        "races": 264,
+        "accuracy": 90.88,
+        "wpm": 65.2,
+        "points": 31810,
         "ppr": 120
       },
       "season": {
@@ -49,7 +49,7 @@
     "points": 263494,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791845959089
+    "_syncedAt": 1791846555934
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 1122145,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791845978145
+    "_syncedAt": 1791846574850
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791846147690
+    "_syncedAt": 1791846744241
   }
 }
