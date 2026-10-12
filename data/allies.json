@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2797,
+    "profileViews": 2799,
     "leagueTier": 10,
     "racers": [
       {
@@ -343,7 +343,7 @@
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791830551
+        "lastLogin": 1791836025
       },
       {
         "username": "quickbrownpony",
@@ -431,7 +431,7 @@
       },
       {
         "username": "bob_ate_bob_twice",
-        "displayName": "Mr Cheese alt",
+        "displayName": "Void Racer alt",
         "role": "officer",
         "joinStamp": 1791232953,
         "allTimeRaces": 302,
@@ -441,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791820725
+        "lastLogin": 1791835825
       },
       {
         "username": "daisyiscute2026",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791835785680
+    "_syncedAt": 1791836980050
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,44 +1217,18 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791835804403
+    "_syncedAt": 1791836999044
   },
   "TCHE2": {
+    "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "name": "TCHE Retired Racers",
-    "members": 1,
-    "activePercent": 100,
-    "createdStamp": 1791146859,
-    "otherInfo": "Official TCHE retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, TCHE, RTQ & THBOS",
-    "profileViews": 7,
-    "leagueTier": 2,
-    "racers": [
-      {
-        "username": "the_only_winner123",
-        "displayName": "the_only_winner123",
-        "role": "officer",
-        "joinStamp": 1791146859,
-        "allTimeRaces": 60,
-        "wpm": 95,
-        "highestWPM": 118,
-        "teamRaces": 9,
-        "acc": 93.49,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791517373
-      }
-    ],
+    "_syncedAt": 1791837020561,
     "aggregates": {
-      "alltime": {
-        "races": 9,
-        "avgWPM": 97,
-        "avgAcc": 93.49,
-        "members": 1
-      },
+      "alltime": null,
       "daily": null,
       "season": null
     },
-    "season": null,
-    "_syncedAt": 1791835823304
+    "members": 0,
+    "racers": []
   }
 }
