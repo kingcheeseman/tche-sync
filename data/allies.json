@@ -536,24 +536,24 @@
         "members": 37
       },
       "daily": {
-        "races": 245,
+        "races": 244,
         "avgWPM": 64,
-        "avgAcc": 91.57,
+        "avgAcc": 91.58,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791824327318
+    "_syncedAt": 1791825097311
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
-    "members": 44,
+    "members": 46,
     "activePercent": 72,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1976,
+    "profileViews": 1977,
     "leagueTier": 10,
     "racers": [
       {
@@ -897,14 +897,14 @@
         "displayName": "Rico_main",
         "role": "officer",
         "joinStamp": 1786731291,
-        "allTimeRaces": 26471,
+        "allTimeRaces": 26479,
         "wpm": 119,
         "highestWPM": 161,
-        "teamRaces": 3764,
+        "teamRaces": 3771,
         "acc": 96.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1791419074
+        "lastLogin": 1791824458
       },
       {
         "username": "d8cb8a992726bab43a1bc59c2d886bf8",
@@ -1075,6 +1075,20 @@
         "lastLogin": 1791455786
       },
       {
+        "username": "73e9119399c5e48123c481a73e87840c",
+        "displayName": "PeriwinkleCoffeeStarfish",
+        "role": "member",
+        "joinStamp": 1791824790,
+        "allTimeRaces": 421,
+        "wpm": 123,
+        "highestWPM": 126,
+        "teamRaces": 4,
+        "acc": 100,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1791824509
+      },
+      {
         "username": "074a157a4542ba80b1a530a434e414ad",
         "displayName": "alexaaa",
         "role": "member",
@@ -1115,6 +1129,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1790610774
+      },
+      {
+        "username": "kinleycable",
+        "displayName": "Jesus has risen",
+        "role": "member",
+        "joinStamp": 1791824489,
+        "allTimeRaces": 501,
+        "wpm": 93,
+        "highestWPM": 111,
+        "teamRaces": 182,
+        "acc": 96.16,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1791737280
       },
       {
         "username": "clanker_ya_boi",
@@ -1175,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38866,
+        "races": 38877,
         "avgWPM": 82,
         "avgAcc": 94.26,
-        "members": 44
+        "members": 46
       },
       "daily": {
-        "races": 78,
-        "avgWPM": 77,
-        "avgAcc": 95.16,
-        "members": 44
+        "races": 89,
+        "avgWPM": 83,
+        "avgAcc": 95.65,
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791824346066
+    "_syncedAt": 1791825116219
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1227,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791824364862
+    "_syncedAt": 1791825135115
   }
 }
