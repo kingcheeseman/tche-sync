@@ -217,7 +217,7 @@
         "acc": 94.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1791567795
+        "lastLogin": 1791828977
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 274,
+        "races": 271,
         "avgWPM": 65,
-        "avgAcc": 91.65,
+        "avgAcc": 91.67,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791828533256
+    "_syncedAt": 1791829926921
   },
   "SVC": {
     "tag": "SVC",
@@ -1093,14 +1093,14 @@
         "displayName": "alexaaa",
         "role": "member",
         "joinStamp": 1789061656,
-        "allTimeRaces": 440,
-        "wpm": 84,
+        "allTimeRaces": 448,
+        "wpm": 75,
         "highestWPM": 107,
-        "teamRaces": 325,
-        "acc": 92.73,
+        "teamRaces": 332,
+        "acc": 92.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1791483276
+        "lastLogin": 1791829083
       },
       {
         "username": "d4d5cb060ab6d353ff67455dfe2ca002",
@@ -1177,14 +1177,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 773,
-        "wpm": 102,
-        "highestWPM": 136,
-        "teamRaces": 717,
-        "acc": 96.5,
+        "allTimeRaces": 785,
+        "wpm": 116,
+        "highestWPM": 138,
+        "teamRaces": 729,
+        "acc": 96.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1791576473
+        "lastLogin": 1791828730
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38894,
+        "races": 38913,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 106,
-        "avgWPM": 80,
-        "avgAcc": 95.01,
+        "races": 125,
+        "avgWPM": 83,
+        "avgAcc": 94.87,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791828552059
+    "_syncedAt": 1791829945784
   },
   "TCHE2": {
     "tag": "TCHE2",
@@ -1255,6 +1255,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791828570891
+    "_syncedAt": 1791829969969
   }
 }
