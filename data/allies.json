@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791856241458
+    "_syncedAt": 1791857403505
   },
   "SVC": {
     "tag": "SVC",
@@ -1177,14 +1177,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 792,
-        "wpm": 113,
+        "allTimeRaces": 802,
+        "wpm": 117,
         "highestWPM": 138,
-        "teamRaces": 736,
-        "acc": 96.48,
+        "teamRaces": 746,
+        "acc": 96.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1791833843
+        "lastLogin": 1791856934
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1203,26 +1203,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38938,
+        "races": 38948,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 150,
-        "avgWPM": 84,
-        "avgAcc": 94.85,
+        "races": 160,
+        "avgWPM": 86,
+        "avgAcc": 95,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791856263445
+    "_syncedAt": 1791857427501
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791856282302,
+    "_syncedAt": 1791857446550,
     "aggregates": {
       "alltime": null,
       "daily": null,
