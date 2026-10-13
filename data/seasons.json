@@ -5,13 +5,13 @@
       "label": "Nitro City (9/13/2026 – 10/18/2026)",
       "racers": [
         {
-          "rank": 117,
+          "rank": 115,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 2453,
+          "races": 2484,
           "accuracy": 97.38,
           "wpm": 85,
-          "points": 340377,
+          "points": 344699,
           "ppr": 139
         },
         {
@@ -75,17 +75,17 @@
           "ppr": 147
         },
         {
-          "rank": 789,
+          "rank": 774,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
-          "races": 435,
-          "accuracy": 94.35,
+          "races": 445,
+          "accuracy": 94.37,
           "wpm": 90.7,
-          "points": 59646,
+          "points": 61040,
           "ppr": 137
         },
         {
-          "rank": 815,
+          "rank": 816,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 456,
@@ -95,7 +95,7 @@
           "ppr": 126
         },
         {
-          "rank": 871,
+          "rank": 872,
           "username": "5b7204df5a2e2c2bd6d6088673206b01",
           "displayName": "disgratedboy191",
           "races": 413,
@@ -105,7 +105,7 @@
           "ppr": 126
         },
         {
-          "rank": 946,
+          "rank": 947,
           "username": "f12e19599957d9c65c8d7609af78698d",
           "displayName": "Nosferatu",
           "races": 397,
@@ -115,7 +115,7 @@
           "ppr": 116
         },
         {
-          "rank": 1055,
+          "rank": 1057,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 284,
@@ -155,7 +155,7 @@
           "ppr": 123
         },
         {
-          "rank": 1343,
+          "rank": 1345,
           "username": "2865b036215f4fedbcb7bdd5a174045e",
           "displayName": "Kimchi",
           "races": 175,
@@ -225,7 +225,7 @@
           "ppr": 114
         },
         {
-          "rank": 1784,
+          "rank": 1787,
           "username": "bc6469247e9ac57a0a45c6c345d4bb57",
           "displayName": "blackholesun",
           "races": 108,
@@ -235,7 +235,7 @@
           "ppr": 112
         },
         {
-          "rank": 1818,
+          "rank": 1821,
           "username": "0e94cbfd8e8ec77e912046bb79b8af07",
           "displayName": "Noah0821",
           "races": 94,
@@ -266,12 +266,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1791921941534
+      "_syncedAt": 1791924025591
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1791921941534
+  "_syncedAt": 1791924025591
 }

@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 44,
+      "rank": 37,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 200,
-      "accuracy": 97.18,
+      "races": 231,
+      "accuracy": 97.19,
       "wpm": 86.9,
-      "points": 27882,
+      "points": 32205,
       "ppr": 139
     },
     {
-      "rank": 109,
+      "rank": 111,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 114,
@@ -21,7 +21,7 @@
       "ppr": 135
     },
     {
-      "rank": 116,
+      "rank": 115,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 107,
@@ -31,7 +31,7 @@
       "ppr": 136
     },
     {
-      "rank": 264,
+      "rank": 263,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 53,
@@ -41,7 +41,7 @@
       "ppr": 132
     },
     {
-      "rank": 275,
+      "rank": 276,
       "username": "f12e19599957d9c65c8d7609af78698d",
       "displayName": "Nosferatu",
       "races": 58,
@@ -51,7 +51,7 @@
       "ppr": 116
     },
     {
-      "rank": 313,
+      "rank": 314,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 45,
@@ -61,7 +61,7 @@
       "ppr": 131
     },
     {
-      "rank": 389,
+      "rank": 385,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "disgratedboy191",
       "races": 35,
@@ -71,7 +71,7 @@
       "ppr": 125
     },
     {
-      "rank": 413,
+      "rank": 408,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 28,
@@ -81,7 +81,7 @@
       "ppr": 142
     },
     {
-      "rank": 434,
+      "rank": 430,
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "races": 30,
@@ -91,7 +91,17 @@
       "ppr": 125
     },
     {
-      "rank": 530,
+      "rank": 493,
+      "username": "b12d93562133c1f47d58fd7c2118abd6",
+      "displayName": "Namedisplayed",
+      "races": 22,
+      "accuracy": 93.85,
+      "wpm": 92.3,
+      "points": 3017,
+      "ppr": 137
+    },
+    {
+      "rank": 527,
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "races": 21,
@@ -101,7 +111,7 @@
       "ppr": 127
     },
     {
-      "rank": 559,
+      "rank": 558,
       "username": "33e83773380949c7f2fd34d850d93d34",
       "displayName": "KippKat",
       "races": 18,
@@ -111,7 +121,7 @@
       "ppr": 137
     },
     {
-      "rank": 588,
+      "rank": 583,
       "username": "booomtype",
       "displayName": "YellowBronzeCoral",
       "races": 17,
@@ -121,7 +131,7 @@
       "ppr": 135
     },
     {
-      "rank": 595,
+      "rank": 591,
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "races": 15,
@@ -131,17 +141,7 @@
       "ppr": 149
     },
     {
-      "rank": 691,
-      "username": "b12d93562133c1f47d58fd7c2118abd6",
-      "displayName": "Namedisplayed",
-      "races": 12,
-      "accuracy": 92.52,
-      "wpm": 92.6,
-      "points": 1624,
-      "ppr": 135
-    },
-    {
-      "rank": 828,
+      "rank": 824,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 7,
@@ -151,7 +151,7 @@
       "ppr": 119
     },
     {
-      "rank": 830,
+      "rank": 826,
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
       "displayName": "supermom",
       "races": 6,
@@ -161,7 +161,7 @@
       "ppr": 138
     },
     {
-      "rank": 909,
+      "rank": 908,
       "username": "1ea0b919208e21b376a29ac0befb794c",
       "displayName": "StefanO",
       "races": 4,
@@ -171,7 +171,7 @@
       "ppr": 122
     },
     {
-      "rank": 962,
+      "rank": 961,
       "username": "crxy99",
       "displayName": "Amaterasu",
       "races": 2,
@@ -181,7 +181,7 @@
       "ppr": 136
     },
     {
-      "rank": 1017,
+      "rank": 1020,
       "username": "falconsteve2",
       "displayName": "falconsteve2",
       "races": 1,
@@ -191,5 +191,5 @@
       "ppr": 135
     }
   ],
-  "_syncedAt": 1791921959708
+  "_syncedAt": 1791924043885
 }
