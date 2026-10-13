@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791869439292
+    "_syncedAt": 1791870482758
   },
   "SVC": {
     "tag": "SVC",
@@ -715,14 +715,14 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4493,
-        "wpm": 62,
+        "allTimeRaces": 4497,
+        "wpm": 61,
         "highestWPM": 78,
-        "teamRaces": 92,
-        "acc": 97.97,
+        "teamRaces": 93,
+        "acc": 97.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1791861344
+        "lastLogin": 1791870056
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1203,26 +1203,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38968,
+        "races": 38969,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 155,
+        "races": 156,
         "avgWPM": 86,
-        "avgAcc": 94.98,
+        "avgAcc": 95.01,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791869458495
+    "_syncedAt": 1791870501760
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791869477232,
+    "_syncedAt": 1791870520553,
     "aggregates": {
       "alltime": null,
       "daily": null,
