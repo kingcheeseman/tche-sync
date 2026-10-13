@@ -63,7 +63,7 @@
         "acc": 90.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1791564511
+        "lastLogin": 1791863163
       },
       {
         "username": "adde0f9a93c81f15800f19720c04f793",
@@ -84,10 +84,10 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3904,
-        "wpm": 81,
+        "allTimeRaces": 3911,
+        "wpm": 79,
         "highestWPM": 97,
-        "teamRaces": 3096,
+        "teamRaces": 3110,
         "acc": 95.48,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75364,
+        "races": 75378,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 262,
+        "races": 263,
         "avgWPM": 66,
-        "avgAcc": 91.63,
+        "avgAcc": 91.53,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791860838571
+    "_syncedAt": 1791863387937
   },
   "SVC": {
     "tag": "SVC",
@@ -715,14 +715,14 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4473,
-        "wpm": 59,
+        "allTimeRaces": 4493,
+        "wpm": 62,
         "highestWPM": 78,
-        "teamRaces": 72,
-        "acc": 97.9,
+        "teamRaces": 92,
+        "acc": 97.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1791775609
+        "lastLogin": 1791861344
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1203,7 +1203,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38948,
+        "races": 38968,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
@@ -1211,18 +1211,18 @@
       "daily": {
         "races": 160,
         "avgWPM": 86,
-        "avgAcc": 95,
+        "avgAcc": 94.99,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791860857233
+    "_syncedAt": 1791863406892
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791860875851,
+    "_syncedAt": 1791863425686,
     "aggregates": {
       "alltime": null,
       "daily": null,
