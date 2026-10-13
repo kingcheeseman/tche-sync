@@ -5,7 +5,7 @@
   "activePercent": 76,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: padlet.com/funnelbuilderjake/immortals_iii",
-  "profileViews": 1875,
+  "profileViews": 1877,
   "leagueTier": 10,
   "racers": [
     {
@@ -111,14 +111,14 @@
       "displayName": "Amaterasu",
       "role": "member",
       "joinStamp": 1791568124,
-      "allTimeRaces": 6625,
+      "allTimeRaces": 6626,
       "wpm": 82,
       "highestWPM": 165,
-      "teamRaces": 2,
-      "acc": 93.98,
+      "teamRaces": 3,
+      "acc": 94.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1791828502
+      "lastLogin": 1791907625
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -223,14 +223,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8163,
-      "wpm": 89,
+      "allTimeRaces": 8168,
+      "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 7353,
+      "teamRaces": 7358,
       "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1791756244
+      "lastLogin": 1791908370
     },
     {
       "username": "c2495d96b22894b412e9ccdef575e72f",
@@ -380,8 +380,8 @@
       "allTimeRaces": 2308,
       "wpm": 73,
       "highestWPM": 90,
-      "teamRaces": 409,
-      "acc": 93.75,
+      "teamRaces": 413,
+      "acc": 93.74,
       "season": null,
       "status": "active",
       "lastLogin": 1791905757
@@ -461,14 +461,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3143,
-      "wpm": 53,
+      "allTimeRaces": 3150,
+      "wpm": 55,
       "highestWPM": 107,
-      "teamRaces": 85,
-      "acc": 92.37,
+      "teamRaces": 92,
+      "acc": 92.5,
       "season": null,
       "status": "active",
-      "lastLogin": 1791405556
+      "lastLogin": 1791907782
     },
     {
       "username": "booomtype",
@@ -503,10 +503,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4321,
+      "allTimeRaces": 4339,
       "wpm": 92,
       "highestWPM": 118,
-      "teamRaces": 1892,
+      "teamRaces": 1914,
       "acc": 92.34,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50201,
+      "races": 50240,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 747,
+      "races": 748,
       "avgWPM": 72,
-      "avgAcc": 96.21,
+      "avgAcc": 95.99,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791907612161
+  "_syncedAt": 1791909018154
 }
