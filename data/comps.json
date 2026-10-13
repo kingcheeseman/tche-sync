@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "1340",
+      "status": "Pending",
+      "title": "IMT Celebration Event",
+      "desc": "Event to celebrate the renaming of IMT. No payouts, but there might be later on.",
+      "start": "10/18/2026, 02:00 PM",
+      "end": "10/23/2026, 07:00 PM"
+    },
+    {
       "id": "1077",
       "status": "Concluded",
       "title": "August 30 - September 6 Cash Comp",
@@ -26,5 +34,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1791909044680
+  "_syncedAt": 1791910189259
 }
