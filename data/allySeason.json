@@ -19,10 +19,10 @@
       },
       "week": {
         "rank": 44,
-        "races": 1927,
-        "accuracy": 91.89,
+        "races": 1917,
+        "accuracy": 91.88,
         "wpm": 63.4,
-        "points": 233241,
+        "points": 232015,
         "ppr": 121
       },
       "weekly": {
@@ -49,40 +49,40 @@
     "points": 263494,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791850244351
+    "_syncedAt": 1791852269322
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 46,
-        "races": 145,
-        "accuracy": 94.3,
-        "wpm": 82.7,
-        "points": 19330,
+        "rank": 45,
+        "races": 146,
+        "accuracy": 94.33,
+        "wpm": 83,
+        "points": 19486,
         "ppr": 133
       },
       "season": {
         "rank": 41,
-        "races": 8383,
+        "races": 8384,
         "accuracy": 94.13,
         "wpm": 84.4,
-        "points": 1122145,
+        "points": 1122302,
         "ppr": 134
       },
       "week": {
-        "rank": 49,
-        "races": 1211,
-        "accuracy": 94.21,
-        "wpm": 76.2,
-        "points": 157545,
+        "rank": 50,
+        "races": 1181,
+        "accuracy": 94.23,
+        "wpm": 77,
+        "points": 154114,
         "ppr": 130
       },
       "weekly": {
         "rank": 55,
-        "races": 145,
-        "accuracy": 94.3,
-        "wpm": 82.7,
-        "points": 19330,
+        "races": 146,
+        "accuracy": 94.33,
+        "wpm": 83,
+        "points": 19486,
         "ppr": 133
       },
       "alltime": {
@@ -95,13 +95,13 @@
       }
     },
     "rank": 41,
-    "races": 8383,
+    "races": 8384,
     "accuracy": 94.13,
     "wpm": 84.4,
-    "points": 1122145,
+    "points": 1122302,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791850263262
+    "_syncedAt": 1791852288270
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791850432766
+    "_syncedAt": 1791852457535
   }
 }

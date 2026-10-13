@@ -6,7 +6,7 @@
     "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2799,
+    "profileViews": 2800,
     "leagueTier": 10,
     "racers": [
       {
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791850225372
+    "_syncedAt": 1791852250295
   },
   "SVC": {
     "tag": "SVC",
@@ -589,14 +589,14 @@
         "displayName": "Jackson",
         "role": "member",
         "joinStamp": 1789854009,
-        "allTimeRaces": 9648,
-        "wpm": 103,
+        "allTimeRaces": 9649,
+        "wpm": 105,
         "highestWPM": 134,
-        "teamRaces": 78,
-        "acc": 92.96,
+        "teamRaces": 79,
+        "acc": 93.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1791779940
+        "lastLogin": 1791851065
       },
       {
         "username": "akb7109",
@@ -1203,26 +1203,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38937,
+        "races": 38938,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 149,
+        "races": 150,
         "avgWPM": 84,
-        "avgAcc": 94.83,
+        "avgAcc": 94.85,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791850244573
+    "_syncedAt": 1791852269538
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791850263519,
+    "_syncedAt": 1791852288428,
     "aggregates": {
       "alltime": null,
       "daily": null,
