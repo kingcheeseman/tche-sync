@@ -83,14 +83,14 @@
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20502,
+      "allTimeRaces": 20522,
       "wpm": 84,
       "highestWPM": 127,
-      "teamRaces": 150,
-      "acc": 94.16,
+      "teamRaces": 159,
+      "acc": 94.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1791775490
+      "lastLogin": 1791870774
     },
     {
       "username": "mweid2",
@@ -153,14 +153,14 @@
       "displayName": "Ep_1K PFP VIEWS_Ep",
       "role": "member",
       "joinStamp": 1791866672,
-      "allTimeRaces": 18154,
-      "wpm": 46,
+      "allTimeRaces": 18167,
+      "wpm": 54,
       "highestWPM": 129,
-      "teamRaces": 307,
-      "acc": 96.7,
+      "teamRaces": 320,
+      "acc": 96.79,
       "season": null,
       "status": "active",
-      "lastLogin": 1791866623
+      "lastLogin": 1791870571
     },
     {
       "username": "cb3ab5e40d020486ffbd0a073a0a6fd6",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49828,
+      "races": 49850,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 559,
+      "races": 581,
       "avgWPM": 74,
-      "avgAcc": 96.69,
+      "avgAcc": 96.68,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791870400492
+  "_syncedAt": 1791871621038
 }
