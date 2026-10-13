@@ -2,7 +2,7 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 42,
+        "rank": 43,
         "races": 265,
         "accuracy": 90.79,
         "wpm": 65.9,
@@ -49,12 +49,12 @@
     "points": 265627,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791871734438
+    "_syncedAt": 1791873487101
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 51,
+        "rank": 52,
         "races": 155,
         "accuracy": 94.58,
         "wpm": 84.7,
@@ -101,7 +101,7 @@
     "points": 1126885,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791871753483
+    "_syncedAt": 1791873506006
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791871922923
+    "_syncedAt": 1791873675303
   }
 }
