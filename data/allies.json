@@ -171,7 +171,7 @@
         "allTimeRaces": 2367,
         "wpm": 78,
         "highestWPM": 94,
-        "teamRaces": 65,
+        "teamRaces": 69,
         "acc": 93.43,
         "season": null,
         "status": "active",
@@ -224,11 +224,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1653,
-        "wpm": 65,
+        "allTimeRaces": 1676,
+        "wpm": 53,
         "highestWPM": 90,
-        "teamRaces": 608,
-        "acc": 90.47,
+        "teamRaces": 623,
+        "acc": 90.45,
         "season": null,
         "status": "active",
         "lastLogin": 1791903674
@@ -301,7 +301,7 @@
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791893453
+        "lastLogin": 1791905594
       },
       {
         "username": "quickbrownpony",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75427,
+        "races": 75446,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 132,
+        "races": 151,
         "avgWPM": 69,
-        "avgAcc": 92.03,
+        "avgAcc": 91.87,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791904620119
+    "_syncedAt": 1791906356613
   },
   "SVC": {
     "tag": "SVC",
@@ -589,11 +589,11 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1690,
-        "wpm": 86,
-        "highestWPM": 107,
-        "teamRaces": 295,
-        "acc": 94.45,
+        "allTimeRaces": 1705,
+        "wpm": 93,
+        "highestWPM": 114,
+        "teamRaces": 313,
+        "acc": 94.48,
         "season": null,
         "status": "active",
         "lastLogin": 1791904407
@@ -729,10 +729,10 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4206,
-        "wpm": 75,
+        "allTimeRaces": 4211,
+        "wpm": 77,
         "highestWPM": 99,
-        "teamRaces": 847,
+        "teamRaces": 857,
         "acc": 92.99,
         "season": null,
         "status": "active",
@@ -925,14 +925,14 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1248,
-        "wpm": 64,
+        "allTimeRaces": 1254,
+        "wpm": 63,
         "highestWPM": 81,
-        "teamRaces": 878,
+        "teamRaces": 881,
         "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1791899174
+        "lastLogin": 1791905731
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
@@ -1161,26 +1161,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39005,
+        "races": 39036,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 152,
+        "races": 182,
         "avgWPM": 82,
-        "avgAcc": 94.67,
+        "avgAcc": 94.63,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791904639469
+    "_syncedAt": 1791906375884
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791904658559,
+    "_syncedAt": 1791906394721,
     "aggregates": {
       "alltime": null,
       "daily": null,
