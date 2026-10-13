@@ -27,11 +27,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4421,
-      "wpm": 92,
+      "allTimeRaces": 4431,
+      "wpm": 91,
       "highestWPM": 110,
-      "teamRaces": 234,
-      "acc": 94.81,
+      "teamRaces": 246,
+      "acc": 94.83,
       "season": null,
       "status": "active",
       "lastLogin": 1791910852
@@ -223,10 +223,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8221,
-      "wpm": 89,
+      "allTimeRaces": 8246,
+      "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 7398,
+      "teamRaces": 7429,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -510,7 +510,7 @@
       "acc": 92.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1791910995
+      "lastLogin": 1791912506
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -643,11 +643,11 @@
       "displayName": "viewmyvioletgarage",
       "role": "member",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4483,
-      "wpm": 92,
+      "allTimeRaces": 4505,
+      "wpm": 87,
       "highestWPM": 111,
-      "teamRaces": 835,
-      "acc": 91.62,
+      "teamRaces": 862,
+      "acc": 91.63,
       "season": null,
       "status": "active",
       "lastLogin": 1791911882
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50300,
+      "races": 50370,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 768,
-      "avgWPM": 72,
-      "avgAcc": 96.23,
+      "races": 808,
+      "avgWPM": 74,
+      "avgAcc": 96.15,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791912485632
+  "_syncedAt": 1791913471655
 }
