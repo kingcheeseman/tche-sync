@@ -37,20 +37,6 @@
       "lastLogin": 1791910852
     },
     {
-      "username": "b5df6b937c7df0ecdd139910f87bc020",
-      "displayName": "Takes2Long2Type",
-      "role": "member",
-      "joinStamp": 1791570276,
-      "allTimeRaces": 1043,
-      "wpm": 91,
-      "highestWPM": 108,
-      "teamRaces": 0,
-      "acc": 0,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1791569071
-    },
-    {
       "username": "tbnr_andy",
       "displayName": "tbnr_andy",
       "role": "member",
@@ -203,6 +189,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1791659613
+    },
+    {
+      "username": "therealtwilight",
+      "displayName": "lil elf - 4k",
+      "role": "member",
+      "joinStamp": 1791928560,
+      "allTimeRaces": 3207,
+      "wpm": 93,
+      "highestWPM": 112,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1791925066
     },
     {
       "username": "813d4229906a6d50e606a1fba7857e3f",
@@ -408,8 +408,8 @@
       "allTimeRaces": 357,
       "wpm": 84,
       "highestWPM": 99,
-      "teamRaces": 48,
-      "acc": 94.8,
+      "teamRaces": 52,
+      "acc": 94.93,
       "season": null,
       "status": "active",
       "lastLogin": 1791926974
@@ -510,7 +510,7 @@
       "acc": 92.35,
       "season": null,
       "status": "active",
-      "lastLogin": 1791912506
+      "lastLogin": 1791929071
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50710,
+      "races": 50714,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 1023,
+      "races": 1021,
       "avgWPM": 77,
-      "avgAcc": 96.28,
+      "avgAcc": 96.26,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791927317844
+  "_syncedAt": 1791929107791
 }
