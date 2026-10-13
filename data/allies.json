@@ -6,7 +6,7 @@
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
-    "profileViews": 2812,
+    "profileViews": 2814,
     "leagueTier": 10,
     "racers": [
       {
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791925690197
+    "_syncedAt": 1791927394715
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791925709114
+    "_syncedAt": 1791927413572
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791925732644
+    "_syncedAt": 1791927432489
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 3962,
+    "profileViews": 3963,
     "leagueTier": 10,
     "racers": [
       {
@@ -1251,7 +1251,7 @@
         "acc": 95.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1791911612
+        "lastLogin": 1791927045
       },
       {
         "username": "83754c",
@@ -1482,14 +1482,14 @@
         "displayName": "RidiculousJadeMinnow",
         "role": "officer",
         "joinStamp": 1790290231,
-        "allTimeRaces": 15402,
-        "wpm": 92,
+        "allTimeRaces": 15423,
+        "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 2575,
+        "teamRaces": 2585,
         "acc": 95.07,
         "season": null,
         "status": "active",
-        "lastLogin": 1791861374
+        "lastLogin": 1791926285
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1734,14 +1734,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18108,
-        "wpm": 87,
+        "allTimeRaces": 18113,
+        "wpm": 83,
         "highestWPM": 123,
-        "teamRaces": 17648,
+        "teamRaces": 17653,
         "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1791923887
+        "lastLogin": 1791926742
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1888,14 +1888,14 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1790694079,
-        "allTimeRaces": 2677,
-        "wpm": 44,
+        "allTimeRaces": 2688,
+        "wpm": 45,
         "highestWPM": 70,
-        "teamRaces": 510,
+        "teamRaces": 511,
         "acc": 93.67,
         "season": null,
         "status": "active",
-        "lastLogin": 1791850069
+        "lastLogin": 1791926932
       },
       {
         "username": "ashtooo2x",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112177,
+        "races": 112193,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1328,
-        "avgWPM": 66,
-        "avgAcc": 93.4,
+        "races": 1339,
+        "avgWPM": 67,
+        "avgAcc": 93.42,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791925901872
+    "_syncedAt": 1791927601592
   }
 }

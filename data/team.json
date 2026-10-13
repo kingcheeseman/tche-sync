@@ -223,10 +223,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8447,
-      "wpm": 88,
+      "allTimeRaces": 8470,
+      "wpm": 85,
       "highestWPM": 110,
-      "teamRaces": 7627,
+      "teamRaces": 7660,
       "acc": 97.09,
       "season": null,
       "status": "active",
@@ -405,14 +405,14 @@
       "displayName": "Jaylin1",
       "role": "member",
       "joinStamp": 1787607601,
-      "allTimeRaces": 353,
-      "wpm": 83,
+      "allTimeRaces": 357,
+      "wpm": 84,
       "highestWPM": 99,
       "teamRaces": 48,
       "acc": 94.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1791581254
+      "lastLogin": 1791926974
     },
     {
       "username": "imenishat",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50677,
+      "races": 50710,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 1029,
-      "avgWPM": 76,
-      "avgAcc": 96.34,
+      "races": 1023,
+      "avgWPM": 77,
+      "avgAcc": 96.28,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791925635584
+  "_syncedAt": 1791927317844
 }
