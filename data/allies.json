@@ -203,7 +203,7 @@
         "acc": 94.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1791828977
+        "lastLogin": 1791894880
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -224,19 +224,19 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1623,
-        "wpm": 66,
+        "allTimeRaces": 1632,
+        "wpm": 67,
         "highestWPM": 90,
-        "teamRaces": 578,
+        "teamRaces": 579,
         "acc": 90.51,
         "season": null,
         "status": "active",
-        "lastLogin": 1791817270
+        "lastLogin": 1791894477
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
         "displayName": "River Star",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1791574960,
         "allTimeRaces": 15846,
         "wpm": 84,
@@ -294,14 +294,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13483,
+        "allTimeRaces": 13499,
         "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11275,
+        "teamRaces": 11288,
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791890073
+        "lastLogin": 1791893453
       },
       {
         "username": "quickbrownpony",
@@ -348,7 +348,7 @@
       {
         "username": "haleyyrose",
         "displayName": "haleyyrose",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1790076529,
         "allTimeRaces": 4827,
         "wpm": 78,
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75380,
+        "races": 75394,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 264,
+        "races": 269,
         "avgWPM": 66,
-        "avgAcc": 91.56,
+        "avgAcc": 91.44,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791893336260
+    "_syncedAt": 1791895033739
   },
   "SVC": {
     "tag": "SVC",
@@ -939,14 +939,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 704,
-        "wpm": 80,
+        "allTimeRaces": 712,
+        "wpm": 81,
         "highestWPM": 96,
-        "teamRaces": 288,
-        "acc": 93.61,
+        "teamRaces": 292,
+        "acc": 93.62,
         "season": null,
         "status": "active",
-        "lastLogin": 1791559238
+        "lastLogin": 1791894241
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1161,26 +1161,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38972,
+        "races": 38976,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 159,
+        "races": 163,
         "avgWPM": 86,
-        "avgAcc": 95.06,
+        "avgAcc": 95.04,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791893355094
+    "_syncedAt": 1791895052946
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791893373751,
+    "_syncedAt": 1791895072001,
     "aggregates": {
       "alltime": null,
       "daily": null,

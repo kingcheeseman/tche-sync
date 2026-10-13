@@ -671,11 +671,11 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1625,
-      "wpm": 53,
+      "allTimeRaces": 1633,
+      "wpm": 48,
       "highestWPM": 97,
-      "teamRaces": 281,
-      "acc": 92.01,
+      "teamRaces": 292,
+      "acc": 92.04,
       "season": null,
       "status": "active",
       "lastLogin": 1791892733
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50022,
+      "races": 50033,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 753,
-      "avgWPM": 71,
-      "avgAcc": 96.78,
+      "races": 764,
+      "avgWPM": 70,
+      "avgAcc": 96.74,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791893281491
+  "_syncedAt": 1791894980590
 }
