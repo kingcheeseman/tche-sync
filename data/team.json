@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 47,
+  "members": 48,
   "activePercent": 76,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: padlet.com/funnelbuilderjake/immortals_iii",
-  "profileViews": 1872,
+  "profileViews": 1873,
   "leagueTier": 10,
   "racers": [
     {
@@ -147,6 +147,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1791836989
+    },
+    {
+      "username": "ilovepokedigers",
+      "displayName": "Ep_1K PFP VIEWS_Ep",
+      "role": "member",
+      "joinStamp": 1791866672,
+      "allTimeRaces": 18137,
+      "wpm": 63,
+      "highestWPM": 129,
+      "teamRaces": 280,
+      "acc": 96.48,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1791866623
     },
     {
       "username": "cb3ab5e40d020486ffbd0a073a0a6fd6",
@@ -482,7 +496,7 @@
       "acc": 92.3,
       "season": null,
       "status": "active",
-      "lastLogin": 1791862598
+      "lastLogin": 1791866634
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -669,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 49798,
+      "races": 49801,
       "avgWPM": 75,
       "avgAcc": 95.03,
-      "members": 47
+      "members": 48
     },
     "daily": {
-      "races": 529,
+      "races": 532,
       "avgWPM": 76,
-      "avgAcc": 96.56,
-      "members": 47
+      "avgAcc": 96.59,
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791865797823
+  "_syncedAt": 1791867012351
 }
