@@ -224,14 +224,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1644,
+        "allTimeRaces": 1647,
         "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 599,
-        "acc": 90.49,
+        "teamRaces": 602,
+        "acc": 90.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1791894477
+        "lastLogin": 1791901604
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75417,
+        "races": 75420,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 186,
+        "races": 151,
         "avgWPM": 70,
-        "avgAcc": 91.79,
+        "avgAcc": 91.98,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791900196178
+    "_syncedAt": 1791901946153
   },
   "SVC": {
     "tag": "SVC",
@@ -778,7 +778,7 @@
         "acc": 87.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791898562
+        "lastLogin": 1791901339
       },
       {
         "username": "inamejefff",
@@ -925,10 +925,10 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1241,
-        "wpm": 66,
+        "allTimeRaces": 1248,
+        "wpm": 64,
         "highestWPM": 81,
-        "teamRaces": 871,
+        "teamRaces": 878,
         "acc": 93.73,
         "season": null,
         "status": "active",
@@ -1161,26 +1161,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38998,
+        "races": 39005,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 178,
-        "avgWPM": 85,
-        "avgAcc": 94.69,
+        "races": 185,
+        "avgWPM": 84,
+        "avgAcc": 94.67,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791900215035
+    "_syncedAt": 1791901965399
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791900233773,
+    "_syncedAt": 1791901984421,
     "aggregates": {
       "alltime": null,
       "daily": null,
