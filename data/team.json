@@ -5,7 +5,7 @@
   "activePercent": 76,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Website: https://tinyurl.com/IMT-Website",
-  "profileViews": 1877,
+  "profileViews": 1878,
   "leagueTier": 10,
   "racers": [
     {
@@ -226,7 +226,7 @@
       "allTimeRaces": 8358,
       "wpm": 84,
       "highestWPM": 110,
-      "teamRaces": 7545,
+      "teamRaces": 7548,
       "acc": 97.09,
       "season": null,
       "status": "active",
@@ -398,7 +398,7 @@
       "acc": 94.67,
       "season": null,
       "status": "active",
-      "lastLogin": 1791900507
+      "lastLogin": 1791919249
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50544,
+      "races": 50547,
       "avgWPM": 75,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 953,
+      "races": 948,
       "avgWPM": 75,
-      "avgAcc": 96.19,
+      "avgAcc": 96.2,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791918540539
+  "_syncedAt": 1791920318071
 }
