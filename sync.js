@@ -249,8 +249,10 @@ async function fetchSeasonRacers(context, timeframeLabel) {
   try {
     await page.goto("https://ntstartrack.org/leaderboards", { waitUntil: "networkidle", timeout: 60000 });
     await sleep(2500);
-    return await page.evaluate(async (label) => {
+    return await page.evaluate(async (args) => {
+      const { label, TAG } = args;
       const sleepIn = ms => new Promise(r => setTimeout(r, ms));
+      const needleRe = new RegExp("\\[" + TAG + "\\]");
       const bb = [...document.querySelectorAll("button, a")].find(x => x.textContent.trim() === "Individual Leaderboards");
       if (bb) bb.click();
       await sleepIn(1500);
@@ -259,22 +261,22 @@ async function fetchSeasonRacers(context, timeframeLabel) {
       await sleepIn(2500);
       const ts = [...document.querySelectorAll("select")].find(se => se.classList.contains("tag-dropdown"));
       if (ts) {
-        for (let i = 0; i < 20; i++) { if ([...ts.options].some(o => o.value === "TCHE")) break; await sleepIn(400); }
-        ts.value = "TCHE";
+        for (let i = 0; i < 20; i++) { if ([...ts.options].some(o => o.value === TAG)) break; await sleepIn(400); }
+        ts.value = TAG;
         ts.dispatchEvent(new Event("change", { bubbles: true }));
-        for (let i = 0; i < 25; i++) { await sleepIn(500); if ([...document.querySelectorAll("tr")].some(r => /\[TCHE\]/.test(r.textContent))) break; }
+        for (let i = 0; i < 25; i++) { await sleepIn(500); if ([...document.querySelectorAll("tr")].some(r => needleRe.test(r.textContent))) break; }
         await sleepIn(800);
       }
       const ss = [...document.querySelectorAll("select")].find(se => [...se.options].some(o => /\d{1,2}\/\d{1,2}\/\d{4}/.test(o.textContent)));
       const op = ss && ss.options[ss.selectedIndex];
       const value = op ? op.value : null;
       const seasonLabel = op ? op.textContent.trim() : null;
-      const rows = [...document.querySelectorAll("tr")].filter(r => /\[TCHE\]/.test(r.textContent)).map(r => {
+      const rows = [...document.querySelectorAll("tr")].filter(r => needleRe.test(r.textContent)).map(r => {
         const c = [...r.querySelectorAll("td")].map(td => td.textContent.replace(/\s+/g, " ").trim());
         const link = r.querySelector("a[href*='/racer/']");
         const u = link ? link.href.split("/racer/")[1].split(/[?#]/)[0] : null;
         const f = c[0] || "";
-        const m = f.match(/^(\d+)\[TCHE\](.+?)"(.*)"$/);
+        const m = f.match(new RegExp("^(\\d+)\\[" + TAG + "\\](.+?)\"(.*)\"$"));
         return {
           rank: m ? Number(m[1]) : null,
           username: u,
@@ -287,7 +289,7 @@ async function fetchSeasonRacers(context, timeframeLabel) {
         };
       });
       return { value, label: seasonLabel, racers: rows };
-    }, timeframeLabel);
+    }, { label: timeframeLabel, TAG: TEAM_TAG });
   } finally { await page.close(); }
 }
 

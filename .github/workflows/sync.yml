@@ -32,7 +32,7 @@ jobs:
 
       - name: Run sync
         env:
-          TCHE_TAG: TCHE
+          TCHE_TAG: IMT
           ALLY_TAGS: KEYCAT,SVC,TCHE2
         run: node sync.js
 
