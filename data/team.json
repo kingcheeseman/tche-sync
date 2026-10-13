@@ -223,14 +223,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8358,
-      "wpm": 84,
+      "allTimeRaces": 8375,
+      "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 7548,
-      "acc": 97.09,
+      "teamRaces": 7559,
+      "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1791914103
+      "lastLogin": 1791920430
     },
     {
       "username": "c2495d96b22894b412e9ccdef575e72f",
@@ -601,14 +601,14 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2549,
+      "allTimeRaces": 2559,
       "wpm": 72,
       "highestWPM": 124,
-      "teamRaces": 2695,
+      "teamRaces": 2709,
       "acc": 99.01,
       "season": null,
       "status": "active",
-      "lastLogin": 1791890421
+      "lastLogin": 1791920348
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50547,
+      "races": 50572,
       "avgWPM": 75,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 948,
+      "races": 961,
       "avgWPM": 75,
-      "avgAcc": 96.2,
+      "avgAcc": 96.27,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791920318071
+  "_syncedAt": 1791921908100
 }

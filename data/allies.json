@@ -210,11 +210,11 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5577,
+        "allTimeRaces": 5578,
         "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 726,
-        "acc": 94.62,
+        "teamRaces": 735,
+        "acc": 94.64,
         "season": null,
         "status": "active",
         "lastLogin": 1791919525
@@ -329,7 +329,7 @@
         "acc": 93.84,
         "season": null,
         "status": "active",
-        "lastLogin": 1791461122
+        "lastLogin": 1791920487
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
@@ -502,26 +502,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75510,
+        "races": 75519,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 35
       },
       "daily": {
-        "races": 149,
-        "avgWPM": 69,
-        "avgAcc": 92.96,
+        "races": 155,
+        "avgWPM": 70,
+        "avgAcc": 93.18,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791920393137
+    "_syncedAt": 1791921959881
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
-    "members": 46,
+    "members": 45,
     "activePercent": 69,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
@@ -1103,20 +1103,6 @@
         "lastLogin": 1790610774
       },
       {
-        "username": "kinleycable",
-        "displayName": "Jesus has risen",
-        "role": "member",
-        "joinStamp": 1791824489,
-        "allTimeRaces": 501,
-        "wpm": 93,
-        "highestWPM": 111,
-        "teamRaces": 182,
-        "acc": 96.16,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791833078
-      },
-      {
         "username": "clanker_ya_boi",
         "displayName": "Ash_ya_boi",
         "role": "member",
@@ -1178,18 +1164,18 @@
         "races": 39093,
         "avgWPM": 82,
         "avgAcc": 94.26,
-        "members": 46
+        "members": 45
       },
       "daily": {
-        "races": 173,
-        "avgWPM": 79,
-        "avgAcc": 94.42,
-        "members": 46
+        "races": 156,
+        "avgWPM": 78,
+        "avgAcc": 94.33,
+        "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791920435285
+    "_syncedAt": 1791921978928
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791920454436
+    "_syncedAt": 1791921997783
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1236,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 3957,
+    "profileViews": 3959,
     "leagueTier": 10,
     "racers": [
       {
@@ -1275,11 +1261,11 @@
         "allTimeRaces": 48518,
         "wpm": 114,
         "highestWPM": 136,
-        "teamRaces": 477,
+        "teamRaces": 478,
         "acc": 94.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1791916690
+        "lastLogin": 1791921151
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1608,11 +1594,11 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2132,
-        "wpm": 41,
+        "allTimeRaces": 2153,
+        "wpm": 44,
         "highestWPM": 85,
-        "teamRaces": 710,
-        "acc": 89.58,
+        "teamRaces": 732,
+        "acc": 89.56,
         "season": null,
         "status": "active",
         "lastLogin": 1791918369
@@ -1942,13 +1928,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112137,
+        "races": 112160,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1361,
+        "races": 1364,
         "avgWPM": 66,
         "avgAcc": 93.45,
         "members": 49
@@ -1956,6 +1942,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791920624376
+    "_syncedAt": 1791922167105
   }
 }
