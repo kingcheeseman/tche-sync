@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 37,
+    "members": 34,
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
@@ -92,20 +92,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1791863768
-      },
-      {
-        "username": "qutest",
-        "displayName": "Qutest",
-        "role": "member",
-        "joinStamp": 1778852418,
-        "allTimeRaces": 5100,
-        "wpm": 86,
-        "highestWPM": 102,
-        "teamRaces": 839,
-        "acc": 96.85,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1785173607
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -290,20 +276,6 @@
         "lastLogin": 1791564324
       },
       {
-        "username": "sukuna3",
-        "displayName": "sukuna3",
-        "role": "member",
-        "joinStamp": 1791737054,
-        "allTimeRaces": 2054,
-        "wpm": 39,
-        "highestWPM": 83,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791734020
-      },
-      {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
         "displayName": "ECLIPS - MARIO CART",
         "role": "member",
@@ -318,20 +290,6 @@
         "lastLogin": 1791335517
       },
       {
-        "username": "b3a6675257c5e707e43ac401406418e9",
-        "displayName": "CrimsonNClover",
-        "role": "member",
-        "joinStamp": 1782135556,
-        "allTimeRaces": 5511,
-        "wpm": 78,
-        "highestWPM": 98,
-        "teamRaces": 1973,
-        "acc": 96.2,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1785215267
-      },
-      {
         "username": "cats_4_eva",
         "displayName": "Cats_4_Eva",
         "role": "officer",
@@ -343,7 +301,7 @@
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791842272
+        "lastLogin": 1791890073
       },
       {
         "username": "quickbrownpony",
@@ -533,18 +491,18 @@
         "races": 75380,
         "avgWPM": 55,
         "avgAcc": 93.58,
-        "members": 37
+        "members": 34
       },
       "daily": {
         "races": 265,
         "avgWPM": 66,
         "avgAcc": 91.57,
-        "members": 37
+        "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791889721246
+    "_syncedAt": 1791891065670
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,12 +1175,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791889740076
+    "_syncedAt": 1791891084424
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791889758885,
+    "_syncedAt": 1791891103207,
     "aggregates": {
       "alltime": null,
       "daily": null,
