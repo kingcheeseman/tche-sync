@@ -1,17 +1,18 @@
 {
-  "_syncedAt": 1791906563722,
-  "team": 1791906271405,
-  "startrack": 1791906297464,
-  "comps": 1791906301448,
-  "seasons": 1791906563722,
-  "weekly": 1791906563722,
-  "daily": 1791906563722,
+  "_syncedAt": 1791907895660,
+  "team": 1791907612161,
+  "startrack": 1791907633486,
+  "comps": 1791907637623,
+  "seasons": 1791907895660,
+  "weekly": 1791907895660,
+  "daily": 1791907895660,
   "allies": [
     "KEYCAT",
     "SVC",
-    "TCHE2"
+    "IMTR",
+    "THB0S"
   ],
-  "took": 292898,
+  "took": 284004,
   "ok": [
     "team",
     "startrack",
@@ -23,8 +24,10 @@
     "ally-sr-KEYCAT",
     "ally-SVC",
     "ally-sr-SVC",
-    "ally-TCHE2",
-    "ally-sr-TCHE2"
+    "ally-IMTR",
+    "ally-sr-IMTR",
+    "ally-THB0S",
+    "ally-sr-THB0S"
   ],
   "failed": []
 }

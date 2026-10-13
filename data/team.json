@@ -377,11 +377,11 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2293,
-      "wpm": 70,
+      "allTimeRaces": 2308,
+      "wpm": 73,
       "highestWPM": 90,
-      "teamRaces": 398,
-      "acc": 93.76,
+      "teamRaces": 409,
+      "acc": 93.75,
       "season": null,
       "status": "active",
       "lastLogin": 1791905757
@@ -503,10 +503,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4310,
-      "wpm": 93,
+      "allTimeRaces": 4321,
+      "wpm": 92,
       "highestWPM": 118,
-      "teamRaces": 1879,
+      "teamRaces": 1892,
       "acc": 92.34,
       "season": null,
       "status": "active",
@@ -517,11 +517,11 @@
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 641,
-      "wpm": 63,
+      "allTimeRaces": 654,
+      "wpm": 59,
       "highestWPM": 109,
-      "teamRaces": 78,
-      "acc": 94.36,
+      "teamRaces": 94,
+      "acc": 94.71,
       "season": null,
       "status": "active",
       "lastLogin": 1791905033
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50161,
+      "races": 50201,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 759,
+      "races": 747,
       "avgWPM": 72,
-      "avgAcc": 96.35,
+      "avgAcc": 96.21,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791906271405
+  "_syncedAt": 1791907612161
 }
