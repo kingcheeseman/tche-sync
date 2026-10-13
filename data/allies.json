@@ -168,8 +168,8 @@
         "displayName": "Limit RyZex1x",
         "role": "member",
         "joinStamp": 1790268573,
-        "allTimeRaces": 2363,
-        "wpm": 77,
+        "allTimeRaces": 2367,
+        "wpm": 78,
         "highestWPM": 94,
         "teamRaces": 65,
         "acc": 93.43,
@@ -224,14 +224,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1647,
+        "allTimeRaces": 1653,
         "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 602,
-        "acc": 90.48,
+        "teamRaces": 608,
+        "acc": 90.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1791901604
+        "lastLogin": 1791903674
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75421,
+        "races": 75427,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 136,
+        "races": 132,
         "avgWPM": 69,
-        "avgAcc": 92,
+        "avgAcc": 92.03,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791903628793
+    "_syncedAt": 1791904620119
   },
   "SVC": {
     "tag": "SVC",
@@ -589,14 +589,14 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1687,
-        "wpm": 85,
+        "allTimeRaces": 1690,
+        "wpm": 86,
         "highestWPM": 107,
         "teamRaces": 295,
         "acc": 94.45,
         "season": null,
         "status": "active",
-        "lastLogin": 1791833881
+        "lastLogin": 1791904407
       },
       {
         "username": "longeater",
@@ -729,14 +729,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4201,
-        "wpm": 77,
+        "allTimeRaces": 4206,
+        "wpm": 75,
         "highestWPM": 99,
         "teamRaces": 847,
         "acc": 92.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1791899842
+        "lastLogin": 1791904410
       },
       {
         "username": "hieuanp",
@@ -1167,20 +1167,20 @@
         "members": 46
       },
       "daily": {
-        "races": 157,
+        "races": 152,
         "avgWPM": 82,
-        "avgAcc": 94.57,
+        "avgAcc": 94.67,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791903650143
+    "_syncedAt": 1791904639469
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791903669217,
+    "_syncedAt": 1791904658559,
     "aggregates": {
       "alltime": null,
       "daily": null,

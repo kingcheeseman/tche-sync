@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 48,
+  "members": 49,
   "activePercent": 76,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: padlet.com/funnelbuilderjake/immortals_iii",
-  "profileViews": 1874,
+  "profileViews": 1875,
   "leagueTier": 10,
   "racers": [
     {
@@ -27,11 +27,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4395,
+      "allTimeRaces": 4396,
       "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 213,
-      "acc": 94.73,
+      "teamRaces": 216,
+      "acc": 94.74,
       "season": null,
       "status": "active",
       "lastLogin": 1791903451
@@ -317,6 +317,20 @@
       "lastLogin": 1791471627
     },
     {
+      "username": "7f0032fd385260dbd67780a4c053a0f3",
+      "displayName": "Sile314",
+      "role": "member",
+      "joinStamp": 1791903595,
+      "allTimeRaces": 1136,
+      "wpm": 108,
+      "highestWPM": 129,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1791902588
+    },
+    {
       "username": "wsoccerboy0929",
       "displayName": "GoudaCheese",
       "role": "member",
@@ -436,8 +450,8 @@
       "allTimeRaces": 4132,
       "wpm": 87,
       "highestWPM": 100,
-      "teamRaces": 134,
-      "acc": 94.85,
+      "teamRaces": 135,
+      "acc": 94.84,
       "season": null,
       "status": "active",
       "lastLogin": 1791902481
@@ -489,14 +503,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4276,
-      "wpm": 85,
+      "allTimeRaces": 4287,
+      "wpm": 88,
       "highestWPM": 118,
-      "teamRaces": 1851,
-      "acc": 92.3,
+      "teamRaces": 1857,
+      "acc": 92.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1791866634
+      "lastLogin": 1791903579
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -683,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50102,
+      "races": 50112,
       "avgWPM": 75,
       "avgAcc": 95.04,
-      "members": 48
+      "members": 49
     },
     "daily": {
-      "races": 707,
+      "races": 713,
       "avgWPM": 70,
-      "avgAcc": 96.4,
-      "members": 48
+      "avgAcc": 96.37,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791903572830
+  "_syncedAt": 1791904551252
 }
