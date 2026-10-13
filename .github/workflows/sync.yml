@@ -33,7 +33,7 @@ jobs:
       - name: Run sync
         env:
           TCHE_TAG: IMT
-          ALLY_TAGS: KEYCAT,SVC,TCHE2
+          ALLY_TAGS: KEYCAT,SVC,TCHE2,THB0S
         run: node sync.js
 
       - name: Commit updated data
