@@ -413,7 +413,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791911986
+        "lastLogin": 1791924334
       },
       {
         "username": "daisyiscute2026",
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791924044058
+    "_syncedAt": 1791925690197
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791924063054
+    "_syncedAt": 1791925709114
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791924081961
+    "_syncedAt": 1791925732644
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1261,8 +1261,8 @@
         "allTimeRaces": 48528,
         "wpm": 120,
         "highestWPM": 136,
-        "teamRaces": 487,
-        "acc": 94.06,
+        "teamRaces": 488,
+        "acc": 94.05,
         "season": null,
         "status": "active",
         "lastLogin": 1791923175
@@ -1734,10 +1734,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18105,
+        "allTimeRaces": 18108,
         "wpm": 87,
         "highestWPM": 123,
-        "teamRaces": 17645,
+        "teamRaces": 17648,
         "acc": 93.91,
         "season": null,
         "status": "active",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112173,
+        "races": 112177,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1340,
-        "avgWPM": 67,
-        "avgAcc": 93.45,
+        "races": 1328,
+        "avgWPM": 66,
+        "avgAcc": 93.4,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791924251413
+    "_syncedAt": 1791925901872
   }
 }
