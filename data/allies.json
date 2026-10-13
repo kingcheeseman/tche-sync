@@ -6,7 +6,7 @@
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, TCHE",
-    "profileViews": 2801,
+    "profileViews": 2803,
     "leagueTier": 10,
     "racers": [
       {
@@ -224,11 +224,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1632,
+        "allTimeRaces": 1641,
         "wpm": 67,
         "highestWPM": 90,
-        "teamRaces": 579,
-        "acc": 90.51,
+        "teamRaces": 596,
+        "acc": 90.49,
         "season": null,
         "status": "active",
         "lastLogin": 1791894477
@@ -297,7 +297,7 @@
         "allTimeRaces": 13499,
         "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11288,
+        "teamRaces": 11291,
         "acc": 93.39,
         "season": null,
         "status": "active",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75394,
+        "races": 75414,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 269,
+        "races": 272,
         "avgWPM": 66,
-        "avgAcc": 91.44,
+        "avgAcc": 91.39,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791895033739
+    "_syncedAt": 1791896840683
   },
   "SVC": {
     "tag": "SVC",
@@ -771,14 +771,14 @@
         "displayName": "Aiden2fast",
         "role": "member",
         "joinStamp": 1789571426,
-        "allTimeRaces": 2489,
-        "wpm": 79,
+        "allTimeRaces": 2492,
+        "wpm": 78,
         "highestWPM": 99,
-        "teamRaces": 557,
-        "acc": 87.53,
+        "teamRaces": 560,
+        "acc": 87.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791827264
+        "lastLogin": 1791895866
       },
       {
         "username": "inamejefff",
@@ -942,8 +942,8 @@
         "allTimeRaces": 712,
         "wpm": 81,
         "highestWPM": 96,
-        "teamRaces": 292,
-        "acc": 93.62,
+        "teamRaces": 296,
+        "acc": 93.61,
         "season": null,
         "status": "active",
         "lastLogin": 1791894241
@@ -1161,26 +1161,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 38976,
+        "races": 38983,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 163,
-        "avgWPM": 86,
-        "avgAcc": 95.04,
+        "races": 170,
+        "avgWPM": 85,
+        "avgAcc": 94.88,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791895052946
+    "_syncedAt": 1791896859380
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791895072001,
+    "_syncedAt": 1791896878032,
     "aggregates": {
       "alltime": null,
       "daily": null,

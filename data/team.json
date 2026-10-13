@@ -20,7 +20,7 @@
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1791574961
+      "lastLogin": 1791896544
     },
     {
       "username": "tre1typer",
@@ -671,31 +671,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1633,
+      "allTimeRaces": 1648,
       "wpm": 48,
       "highestWPM": 97,
-      "teamRaces": 292,
-      "acc": 92.04,
+      "teamRaces": 307,
+      "acc": 92,
       "season": null,
       "status": "active",
-      "lastLogin": 1791892733
+      "lastLogin": 1791895880
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 50033,
+      "races": 50048,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 764,
+      "races": 778,
       "avgWPM": 70,
-      "avgAcc": 96.74,
+      "avgAcc": 96.69,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791894980590
+  "_syncedAt": 1791896755536
 }
