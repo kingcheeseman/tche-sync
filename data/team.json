@@ -223,10 +223,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8291,
-      "wpm": 88,
+      "allTimeRaces": 8327,
+      "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 7473,
+      "teamRaces": 7516,
       "acc": 97.09,
       "season": null,
       "status": "active",
@@ -475,11 +475,11 @@
       "displayName": "YellowBronzeCoral",
       "role": "member",
       "joinStamp": 1786907870,
-      "allTimeRaces": 4437,
-      "wpm": 89,
+      "allTimeRaces": 4439,
+      "wpm": 88,
       "highestWPM": 125,
-      "teamRaces": 232,
-      "acc": 92.96,
+      "teamRaces": 235,
+      "acc": 92.95,
       "season": null,
       "status": "active",
       "lastLogin": 1791914011
@@ -506,7 +506,7 @@
       "allTimeRaces": 4340,
       "wpm": 89,
       "highestWPM": 118,
-      "teamRaces": 1914,
+      "teamRaces": 1915,
       "acc": 92.34,
       "season": null,
       "status": "active",
@@ -688,8 +688,8 @@
       "allTimeRaces": 1672,
       "wpm": 52,
       "highestWPM": 97,
-      "teamRaces": 330,
-      "acc": 92.14,
+      "teamRaces": 331,
+      "acc": 92.15,
       "season": null,
       "status": "active",
       "lastLogin": 1791915065
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50454,
+      "races": 50502,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 867,
+      "races": 911,
       "avgWPM": 75,
-      "avgAcc": 96.11,
+      "avgAcc": 96.16,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791915341599
+  "_syncedAt": 1791916846694
 }
