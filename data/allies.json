@@ -70,14 +70,14 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 420,
-        "wpm": 49,
+        "allTimeRaces": 428,
+        "wpm": 48,
         "highestWPM": 105,
         "teamRaces": 115,
         "acc": 93.45,
         "season": null,
         "status": "active",
-        "lastLogin": 1791912363
+        "lastLogin": 1791914991
       },
       {
         "username": "5af6551faaa97a65c01a63e11783bab8",
@@ -364,10 +364,10 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4841,
-        "wpm": 76,
+        "allTimeRaces": 4850,
+        "wpm": 82,
         "highestWPM": 108,
-        "teamRaces": 405,
+        "teamRaces": 414,
         "acc": 95.03,
         "season": null,
         "status": "active",
@@ -483,7 +483,7 @@
         "acc": 88.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1791742566
+        "lastLogin": 1791914873
       },
       {
         "username": "dirk_nowitzki41",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75479,
+        "races": 75488,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 35
       },
       "daily": {
-        "races": 129,
-        "avgWPM": 68,
-        "avgAcc": 92.12,
+        "races": 127,
+        "avgWPM": 70,
+        "avgAcc": 92.5,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791914397836
+    "_syncedAt": 1791915400380
   },
   "SVC": {
     "tag": "SVC",
@@ -953,10 +953,10 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 718,
-        "wpm": 83,
+        "allTimeRaces": 723,
+        "wpm": 85,
         "highestWPM": 100,
-        "teamRaces": 302,
+        "teamRaces": 307,
         "acc": 93.65,
         "season": null,
         "status": "active",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39078,
+        "races": 39083,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 184,
+        "races": 189,
         "avgWPM": 82,
-        "avgAcc": 94.4,
+        "avgAcc": 94.38,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791914425375
+    "_syncedAt": 1791915419790
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791914444611
+    "_syncedAt": 1791915438881
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1692,11 +1692,11 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 13934,
-        "wpm": 81,
+        "allTimeRaces": 13952,
+        "wpm": 75,
         "highestWPM": 99,
-        "teamRaces": 645,
-        "acc": 95.99,
+        "teamRaces": 651,
+        "acc": 96,
         "season": null,
         "status": "active",
         "lastLogin": 1791914498
@@ -1706,14 +1706,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1385,
-        "wpm": 102,
+        "allTimeRaces": 1388,
+        "wpm": 103,
         "highestWPM": 121,
         "teamRaces": 934,
         "acc": 96.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1791838824
+        "lastLogin": 1791915424
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1928,7 +1928,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112048,
+        "races": 112054,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 48
@@ -1936,12 +1936,12 @@
       "daily": {
         "races": 1432,
         "avgWPM": 68,
-        "avgAcc": 93.67,
+        "avgAcc": 93.68,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791914614262
+    "_syncedAt": 1791915608689
   }
 }

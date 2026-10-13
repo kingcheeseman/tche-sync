@@ -223,10 +223,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8267,
-      "wpm": 86,
+      "allTimeRaces": 8291,
+      "wpm": 88,
       "highestWPM": 110,
-      "teamRaces": 7445,
+      "teamRaces": 7473,
       "acc": 97.09,
       "season": null,
       "status": "active",
@@ -475,11 +475,11 @@
       "displayName": "YellowBronzeCoral",
       "role": "member",
       "joinStamp": 1786907870,
-      "allTimeRaces": 4428,
-      "wpm": 94,
+      "allTimeRaces": 4437,
+      "wpm": 89,
       "highestWPM": 125,
-      "teamRaces": 218,
-      "acc": 92.93,
+      "teamRaces": 232,
+      "acc": 92.96,
       "season": null,
       "status": "active",
       "lastLogin": 1791914011
@@ -503,8 +503,8 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4339,
-      "wpm": 92,
+      "allTimeRaces": 4340,
+      "wpm": 89,
       "highestWPM": 118,
       "teamRaces": 1914,
       "acc": 92.34,
@@ -646,7 +646,7 @@
       "allTimeRaces": 4512,
       "wpm": 83,
       "highestWPM": 111,
-      "teamRaces": 875,
+      "teamRaces": 876,
       "acc": 91.63,
       "season": null,
       "status": "active",
@@ -685,31 +685,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1671,
-      "wpm": 50,
+      "allTimeRaces": 1672,
+      "wpm": 52,
       "highestWPM": 97,
       "teamRaces": 330,
       "acc": 92.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1791899065
+      "lastLogin": 1791915065
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 50411,
+      "races": 50454,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 842,
-      "avgWPM": 74,
-      "avgAcc": 96.08,
+      "races": 867,
+      "avgWPM": 75,
+      "avgAcc": 96.11,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791914325712
+  "_syncedAt": 1791915341599
 }
