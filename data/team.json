@@ -5,7 +5,7 @@
   "activePercent": 76,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: padlet.com/funnelbuilderjake/immortals_iii",
-  "profileViews": 1873,
+  "profileViews": 1874,
   "leagueTier": 10,
   "racers": [
     {
@@ -27,14 +27,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4393,
+      "allTimeRaces": 4395,
       "wpm": 89,
       "highestWPM": 110,
       "teamRaces": 213,
       "acc": 94.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1791824603
+      "lastLogin": 1791903451
     },
     {
       "username": "b5df6b937c7df0ecdd139910f87bc020",
@@ -377,10 +377,10 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 916,
-      "wpm": 92,
+      "allTimeRaces": 918,
+      "wpm": 93,
       "highestWPM": 114,
-      "teamRaces": 569,
+      "teamRaces": 571,
       "acc": 94.67,
       "season": null,
       "status": "active",
@@ -433,14 +433,14 @@
       "displayName": "supermom",
       "role": "member",
       "joinStamp": 1789659795,
-      "allTimeRaces": 4126,
+      "allTimeRaces": 4132,
       "wpm": 87,
       "highestWPM": 100,
-      "teamRaces": 129,
-      "acc": 94.78,
+      "teamRaces": 134,
+      "acc": 94.85,
       "season": null,
       "status": "active",
-      "lastLogin": 1790545796
+      "lastLogin": 1791902481
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50095,
+      "races": 50102,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 716,
+      "races": 707,
       "avgWPM": 70,
-      "avgAcc": 96.44,
+      "avgAcc": 96.4,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791901893704
+  "_syncedAt": 1791903572830
 }

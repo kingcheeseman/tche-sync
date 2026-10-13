@@ -168,14 +168,14 @@
         "displayName": "Limit RyZex1x",
         "role": "member",
         "joinStamp": 1790268573,
-        "allTimeRaces": 2362,
+        "allTimeRaces": 2363,
         "wpm": 77,
         "highestWPM": 94,
-        "teamRaces": 64,
-        "acc": 93.4,
+        "teamRaces": 65,
+        "acc": 93.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1791826691
+        "lastLogin": 1791903505
       },
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75420,
+        "races": 75421,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 151,
-        "avgWPM": 70,
-        "avgAcc": 91.98,
+        "races": 136,
+        "avgWPM": 69,
+        "avgAcc": 92,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791901946153
+    "_syncedAt": 1791903628793
   },
   "SVC": {
     "tag": "SVC",
@@ -1167,20 +1167,20 @@
         "members": 46
       },
       "daily": {
-        "races": 185,
-        "avgWPM": 84,
-        "avgAcc": 94.67,
+        "races": 157,
+        "avgWPM": 82,
+        "avgAcc": 94.57,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791901965399
+    "_syncedAt": 1791903650143
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791901984421,
+    "_syncedAt": 1791903669217,
     "aggregates": {
       "alltime": null,
       "daily": null,
