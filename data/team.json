@@ -27,11 +27,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4431,
+      "allTimeRaces": 4438,
       "wpm": 91,
       "highestWPM": 110,
-      "teamRaces": 246,
-      "acc": 94.83,
+      "teamRaces": 258,
+      "acc": 94.79,
       "season": null,
       "status": "active",
       "lastLogin": 1791910852
@@ -223,14 +223,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8246,
+      "allTimeRaces": 8267,
       "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 7429,
-      "acc": 97.08,
+      "teamRaces": 7445,
+      "acc": 97.09,
       "season": null,
       "status": "active",
-      "lastLogin": 1791912203
+      "lastLogin": 1791914103
     },
     {
       "username": "c2495d96b22894b412e9ccdef575e72f",
@@ -475,14 +475,14 @@
       "displayName": "YellowBronzeCoral",
       "role": "member",
       "joinStamp": 1786907870,
-      "allTimeRaces": 4422,
-      "wpm": 89,
+      "allTimeRaces": 4428,
+      "wpm": 94,
       "highestWPM": 125,
       "teamRaces": 218,
       "acc": 92.93,
       "season": null,
       "status": "active",
-      "lastLogin": 1791777969
+      "lastLogin": 1791914011
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -643,10 +643,10 @@
       "displayName": "viewmyvioletgarage",
       "role": "member",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4505,
-      "wpm": 87,
+      "allTimeRaces": 4512,
+      "wpm": 83,
       "highestWPM": 111,
-      "teamRaces": 862,
+      "teamRaces": 875,
       "acc": 91.63,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50370,
+      "races": 50411,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 808,
+      "races": 842,
       "avgWPM": 74,
-      "avgAcc": 96.15,
+      "avgAcc": 96.08,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791913471655
+  "_syncedAt": 1791914325712
 }

@@ -364,14 +364,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4840,
+        "allTimeRaces": 4841,
         "wpm": 76,
         "highestWPM": 108,
-        "teamRaces": 404,
-        "acc": 95.02,
+        "teamRaces": 405,
+        "acc": 95.03,
         "season": null,
         "status": "active",
-        "lastLogin": 1791910723
+        "lastLogin": 1791913735
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -381,8 +381,8 @@
         "allTimeRaces": 1420,
         "wpm": 61,
         "highestWPM": 78,
-        "teamRaces": 89,
-        "acc": 92.93,
+        "teamRaces": 91,
+        "acc": 92.92,
         "season": null,
         "status": "active",
         "lastLogin": 1791913238
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75476,
+        "races": 75479,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 35
       },
       "daily": {
-        "races": 146,
+        "races": 129,
         "avgWPM": 68,
-        "avgAcc": 92.16,
+        "avgAcc": 92.12,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791913548443
+    "_syncedAt": 1791914397836
   },
   "SVC": {
     "tag": "SVC",
@@ -953,14 +953,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 712,
-        "wpm": 81,
-        "highestWPM": 96,
-        "teamRaces": 296,
-        "acc": 93.61,
+        "allTimeRaces": 718,
+        "wpm": 83,
+        "highestWPM": 100,
+        "teamRaces": 302,
+        "acc": 93.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1791894241
+        "lastLogin": 1791914035
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39072,
+        "races": 39078,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 46
       },
       "daily": {
-        "races": 185,
+        "races": 184,
         "avgWPM": 82,
-        "avgAcc": 94.12,
+        "avgAcc": 94.4,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791913567743
+    "_syncedAt": 1791914425375
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791913586711
+    "_syncedAt": 1791914444611
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1261,8 +1261,8 @@
         "allTimeRaces": 333,
         "wpm": 90,
         "highestWPM": 108,
-        "teamRaces": 128,
-        "acc": 95.89,
+        "teamRaces": 133,
+        "acc": 95.88,
         "season": null,
         "status": "active",
         "lastLogin": 1791911612
@@ -1597,7 +1597,7 @@
         "allTimeRaces": 2111,
         "wpm": 43,
         "highestWPM": 85,
-        "teamRaces": 693,
+        "teamRaces": 694,
         "acc": 89.58,
         "season": null,
         "status": "active",
@@ -1699,7 +1699,7 @@
         "acc": 95.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1791908629
+        "lastLogin": 1791914498
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1928,13 +1928,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112042,
+        "races": 112048,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 48
       },
       "daily": {
-        "races": 1444,
+        "races": 1432,
         "avgWPM": 68,
         "avgAcc": 93.67,
         "members": 48
@@ -1942,6 +1942,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791913756362
+    "_syncedAt": 1791914614262
   }
 }
