@@ -84,14 +84,14 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3911,
+        "allTimeRaces": 3913,
         "wpm": 79,
         "highestWPM": 97,
-        "teamRaces": 3110,
+        "teamRaces": 3112,
         "acc": 95.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1791860497
+        "lastLogin": 1791863768
       },
       {
         "username": "qutest",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75378,
+        "races": 75380,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 263,
+        "races": 265,
         "avgWPM": 66,
-        "avgAcc": 91.53,
+        "avgAcc": 91.57,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791863387937
+    "_syncedAt": 1791864497462
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,12 +1217,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791863406892
+    "_syncedAt": 1791864521871
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791863425686,
+    "_syncedAt": 1791864540790,
     "aggregates": {
       "alltime": null,
       "daily": null,
