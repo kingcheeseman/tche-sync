@@ -277,15 +277,35 @@ async function fetchSeasonRacers(context, timeframeLabel) {
         const u = link ? link.href.split("/racer/")[1].split(/[?#]/)[0] : null;
         const f = c[0] || "";
         const m = f.match(new RegExp("^(\\d+)\\[" + TAG + "\\](.+?)\"(.*)\"$"));
+        // Robust column detection — the 24h and Weekly tables have different
+        // column counts than Season. Scan remaining cells and classify:
+        //   first non-decimal integer       → races
+        //   first value with "." and <=100  → accuracy %
+        //   first value with "." and >20    → WPM
+        //   remaining big integer           → points
+        const rest = c.slice(1).map(x => x.replace(/,/g, ""));
+        const parseN = v => { const n = parseFloat(v); return isNaN(n) ? null : n; };
+        let races = 0, accuracy = 0, wpm = 0, points = 0, ppr = 0;
+        for (const v of rest) {
+          const s = v.replace("%", "").trim();
+          if (!s) continue;
+          const n = parseN(s);
+          if (n == null) continue;
+          const hasDecimal = /\./.test(s);
+          if (!hasDecimal && Number.isInteger(n)) {
+            if (!races && n > 0 && n < 100000) races = n;
+            else if (!points && n > races) points = n;
+            else if (!ppr && n >= 50 && n <= 200) ppr = n;
+          } else if (hasDecimal) {
+            if (!accuracy && n > 50 && n <= 100) accuracy = n;
+            else if (!wpm && n > 10 && n < 300) wpm = n;
+          }
+        }
         return {
           rank: m ? Number(m[1]) : null,
           username: u,
           displayName: m ? m[2].trim() : f,
-          races: Number((c[3] || "").replace(/,/g, "")) || 0,
-          accuracy: parseFloat((c[4] || "").replace("%", "")) || 0,
-          wpm: parseFloat(c[5]) || 0,
-          points: Number((c[6] || "").replace(/,/g, "")) || 0,
-          ppr: Number((c[7] || "").replace(/,/g, "")) || 0,
+          races, accuracy, wpm, points, ppr,
         };
       });
       return { value, label: seasonLabel, racers: rows };
