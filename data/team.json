@@ -643,10 +643,10 @@
       "displayName": "falconsteve2",
       "role": "member",
       "joinStamp": 1789689465,
-      "allTimeRaces": 991,
-      "wpm": 82,
+      "allTimeRaces": 992,
+      "wpm": 83,
       "highestWPM": 101,
-      "teamRaces": 130,
+      "teamRaces": 131,
       "acc": 95.92,
       "season": null,
       "status": "active",
@@ -671,31 +671,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1648,
-      "wpm": 48,
+      "allTimeRaces": 1671,
+      "wpm": 50,
       "highestWPM": 97,
-      "teamRaces": 307,
-      "acc": 92,
+      "teamRaces": 328,
+      "acc": 92.11,
       "season": null,
       "status": "active",
-      "lastLogin": 1791895880
+      "lastLogin": 1791899065
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 50061,
+      "races": 50083,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 775,
+      "races": 753,
       "avgWPM": 70,
-      "avgAcc": 96.67,
+      "avgAcc": 96.57,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791898519422
+  "_syncedAt": 1791900145653
 }
