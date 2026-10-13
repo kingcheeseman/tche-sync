@@ -4,7 +4,7 @@
   "members": 49,
   "activePercent": 76,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Padlet: padlet.com/funnelbuilderjake/immortals_iii",
+  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Website: https://tinyurl.com/IMT-Website",
   "profileViews": 1877,
   "leagueTier": 10,
   "racers": [
@@ -27,14 +27,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4396,
-      "wpm": 89,
+      "allTimeRaces": 4400,
+      "wpm": 85,
       "highestWPM": 110,
       "teamRaces": 216,
       "acc": 94.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1791903451
+      "lastLogin": 1791910852
     },
     {
       "username": "b5df6b937c7df0ecdd139910f87bc020",
@@ -223,14 +223,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8168,
-      "wpm": 90,
+      "allTimeRaces": 8188,
+      "wpm": 87,
       "highestWPM": 110,
-      "teamRaces": 7358,
+      "teamRaces": 7367,
       "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1791908370
+      "lastLogin": 1791910391
     },
     {
       "username": "c2495d96b22894b412e9ccdef575e72f",
@@ -510,7 +510,7 @@
       "acc": 92.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1791903579
+      "lastLogin": 1791910995
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50240,
+      "races": 50249,
       "avgWPM": 75,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 741,
+      "races": 737,
       "avgWPM": 72,
-      "avgAcc": 96.03,
+      "avgAcc": 96.14,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791910164858
+  "_syncedAt": 1791911233132
 }
