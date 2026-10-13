@@ -34,11 +34,11 @@
         "ppr": 120
       },
       "alltime": {
-        "rank": 223,
-        "races": 1933,
-        "accuracy": 92.07,
-        "wpm": 62.6,
-        "points": 233656,
+        "rank": 219,
+        "races": 2198,
+        "accuracy": 91.9,
+        "wpm": 63,
+        "points": 265627,
         "ppr": 121
       }
     },
@@ -49,7 +49,7 @@
     "points": 265627,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791886164347
+    "_syncedAt": 1791887493658
   },
   "SVC": {
     "timeframes": {
@@ -87,10 +87,10 @@
       },
       "alltime": {
         "rank": 93,
-        "races": 28574,
+        "races": 28729,
         "accuracy": 94.03,
         "wpm": 85.8,
-        "points": 3839382,
+        "points": 3860248,
         "ppr": 134
       }
     },
@@ -101,7 +101,7 @@
     "points": 1126885,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791886183841
+    "_syncedAt": 1791887512470
   },
   "TCHE2": {
     "timeframes": {
@@ -118,6 +118,6 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791886353062
+    "_syncedAt": 1791887681495
   }
 }
