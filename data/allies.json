@@ -224,10 +224,10 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1641,
-        "wpm": 67,
+        "allTimeRaces": 1644,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 596,
+        "teamRaces": 599,
         "acc": 90.49,
         "season": null,
         "status": "active",
@@ -488,21 +488,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75414,
+        "races": 75417,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 34
       },
       "daily": {
-        "races": 272,
+        "races": 234,
         "avgWPM": 66,
-        "avgAcc": 91.39,
+        "avgAcc": 91.14,
         "members": 34
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791896840683
+    "_syncedAt": 1791898597282
   },
   "SVC": {
     "tag": "SVC",
@@ -771,14 +771,14 @@
         "displayName": "Aiden2fast",
         "role": "member",
         "joinStamp": 1789571426,
-        "allTimeRaces": 2492,
+        "allTimeRaces": 2493,
         "wpm": 78,
         "highestWPM": 99,
         "teamRaces": 560,
         "acc": 87.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791895866
+        "lastLogin": 1791898562
       },
       {
         "username": "inamejefff",
@@ -1175,12 +1175,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791896859380
+    "_syncedAt": 1791898616014
   },
   "TCHE2": {
     "error": "INVALID_REQUEST",
     "tag": "TCHE2",
-    "_syncedAt": 1791896878032,
+    "_syncedAt": 1791898634819,
     "aggregates": {
       "alltime": null,
       "daily": null,
