@@ -11,6 +11,9 @@
   // GitHub Actions keeps data/ fresh every 15 min.
   const DATA_BASE = "./data";
   const GITHUB_REPO = "kingcheeseman/tche-sync";
+  // Firebase Realtime DB — shared reactions store (free tier).
+  const FIREBASE_URL = "https://imt-dashboard-cd8eb-default-rtdb.firebaseio.com";
+  const REACTIONS_POLL_MS = 15000;
   const GITHUB_EDIT = (file) => `https://github.com/${GITHUB_REPO}/edit/main/${file}`;
   const SYNC_INTERVAL_MS = 5 * 60 * 1000; // re-poll data/*.json every 5 min
   // Admin password hash — SHA-256 of the password. To change, hash the new one
@@ -181,6 +184,7 @@
     updateAdminSlot();
     render();
     scheduleAutoSync();
+    startReactionsSync();
   }
 
   async function fetchGH(name) {
@@ -972,31 +976,70 @@
     </div>`;
   }
 
+  // Firebase Realtime DB — shared reactions store
+  async function fetchSharedReactions() {
+    try {
+      const r = await fetch(`${FIREBASE_URL}/reactions.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) return null;
+      return (await r.json()) || {};
+    } catch (_) { return null; }
+  }
+  async function pushReactionLeaf(target, emoji, userId, isSet) {
+    // Firebase REST: PUT a single leaf, or DELETE it. target may contain slashes; encode.
+    const path = `reactions/${encodeURIComponent(target)}/${encodeURIComponent(emoji)}/${encodeURIComponent(userId)}.json`;
+    try {
+      if (isSet) {
+        await fetch(`${FIREBASE_URL}/${path}`, { method: "PUT", body: JSON.stringify(Date.now()) });
+      } else {
+        await fetch(`${FIREBASE_URL}/${path}`, { method: "DELETE" });
+      }
+      return true;
+    } catch (_) { return false; }
+  }
+
   async function toggleReaction(target, emoji) {
-    if (!state.db || !state.myUserId) { toast("Can't react right now", 3000); return; }
+    if (!state.myUserId) { toast("Can't react right now", 3000); return; }
     const current = (state.reactions && state.reactions[target]) || {};
     const next = { ...current };
+    const uid = state.myUserId;
     // Clear this user's prior reaction (one at a time)
+    const removes = [];
     for (const e of REACTION_EMOJIS) {
-      if (next[e] && typeof next[e] === "object" && next[e][state.myUserId]) {
+      if (next[e] && typeof next[e] === "object" && next[e][uid]) {
         const nu = { ...next[e] };
-        delete nu[state.myUserId];
+        delete nu[uid];
         next[e] = nu;
+        removes.push(e);
       }
     }
-    // Toggle: if clicked the same emoji they had, leave it cleared; else set.
-    const was = current[emoji] && current[emoji][state.myUserId];
+    const was = current[emoji] && current[emoji][uid];
+    let addedEmoji = null;
     if (!was) {
-      next[emoji] = { ...(next[emoji] || {}), [state.myUserId]: Date.now() };
+      next[emoji] = { ...(next[emoji] || {}), [uid]: Date.now() };
+      addedEmoji = emoji;
     }
-    // Optimistic
+    // Optimistic UI update
     state.reactions = { ...state.reactions, [target]: next };
     render();
+    // Push to Firebase: delete any prior emojis, set the new one
     try {
-      await writeDoc(`reactions/${target}`, next);
+      await Promise.all(removes.map(e => pushReactionLeaf(target, e, uid, false)));
+      if (addedEmoji) await pushReactionLeaf(target, addedEmoji, uid, true);
     } catch (e) {
       toast("Couldn't save your reaction", 3500);
     }
+  }
+
+  function startReactionsSync() {
+    const refresh = async () => {
+      const data = await fetchSharedReactions();
+      if (data != null) {
+        state.reactions = data;
+        if (state.page === "info" || state.page === "home") render();
+      }
+    };
+    refresh();
+    setInterval(() => { if (!document.hidden) refresh(); }, REACTIONS_POLL_MS);
   }
 
   function wireReactions() {
