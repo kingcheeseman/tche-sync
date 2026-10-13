@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791932682857
+    "_syncedAt": 1791934452596
   },
   "SVC": {
     "tag": "SVC",
@@ -1135,14 +1135,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 802,
-        "wpm": 117,
+        "allTimeRaces": 806,
+        "wpm": 116,
         "highestWPM": 138,
         "teamRaces": 746,
         "acc": 96.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1791856934
+        "lastLogin": 1791934279
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791932707637
+    "_syncedAt": 1791934471366
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,16 +1227,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791932726467
+    "_syncedAt": 1791934490240
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 49,
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 3966,
+    "profileViews": 3969,
     "leagueTier": 10,
     "racers": [
       {
@@ -1674,20 +1674,6 @@
         "lastLogin": 1791895273
       },
       {
-        "username": "kamrondel0461",
-        "displayName": "UnderstandingCoffeeOpossum",
-        "role": "member",
-        "joinStamp": 1791932098,
-        "allTimeRaces": 30231,
-        "wpm": 77,
-        "highestWPM": 122,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791930008
-      },
-      {
         "username": "e32e09bc862222a8555509279a758bd3",
         "displayName": "Dragons r da best",
         "role": "member",
@@ -1748,14 +1734,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18125,
-        "wpm": 86,
+        "allTimeRaces": 18126,
+        "wpm": 85,
         "highestWPM": 123,
-        "teamRaces": 17665,
+        "teamRaces": 17666,
         "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1791930479
+        "lastLogin": 1791932953
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1942,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112231,
+        "races": 112232,
         "avgWPM": 67,
         "avgAcc": 94.01,
-        "members": 50
+        "members": 49
       },
       "daily": {
-        "races": 1305,
-        "avgWPM": 66,
-        "avgAcc": 93.46,
-        "members": 50
+        "races": 1216,
+        "avgWPM": 65,
+        "avgAcc": 93.44,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791932895934
+    "_syncedAt": 1791934659710
   }
 }

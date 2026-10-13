@@ -27,14 +27,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4438,
-      "wpm": 91,
+      "allTimeRaces": 4456,
+      "wpm": 92,
       "highestWPM": 110,
-      "teamRaces": 258,
-      "acc": 94.79,
+      "teamRaces": 273,
+      "acc": 94.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1791910852
+      "lastLogin": 1791933141
     },
     {
       "username": "tbnr_andy",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50714,
+      "races": 50729,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 936,
+      "races": 942,
       "avgWPM": 77,
-      "avgAcc": 96.09,
+      "avgAcc": 96.03,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791932610808
+  "_syncedAt": 1791934401523
 }
