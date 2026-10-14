@@ -31,8 +31,8 @@
         "allTimeRaces": 2619,
         "wpm": 66,
         "highestWPM": 87,
-        "teamRaces": 235,
-        "acc": 91.56,
+        "teamRaces": 242,
+        "acc": 91.54,
         "season": null,
         "status": "active",
         "lastLogin": 1792007018
@@ -392,10 +392,10 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4859,
-        "wpm": 79,
-        "highestWPM": 108,
-        "teamRaces": 423,
+        "allTimeRaces": 4860,
+        "wpm": 81,
+        "highestWPM": 112,
+        "teamRaces": 424,
         "acc": 95.04,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75741,
+        "races": 75749,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 222,
+        "races": 230,
         "avgWPM": 65,
-        "avgAcc": 92.82,
+        "avgAcc": 92.79,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792007809799
+    "_syncedAt": 1792009111047
   },
   "SVC": {
     "tag": "SVC",
@@ -1054,7 +1054,7 @@
         "allTimeRaces": 1101,
         "wpm": 88,
         "highestWPM": 110,
-        "teamRaces": 961,
+        "teamRaces": 965,
         "acc": 96.67,
         "season": null,
         "status": "active",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39453,
+        "races": 39457,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 360,
+        "races": 364,
         "avgWPM": 84,
-        "avgAcc": 94.96,
+        "avgAcc": 94.98,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792007828985
+    "_syncedAt": 1792009136521
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792007847950
+    "_syncedAt": 1792009155241
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1426,11 +1426,11 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1228,
-        "wpm": 52,
+        "allTimeRaces": 1247,
+        "wpm": 53,
         "highestWPM": 84,
-        "teamRaces": 452,
-        "acc": 91.71,
+        "teamRaces": 472,
+        "acc": 91.73,
         "season": null,
         "status": "active",
         "lastLogin": 1792007526
@@ -1734,14 +1734,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1396,
-        "wpm": 98,
+        "allTimeRaces": 1409,
+        "wpm": 103,
         "highestWPM": 121,
-        "teamRaces": 945,
-        "acc": 96.34,
+        "teamRaces": 958,
+        "acc": 96.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1791915424
+        "lastLogin": 1792008173
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1874,10 +1874,10 @@
         "displayName": "rk7474",
         "role": "member",
         "joinStamp": 1791761571,
-        "allTimeRaces": 2736,
-        "wpm": 53,
+        "allTimeRaces": 2753,
+        "wpm": 56,
         "highestWPM": 72,
-        "teamRaces": 358,
+        "teamRaces": 372,
         "acc": 92.38,
         "season": null,
         "status": "active",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112833,
+        "races": 112880,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 673,
-        "avgWPM": 52,
-        "avgAcc": 91.79,
+        "races": 716,
+        "avgWPM": 53,
+        "avgAcc": 92.03,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792008017455
+    "_syncedAt": 1792009324454
   }
 }
