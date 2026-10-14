@@ -69,14 +69,14 @@
       "displayName": "TrySetBuddy",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1271,
-      "wpm": 98,
+      "allTimeRaces": 1272,
+      "wpm": 96,
       "highestWPM": 102,
-      "teamRaces": 43,
-      "acc": 97.49,
+      "teamRaces": 44,
+      "acc": 97.4,
       "season": null,
       "status": "active",
-      "lastLogin": 1792000761
+      "lastLogin": 1792013157
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -496,7 +496,7 @@
       "acc": 92.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1792011293
+      "lastLogin": 1792014703
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51341,
+      "races": 51342,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 652,
-      "avgWPM": 84,
-      "avgAcc": 94.96,
+      "races": 628,
+      "avgWPM": 83,
+      "avgAcc": 94.89,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792012630564
+  "_syncedAt": 1792014909923
 }
