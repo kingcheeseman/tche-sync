@@ -41,11 +41,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4496,
-      "wpm": 94,
+      "allTimeRaces": 4523,
+      "wpm": 87,
       "highestWPM": 110,
-      "teamRaces": 314,
-      "acc": 94.69,
+      "teamRaces": 333,
+      "acc": 94.65,
       "season": null,
       "status": "active",
       "lastLogin": 1791997254
@@ -268,7 +268,7 @@
       "allTimeRaces": 1936,
       "wpm": 79,
       "highestWPM": 104,
-      "teamRaces": 480,
+      "teamRaces": 481,
       "acc": 90.67,
       "season": null,
       "status": "active",
@@ -489,11 +489,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4412,
-      "wpm": 94,
+      "allTimeRaces": 4425,
+      "wpm": 95,
       "highestWPM": 118,
-      "teamRaces": 1987,
-      "acc": 92.4,
+      "teamRaces": 2000,
+      "acc": 92.41,
       "season": null,
       "status": "active",
       "lastLogin": 1791995788
@@ -503,11 +503,11 @@
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 661,
-      "wpm": 51,
+      "allTimeRaces": 679,
+      "wpm": 60,
       "highestWPM": 109,
-      "teamRaces": 99,
-      "acc": 94.78,
+      "teamRaces": 119,
+      "acc": 94.77,
       "season": null,
       "status": "active",
       "lastLogin": 1791996013
@@ -671,31 +671,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1694,
-      "wpm": 48,
+      "allTimeRaces": 1707,
+      "wpm": 54,
       "highestWPM": 97,
-      "teamRaces": 353,
-      "acc": 92.22,
+      "teamRaces": 358,
+      "acc": 92.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1791982011
+      "lastLogin": 1791998757
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 51132,
+      "races": 51190,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 860,
-      "avgWPM": 85,
-      "avgAcc": 95.69,
+      "races": 851,
+      "avgWPM": 84,
+      "avgAcc": 95.57,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791997899569
+  "_syncedAt": 1791999576048
 }
