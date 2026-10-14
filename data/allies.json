@@ -6,7 +6,7 @@
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
-    "profileViews": 2824,
+    "profileViews": 2825,
     "leagueTier": 10,
     "racers": [
       {
@@ -392,11 +392,11 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4860,
-        "wpm": 81,
+        "allTimeRaces": 4865,
+        "wpm": 85,
         "highestWPM": 112,
-        "teamRaces": 424,
-        "acc": 95.04,
+        "teamRaces": 429,
+        "acc": 95.03,
         "season": null,
         "status": "active",
         "lastLogin": 1792006797
@@ -441,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1791995768
+        "lastLogin": 1792011277
       },
       {
         "username": "daisyiscute2026",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75749,
+        "races": 75754,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 230,
-        "avgWPM": 65,
-        "avgAcc": 92.79,
+        "races": 235,
+        "avgWPM": 66,
+        "avgAcc": 92.83,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792009111047
+    "_syncedAt": 1792011371215
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792009136521
+    "_syncedAt": 1792011390281
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792009155241
+    "_syncedAt": 1792011409140
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1762,14 +1762,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18142,
-        "wpm": 93,
+        "allTimeRaces": 18146,
+        "wpm": 95,
         "highestWPM": 123,
         "teamRaces": 17682,
         "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1791979299
+        "lastLogin": 1792010494
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1874,11 +1874,11 @@
         "displayName": "rk7474",
         "role": "member",
         "joinStamp": 1791761571,
-        "allTimeRaces": 2753,
-        "wpm": 56,
+        "allTimeRaces": 2761,
+        "wpm": 53,
         "highestWPM": 72,
-        "teamRaces": 372,
-        "acc": 92.38,
+        "teamRaces": 381,
+        "acc": 92.36,
         "season": null,
         "status": "active",
         "lastLogin": 1791999301
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112880,
+        "races": 112889,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 716,
-        "avgWPM": 53,
-        "avgAcc": 92.03,
+        "races": 713,
+        "avgWPM": 52,
+        "avgAcc": 91.97,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792009324454
+    "_syncedAt": 1792011578490
   }
 }
