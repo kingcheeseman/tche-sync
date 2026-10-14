@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20015,
-      "wpm": 87,
+      "allTimeRaces": 20024,
+      "wpm": 85,
       "highestWPM": 108,
-      "teamRaces": 2376,
+      "teamRaces": 2385,
       "acc": 97.55,
       "season": null,
       "status": "active",
@@ -72,8 +72,8 @@
       "allTimeRaces": 1271,
       "wpm": 98,
       "highestWPM": 102,
-      "teamRaces": 36,
-      "acc": 97.43,
+      "teamRaces": 43,
+      "acc": 97.49,
       "season": null,
       "status": "active",
       "lastLogin": 1792000761
@@ -391,14 +391,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1007,
-      "wpm": 91,
+      "allTimeRaces": 1019,
+      "wpm": 92,
       "highestWPM": 114,
-      "teamRaces": 660,
-      "acc": 94.6,
+      "teamRaces": 666,
+      "acc": 94.61,
       "season": null,
       "status": "active",
-      "lastLogin": 1791994213
+      "lastLogin": 1792001400
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -646,8 +646,8 @@
       "allTimeRaces": 993,
       "wpm": 85,
       "highestWPM": 101,
-      "teamRaces": 131,
-      "acc": 95.92,
+      "teamRaces": 132,
+      "acc": 95.91,
       "season": null,
       "status": "active",
       "lastLogin": 1792001181
@@ -671,11 +671,11 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1710,
-      "wpm": 53,
+      "allTimeRaces": 1712,
+      "wpm": 52,
       "highestWPM": 97,
-      "teamRaces": 366,
-      "acc": 92.26,
+      "teamRaces": 371,
+      "acc": 92.27,
       "season": null,
       "status": "active",
       "lastLogin": 1791998757
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51214,
+      "races": 51242,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 780,
+      "races": 740,
       "avgWPM": 83,
-      "avgAcc": 95.65,
+      "avgAcc": 95.58,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792001364392
+  "_syncedAt": 1792003538891
 }
