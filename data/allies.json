@@ -259,7 +259,7 @@
         "acc": 90.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791948781
+        "lastLogin": 1791979514
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791978033782
+    "_syncedAt": 1791979690607
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791978053181
+    "_syncedAt": 1791979716475
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791978072249
+    "_syncedAt": 1791979735390
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1769,7 +1769,7 @@
         "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1791944817
+        "lastLogin": 1791979299
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1846,11 +1846,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8425,
+        "allTimeRaces": 8458,
         "wpm": 40,
         "highestWPM": 75,
-        "teamRaces": 991,
-        "acc": 87.16,
+        "teamRaces": 1025,
+        "acc": 87.09,
         "season": null,
         "status": "active",
         "lastLogin": 1791967648
@@ -1874,14 +1874,14 @@
         "displayName": "rk7474",
         "role": "member",
         "joinStamp": 1791761571,
-        "allTimeRaces": 2628,
-        "wpm": 51,
+        "allTimeRaces": 2629,
+        "wpm": 53,
         "highestWPM": 72,
-        "teamRaces": 250,
-        "acc": 92.09,
+        "teamRaces": 251,
+        "acc": 92.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1791941581
+        "lastLogin": 1791979589
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112541,
+        "races": 112576,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 1076,
+        "races": 1081,
         "avgWPM": 60,
-        "avgAcc": 92.67,
+        "avgAcc": 92.62,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791978241952
+    "_syncedAt": 1791979904877
   }
 }
