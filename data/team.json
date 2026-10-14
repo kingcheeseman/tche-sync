@@ -2,7 +2,7 @@
   "tag": "IMT",
   "name": "Immortals III",
   "members": 49,
-  "activePercent": 76,
+  "activePercent": 79,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨CASH PRIZES for active racers✨Website: https://tinyurl.com/IMT-Website",
   "profileViews": 1881,
@@ -139,14 +139,14 @@
       "displayName": "Ep_1K PFP VIEWS_Ep",
       "role": "member",
       "joinStamp": 1791866672,
-      "allTimeRaces": 18224,
-      "wpm": 43,
+      "allTimeRaces": 18241,
+      "wpm": 78,
       "highestWPM": 129,
-      "teamRaces": 397,
-      "acc": 97.21,
+      "teamRaces": 425,
+      "acc": 97.44,
       "season": null,
       "status": "active",
-      "lastLogin": 1791872418
+      "lastLogin": 1791951432
     },
     {
       "username": "cb3ab5e40d020486ffbd0a073a0a6fd6",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50759,
+      "races": 50787,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 961,
+      "races": 989,
       "avgWPM": 78,
-      "avgAcc": 95.94,
+      "avgAcc": 96.05,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791950971908
+  "_syncedAt": 1791952831929
 }

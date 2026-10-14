@@ -343,7 +343,7 @@
         "acc": 97.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791947443
+        "lastLogin": 1791951896
       },
       {
         "username": "quickbrownpony",
@@ -544,13 +544,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791951024068
+    "_syncedAt": 1791952885066
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 45,
-    "activePercent": 69,
+    "activePercent": 68,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 1983,
@@ -715,14 +715,14 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4514,
-        "wpm": 62,
+        "allTimeRaces": 4523,
+        "wpm": 58,
         "highestWPM": 78,
-        "teamRaces": 113,
-        "acc": 98.05,
+        "teamRaces": 121,
+        "acc": 98.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1791950263
+        "lastLogin": 1791952758
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39159,
+        "races": 39167,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 45
       },
       "daily": {
-        "races": 191,
-        "avgWPM": 79,
-        "avgAcc": 94.32,
+        "races": 199,
+        "avgWPM": 78,
+        "avgAcc": 94.44,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791951043646
+    "_syncedAt": 1791952904410
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791951062415
+    "_syncedAt": 1791952923531
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1962,14 +1962,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1049,
+        "races": 1035,
         "avgWPM": 61,
-        "avgAcc": 93.07,
+        "avgAcc": 93.02,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791951231703
+    "_syncedAt": 1791953093413
   }
 }
