@@ -377,24 +377,24 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2320,
-      "wpm": 70,
+      "allTimeRaces": 2321,
+      "wpm": 69,
       "highestWPM": 90,
-      "teamRaces": 425,
-      "acc": 93.75,
+      "teamRaces": 426,
+      "acc": 93.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1791994345
+      "lastLogin": 1792003969
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1019,
-      "wpm": 92,
+      "allTimeRaces": 1036,
+      "wpm": 91,
       "highestWPM": 114,
-      "teamRaces": 666,
+      "teamRaces": 689,
       "acc": 94.61,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51242,
+      "races": 51266,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 740,
+      "races": 719,
       "avgWPM": 83,
-      "avgAcc": 95.58,
+      "avgAcc": 95.47,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792003538891
+  "_syncedAt": 1792005802316
 }
