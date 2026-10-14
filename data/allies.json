@@ -252,14 +252,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1693,
+        "allTimeRaces": 1709,
         "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 648,
+        "teamRaces": 658,
         "acc": 90.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1791979514
+        "lastLogin": 1791984807
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -322,10 +322,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13511,
-        "wpm": 84,
+        "allTimeRaces": 13512,
+        "wpm": 85,
         "highestWPM": 111,
-        "teamRaces": 11294,
+        "teamRaces": 11304,
         "acc": 93.39,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75575,
+        "races": 75595,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 158,
-        "avgWPM": 67,
-        "avgAcc": 93.67,
+        "races": 178,
+        "avgWPM": 68,
+        "avgAcc": 93.38,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791984387918
+    "_syncedAt": 1791986348914
   },
   "SVC": {
     "tag": "SVC",
@@ -771,10 +771,10 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4226,
-        "wpm": 72,
+        "allTimeRaces": 4235,
+        "wpm": 76,
         "highestWPM": 99,
-        "teamRaces": 872,
+        "teamRaces": 881,
         "acc": 92.97,
         "season": null,
         "status": "active",
@@ -967,14 +967,14 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1257,
-        "wpm": 60,
+        "allTimeRaces": 1265,
+        "wpm": 61,
         "highestWPM": 81,
         "teamRaces": 887,
         "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1791982344
+        "lastLogin": 1791986009
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39218,
+        "races": 39227,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 45
       },
       "daily": {
-        "races": 235,
-        "avgWPM": 76,
-        "avgAcc": 94.17,
+        "races": 237,
+        "avgWPM": 77,
+        "avgAcc": 94.24,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791984407508
+    "_syncedAt": 1791986380027
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791984426605
+    "_syncedAt": 1791986398851
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1867,7 +1867,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1791946113
+        "lastLogin": 1791985355
       },
       {
         "username": "rk7474",
@@ -1923,7 +1923,7 @@
         "acc": 93.76,
         "season": null,
         "status": "active",
-        "lastLogin": 1791947248
+        "lastLogin": 1791986317
       },
       {
         "username": "ashtooo2x",
@@ -1962,14 +1962,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1010,
+        "races": 978,
         "avgWPM": 62,
-        "avgAcc": 92.83,
+        "avgAcc": 92.81,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791984596498
+    "_syncedAt": 1791986568327
   }
 }
