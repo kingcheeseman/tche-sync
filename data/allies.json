@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791945482086
+    "_syncedAt": 1791947264327
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 69,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1982,
+    "profileViews": 1983,
     "leagueTier": 10,
     "racers": [
       {
@@ -634,8 +634,8 @@
         "allTimeRaces": 1446,
         "wpm": 81,
         "highestWPM": 105,
-        "teamRaces": 351,
-        "acc": 94.35,
+        "teamRaces": 352,
+        "acc": 94.36,
         "season": null,
         "status": "active",
         "lastLogin": 1791944071
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39141,
+        "races": 39142,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 45
       },
       "daily": {
-        "races": 193,
+        "races": 194,
         "avgWPM": 79,
-        "avgAcc": 94.35,
+        "avgAcc": 94.36,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791945501026
+    "_syncedAt": 1791947283419
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791945519784
+    "_syncedAt": 1791947302311
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1678,14 +1678,14 @@
         "displayName": "Chicken banana",
         "role": "member",
         "joinStamp": 1791796576,
-        "allTimeRaces": 300,
+        "allTimeRaces": 305,
         "wpm": 39,
         "highestWPM": 63,
-        "teamRaces": 120,
-        "acc": 90.91,
+        "teamRaces": 125,
+        "acc": 90.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1791895273
+        "lastLogin": 1791945975
       },
       {
         "username": "e32e09bc862222a8555509279a758bd3",
@@ -1846,14 +1846,14 @@
         "displayName": "BDR 200 sesh",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2294,
-        "wpm": 96,
+        "allTimeRaces": 2295,
+        "wpm": 95,
         "highestWPM": 117,
-        "teamRaces": 2280,
+        "teamRaces": 2281,
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1791938112
+        "lastLogin": 1791946113
       },
       {
         "username": "rk7474",
@@ -1909,7 +1909,7 @@
         "acc": 93.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1791936758
+        "lastLogin": 1791947248
       },
       {
         "username": "ashtooo2x",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112252,
+        "races": 112258,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1072,
-        "avgWPM": 62,
-        "avgAcc": 93.17,
+        "races": 1052,
+        "avgWPM": 61,
+        "avgAcc": 93.07,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791945689034
+    "_syncedAt": 1791947471921
   }
 }
