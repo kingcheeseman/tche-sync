@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791934452596
+    "_syncedAt": 1791936045956
   },
   "SVC": {
     "tag": "SVC",
@@ -617,14 +617,14 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1411,
-        "wpm": 81,
+        "allTimeRaces": 1421,
+        "wpm": 82,
         "highestWPM": 105,
-        "teamRaces": 317,
-        "acc": 94.35,
+        "teamRaces": 327,
+        "acc": 94.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1791833939
+        "lastLogin": 1791935203
       },
       {
         "username": "6a2fc92ea132c463ba9e2b9e91ed44b7",
@@ -1135,10 +1135,10 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 806,
-        "wpm": 116,
+        "allTimeRaces": 816,
+        "wpm": 108,
         "highestWPM": 138,
-        "teamRaces": 746,
+        "teamRaces": 760,
         "acc": 96.49,
         "season": null,
         "status": "active",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39093,
+        "races": 39117,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 45
       },
       "daily": {
-        "races": 156,
-        "avgWPM": 78,
-        "avgAcc": 94.33,
+        "races": 180,
+        "avgWPM": 81,
+        "avgAcc": 94.57,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791934471366
+    "_syncedAt": 1791936064902
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791934490240
+    "_syncedAt": 1791936083837
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1734,10 +1734,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18126,
+        "allTimeRaces": 18127,
         "wpm": 85,
         "highestWPM": 123,
-        "teamRaces": 17666,
+        "teamRaces": 17667,
         "acc": 93.91,
         "season": null,
         "status": "active",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112232,
+        "races": 112233,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1216,
-        "avgWPM": 65,
-        "avgAcc": 93.44,
+        "races": 1188,
+        "avgWPM": 64,
+        "avgAcc": 93.39,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791934659710
+    "_syncedAt": 1791936253388
   }
 }
