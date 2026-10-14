@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 35,
+    "members": 36,
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
@@ -234,6 +234,20 @@
         "lastLogin": 1791375129
       },
       {
+        "username": "f879569ec4bc30c0ed7dd8847af0616c",
+        "displayName": "PerceptiveEmeraldWasp",
+        "role": "member",
+        "joinStamp": 1791939301,
+        "allTimeRaces": 104,
+        "wpm": 41,
+        "highestWPM": 55,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1791935879
+      },
+      {
         "username": "1e47c8cfaf1f8f2565f896d4d9b4ef7a",
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
@@ -315,7 +329,7 @@
         "acc": 93.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1791918393
+        "lastLogin": 1791939287
       },
       {
         "username": "quickbrownpony",
@@ -505,18 +519,18 @@
         "races": 75519,
         "avgWPM": 55,
         "avgAcc": 93.58,
-        "members": 35
+        "members": 36
       },
       "daily": {
         "races": 155,
         "avgWPM": 70,
         "avgAcc": 93.18,
-        "members": 35
+        "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791937576546
+    "_syncedAt": 1791940053242
   },
   "SVC": {
     "tag": "SVC",
@@ -1167,15 +1181,15 @@
         "members": 45
       },
       "daily": {
-        "races": 194,
-        "avgWPM": 81,
-        "avgAcc": 94.54,
+        "races": 193,
+        "avgWPM": 80,
+        "avgAcc": 94.52,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791937595381
+    "_syncedAt": 1791940072055
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791937614436
+    "_syncedAt": 1791940090916
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1250,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 3973,
+    "profileViews": 3974,
     "leagueTier": 10,
     "racers": [
       {
@@ -1734,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18128,
+        "allTimeRaces": 18130,
         "wpm": 85,
         "highestWPM": 123,
-        "teamRaces": 17668,
+        "teamRaces": 17670,
         "acc": 93.91,
         "season": null,
         "status": "active",
@@ -1839,7 +1853,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1791931632
+        "lastLogin": 1791938112
       },
       {
         "username": "rk7474",
@@ -1928,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112237,
+        "races": 112239,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1162,
+        "races": 1140,
         "avgWPM": 63,
-        "avgAcc": 93.29,
+        "avgAcc": 93.26,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791937783859
+    "_syncedAt": 1791940260375
   }
 }
