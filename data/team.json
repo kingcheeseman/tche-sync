@@ -391,14 +391,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1036,
-      "wpm": 91,
+      "allTimeRaces": 1067,
+      "wpm": 88,
       "highestWPM": 114,
-      "teamRaces": 689,
-      "acc": 94.61,
+      "teamRaces": 714,
+      "acc": 94.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1792001400
+      "lastLogin": 1792006310
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -447,14 +447,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3165,
+      "allTimeRaces": 3166,
       "wpm": 53,
       "highestWPM": 107,
-      "teamRaces": 107,
+      "teamRaces": 108,
       "acc": 92.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1792000278
+      "lastLogin": 1792005804
     },
     {
       "username": "booomtype",
@@ -594,7 +594,7 @@
       "acc": 99,
       "season": null,
       "status": "active",
-      "lastLogin": 1791977263
+      "lastLogin": 1792007611
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51266,
+      "races": 51292,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 719,
-      "avgWPM": 83,
-      "avgAcc": 95.47,
+      "races": 726,
+      "avgWPM": 84,
+      "avgAcc": 95.36,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792005802316
+  "_syncedAt": 1792007754433
 }
