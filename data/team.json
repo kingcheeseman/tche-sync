@@ -377,14 +377,14 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2308,
+      "allTimeRaces": 2310,
       "wpm": 73,
       "highestWPM": 90,
-      "teamRaces": 413,
-      "acc": 93.74,
+      "teamRaces": 415,
+      "acc": 93.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1791905757
+      "lastLogin": 1791981069
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -482,7 +482,7 @@
       "acc": 92.95,
       "season": null,
       "status": "active",
-      "lastLogin": 1791914011
+      "lastLogin": 1791979859
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -685,31 +685,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1680,
-      "wpm": 52,
+      "allTimeRaces": 1691,
+      "wpm": 51,
       "highestWPM": 97,
-      "teamRaces": 339,
+      "teamRaces": 342,
       "acc": 92.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1791916929
+      "lastLogin": 1791980066
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 50845,
+      "races": 50850,
       "avgWPM": 76,
       "avgAcc": 95.06,
       "members": 49
     },
     "daily": {
-      "races": 823,
+      "races": 812,
       "avgWPM": 83,
-      "avgAcc": 95.94,
+      "avgAcc": 95.98,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791979640093
+  "_syncedAt": 1791981988123
 }
