@@ -3,34 +3,34 @@
     "timeframes": {
       "24h": {
         "rank": 49,
-        "races": 195,
-        "accuracy": 92.56,
-        "wpm": 68.3,
-        "points": 24209,
+        "races": 199,
+        "accuracy": 92.74,
+        "wpm": 67.4,
+        "points": 24674,
         "ppr": 124
       },
       "season": {
         "rank": 69,
-        "races": 2433,
-        "accuracy": 91.91,
+        "races": 2448,
+        "accuracy": 91.92,
         "wpm": 63.6,
-        "points": 294707,
+        "points": 296535,
         "ppr": 121
       },
       "week": {
         "rank": 44,
-        "races": 1754,
-        "accuracy": 91.58,
+        "races": 1769,
+        "accuracy": 91.6,
         "wpm": 64.6,
-        "points": 212516,
+        "points": 214344,
         "ppr": 121
       },
       "weekly": {
         "rank": 47,
-        "races": 630,
-        "accuracy": 91.52,
-        "wpm": 64.7,
-        "points": 76313,
+        "races": 645,
+        "accuracy": 91.57,
+        "wpm": 64.6,
+        "points": 78140,
         "ppr": 121
       },
       "alltime": {
@@ -43,46 +43,46 @@
       }
     },
     "rank": 69,
-    "races": 2433,
-    "accuracy": 91.91,
+    "races": 2448,
+    "accuracy": 91.92,
     "wpm": 63.6,
-    "points": 294707,
+    "points": 296535,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791989949793
+    "_syncedAt": 1791991551921
   },
   "SVC": {
     "timeframes": {
       "24h": {
         "rank": 44,
-        "races": 253,
-        "accuracy": 94.18,
-        "wpm": 78.7,
-        "points": 33200,
+        "races": 252,
+        "accuracy": 94.09,
+        "wpm": 78.4,
+        "points": 33011,
         "ppr": 131
       },
       "season": {
         "rank": 41,
-        "races": 8704,
-        "accuracy": 94.14,
+        "races": 8718,
+        "accuracy": 94.13,
         "wpm": 84.2,
-        "points": 1164215,
+        "points": 1165987,
         "ppr": 134
       },
       "week": {
         "rank": 53,
-        "races": 1065,
+        "races": 1058,
         "accuracy": 94.43,
-        "wpm": 77.6,
-        "points": 139577,
+        "wpm": 77.5,
+        "points": 138623,
         "ppr": 131
       },
       "weekly": {
-        "rank": 52,
-        "races": 466,
-        "accuracy": 94.31,
+        "rank": 51,
+        "races": 480,
+        "accuracy": 94.21,
         "wpm": 79.4,
-        "points": 61397,
+        "points": 63165,
         "ppr": 132
       },
       "alltime": {
@@ -95,13 +95,13 @@
       }
     },
     "rank": 41,
-    "races": 8704,
-    "accuracy": 94.14,
+    "races": 8718,
+    "accuracy": 94.13,
     "wpm": 84.2,
-    "points": 1164215,
+    "points": 1165987,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791989968951
+    "_syncedAt": 1791991571035
   },
   "IMTR": {
     "timeframes": {
@@ -118,32 +118,32 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791990138865
+    "_syncedAt": 1791991740518
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 21,
-        "races": 907,
-        "accuracy": 92.11,
-        "wpm": 60.6,
-        "points": 108854,
+        "rank": 22,
+        "races": 869,
+        "accuracy": 92.14,
+        "wpm": 61.2,
+        "points": 104561,
         "ppr": 120
       },
       "season": {
         "rank": 18,
-        "races": 30271,
+        "races": 30274,
         "accuracy": 93.29,
         "wpm": 68.1,
-        "points": 3785307,
+        "points": 3785663,
         "ppr": 125
       },
       "week": {
         "rank": 18,
-        "races": 7341,
+        "races": 7288,
         "accuracy": 92.89,
         "wpm": 70.1,
-        "points": 920751,
+        "points": 914151,
         "ppr": 125
       },
       "weekly": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 18,
-    "races": 30271,
+    "races": 30274,
     "accuracy": 93.29,
     "wpm": 68.1,
-    "points": 3785307,
+    "points": 3785663,
     "ppr": 125,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791990158299
+    "_syncedAt": 1791991763664
   }
 }

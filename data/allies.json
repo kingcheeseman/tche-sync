@@ -168,28 +168,28 @@
         "displayName": "KASSIEE",
         "role": "member",
         "joinStamp": 1790268202,
-        "allTimeRaces": 506,
-        "wpm": 36,
+        "allTimeRaces": 521,
+        "wpm": 33,
         "highestWPM": 44,
-        "teamRaces": 107,
-        "acc": 91.91,
+        "teamRaces": 122,
+        "acc": 91.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1790271234
+        "lastLogin": 1791990175
       },
       {
         "username": "k9vr_17",
         "displayName": "Limit RyZex1x",
         "role": "member",
         "joinStamp": 1790268573,
-        "allTimeRaces": 2381,
-        "wpm": 77,
+        "allTimeRaces": 2389,
+        "wpm": 78,
         "highestWPM": 94,
-        "teamRaces": 79,
-        "acc": 93.49,
+        "teamRaces": 91,
+        "acc": 93.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1791989099
+        "lastLogin": 1791990408
       },
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75619,
+        "races": 75646,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 37
       },
       "daily": {
-        "races": 199,
-        "avgWPM": 68,
-        "avgAcc": 93.1,
+        "races": 215,
+        "avgWPM": 66,
+        "avgAcc": 93.23,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791989930689
+    "_syncedAt": 1791991533258
   },
   "SVC": {
     "tag": "SVC",
@@ -771,10 +771,10 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4247,
+        "allTimeRaces": 4248,
         "wpm": 78,
         "highestWPM": 99,
-        "teamRaces": 883,
+        "teamRaces": 894,
         "acc": 92.98,
         "season": null,
         "status": "active",
@@ -816,8 +816,8 @@
         "allTimeRaces": 2516,
         "wpm": 78,
         "highestWPM": 99,
-        "teamRaces": 581,
-        "acc": 87.55,
+        "teamRaces": 584,
+        "acc": 87.54,
         "season": null,
         "status": "active",
         "lastLogin": 1791989781
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39258,
+        "races": 39272,
         "avgWPM": 82,
         "avgAcc": 94.26,
         "members": 45
       },
       "daily": {
-        "races": 253,
-        "avgWPM": 79,
-        "avgAcc": 94.5,
+        "races": 252,
+        "avgWPM": 78,
+        "avgAcc": 94.42,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791989950011
+    "_syncedAt": 1791991552344
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1212,7 +1212,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
-    "profileViews": 8,
+    "profileViews": 9,
     "leagueTier": 2,
     "racers": [
       {
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791989969171
+    "_syncedAt": 1791991571165
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1426,14 +1426,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1211,
-        "wpm": 52,
+        "allTimeRaces": 1220,
+        "wpm": 57,
         "highestWPM": 84,
-        "teamRaces": 436,
+        "teamRaces": 439,
         "acc": 91.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1791986701
+        "lastLogin": 1791990926
       },
       {
         "username": "baglepet000",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112610,
+        "races": 112613,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 912,
+        "races": 876,
         "avgWPM": 61,
-        "avgAcc": 92.72,
+        "avgAcc": 92.74,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791990139106
+    "_syncedAt": 1791991740674
   }
 }
