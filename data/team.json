@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20013,
+      "allTimeRaces": 20015,
       "wpm": 87,
       "highestWPM": 108,
-      "teamRaces": 2374,
+      "teamRaces": 2376,
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1791986791
+      "lastLogin": 1791999770
     },
     {
       "username": "jonathan711111",
@@ -44,8 +44,8 @@
       "allTimeRaces": 4523,
       "wpm": 87,
       "highestWPM": 110,
-      "teamRaces": 333,
-      "acc": 94.65,
+      "teamRaces": 343,
+      "acc": 94.62,
       "season": null,
       "status": "active",
       "lastLogin": 1791997254
@@ -69,14 +69,14 @@
       "displayName": "TrySetBuddy",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1264,
-      "wpm": 96,
+      "allTimeRaces": 1271,
+      "wpm": 98,
       "highestWPM": 102,
       "teamRaces": 36,
       "acc": 97.43,
       "season": null,
       "status": "active",
-      "lastLogin": 1791234997
+      "lastLogin": 1792000761
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -447,14 +447,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3161,
+      "allTimeRaces": 3165,
       "wpm": 53,
       "highestWPM": 107,
-      "teamRaces": 103,
-      "acc": 92.67,
+      "teamRaces": 107,
+      "acc": 92.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1791994395
+      "lastLogin": 1792000278
     },
     {
       "username": "booomtype",
@@ -643,14 +643,14 @@
       "displayName": "falconsteve2",
       "role": "member",
       "joinStamp": 1789689465,
-      "allTimeRaces": 992,
-      "wpm": 83,
+      "allTimeRaces": 993,
+      "wpm": 85,
       "highestWPM": 101,
       "teamRaces": 131,
       "acc": 95.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1791897572
+      "lastLogin": 1792001181
     },
     {
       "username": "33e83773380949c7f2fd34d850d93d34",
@@ -671,11 +671,11 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1707,
-      "wpm": 54,
+      "allTimeRaces": 1710,
+      "wpm": 53,
       "highestWPM": 97,
-      "teamRaces": 358,
-      "acc": 92.23,
+      "teamRaces": 366,
+      "acc": 92.26,
       "season": null,
       "status": "active",
       "lastLogin": 1791998757
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51190,
+      "races": 51214,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 851,
-      "avgWPM": 84,
-      "avgAcc": 95.57,
+      "races": 780,
+      "avgWPM": 83,
+      "avgAcc": 95.65,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791999576048
+  "_syncedAt": 1792001364392
 }
