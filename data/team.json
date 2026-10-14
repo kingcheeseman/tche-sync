@@ -30,8 +30,8 @@
       "allTimeRaces": 4483,
       "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 292,
-      "acc": 94.75,
+      "teamRaces": 303,
+      "acc": 94.73,
       "season": null,
       "status": "active",
       "lastLogin": 1791933141
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 50748,
+      "races": 50759,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 950,
+      "races": 961,
       "avgWPM": 78,
-      "avgAcc": 95.96,
+      "avgAcc": 95.94,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791935990678
+  "_syncedAt": 1791937513424
 }
