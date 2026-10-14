@@ -307,25 +307,25 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2695,
-      "wpm": 77,
+      "allTimeRaces": 2698,
+      "wpm": 78,
       "highestWPM": 102,
-      "teamRaces": 76,
-      "acc": 95.29,
+      "teamRaces": 79,
+      "acc": 95.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1791471627
+      "lastLogin": 1791992336
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1163,
-      "wpm": 106,
+      "allTimeRaces": 1182,
+      "wpm": 108,
       "highestWPM": 129,
-      "teamRaces": 23,
-      "acc": 96.5,
+      "teamRaces": 46,
+      "acc": 96.45,
       "season": null,
       "status": "active",
       "lastLogin": 1791990859
@@ -489,11 +489,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4405,
-      "wpm": 88,
+      "allTimeRaces": 4412,
+      "wpm": 94,
       "highestWPM": 118,
-      "teamRaces": 1975,
-      "acc": 92.41,
+      "teamRaces": 1987,
+      "acc": 92.4,
       "season": null,
       "status": "active",
       "lastLogin": 1791989405
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51027,
+      "races": 51065,
       "avgWPM": 76,
       "avgAcc": 95.06,
       "members": 48
     },
     "daily": {
-      "races": 904,
-      "avgWPM": 85,
-      "avgAcc": 95.83,
+      "races": 864,
+      "avgWPM": 86,
+      "avgAcc": 95.84,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1791991462937
+  "_syncedAt": 1791993658487
 }
