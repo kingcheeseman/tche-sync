@@ -6,7 +6,7 @@
     "activePercent": 81,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
-    "profileViews": 2826,
+    "profileViews": 2827,
     "leagueTier": 10,
     "racers": [
       {
@@ -413,7 +413,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792015914
+        "lastLogin": 1792020131
       },
       {
         "username": "daisyiscute2026",
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792019149593
+    "_syncedAt": 1792020858305
   },
   "SVC": {
     "tag": "SVC",
@@ -1135,14 +1135,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 851,
-        "wpm": 110,
+        "allTimeRaces": 855,
+        "wpm": 111,
         "highestWPM": 138,
-        "teamRaces": 795,
+        "teamRaces": 799,
         "acc": 96.5,
         "season": null,
         "status": "active",
-        "lastLogin": 1791999641
+        "lastLogin": 1792019913
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39457,
+        "races": 39461,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 364,
+        "races": 368,
         "avgWPM": 84,
-        "avgAcc": 94.98,
+        "avgAcc": 95,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792019168676
+    "_syncedAt": 1792020877698
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792019213831
+    "_syncedAt": 1792020896510
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1307,7 +1307,7 @@
         "acc": 91.45,
         "season": null,
         "status": "active",
-        "lastLogin": 1791944668
+        "lastLogin": 1792019624
       },
       {
         "username": "cooldudeboylike",
@@ -1356,14 +1356,14 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 2700,
-        "wpm": 65,
+        "allTimeRaces": 2713,
+        "wpm": 51,
         "highestWPM": 80,
-        "teamRaces": 995,
+        "teamRaces": 996,
         "acc": 96.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1791987163
+        "lastLogin": 1792020493
       },
       {
         "username": "cf08a6684253212c05a51a0517c71e04",
@@ -1942,7 +1942,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112994,
+        "races": 112995,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 50
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792019383107
+    "_syncedAt": 1792021065741
   }
 }
