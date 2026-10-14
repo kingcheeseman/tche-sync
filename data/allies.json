@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791974422037
+    "_syncedAt": 1791976198375
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791974441084
+    "_syncedAt": 1791976217102
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791974459989
+    "_syncedAt": 1791976235892
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1748,11 +1748,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 2949,
+        "allTimeRaces": 2956,
         "wpm": 36,
         "highestWPM": 60,
-        "teamRaces": 1479,
-        "acc": 92.11,
+        "teamRaces": 1486,
+        "acc": 92.12,
         "season": null,
         "status": "active",
         "lastLogin": 1791971552
@@ -1846,11 +1846,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8349,
-        "wpm": 40,
+        "allTimeRaces": 8390,
+        "wpm": 41,
         "highestWPM": 75,
-        "teamRaces": 915,
-        "acc": 87.33,
+        "teamRaces": 955,
+        "acc": 87.24,
         "season": null,
         "status": "active",
         "lastLogin": 1791967648
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112458,
+        "races": 112505,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 1079,
-        "avgWPM": 60,
-        "avgAcc": 92.74,
+        "races": 1072,
+        "avgWPM": 61,
+        "avgAcc": 92.72,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791974629459
+    "_syncedAt": 1791976405368
   }
 }
