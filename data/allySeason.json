@@ -49,7 +49,7 @@
     "points": 285262,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791969174592
+    "_syncedAt": 1791970865102
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 1154541,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791969193565
+    "_syncedAt": 1791970884361
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791969363030
+    "_syncedAt": 1791971053982
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 20,
-        "races": 1049,
-        "accuracy": 92.53,
-        "wpm": 60.5,
-        "points": 126424,
-        "ppr": 121
+        "races": 1069,
+        "accuracy": 92.43,
+        "wpm": 60.1,
+        "points": 128523,
+        "ppr": 120
       },
       "season": {
-        "rank": 19,
-        "races": 29972,
-        "accuracy": 93.34,
+        "rank": 18,
+        "races": 30009,
+        "accuracy": 93.33,
         "wpm": 68.3,
-        "points": 3753298,
+        "points": 3757317,
         "ppr": 125
       },
       "week": {
         "rank": 17,
-        "races": 7333,
-        "accuracy": 93.17,
+        "races": 7355,
+        "accuracy": 93.15,
         "wpm": 71.2,
-        "points": 926548,
+        "points": 928898,
         "ppr": 126
       },
       "weekly": {
         "rank": 16,
-        "races": 3539,
-        "accuracy": 92.32,
-        "wpm": 66.6,
-        "points": 435580,
+        "races": 3576,
+        "accuracy": 92.3,
+        "wpm": 66.4,
+        "points": 439573,
         "ppr": 123
       },
       "alltime": {
@@ -163,13 +163,13 @@
         "ppr": 125
       }
     },
-    "rank": 19,
-    "races": 29972,
-    "accuracy": 93.34,
+    "rank": 18,
+    "races": 30009,
+    "accuracy": 93.33,
     "wpm": 68.3,
-    "points": 3753298,
+    "points": 3757317,
     "ppr": 125,
     "source": "ntstartrack.org",
-    "_syncedAt": 1791969385371
+    "_syncedAt": 1791971073139
   }
 }

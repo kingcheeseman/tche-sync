@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791969155874
+    "_syncedAt": 1791970846174
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791969174795
+    "_syncedAt": 1791970865460
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791969193707
+    "_syncedAt": 1791970884522
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1846,11 +1846,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8236,
-        "wpm": 39,
+        "allTimeRaces": 8266,
+        "wpm": 40,
         "highestWPM": 75,
-        "teamRaces": 799,
-        "acc": 87.48,
+        "teamRaces": 833,
+        "acc": 87.44,
         "season": null,
         "status": "active",
         "lastLogin": 1791967648
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 112326,
+        "races": 112360,
         "avgWPM": 67,
         "avgAcc": 94.01,
         "members": 49
       },
       "daily": {
-        "races": 1054,
-        "avgWPM": 61,
-        "avgAcc": 93.07,
+        "races": 1086,
+        "avgWPM": 60,
+        "avgAcc": 92.93,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1791969363212
+    "_syncedAt": 1791971054233
   }
 }
