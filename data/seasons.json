@@ -45,7 +45,7 @@
           "ppr": 133
         },
         {
-          "rank": 550,
+          "rank": 551,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 683,
@@ -125,7 +125,7 @@
           "ppr": 126
         },
         {
-          "rank": 1116,
+          "rank": 1117,
           "username": "33e83773380949c7f2fd34d850d93d34",
           "displayName": "KippKat",
           "races": 282,
@@ -135,7 +135,17 @@
           "ppr": 135
         },
         {
-          "rank": 1327,
+          "rank": 1326,
+          "username": "1ea0b919208e21b376a29ac0befb794c",
+          "displayName": "StefanO",
+          "races": 221,
+          "accuracy": 94.15,
+          "wpm": 60.8,
+          "points": 27136,
+          "ppr": 123
+        },
+        {
+          "rank": 1329,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 203,
@@ -143,16 +153,6 @@
           "wpm": 84.3,
           "points": 27008,
           "ppr": 133
-        },
-        {
-          "rank": 1330,
-          "username": "1ea0b919208e21b376a29ac0befb794c",
-          "displayName": "StefanO",
-          "races": 219,
-          "accuracy": 94.13,
-          "wpm": 60.7,
-          "points": 26872,
-          "ppr": 123
         },
         {
           "rank": 1396,
@@ -175,7 +175,7 @@
           "ppr": 134
         },
         {
-          "rank": 1582,
+          "rank": 1584,
           "username": "e146afef38fb68bbc69f405b9a1ca1bb",
           "displayName": "supermom",
           "races": 135,
@@ -185,7 +185,7 @@
           "ppr": 133
         },
         {
-          "rank": 1591,
+          "rank": 1593,
           "username": "falconsteve2",
           "displayName": "falconsteve2",
           "races": 132,
@@ -195,7 +195,7 @@
           "ppr": 135
         },
         {
-          "rank": 1593,
+          "rank": 1595,
           "username": "6240c5f6dad57c347bcff59a0e6afbcc",
           "displayName": "LeoRuna",
           "races": 132,
@@ -205,7 +205,7 @@
           "ppr": 134
         },
         {
-          "rank": 1712,
+          "rank": 1713,
           "username": "0e94cbfd8e8ec77e912046bb79b8af07",
           "displayName": "Noah0821",
           "races": 119,
@@ -255,7 +255,7 @@
           "ppr": 112
         },
         {
-          "rank": 1968,
+          "rank": 1969,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 76,
@@ -266,12 +266,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792097007953
+      "_syncedAt": 1792098668381
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792097007953
+  "_syncedAt": 1792098668381
 }

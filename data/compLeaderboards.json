@@ -161,6 +161,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "StefanO",
+        "displayName": "StefanO",
+        "nickname": "Master Motorist",
+        "squad": "Side Hustler 100",
+        "races": 2,
+        "wpm": 74.1,
+        "accuracy": 96.19,
+        "points": 264,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
         "nickname": "Epic Nitro User",
@@ -172,6 +185,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792097046906
+    "_syncedAt": 1792098707494
   }
 }

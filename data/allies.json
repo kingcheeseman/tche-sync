@@ -508,15 +508,15 @@
         "members": 35
       },
       "daily": {
-        "races": 319,
+        "races": 311,
         "avgWPM": 64,
-        "avgAcc": 92.33,
+        "avgAcc": 92.24,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792097047060
+    "_syncedAt": 1792098707637
   },
   "SVC": {
     "tag": "SVC",
@@ -694,7 +694,7 @@
         "acc": 98.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792039521
+        "lastLogin": 1792098391
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792097065833
+    "_syncedAt": 1792098726547
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792097084774
+    "_syncedAt": 1792098745466
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4055,
+    "profileViews": 4059,
     "leagueTier": 11,
     "racers": [
       {
@@ -1265,7 +1265,7 @@
         "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792066457
+        "lastLogin": 1792098365
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1286,11 +1286,11 @@
         "displayName": "Joereynolds",
         "role": "member",
         "joinStamp": 1783518667,
-        "allTimeRaces": 11698,
+        "allTimeRaces": 11730,
         "wpm": 86,
         "highestWPM": 116,
-        "teamRaces": 4734,
-        "acc": 92.41,
+        "teamRaces": 4764,
+        "acc": 92.4,
         "season": null,
         "status": "active",
         "lastLogin": 1792097106
@@ -1916,14 +1916,14 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2746,
-        "wpm": 62,
+        "allTimeRaces": 2756,
+        "wpm": 49,
         "highestWPM": 70,
-        "teamRaces": 560,
-        "acc": 93.76,
+        "teamRaces": 570,
+        "acc": 93.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792032006
+        "lastLogin": 1792097515
       },
       {
         "username": "malott12",
@@ -1942,13 +1942,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114119,
+        "races": 114159,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1230,
+        "races": 1241,
         "avgWPM": 61,
         "avgAcc": 92.92,
         "members": 50
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792097254316
+    "_syncedAt": 1792098914998
   }
 }
