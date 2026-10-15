@@ -135,6 +135,19 @@
       {
         "rank": 11,
         "tag": "IMT",
+        "username": "KippKat",
+        "displayName": "KippKat",
+        "nickname": "Grim Reaper",
+        "squad": "Entrepreneur 500",
+        "races": 10,
+        "wpm": 78.9,
+        "accuracy": 95.22,
+        "points": 1328,
+        "tier": "B"
+      },
+      {
+        "rank": 12,
+        "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
         "nickname": "Filthy Rich",
@@ -146,7 +159,7 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -159,6 +172,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792095339439
+    "_syncedAt": 1792097046906
   }
 }

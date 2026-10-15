@@ -139,14 +139,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 761,
-      "wpm": 63,
+      "allTimeRaces": 763,
+      "wpm": 66,
       "highestWPM": 84,
-      "teamRaces": 260,
-      "acc": 94.61,
+      "teamRaces": 262,
+      "acc": 94.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1792010314
+      "lastLogin": 1792096901
     },
     {
       "username": "ilovepokedigers",
@@ -608,7 +608,7 @@
       "acc": 99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792063087
+      "lastLogin": 1792096307
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -671,14 +671,14 @@
       "displayName": "KippKat",
       "role": "officer",
       "joinStamp": 1782491687,
-      "allTimeRaces": 932,
-      "wpm": 78,
+      "allTimeRaces": 942,
+      "wpm": 79,
       "highestWPM": 96,
-      "teamRaces": 919,
-      "acc": 96.4,
+      "teamRaces": 929,
+      "acc": 96.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1792009262
+      "lastLogin": 1792095688
     },
     {
       "username": "f12e19599957d9c65c8d7609af78698d",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52016,
+      "races": 52028,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 718,
+      "races": 700,
       "avgWPM": 82,
-      "avgAcc": 94.45,
+      "avgAcc": 94.53,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792095266355
+  "_syncedAt": 1792096976056
 }

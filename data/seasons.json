@@ -35,7 +35,7 @@
           "ppr": 130
         },
         {
-          "rank": 439,
+          "rank": 440,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 860,
@@ -45,7 +45,7 @@
           "ppr": 133
         },
         {
-          "rank": 549,
+          "rank": 550,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 683,
@@ -55,7 +55,7 @@
           "ppr": 137
         },
         {
-          "rank": 634,
+          "rank": 635,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 860,
@@ -105,7 +105,7 @@
           "ppr": 136
         },
         {
-          "rank": 872,
+          "rank": 873,
           "username": "f12e19599957d9c65c8d7609af78698d",
           "displayName": "Nosferatu",
           "races": 477,
@@ -125,13 +125,13 @@
           "ppr": 126
         },
         {
-          "rank": 1138,
+          "rank": 1116,
           "username": "33e83773380949c7f2fd34d850d93d34",
           "displayName": "KippKat",
-          "races": 272,
-          "accuracy": 96.74,
+          "races": 282,
+          "accuracy": 96.69,
           "wpm": 79.6,
-          "points": 36787,
+          "points": 38115,
           "ppr": 135
         },
         {
@@ -255,7 +255,7 @@
           "ppr": 112
         },
         {
-          "rank": 1967,
+          "rank": 1968,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 76,
@@ -263,25 +263,15 @@
           "wpm": 84.1,
           "points": 10181,
           "ppr": 134
-        },
-        {
-          "rank": 2000,
-          "username": "e330ec472ff3234c9fb9dcef3039d895",
-          "displayName": "BountifulPeachMollusk",
-          "races": 74,
-          "accuracy": 94.24,
-          "wpm": 78.7,
-          "points": 9719,
-          "ppr": 131
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792095298572
+      "_syncedAt": 1792097007953
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792095298572
+  "_syncedAt": 1792097007953
 }
