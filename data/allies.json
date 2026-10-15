@@ -227,8 +227,8 @@
         "allTimeRaces": 1820,
         "wpm": 64,
         "highestWPM": 90,
-        "teamRaces": 774,
-        "acc": 90.45,
+        "teamRaces": 775,
+        "acc": 90.46,
         "season": null,
         "status": "active",
         "lastLogin": 1792076294
@@ -476,14 +476,14 @@
         "displayName": "mazen_67",
         "role": "officer",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1205,
-        "wpm": 38,
+        "allTimeRaces": 1218,
+        "wpm": 40,
         "highestWPM": 56,
-        "teamRaces": 564,
-        "acc": 88.28,
+        "teamRaces": 577,
+        "acc": 88.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792079379
+        "lastLogin": 1792081594
       },
       {
         "username": "dirk_nowitzki41",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75989,
+        "races": 76003,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 340,
-        "avgWPM": 65,
-        "avgAcc": 92.39,
+        "races": 326,
+        "avgWPM": 63,
+        "avgAcc": 92.18,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792080847218
+    "_syncedAt": 1792082605409
   },
   "SVC": {
     "tag": "SVC",
@@ -1167,15 +1167,15 @@
         "members": 45
       },
       "daily": {
-        "races": 258,
-        "avgWPM": 84,
-        "avgAcc": 94.85,
+        "races": 221,
+        "avgWPM": 83,
+        "avgAcc": 94.62,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792080866613
+    "_syncedAt": 1792082624984
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792080885792
+    "_syncedAt": 1792082643901
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4048,
+    "profileViews": 4050,
     "leagueTier": 11,
     "racers": [
       {
@@ -1706,14 +1706,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 13989,
-        "wpm": 82,
+        "allTimeRaces": 13997,
+        "wpm": 81,
         "highestWPM": 99,
-        "teamRaces": 700,
-        "acc": 95.96,
+        "teamRaces": 708,
+        "acc": 95.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1792073454
+        "lastLogin": 1792081063
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1874,14 +1874,14 @@
         "displayName": "rk7474",
         "role": "member",
         "joinStamp": 1791761571,
-        "allTimeRaces": 2829,
-        "wpm": 52,
+        "allTimeRaces": 2838,
+        "wpm": 50,
         "highestWPM": 72,
-        "teamRaces": 451,
+        "teamRaces": 452,
         "acc": 92.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1792076257
+        "lastLogin": 1792082316
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113995,
+        "races": 114004,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1357,
+        "races": 1356,
         "avgWPM": 61,
-        "avgAcc": 92.92,
+        "avgAcc": 92.95,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792081055505
+    "_syncedAt": 1792082813515
   }
 }
