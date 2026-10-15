@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792059119248
+    "_syncedAt": 1792060876472
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792059138412
+    "_syncedAt": 1792060895380
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792059157455
+    "_syncedAt": 1792060914341
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4035,
+    "profileViews": 4036,
     "leagueTier": 11,
     "racers": [
       {
@@ -1503,7 +1503,7 @@
         "acc": 96.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1791855896
+        "lastLogin": 1792059494
       },
       {
         "username": "fabec508de532c98ff1ab1a1b74d41d8",
@@ -1727,7 +1727,7 @@
         "acc": 92.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1792021571
+        "lastLogin": 1792060852
       },
       {
         "username": "sara0010",
@@ -1832,11 +1832,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8549,
-        "wpm": 42,
+        "allTimeRaces": 8584,
+        "wpm": 36,
         "highestWPM": 75,
-        "teamRaces": 1110,
-        "acc": 86.97,
+        "teamRaces": 1151,
+        "acc": 86.91,
         "season": null,
         "status": "active",
         "lastLogin": 1792057624
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113584,
+        "races": 113625,
         "avgWPM": 67,
-        "avgAcc": 94,
+        "avgAcc": 93.99,
         "members": 49
       },
       "daily": {
-        "races": 1184,
+        "races": 1167,
         "avgWPM": 61,
-        "avgAcc": 92.84,
+        "avgAcc": 92.82,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792059327113
+    "_syncedAt": 1792061083899
   }
 }
