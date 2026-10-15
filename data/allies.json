@@ -508,15 +508,15 @@
         "members": 35
       },
       "daily": {
-        "races": 311,
-        "avgWPM": 64,
-        "avgAcc": 92.24,
+        "races": 275,
+        "avgWPM": 62,
+        "avgAcc": 92.16,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792098707637
+    "_syncedAt": 1792100444408
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792098726547
+    "_syncedAt": 1792100463551
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792098745466
+    "_syncedAt": 1792100482953
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4059,
+    "profileViews": 4060,
     "leagueTier": 11,
     "racers": [
       {
@@ -1286,10 +1286,10 @@
         "displayName": "Joereynolds",
         "role": "member",
         "joinStamp": 1783518667,
-        "allTimeRaces": 11730,
-        "wpm": 86,
+        "allTimeRaces": 11735,
+        "wpm": 83,
         "highestWPM": 116,
-        "teamRaces": 4764,
+        "teamRaces": 4774,
         "acc": 92.4,
         "season": null,
         "status": "active",
@@ -1741,7 +1741,7 @@
         "acc": 92.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792060852
+        "lastLogin": 1792099741
       },
       {
         "username": "sara0010",
@@ -1755,7 +1755,7 @@
         "acc": 93.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1792096401
+        "lastLogin": 1792100529
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1783,7 +1783,7 @@
         "acc": 94.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792093281
+        "lastLogin": 1792100368
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114159,
+        "races": 114169,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1241,
+        "races": 1219,
         "avgWPM": 61,
-        "avgAcc": 92.92,
+        "avgAcc": 92.9,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792098914998
+    "_syncedAt": 1792100652511
   }
 }
