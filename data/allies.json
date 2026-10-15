@@ -508,15 +508,15 @@
         "members": 35
       },
       "daily": {
-        "races": 332,
+        "races": 315,
         "avgWPM": 63,
-        "avgAcc": 92.25,
+        "avgAcc": 92.21,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792086018023
+    "_syncedAt": 1792087664094
   },
   "SVC": {
     "tag": "SVC",
@@ -708,7 +708,7 @@
         "acc": 92.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1791918450
+        "lastLogin": 1792087357
       },
       {
         "username": "50d5f7895c884ded4124d56e33b9b79f",
@@ -953,14 +953,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 748,
-        "wpm": 79,
+        "allTimeRaces": 750,
+        "wpm": 78,
         "highestWPM": 101,
         "teamRaces": 332,
         "acc": 93.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1792066541
+        "lastLogin": 1792087273
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1167,15 +1167,15 @@
         "members": 45
       },
       "daily": {
-        "races": 178,
-        "avgWPM": 82,
-        "avgAcc": 94.47,
+        "races": 147,
+        "avgWPM": 77,
+        "avgAcc": 93.97,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792086039777
+    "_syncedAt": 1792087705436
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792086058671
+    "_syncedAt": 1792087724465
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1370,10 +1370,10 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1314,
+        "allTimeRaces": 1321,
         "wpm": 47,
         "highestWPM": 84,
-        "teamRaces": 535,
+        "teamRaces": 546,
         "acc": 91.7,
         "season": null,
         "status": "active",
@@ -1468,11 +1468,11 @@
         "displayName": "stew2k",
         "role": "member",
         "joinStamp": 1791916700,
-        "allTimeRaces": 729,
-        "wpm": 70,
+        "allTimeRaces": 732,
+        "wpm": 68,
         "highestWPM": 81,
-        "teamRaces": 8,
-        "acc": 94.05,
+        "teamRaces": 14,
+        "acc": 94.89,
         "season": null,
         "status": "active",
         "lastLogin": 1792085923
@@ -1706,14 +1706,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 13997,
-        "wpm": 81,
+        "allTimeRaces": 13999,
+        "wpm": 80,
         "highestWPM": 99,
-        "teamRaces": 708,
+        "teamRaces": 710,
         "acc": 95.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1792081063
+        "lastLogin": 1792087132
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1874,14 +1874,14 @@
         "displayName": "rk7474",
         "role": "member",
         "joinStamp": 1791761571,
-        "allTimeRaces": 2841,
+        "allTimeRaces": 2843,
         "wpm": 48,
         "highestWPM": 72,
-        "teamRaces": 463,
-        "acc": 92.35,
+        "teamRaces": 465,
+        "acc": 92.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792082316
+        "lastLogin": 1792086285
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114034,
+        "races": 114055,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1365,
+        "races": 1347,
         "avgWPM": 61,
-        "avgAcc": 92.91,
+        "avgAcc": 92.86,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792086228482
+    "_syncedAt": 1792087894036
   }
 }

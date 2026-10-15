@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20074,
-      "wpm": 89,
+      "allTimeRaces": 20087,
+      "wpm": 92,
       "highestWPM": 108,
-      "teamRaces": 2435,
-      "acc": 97.56,
+      "teamRaces": 2448,
+      "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1792085887
+      "lastLogin": 1792087065
     },
     {
       "username": "jonathan711111",
@@ -41,11 +41,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4564,
-      "wpm": 86,
+      "allTimeRaces": 4575,
+      "wpm": 85,
       "highestWPM": 110,
-      "teamRaces": 372,
-      "acc": 94.65,
+      "teamRaces": 395,
+      "acc": 94.61,
       "season": null,
       "status": "active",
       "lastLogin": 1792083548
@@ -408,8 +408,8 @@
       "allTimeRaces": 1166,
       "wpm": 93,
       "highestWPM": 119,
-      "teamRaces": 818,
-      "acc": 94.48,
+      "teamRaces": 819,
+      "acc": 94.49,
       "season": null,
       "status": "active",
       "lastLogin": 1792084682
@@ -643,14 +643,14 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4565,
-      "wpm": 83,
+      "allTimeRaces": 4587,
+      "wpm": 89,
       "highestWPM": 111,
-      "teamRaces": 929,
+      "teamRaces": 941,
       "acc": 91.65,
       "season": null,
       "status": "active",
-      "lastLogin": 1792082508
+      "lastLogin": 1792086648
     },
     {
       "username": "falconsteve2",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51908,
+      "races": 51957,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 718,
-      "avgWPM": 82,
+      "races": 743,
+      "avgWPM": 83,
       "avgAcc": 94.62,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792085957124
+  "_syncedAt": 1792087605887
 }
