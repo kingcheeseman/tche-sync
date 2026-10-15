@@ -31,8 +31,8 @@
         "allTimeRaces": 2621,
         "wpm": 62,
         "highestWPM": 87,
-        "teamRaces": 242,
-        "acc": 91.54,
+        "teamRaces": 244,
+        "acc": 91.53,
         "season": null,
         "status": "active",
         "lastLogin": 1792068332
@@ -224,11 +224,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1741,
-        "wpm": 66,
+        "allTimeRaces": 1764,
+        "wpm": 61,
         "highestWPM": 90,
-        "teamRaces": 690,
-        "acc": 90.5,
+        "teamRaces": 719,
+        "acc": 90.48,
         "season": null,
         "status": "active",
         "lastLogin": 1792067227
@@ -252,14 +252,14 @@
         "displayName": "Karthik",
         "role": "member",
         "joinStamp": 1775825236,
-        "allTimeRaces": 8336,
-        "wpm": 68,
+        "allTimeRaces": 8337,
+        "wpm": 67,
         "highestWPM": 90,
-        "teamRaces": 1074,
+        "teamRaces": 1075,
         "acc": 92.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1790693379
+        "lastLogin": 1792069110
       },
       {
         "username": "d805338153c36671f411566bd44c1b95",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75849,
+        "races": 75881,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 35
       },
       "daily": {
-        "races": 298,
-        "avgWPM": 68,
-        "avgAcc": 92.9,
+        "races": 296,
+        "avgWPM": 63,
+        "avgAcc": 92.73,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792068573129
+    "_syncedAt": 1792071088813
   },
   "SVC": {
     "tag": "SVC",
@@ -953,11 +953,11 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 747,
+        "allTimeRaces": 748,
         "wpm": 79,
         "highestWPM": 101,
-        "teamRaces": 331,
-        "acc": 93.65,
+        "teamRaces": 332,
+        "acc": 93.66,
         "season": null,
         "status": "active",
         "lastLogin": 1792066541
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39497,
+        "races": 39498,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 309,
-        "avgWPM": 85,
-        "avgAcc": 94.84,
+        "races": 275,
+        "avgWPM": 86,
+        "avgAcc": 95.32,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792068592077
+    "_syncedAt": 1792071107765
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792068611510
+    "_syncedAt": 1792071126530
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1461,7 +1461,7 @@
         "acc": 95.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792022978
+        "lastLogin": 1792069059
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1678,11 +1678,11 @@
         "displayName": "Chicken banana",
         "role": "member",
         "joinStamp": 1791796576,
-        "allTimeRaces": 321,
-        "wpm": 39,
+        "allTimeRaces": 325,
+        "wpm": 40,
         "highestWPM": 63,
-        "teamRaces": 138,
-        "acc": 91.2,
+        "teamRaces": 145,
+        "acc": 91.21,
         "season": null,
         "status": "active",
         "lastLogin": 1792068073
@@ -1846,14 +1846,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8649,
-        "wpm": 37,
+        "allTimeRaces": 8659,
+        "wpm": 40,
         "highestWPM": 75,
-        "teamRaces": 1219,
-        "acc": 86.92,
+        "teamRaces": 1227,
+        "acc": 86.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792066182
+        "lastLogin": 1792071164
       },
       {
         "username": "legendsince2026",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113732,
+        "races": 113747,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1143,
-        "avgWPM": 62,
-        "avgAcc": 93.15,
+        "races": 1158,
+        "avgWPM": 61,
+        "avgAcc": 93.11,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792068780967
+    "_syncedAt": 1792071295649
   }
 }
