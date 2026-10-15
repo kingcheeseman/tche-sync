@@ -367,17 +367,20 @@
     if (!t || !t.racers) { toast("No data to export."); return; }
     const weeklyMap = {};
     if (state.weekly && Array.isArray(state.weekly.racers)) state.weekly.racers.forEach(r => { weeklyMap[r.username] = r; });
+    const dailyMap = {};
+    if (state.daily && Array.isArray(state.daily.racers)) state.daily.racers.forEach(r => { dailyMap[r.username] = r; });
     const seasonMap = {};
     const curSeason = state.seasons && state.seasons.currentValue && state.seasons.seasons && state.seasons.seasons[state.seasons.currentValue];
     if (curSeason && curSeason.racers) curSeason.racers.forEach(r => { seasonMap[r.username] = r; });
 
-    const headers = ["Display name","Username","Role","Avg WPM","Top WPM","Accuracy","Total races","Team races","Weekly races","Season races","Season points","Season rank","Joined","Last login","Note"];
+    const headers = ["Display name","Username","Role","Avg WPM","Top WPM","Accuracy","Total races","Team races","Daily races (goal 20)","Weekly races (goal 100)","Season races","Season points","Season rank","Joined","Last login","Note"];
     const quote = (v) => {
       const s = v == null ? "" : String(v);
       return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
     };
     const rows = t.racers.map(r => {
       const wk = weeklyMap[r.username] || {};
+      const dy = dailyMap[r.username] || {};
       const se = seasonMap[r.username] || {};
       const note = state.notes[r.username];
       return [
@@ -389,6 +392,7 @@
         (r.acc || 0) + "%",
         r.allTimeRaces || 0,
         r.teamRaces || 0,
+        dy.races || "",
         wk.races || "",
         se.races || "",
         se.points || "",
@@ -1489,10 +1493,14 @@
     const now = Date.now();
     const DAY_MS = 86400000;
 
-    // Build weekly map (from Startrack weekly scrape, keyed by username)
+    // Build weekly + daily maps (from Startrack scrapes, keyed by username)
     const weeklyMap = {};
     if (state.weekly && Array.isArray(state.weekly.racers)) {
       state.weekly.racers.forEach(r => { weeklyMap[r.username] = r; });
+    }
+    const dailyMap = {};
+    if (state.daily && Array.isArray(state.daily.racers)) {
+      state.daily.racers.forEach(r => { dailyMap[r.username] = r; });
     }
 
     // Apply filter
@@ -1524,6 +1532,7 @@
       teamRaces: r => r.teamRaces || 0,
       season: r => (r.season && r.season.races) || 0,
       weekly: r => (weeklyMap[r.username] && weeklyMap[r.username].races) || 0,
+      daily: r => (dailyMap[r.username] && dailyMap[r.username].races) || 0,
       joinStamp: r => r.joinStamp || 0,
       lastLogin: r => r.lastLogin || 0,
     };
@@ -1534,7 +1543,8 @@
       return dir === "desc" ? bv - av : av - bv;
     });
 
-    const WEEKLY_REQ = 50; // from the TCHE requirements
+    const WEEKLY_REQ = 100; // team weekly goal
+    const DAILY_REQ = 20;   // team daily goal
     const compareSet = new Set(state.compareIds || []);
 
     const top3 = racers.slice(0, 3);
@@ -1557,20 +1567,24 @@
 
     const arrow = (k) => key === k ? `<span class="arrow">${dir === "desc" ? "▼" : "▲"}</span>` : "";
 
-    const weeklyBar = (count) => {
-      const pct = Math.min(100, Math.round((count / WEEKLY_REQ) * 100));
-      const cls = count >= WEEKLY_REQ ? "weekly-bar-met" : count >= WEEKLY_REQ * 0.6 ? "weekly-bar-ok" : "weekly-bar-low";
+    const goalBar = (count, req) => {
+      const pct = Math.min(100, Math.round((count / req) * 100));
+      const cls = count >= req ? "weekly-bar-met" : count >= req * 0.6 ? "weekly-bar-ok" : "weekly-bar-low";
       return `
         <div class="weekly-cell">
-          <div class="weekly-num">${fmt(count)}<span class="weekly-of">/${WEEKLY_REQ}</span></div>
+          <div class="weekly-num">${fmt(count)}<span class="weekly-of">/${req}</span></div>
           <div class="weekly-bar-wrap"><div class="weekly-bar ${cls}" style="width:${pct}%;"></div></div>
         </div>`;
     };
+    const weeklyBar = (count) => goalBar(count, WEEKLY_REQ);
+    const dailyBar = (count) => goalBar(count, DAILY_REQ);
 
     const rows = racers.map((r, i) => {
       const rankCls = i === 0 ? "top1" : i === 1 ? "top2" : i === 2 ? "top3" : "";
       const weeklyRaces = extract.weekly(r);
       const hasWeeklyData = Object.keys(weeklyMap).length > 0;
+      const dailyRaces = extract.daily(r);
+      const hasDailyData = Object.keys(dailyMap).length > 0;
       const note = state.notes[r.username];
       const isCompared = compareSet.has(r.username);
       const isNew = r.joinStamp && (now - r.joinStamp * 1000) < 14 * DAY_MS;
@@ -1597,6 +1611,7 @@
           <td class="num">${fmt(extract.acc(r))}%</td>
           <td class="num">${fmt(extract.alltime(r))}</td>
           <td class="num">${fmt(extract.teamRaces(r))}</td>
+          <td class="num">${hasDailyData ? dailyBar(dailyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
           <td class="num">${hasWeeklyData ? weeklyBar(weeklyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
           <td class="num">${fmt(extract.season(r))}</td>
         </tr>`;
@@ -1613,6 +1628,7 @@
         <div class="compare-grid">
           ${compareRacers.map(r => {
             const weeklyRaces = (weeklyMap[r.username] && weeklyMap[r.username].races) || 0;
+            const dailyRaces = (dailyMap[r.username] && dailyMap[r.username].races) || 0;
             return `
               <div class="compare-card">
                 <div class="compare-name">${esc(r.displayName || r.username)}</div>
@@ -1623,6 +1639,7 @@
                   <div><div class="compare-k">Accuracy</div><div class="compare-v">${fmt(r.acc)}%</div></div>
                   <div><div class="compare-k">Total races</div><div class="compare-v">${fmt(r.allTimeRaces)}</div></div>
                   <div><div class="compare-k">Team races</div><div class="compare-v">${fmt(r.teamRaces)}</div></div>
+                  <div><div class="compare-k">Daily</div><div class="compare-v">${fmt(dailyRaces)}/${DAILY_REQ}</div></div>
                   <div><div class="compare-k">Weekly</div><div class="compare-v">${fmt(weeklyRaces)}/${WEEKLY_REQ}</div></div>
                   <div><div class="compare-k">Season races</div><div class="compare-v">${fmt((r.season&&r.season.races)||0)}</div></div>
                   <div><div class="compare-k">Season pts</div><div class="compare-v">${fmt(((state.seasons&&state.seasons.seasons&&state.seasons.seasons[state.seasons.currentValue]&&state.seasons.seasons[state.seasons.currentValue].racers)||[]).find(x=>x.username===r.username)?.points || 0)}</div></div>
@@ -1648,7 +1665,7 @@
         <div>
           <div class="page-eyebrow">${esc(TEAM_TAG)} · Roster</div>
           <h1 class="page-title">Racers</h1>
-          <p class="page-sub">${fmt(racers.length)} of ${fmt(allRacers.length)} shown. Click a column to sort, check boxes to compare, filter chips above the table.</p>
+          <p class="page-sub">${fmt(racers.length)} of ${fmt(allRacers.length)} shown. Click a column to sort, check boxes to compare, filter chips above the table. Team goals: ${DAILY_REQ} races/day · ${WEEKLY_REQ} races/week.</p>
         </div>
         ${state.isAdmin ? `<button class="btn" id="export-csv">Export CSV</button>` : ""}
       </div>
@@ -1669,7 +1686,8 @@
               <th data-sort="acc" class="${key==='acc'?'sorted':''}" style="text-align:right;">Accuracy${arrow('acc')}</th>
               <th data-sort="alltime" class="${key==='alltime'?'sorted':''}" style="text-align:right;">Total races${arrow('alltime')}</th>
               <th data-sort="teamRaces" class="${key==='teamRaces'?'sorted':''}" style="text-align:right;">Team races${arrow('teamRaces')}</th>
-              <th data-sort="weekly" class="${key==='weekly'?'sorted':''}" style="text-align:right;">Weekly${arrow('weekly')}</th>
+              <th data-sort="daily" class="${key==='daily'?'sorted':''}" style="text-align:right;">Daily goal${arrow('daily')}</th>
+              <th data-sort="weekly" class="${key==='weekly'?'sorted':''}" style="text-align:right;">Weekly goal${arrow('weekly')}</th>
               <th data-sort="season" class="${key==='season'?'sorted':''}" style="text-align:right;">Season${arrow('season')}</th>
             </tr>
           </thead>
