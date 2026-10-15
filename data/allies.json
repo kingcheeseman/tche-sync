@@ -224,14 +224,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1822,
+        "allTimeRaces": 1824,
         "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 777,
+        "teamRaces": 779,
         "acc": 90.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1792076294
+        "lastLogin": 1792102869
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76073,
+        "races": 76075,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 275,
+        "races": 277,
         "avgWPM": 62,
-        "avgAcc": 92.16,
+        "avgAcc": 92.13,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792101974586
+    "_syncedAt": 1792103897505
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792101997633
+    "_syncedAt": 1792103916267
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792102016483
+    "_syncedAt": 1792103935081
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4060,
+    "profileViews": 4061,
     "leagueTier": 11,
     "racers": [
       {
@@ -1252,6 +1252,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792076293
+      },
+      {
+        "username": "1vxymphasdf",
+        "displayName": "roadto20k",
+        "role": "member",
+        "joinStamp": 1792104029,
+        "allTimeRaces": 11672,
+        "wpm": 123,
+        "highestWPM": 156,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792103225
       },
       {
         "username": "83754c",
@@ -1308,20 +1322,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792019624
-      },
-      {
-        "username": "cooldudeboylike",
-        "displayName": "JADENTHEGREAT",
-        "role": "member",
-        "joinStamp": 1790727699,
-        "allTimeRaces": 2644,
-        "wpm": 58,
-        "highestWPM": 119,
-        "teamRaces": 491,
-        "acc": 95.34,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791760994
       },
       {
         "username": "toptyper1",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18237,
-        "wpm": 84,
+        "allTimeRaces": 18242,
+        "wpm": 83,
         "highestWPM": 123,
-        "teamRaces": 17776,
+        "teamRaces": 17782,
         "acc": 93.92,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114171,
+        "races": 114177,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1221,
+        "races": 1199,
         "avgWPM": 61,
-        "avgAcc": 92.91,
+        "avgAcc": 92.82,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792102185990
+    "_syncedAt": 1792104104626
   }
 }
