@@ -1,7 +1,28 @@
 {
   "1340": {
     "eventId": "1340",
-    "racers": [],
-    "_syncedAt": 1792079113783
+    "racers": [
+      {
+        "name": null,
+        "points": 0,
+        "tier": "A"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "A"
+      }
+    ],
+    "_syncedAt": 1792080846926
   }
 }

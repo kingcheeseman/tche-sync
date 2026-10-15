@@ -224,11 +224,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1819,
-        "wpm": 63,
+        "allTimeRaces": 1820,
+        "wpm": 64,
         "highestWPM": 90,
-        "teamRaces": 770,
-        "acc": 90.46,
+        "teamRaces": 774,
+        "acc": 90.45,
         "season": null,
         "status": "active",
         "lastLogin": 1792076294
@@ -483,7 +483,7 @@
         "acc": 88.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792077807
+        "lastLogin": 1792079379
       },
       {
         "username": "dirk_nowitzki41",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75985,
+        "races": 75989,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 339,
+        "races": 340,
         "avgWPM": 65,
-        "avgAcc": 92.41,
+        "avgAcc": 92.39,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792079113984
+    "_syncedAt": 1792080847218
   },
   "SVC": {
     "tag": "SVC",
@@ -525,7 +525,7 @@
     "activePercent": 66,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1987,
+    "profileViews": 1988,
     "leagueTier": 11,
     "racers": [
       {
@@ -743,11 +743,11 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4317,
-        "wpm": 76,
+        "allTimeRaces": 4330,
+        "wpm": 78,
         "highestWPM": 104,
-        "teamRaces": 963,
-        "acc": 93.05,
+        "teamRaces": 976,
+        "acc": 93.07,
         "season": null,
         "status": "active",
         "lastLogin": 1792075462
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39546,
+        "races": 39559,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 266,
+        "races": 258,
         "avgWPM": 84,
-        "avgAcc": 94.81,
+        "avgAcc": 94.85,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792079133445
+    "_syncedAt": 1792080866613
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792079152424
+    "_syncedAt": 1792080885792
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4047,
+    "profileViews": 4048,
     "leagueTier": 11,
     "racers": [
       {
@@ -1345,7 +1345,7 @@
         "allTimeRaces": 3156,
         "wpm": 69,
         "highestWPM": 105,
-        "teamRaces": 1090,
+        "teamRaces": 1092,
         "acc": 93.1,
         "season": null,
         "status": "active",
@@ -1440,11 +1440,11 @@
         "displayName": "Luke B",
         "role": "member",
         "joinStamp": 1790726139,
-        "allTimeRaces": 2822,
-        "wpm": 58,
+        "allTimeRaces": 2824,
+        "wpm": 61,
         "highestWPM": 76,
-        "teamRaces": 252,
-        "acc": 91.89,
+        "teamRaces": 258,
+        "acc": 91.95,
         "season": null,
         "status": "active",
         "lastLogin": 1792078387
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113987,
+        "races": 113995,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1368,
+        "races": 1357,
         "avgWPM": 61,
-        "avgAcc": 92.93,
+        "avgAcc": 92.92,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792079321989
+    "_syncedAt": 1792081055505
   }
 }

@@ -223,11 +223,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5057,
-      "wpm": 83,
+      "allTimeRaces": 5083,
+      "wpm": 80,
       "highestWPM": 111,
-      "teamRaces": 24,
-      "acc": 94.55,
+      "teamRaces": 52,
+      "acc": 94.49,
       "season": null,
       "status": "active",
       "lastLogin": 1792076545
@@ -282,7 +282,7 @@
       "allTimeRaces": 6050,
       "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 24,
+      "teamRaces": 25,
       "acc": 93.36,
       "season": null,
       "status": "active",
@@ -461,14 +461,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3166,
+      "allTimeRaces": 3168,
       "wpm": 53,
       "highestWPM": 107,
-      "teamRaces": 108,
-      "acc": 92.76,
+      "teamRaces": 110,
+      "acc": 92.82,
       "season": null,
       "status": "active",
-      "lastLogin": 1792005804
+      "lastLogin": 1792080322
     },
     {
       "username": "booomtype",
@@ -503,10 +503,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4482,
-      "wpm": 85,
+      "allTimeRaces": 4484,
+      "wpm": 82,
       "highestWPM": 120,
-      "teamRaces": 2055,
+      "teamRaces": 2059,
       "acc": 92.44,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51692,
+      "races": 51727,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 633,
-      "avgWPM": 81,
-      "avgAcc": 94.72,
+      "races": 662,
+      "avgWPM": 80,
+      "avgAcc": 94.68,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792079051095
+  "_syncedAt": 1792080758050
 }
