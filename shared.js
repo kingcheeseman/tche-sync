@@ -1830,6 +1830,64 @@
     const activeOrUpcoming = sortedComps.filter(c => /active|live|ongoing|upcoming/i.test(c.status || ""));
     const concluded = sortedComps.filter(c => /concluded|ended/i.test(c.status || ""));
 
+    // Full standings for whatever comp is live right now — the "large portion
+    // of the page" with everyone who's raced in it, mirroring Startrack's own
+    // event viewer table (rank, racer, squad, races, WPM, accuracy, points, tier).
+    const liveComps = sortedComps.filter(c => /active|live|ongoing/i.test(c.status || ""));
+    const liveEventSection = liveComps.map(c => {
+      const lb = state.compLeaderboards[c.id];
+      const racers = (lb && Array.isArray(lb.racers)) ? lb.racers.slice().sort((a, b) => (b.points || 0) - (a.points || 0)) : [];
+      return `
+        <div class="card" style="margin-top:24px;">
+          <div class="card-head">
+            <div style="min-width:0;">
+              <h3 class="card-title">🔴 Live now · ${esc(c.title || "Event")}</h3>
+              ${c.desc ? `<p class="text-dim" style="margin:4px 0 0; font-size:12.5px;">${esc(c.desc)}</p>` : ""}
+            </div>
+            <a href="https://ntstartrack.org/eventviewer?tag=${esc(TEAM_TAG)}&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="btn btn-sm ghost">View on Startrack →</a>
+          </div>
+          <div class="comp-times" style="border-top:none; padding-top:0; margin:0 0 16px;">
+            <span><strong>Start</strong> ${esc(c.start || "—")}</span>
+            <span><strong>End</strong> ${esc(c.end || "—")}</span>
+            ${lb && lb._syncedAt ? `<span><strong>Updated</strong> ${timeAgo(lb._syncedAt)}</span>` : ""}
+          </div>
+          ${racers.length ? `
+            <div class="table-wrap">
+              <table class="racers">
+                <thead>
+                  <tr>
+                    <th>#</th><th>Racer</th><th>Squad</th>
+                    <th style="text-align:right;">Races</th>
+                    <th style="text-align:right;">WPM</th>
+                    <th style="text-align:right;">Accuracy</th>
+                    <th style="text-align:right;">Points</th>
+                    <th>Tier</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${racers.map((r, i) => {
+                    const rankCls = i === 0 ? "top1" : i === 1 ? "top2" : i === 2 ? "top3" : "";
+                    return `
+                    <tr>
+                      <td class="rank-cell ${rankCls}">${r.rank || i + 1}</td>
+                      <td class="name">
+                        ${esc(r.displayName || r.username || "")}${r.tag ? ` <span class="text-muted" style="font-weight:500; font-size:11px;">[${esc(r.tag)}]</span>` : ""}
+                        ${r.nickname ? `<div class="name-sub">"${esc(r.nickname)}"</div>` : ""}
+                      </td>
+                      <td class="text-dim">${esc(r.squad || "—")}</td>
+                      <td class="num num-primary">${fmt(r.races)}</td>
+                      <td class="num">${fmt(r.wpm)}</td>
+                      <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                      <td class="num">${fmt(r.points)}</td>
+                      <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
+                    </tr>`;
+                  }).join("")}
+                </tbody>
+              </table>
+            </div>` : emptyState("No standings yet", "Standings sync in on the next pull (every 15 minutes while the event is live).")}
+        </div>`;
+    }).join("");
+
     const compCard = (c, showLeaderboard) => {
       const pillCls = /active|live|ongoing/i.test(c.status || "") ? "status-live" : /upcoming/i.test(c.status || "") ? "status-upcoming" : "status-done";
       const leaderboard = showLeaderboard ? state.compLeaderboards[c.id] : null;
@@ -1838,7 +1896,7 @@
         <div class="comp-card ${pillCls}">
           <div class="comp-head">
             <span class="comp-status ${pillCls}">${esc(c.status || "")}</span>
-            <a href="https://ntstartrack.org/eventviewer?tag=TCHE&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="comp-id">#${esc(c.id || "")}</a>
+            <a href="https://ntstartrack.org/eventviewer?tag=${esc(TEAM_TAG)}&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="comp-id">#${esc(c.id || "")}</a>
           </div>
           <div class="comp-title">${esc(c.title || "Untitled comp")}</div>
           ${c.desc ? `<div class="comp-desc">${esc(c.desc)}</div>` : ""}
@@ -1858,7 +1916,7 @@
                     <span class="comp-lb-points">${fmt(r.points)} <span class="text-muted">pts</span></span>
                   </li>`).join("")}
               </ol>
-              ${leaderboard.racers.length > 10 ? `<a href="https://ntstartrack.org/eventviewer?tag=TCHE&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="comp-lb-more">+ ${leaderboard.racers.length - 10} more on Startrack →</a>` : ""}
+              ${leaderboard.racers.length > 10 ? `<a href="https://ntstartrack.org/eventviewer?tag=${esc(TEAM_TAG)}&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="comp-lb-more">+ ${leaderboard.racers.length - 10} more on Startrack →</a>` : ""}
             </div>` : (showLeaderboard ? `<div class="comp-leaderboard-empty">Per-racer standings sync in on the next pull.</div>` : "")}
         </div>`;
     };
@@ -1890,6 +1948,7 @@
         <p class="page-sub">Live season standings and cash comps for ${esc(t ? t.name : "TCHE")}, pulled from Nitro Type and ntstartrack.org.</p>
       </div></div>
       ${topGrid || emptyState("No season data yet", "Season stats appear once Startrack has data for TCHE.")}
+      ${liveEventSection}
       ${compsSection}
       ${periods}
       ${seasonOptions.length ? `
@@ -1996,17 +2055,21 @@
         </div>
         <div class="table-wrap">
           <table class="racers">
-            <thead><tr><th>#</th><th>Racer</th><th>Squad</th><th style="text-align:right;">Races</th><th style="text-align:right;">WPM</th><th style="text-align:right;">Accuracy</th><th style="text-align:right;">Points</th></tr></thead>
+            <thead><tr><th>#</th><th>Racer</th><th>Squad</th><th style="text-align:right;">Races</th><th style="text-align:right;">WPM</th><th style="text-align:right;">Accuracy</th><th style="text-align:right;">Points</th><th>Tier</th></tr></thead>
             <tbody>
               ${seeding.map((r, i) => `
                 <tr>
-                  <td class="rank-cell">${esc(r.rank || i + 1)}</td>
-                  <td class="name">${esc(r.racer || "")}</td>
-                  <td class="text-dim">${esc(r.squad || "")}</td>
+                  <td class="rank-cell">${r.rank || i + 1}</td>
+                  <td class="name">
+                    ${esc(r.displayName || r.username || r.racer || "")}${r.tag ? ` <span class="text-muted" style="font-weight:500; font-size:11px;">[${esc(r.tag)}]</span>` : ""}
+                    ${r.nickname ? `<div class="name-sub">"${esc(r.nickname)}"</div>` : ""}
+                  </td>
+                  <td class="text-dim">${esc(r.squad || "—")}</td>
                   <td class="num">${fmt(r.races)}</td>
                   <td class="num">${fmt(r.wpm)}</td>
                   <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
                   <td class="num num-primary">${fmt(r.points)}</td>
+                  <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
                 </tr>`).join("")}
             </tbody>
           </table>

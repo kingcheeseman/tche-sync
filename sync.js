@@ -441,6 +441,42 @@ async function fetchTournament(context, tag) {
   }
 }
 
+// Shared scraper for Startrack's /eventviewer "Racers" table (used by both
+// tournament seeding rounds and regular cash-comp event pages). Real markup:
+// td.data-table__rank (medal icon or number), td.lb-identity-cell > .lb-identity
+// (span.team-tag, a = display name, span.racer-title = nickname), a squad-name
+// badge, four td.lb-num cells (races, wpm, accuracy, points) in that order,
+// then a trailing tier cell. We key off class names (not column position)
+// since not every event has a squad or tier column.
+function parseEventTable() {
+  const rows = [...document.querySelectorAll("table tr")].filter(r => r.querySelectorAll("td").length >= 5);
+  const pn = s => { if (!s) return null; const n = Number(String(s).replace(/[,%]/g, "")); return isNaN(n) ? null : n; };
+  return rows.map((r, i) => {
+    const cells = [...r.querySelectorAll("td")];
+    const identity = r.querySelector(".lb-identity");
+    const tag = identity?.querySelector(".team-tag")?.textContent?.trim()?.replace(/[[\]]/g, "") || null;
+    const name = identity?.querySelector("a")?.textContent?.trim() || (identity ? identity.textContent.trim() : null);
+    const nickname = identity?.querySelector(".racer-title")?.textContent?.trim()?.replace(/^"|"$/g, "") || null;
+    const squad = r.querySelector(".squad-name-badge")?.textContent?.trim() || null;
+    const nums = cells.filter(td => td.className.includes("lb-num")).map(td => td.textContent.replace(/\s+/g, " ").trim());
+    const lastCell = cells[cells.length - 1];
+    const tier = lastCell && !lastCell.className.includes("lb-num") && !lastCell.className.includes("lb-action") ? lastCell.textContent.trim() : null;
+    return {
+      rank: i + 1,
+      tag,
+      username: name,
+      displayName: name,
+      nickname,
+      squad,
+      races: pn(nums[0]),
+      wpm: pn(nums[1]),
+      accuracy: pn(nums[2]),
+      points: pn(nums[3]),
+      tier: tier || null,
+    };
+  });
+}
+
 async function fetchTournamentSeeding(context, href) {
   if (!href) return null;
   const page = await context.newPage();
@@ -448,14 +484,7 @@ async function fetchTournamentSeeding(context, href) {
     const url = href.startsWith("http") ? href : `https://ntstartrack.org${href}`;
     await page.goto(url, { waitUntil: "networkidle", timeout: 60000 });
     await sleep(2500);
-    const racers = await page.evaluate(() => {
-      const rows = [...document.querySelectorAll("table tr")].filter(r => r.querySelectorAll("td").length >= 5);
-      return rows.map(r => {
-        const c = [...r.querySelectorAll("td")].map(td => td.textContent.replace(/\s+/g, " ").trim());
-        const pn = s => { if (!s) return null; const n = Number(String(s).replace(/[,%]/g, "")); return isNaN(n) ? null : n; };
-        return { rank: c[0] || null, racer: c[1] || null, squad: c[2] || null, races: pn(c[3]), wpm: pn(c[4]), accuracy: pn(c[5]), points: pn(c[6]), tier: c[7] || null };
-      });
-    });
+    const racers = await page.evaluate(parseEventTable);
     return { racers, _syncedAt: Date.now() };
   } finally {
     await page.close();
@@ -467,15 +496,7 @@ async function fetchCompLeaderboard(context, eventId) {
   try {
     await page.goto(`https://ntstartrack.org/eventviewer?tag=${TEAM_TAG}&event=${eventId}`, { waitUntil: "networkidle", timeout: 60000 });
     await sleep(2500);
-    return await page.evaluate(() => {
-      const racers = [...document.querySelectorAll(".m-card")].map(c => {
-        const name = c.querySelector(".m-card__name, .m-name, h3, h4")?.textContent?.trim() || null;
-        const points = Number((c.querySelector(".m-card__points, .m-points")?.textContent || "").replace(/[^\d.-]/g, "")) || 0;
-        const tier = c.querySelector(".m-card__tier, .m-tier")?.textContent?.trim() || null;
-        return { name, points, tier };
-      });
-      return racers;
-    });
+    return await page.evaluate(parseEventTable);
   } finally { await page.close(); }
 }
 
