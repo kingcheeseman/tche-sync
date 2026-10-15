@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2835,
+    "profileViews": 2836,
     "leagueTier": 11,
     "racers": [
       {
@@ -28,8 +28,8 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2633,
-        "wpm": 65,
+        "allTimeRaces": 2636,
+        "wpm": 63,
         "highestWPM": 87,
         "teamRaces": 256,
         "acc": 91.47,
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792091846468
+    "_syncedAt": 1792093009051
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792091865779
+    "_syncedAt": 1792093028263
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792091884881
+    "_syncedAt": 1792093047398
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1615,7 +1615,7 @@
         "acc": 93.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1792016432
+        "lastLogin": 1792092995
       },
       {
         "username": "f32165b7f8229f9c213ff31f6a7d2189",
@@ -1948,7 +1948,7 @@
         "members": 50
       },
       "daily": {
-        "races": 1293,
+        "races": 1264,
         "avgWPM": 61,
         "avgAcc": 92.91,
         "members": 50
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792092054610
+    "_syncedAt": 1792093217096
   }
 }
