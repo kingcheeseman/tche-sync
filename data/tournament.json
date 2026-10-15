@@ -12,7 +12,7 @@
     "THBOS",
     "IMTR"
   ],
-  "format": null,
+  "format": "64 players  ·  Scored by Points  ·  Min 5 races in each round to qualify",
   "seedingHref": "/eventviewer?event=1341&tag=IMT",
   "allTournaments": [
     {
@@ -1446,9 +1446,9 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792093000777,
+  "_syncedAt": 1792093415939,
   "seeding": {
     "racers": [],
-    "_syncedAt": 1792093004777
+    "_syncedAt": 1792093419777
   }
 }

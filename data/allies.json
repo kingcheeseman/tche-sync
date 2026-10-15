@@ -31,8 +31,8 @@
         "allTimeRaces": 2636,
         "wpm": 63,
         "highestWPM": 87,
-        "teamRaces": 256,
-        "acc": 91.47,
+        "teamRaces": 259,
+        "acc": 91.46,
         "season": null,
         "status": "active",
         "lastLogin": 1792090329
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76070,
+        "races": 76073,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 336,
+        "races": 339,
         "avgWPM": 64,
-        "avgAcc": 92.38,
+        "avgAcc": 92.37,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093009051
+    "_syncedAt": 1792093424541
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093028263
+    "_syncedAt": 1792093443715
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093047398
+    "_syncedAt": 1792093463001
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1293,7 +1293,7 @@
         "acc": 92.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1792033687
+        "lastLogin": 1792093413
       },
       {
         "username": "frareynolds",
@@ -1363,7 +1363,7 @@
         "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792071959
+        "lastLogin": 1792093629
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1776,14 +1776,14 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 3952,
+        "allTimeRaces": 3954,
         "wpm": 35,
         "highestWPM": 80,
         "teamRaces": 978,
         "acc": 94.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1792046530
+        "lastLogin": 1792093281
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093217096
+    "_syncedAt": 1792093632710
   }
 }

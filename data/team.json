@@ -489,14 +489,14 @@
       "displayName": "The Queen",
       "role": "member",
       "joinStamp": 1791299966,
-      "allTimeRaces": 1423,
-      "wpm": 81,
+      "allTimeRaces": 1424,
+      "wpm": 78,
       "highestWPM": 98,
       "teamRaces": 7,
       "acc": 96.43,
       "season": null,
       "status": "active",
-      "lastLogin": 1792069675
+      "lastLogin": 1792093259
     },
     {
       "username": "taylorja32",
@@ -703,13 +703,13 @@
       "members": 49
     },
     "daily": {
-      "races": 748,
-      "avgWPM": 83,
-      "avgAcc": 94.43,
+      "races": 737,
+      "avgWPM": 82,
+      "avgAcc": 94.44,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792092927604
+  "_syncedAt": 1792093346997
 }

@@ -1,13 +1,13 @@
 {
   "racers": [
     {
-      "rank": 86,
+      "rank": 101,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
-      "races": 130,
-      "accuracy": 93.46,
+      "races": 119,
+      "accuracy": 93.43,
       "wpm": 92.3,
-      "points": 17759,
+      "points": 16250,
       "ppr": 137
     },
     {
@@ -21,7 +21,7 @@
       "ppr": 130
     },
     {
-      "rank": 170,
+      "rank": 166,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 76,
@@ -31,7 +31,7 @@
       "ppr": 134
     },
     {
-      "rank": 180,
+      "rank": 176,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 75,
@@ -41,7 +41,7 @@
       "ppr": 132
     },
     {
-      "rank": 189,
+      "rank": 185,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 75,
@@ -51,7 +51,7 @@
       "ppr": 129
     },
     {
-      "rank": 205,
+      "rank": 204,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 63,
@@ -61,7 +61,7 @@
       "ppr": 142
     },
     {
-      "rank": 247,
+      "rank": 248,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 52,
@@ -91,7 +91,7 @@
       "ppr": 151
     },
     {
-      "rank": 416,
+      "rank": 414,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 28,
@@ -101,7 +101,7 @@
       "ppr": 144
     },
     {
-      "rank": 686,
+      "rank": 680,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 14,
@@ -141,7 +141,7 @@
       "ppr": 128
     },
     {
-      "rank": 1057,
+      "rank": 1055,
       "username": "470256",
       "displayName": "TrySetBuddy",
       "races": 1,
@@ -151,5 +151,5 @@
       "ppr": 132
     }
   ],
-  "_syncedAt": 1792092987455
+  "_syncedAt": 1792093402460
 }
