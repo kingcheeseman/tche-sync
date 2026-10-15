@@ -391,14 +391,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1101,
-      "wpm": 90,
+      "allTimeRaces": 1118,
+      "wpm": 87,
       "highestWPM": 114,
-      "teamRaces": 754,
+      "teamRaces": 771,
       "acc": 94.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792006310
+      "lastLogin": 1792030466
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51342,
+      "races": 51359,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 583,
+      "races": 600,
       "avgWPM": 83,
-      "avgAcc": 94.93,
+      "avgAcc": 94.91,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792030035460
+  "_syncedAt": 1792031840579
 }

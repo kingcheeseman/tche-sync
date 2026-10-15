@@ -7,7 +7,7 @@
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
     "profileViews": 2829,
-    "leagueTier": 10,
+    "leagueTier": 11,
     "racers": [
       {
         "username": "7786738cc9ba530c1191612ac17ae92d",
@@ -399,7 +399,7 @@
         "acc": 93.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1791943396
+        "lastLogin": 1792030881
       },
       {
         "username": "bob_ate_bob_twice",
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792030089613
+    "_syncedAt": 1792031928922
   },
   "SVC": {
     "tag": "SVC",
@@ -1167,15 +1167,15 @@
         "members": 45
       },
       "daily": {
-        "races": 331,
+        "races": 321,
         "avgWPM": 84,
-        "avgAcc": 94.98,
+        "avgAcc": 94.99,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792030108255
+    "_syncedAt": 1792031947823
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792030126921
+    "_syncedAt": 1792031966591
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1258,14 +1258,14 @@
         "displayName": "C L A Y",
         "role": "officer",
         "joinStamp": 1791125619,
-        "allTimeRaces": 48550,
-        "wpm": 110,
+        "allTimeRaces": 48555,
+        "wpm": 113,
         "highestWPM": 136,
-        "teamRaces": 510,
+        "teamRaces": 515,
         "acc": 94.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1792029628
+        "lastLogin": 1792030619
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1734,10 +1734,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18222,
-        "wpm": 84,
+        "allTimeRaces": 18223,
+        "wpm": 83,
         "highestWPM": 123,
-        "teamRaces": 17762,
+        "teamRaces": 17763,
         "acc": 93.92,
         "season": null,
         "status": "active",
@@ -1902,14 +1902,14 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1790694079,
-        "allTimeRaces": 2724,
-        "wpm": 43,
+        "allTimeRaces": 2725,
+        "wpm": 42,
         "highestWPM": 70,
         "teamRaces": 557,
         "acc": 93.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792023109
+        "lastLogin": 1792032006
       },
       {
         "username": "malott12",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113212,
+        "races": 113218,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 962,
+        "races": 966,
         "avgWPM": 58,
-        "avgAcc": 92.42,
+        "avgAcc": 92.44,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792030296130
+    "_syncedAt": 1792032135859
   }
 }
