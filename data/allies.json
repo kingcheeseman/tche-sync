@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792044492822
+    "_syncedAt": 1792046864086
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792044511845
+    "_syncedAt": 1792046883203
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792044530677
+    "_syncedAt": 1792046906563
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1510,14 +1510,14 @@
         "displayName": "SeriouslyTypes 2k",
         "role": "member",
         "joinStamp": 1791128511,
-        "allTimeRaces": 2165,
+        "allTimeRaces": 2175,
         "wpm": 103,
         "highestWPM": 137,
-        "teamRaces": 44,
-        "acc": 97.64,
+        "teamRaces": 54,
+        "acc": 97.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1791586643
+        "lastLogin": 1792045951
       },
       {
         "username": "francisreynolds",
@@ -1762,14 +1762,14 @@
         "displayName": "-BOSS IS LOYAL-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 3831,
-        "wpm": 34,
+        "allTimeRaces": 3840,
+        "wpm": 37,
         "highestWPM": 80,
-        "teamRaces": 857,
-        "acc": 94.21,
+        "teamRaces": 865,
+        "acc": 94.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792028076
+        "lastLogin": 1792046530
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113324,
+        "races": 113342,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 1031,
+        "races": 1049,
         "avgWPM": 62,
-        "avgAcc": 92.69,
+        "avgAcc": 92.8,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792044700108
+    "_syncedAt": 1792047076182
   }
 }
