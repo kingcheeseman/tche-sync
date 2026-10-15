@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2832,
+    "profileViews": 2834,
     "leagueTier": 11,
     "racers": [
       {
@@ -14,14 +14,14 @@
         "displayName": "akiraaa",
         "role": "member",
         "joinStamp": 1791301480,
-        "allTimeRaces": 1509,
-        "wpm": 84,
+        "allTimeRaces": 1511,
+        "wpm": 85,
         "highestWPM": 112,
-        "teamRaces": 66,
-        "acc": 95.63,
+        "teamRaces": 68,
+        "acc": 95.64,
         "season": null,
         "status": "active",
-        "lastLogin": 1791995475
+        "lastLogin": 1792084539
       },
       {
         "username": "jaysongilman28",
@@ -70,14 +70,14 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 456,
-        "wpm": 45,
+        "allTimeRaces": 464,
+        "wpm": 51,
         "highestWPM": 105,
-        "teamRaces": 151,
-        "acc": 93.99,
+        "teamRaces": 159,
+        "acc": 93.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1792003977
+        "lastLogin": 1792085086
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -413,7 +413,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792074844
+        "lastLogin": 1792084625
       },
       {
         "username": "daisyiscute2026",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76005,
+        "races": 76015,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 322,
-        "avgWPM": 64,
-        "avgAcc": 92.23,
+        "races": 332,
+        "avgWPM": 63,
+        "avgAcc": 92.25,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792084443010
+    "_syncedAt": 1792086018023
   },
   "SVC": {
     "tag": "SVC",
@@ -743,14 +743,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4330,
-        "wpm": 78,
+        "allTimeRaces": 4338,
+        "wpm": 77,
         "highestWPM": 104,
-        "teamRaces": 976,
-        "acc": 93.07,
+        "teamRaces": 984,
+        "acc": 93.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792075462
+        "lastLogin": 1792084499
       },
       {
         "username": "hieuanp",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39559,
+        "races": 39567,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 218,
-        "avgWPM": 83,
-        "avgAcc": 94.63,
+        "races": 178,
+        "avgWPM": 82,
+        "avgAcc": 94.47,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792084481261
+    "_syncedAt": 1792086039777
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1213,7 +1213,7 @@
         "acc": 93.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792038374
+        "lastLogin": 1792084609
       }
     ],
     "aggregates": {
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792084500382
+    "_syncedAt": 1792086058671
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1370,14 +1370,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1292,
-        "wpm": 52,
+        "allTimeRaces": 1314,
+        "wpm": 47,
         "highestWPM": 84,
-        "teamRaces": 517,
-        "acc": 91.74,
+        "teamRaces": 535,
+        "acc": 91.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792073255
+        "lastLogin": 1792084941
       },
       {
         "username": "baglepet000",
@@ -1468,14 +1468,14 @@
         "displayName": "stew2k",
         "role": "member",
         "joinStamp": 1791916700,
-        "allTimeRaces": 725,
-        "wpm": 68,
+        "allTimeRaces": 729,
+        "wpm": 70,
         "highestWPM": 81,
-        "teamRaces": 7,
-        "acc": 94.36,
+        "teamRaces": 8,
+        "acc": 94.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1791996872
+        "lastLogin": 1792085923
       },
       {
         "username": "035e7675f55b158829a3f8ea1884682d",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114015,
+        "races": 114034,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1360,
+        "races": 1365,
         "avgWPM": 61,
-        "avgAcc": 92.92,
+        "avgAcc": 92.91,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792084670134
+    "_syncedAt": 1792086228482
   }
 }
