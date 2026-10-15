@@ -313,6 +313,154 @@ async function fetchSeasonRacers(context, timeframeLabel) {
   } finally { await page.close(); }
 }
 
+async function fetchTournament(context, tag) {
+  const page = await context.newPage();
+  try {
+    await page.goto("https://ntstartrack.org/tournaments", { waitUntil: "networkidle", timeout: 60000 });
+    await sleep(2000);
+    const meta = await page.evaluate(async (TAG) => {
+      const sleepIn = ms => new Promise(r => setTimeout(r, ms));
+      const teamSel = document.querySelector("select.side-pane__select");
+      if (teamSel) {
+        teamSel.value = TAG;
+        teamSel.dispatchEvent(new Event("change", { bubbles: true }));
+        await sleepIn(2000);
+      }
+      const tourSel = document.querySelector("select.event-dropdown");
+      if (!tourSel) return null;
+      if (!tourSel.value || tourSel.selectedIndex === 0) {
+        if (tourSel.options.length > 1) {
+          tourSel.value = tourSel.options[1].value;
+          tourSel.dispatchEvent(new Event("change", { bubbles: true }));
+          await sleepIn(1500);
+        }
+      }
+      const allTournaments = [...tourSel.options].slice(1).map(o => {
+        const m = o.textContent.match(/^(.*)\s\((\w+)\)$/);
+        return { id: o.value, name: m ? m[1].trim() : o.textContent.trim(), status: m ? m[2] : null };
+      });
+      const selectedId = tourSel.value || null;
+
+      const h2 = [...document.querySelectorAll("h2")][0];
+      const name = h2 ? h2.textContent.trim() : null;
+      const headerDiv = h2 ? h2.parentElement : null;
+      const status = headerDiv ? (headerDiv.querySelector("span")?.textContent.trim() || null) : null;
+      const seedLink = headerDiv ? headerDiv.querySelector("a") : null;
+      const seedingHref = seedLink ? seedLink.getAttribute("href") : null;
+
+      const grandparent = headerDiv ? headerDiv.parentElement : null;
+      const descDiv = grandparent ? grandparent.children[1] : null;
+      const description = descDiv ? descDiv.textContent.trim() : null;
+      const metaDiv = grandparent ? grandparent.children[2] : null;
+      let start = null, end = null, teamsLine = null;
+      if (metaDiv) {
+        const spans = [...metaDiv.querySelectorAll("span")];
+        for (const sp of spans) {
+          const t = sp.textContent.trim();
+          if (t.startsWith("Start:")) start = t.replace("Start:", "").trim();
+          else if (t.startsWith("End:")) end = t.replace("End:", "").trim();
+          else if (t.startsWith("Teams:")) teamsLine = t.replace("Teams:", "").trim();
+        }
+      }
+      const teams = teamsLine ? teamsLine.split(",").map(s => s.trim()).filter(Boolean) : [];
+      const formatLine = grandparent && grandparent.children[3] ? grandparent.children[3].textContent.trim() : null;
+
+      // Round nav buttons carry the prize amounts (e.g. "Sweet 16 ($100,000)").
+      const roundBtns = [...document.querySelectorAll("nav button, button")].filter(b => {
+        const t = b.textContent.trim();
+        return /^(Round of 64|Round of 32|Sweet 16|Elite 8|Final 4|Championship)\b/.test(t);
+      });
+      const seen = new Set();
+      const rounds = [];
+      for (const b of roundBtns) {
+        const t = b.textContent.trim();
+        if (seen.has(t)) continue;
+        seen.add(t);
+        const m = t.match(/^(.*?)(?:\s*\(\$([\d,]+)\))?$/);
+        rounds.push({ label: (m && m[1] ? m[1].trim() : t), prize: (m && m[2]) ? Number(m[2].replace(/,/g, "")) : null, btnText: t });
+      }
+      return { selectedId, name, status, seedingHref, description, start, end, teams, formatLine, allTournaments, rounds };
+    }, tag);
+
+    if (!meta) return null;
+
+    // Scrape each round's bracket from the stable `.m-bracket` markup
+    // (same markup regardless of viewport; the desktop canvas view uses
+    // unstable styled-components classnames so we target this one instead).
+    const roundsOut = [];
+    for (const r of meta.rounds) {
+      const matches = await page.evaluate(async (btnText) => {
+        const sleepIn = ms => new Promise(res => setTimeout(res, ms));
+        const btn = [...document.querySelectorAll("nav button, button")].find(b => b.textContent.trim() === btnText);
+        if (btn) btn.click();
+        await sleepIn(1200);
+        const mb = document.querySelector(".m-bracket");
+        if (!mb) return [];
+        return [...mb.querySelectorAll(".m-bracket__match")].map(m => {
+          const id = m.querySelector(".m-bracket__match-id")?.textContent?.trim() || null;
+          const players = [...m.querySelectorAll(".m-bracket__player")].map(p => {
+            const seed = p.querySelector(".m-bracket__seed")?.textContent?.trim() || null;
+            const nameEl = p.querySelector(".m-bracket__name");
+            const placeholder = nameEl ? nameEl.className.includes("placeholder") : true;
+            const tagEl = nameEl ? nameEl.querySelector(".m-bracket__tag") : null;
+            const racer = nameEl ? (nameEl.childNodes[0] && nameEl.childNodes[0].textContent ? nameEl.childNodes[0].textContent.trim() : nameEl.textContent.trim()) : null;
+            const teamTag = tagEl ? tagEl.textContent.trim() : null;
+            const gold = nameEl ? !!nameEl.querySelector(".nt-gold-icon, img") : false;
+            const scoreTxt = p.querySelector(".m-bracket__score")?.textContent?.trim() || null;
+            const score = scoreTxt && scoreTxt !== "-" && scoreTxt !== "–" ? Number(scoreTxt.replace(/,/g, "")) : null;
+            return { seed, racer, teamTag, gold, placeholder, score };
+          });
+          let winner = null;
+          if (players.length === 2 && players[0].score != null && players[1].score != null && players[0].score !== players[1].score) {
+            winner = players[0].score > players[1].score ? 0 : 1;
+          }
+          return { id, players, winner };
+        });
+      }, r.btnText);
+      roundsOut.push({ label: r.label, prize: r.prize, matches });
+    }
+
+    return {
+      id: meta.selectedId,
+      name: meta.name,
+      status: meta.status,
+      description: meta.description,
+      start: meta.start,
+      end: meta.end,
+      teams: meta.teams,
+      format: meta.formatLine,
+      seedingHref: meta.seedingHref,
+      allTournaments: meta.allTournaments,
+      rounds: roundsOut,
+      source: "ntstartrack.org",
+      _syncedAt: Date.now(),
+    };
+  } finally {
+    await page.close();
+  }
+}
+
+async function fetchTournamentSeeding(context, href) {
+  if (!href) return null;
+  const page = await context.newPage();
+  try {
+    const url = href.startsWith("http") ? href : `https://ntstartrack.org${href}`;
+    await page.goto(url, { waitUntil: "networkidle", timeout: 60000 });
+    await sleep(2500);
+    const racers = await page.evaluate(() => {
+      const rows = [...document.querySelectorAll("table tr")].filter(r => r.querySelectorAll("td").length >= 5);
+      return rows.map(r => {
+        const c = [...r.querySelectorAll("td")].map(td => td.textContent.replace(/\s+/g, " ").trim());
+        const pn = s => { if (!s) return null; const n = Number(String(s).replace(/[,%]/g, "")); return isNaN(n) ? null : n; };
+        return { rank: c[0] || null, racer: c[1] || null, squad: c[2] || null, races: pn(c[3]), wpm: pn(c[4]), accuracy: pn(c[5]), points: pn(c[6]), tier: c[7] || null };
+      });
+    });
+    return { racers, _syncedAt: Date.now() };
+  } finally {
+    await page.close();
+  }
+}
+
 async function fetchCompLeaderboard(context, eventId) {
   const page = await context.newPage();
   try {
@@ -385,6 +533,16 @@ async function main() {
   const daily = await safe("daily", () => fetchSeasonRacers(context, "24 Hour"));
   if (daily) await writeJSON("daily.json", { racers: daily.racers || [], _syncedAt: Date.now() });
 
+  // Tournament bracket (whatever tournament is current/featured for TEAM_TAG)
+  const tournament = await safe("tournament", () => fetchTournament(context, TEAM_TAG));
+  if (tournament) {
+    if (tournament.seedingHref) {
+      const seeding = await safe("tournament-seeding", () => fetchTournamentSeeding(context, tournament.seedingHref));
+      if (seeding) tournament.seeding = seeding;
+    }
+    await writeJSON("tournament.json", tournament);
+  }
+
   // Comp leaderboards for active comps
   if (comps && comps.events) {
     const active = comps.events.filter(e => /active|live|ongoing|open/i.test(e.status || ""));
@@ -429,6 +587,7 @@ async function main() {
     seasons: season ? Date.now() : null,
     weekly: weekly ? Date.now() : null,
     daily: daily ? Date.now() : null,
+    tournament: tournament ? tournament._syncedAt : null,
     allies: Object.keys(allyTeams),
     took: Date.now() - started,
     ok: results.ok,

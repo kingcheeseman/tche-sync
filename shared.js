@@ -27,6 +27,7 @@
     stats: "stats.html",
     racers: "racers.html",
     competitions: "competitions.html",
+    tournament: "tournament.html",
     allies: "allies.html",
     info: "info.html",
   };
@@ -35,6 +36,7 @@
     stats: "Team Stats",
     racers: "Racers",
     competitions: "Competitions",
+    tournament: "Tournament",
     allies: "Allies",
     info: "Info",
   };
@@ -50,6 +52,8 @@
     comps: null,
     seasons: null,
     selectedSeason: null,
+    tournament: null,
+    tournamentRoundIdx: null,
     weekly: null,          // per-racer weekly stats (Startrack)
     daily: null,           // per-racer 24h stats (Startrack)
     notes: {},             // notes/<username> → { text, updatedAt }
@@ -201,7 +205,7 @@
 
   async function loadFromGitHub() {
     try {
-      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned] = await Promise.all([
+      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned, tournament] = await Promise.all([
         fetchGH("team.json"),
         fetchGH("startrack.json"),
         fetchGH("comps.json"),
@@ -215,6 +219,7 @@
         fetchGH("index.json"),
         fetchGH("info.json"),
         fetchGH("pinned.json"),
+        fetchGH("tournament.json"),
       ]);
       if (team) { state.team = team; state.lastSync = team._syncedAt || state.lastSync; }
       if (startrack) state.startrack = startrack;
@@ -235,6 +240,7 @@
       }
       if (info) state.info = info;
       if (pinned) state.pinnedNotice = pinned;
+      if (tournament) state.tournament = tournament;
       if (allies && typeof allies === "object") state.allies = Object.keys(allies);
       state.syncIndex = index || null;
       if (!team && !startrack && !comps) {
@@ -1209,6 +1215,7 @@
       else if (p === "stats") view.innerHTML = staleBanner() + renderStats();
       else if (p === "racers") view.innerHTML = staleBanner() + renderRacers();
       else if (p === "competitions") view.innerHTML = staleBanner() + renderCompetitions();
+      else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
       else if (p === "info") view.innerHTML = renderInfo();
       else view.innerHTML = `<div class="empty"><h3>Unknown page</h3><p>Open <a href="${PAGES.home}">Home</a>.</p></div>`;
@@ -1880,6 +1887,130 @@
     `;
   }
 
+  // ----- TOURNAMENT -----
+  function renderTournament() {
+    const tour = state.tournament;
+    if (!tour) return emptyState("No tournament data yet", "Create a tournament on Startrack and it'll show up here within 15 minutes of the next sync.");
+
+    const statusCls = /active/i.test(tour.status || "") ? "status-live" : /pending/i.test(tour.status || "") ? "status-upcoming" : "";
+
+    const header = `
+      <div class="card" style="margin-bottom:24px;">
+        <div class="flex-between">
+          <div style="min-width:0;">
+            <div class="page-eyebrow">Startrack tournament</div>
+            <h2 style="font-family:var(--font-display); font-weight:700; font-size:22px; letter-spacing:-0.3px; margin:4px 0 8px; word-break:break-word;">${esc(tour.name || "Tournament")}</h2>
+          </div>
+          ${tour.status ? `<span class="comp-status ${statusCls}">${esc(tour.status)}</span>` : ""}
+        </div>
+        ${tour.description ? `<p class="text-dim" style="margin:0 0 14px;">${esc(tour.description)}</p>` : ""}
+        <div class="comp-times" style="border-top:none; padding-top:0; margin-top:0;">
+          <span><strong>Start</strong> ${esc(tour.start || "—")}</span>
+          <span><strong>End</strong> ${esc(tour.end || "—")}</span>
+        </div>
+        ${tour.teams && tour.teams.length ? `
+          <div class="flex" style="margin-top:14px;">
+            ${tour.teams.map(t => `<span class="pill ${t === TEAM_TAG ? "pill-gold" : "pill-gray"}">${esc(t)}</span>`).join("")}
+          </div>` : ""}
+        ${tour.format ? `<div class="text-muted" style="font-size:12px; margin-top:14px;">${esc(tour.format)}</div>` : ""}
+        <div class="text-muted" style="font-size:11px; margin-top:10px;">Via ntstartrack.org${tour._syncedAt ? " · updated " + timeAgo(tour._syncedAt) : ""}</div>
+      </div>`;
+
+    const rounds = Array.isArray(tour.rounds) ? tour.rounds : [];
+
+    if (state.tournamentRoundIdx == null) {
+      let idx = 0;
+      for (let i = rounds.length - 1; i >= 0; i--) {
+        if (rounds[i].matches && rounds[i].matches.some(m => m.players && m.players.some(p => !p.placeholder))) { idx = i; break; }
+      }
+      state.tournamentRoundIdx = idx;
+    }
+    const selectedRoundIdx = rounds.length ? Math.min(state.tournamentRoundIdx, rounds.length - 1) : 0;
+    const selRound = rounds[selectedRoundIdx];
+
+    const roundTabs = rounds.length ? `
+      <div class="filter-chips">
+        ${rounds.map((r, i) => `<button class="filter-chip ${i === selectedRoundIdx ? "active" : ""}" data-tour-round="${i}">${esc(r.label)}${r.prize ? ` · ${fmt(r.prize)}` : ""}</button>`).join("")}
+      </div>` : "";
+
+    const matchCard = (m) => {
+      const players = m.players || [];
+      const teamRow = (p, idx) => {
+        if (!p) return `<div class="bracket-team placeholder"><span class="bracket-name">TBD</span></div>`;
+        const isWinner = m.winner === idx;
+        const nameTxt = p.placeholder ? (p.racer || "TBD") : (p.racer || "TBD");
+        return `
+          <div class="bracket-team ${isWinner ? "is-winner" : ""} ${p.placeholder ? "placeholder" : ""}">
+            <span class="bracket-seed">${p.seed && p.seed !== "–" && p.seed !== "-" ? "#" + esc(p.seed) : ""}</span>
+            <span class="bracket-name">${esc(nameTxt)}${p.teamTag ? ` <span class="bracket-tag">[${esc(p.teamTag)}]</span>` : ""}${p.gold ? " 🏆" : ""}</span>
+            <span class="bracket-score">${p.score != null ? fmt(p.score) : "—"}</span>
+          </div>`;
+      };
+      return `
+        <div class="bracket-match">
+          <div class="bracket-match-id">${esc(m.id || "")}</div>
+          ${teamRow(players[0], 0)}
+          <div class="bracket-vs">vs</div>
+          ${teamRow(players[1], 1)}
+        </div>`;
+    };
+
+    const hasRealMatches = selRound && selRound.matches && selRound.matches.some(m => m.players && m.players.some(p => !p.placeholder));
+    const bracketSection = selRound ? `
+      <div class="card">
+        <div class="card-head">
+          <h3 class="card-title">${esc(selRound.label)}${selRound.prize ? ` <span class="text-muted" style="font-weight:500;">· ${fmt(selRound.prize)} prize</span>` : ""}</h3>
+          <span class="text-muted" style="font-size:11px;">${selRound.matches.length} match${selRound.matches.length === 1 ? "" : "es"}</span>
+        </div>
+        ${roundTabs}
+        ${hasRealMatches ? `
+          <div class="bracket-grid">
+            ${selRound.matches.map(matchCard).join("")}
+          </div>` : emptyState("No results yet for this round", "Matches fill in here as races are tracked for this round.")}
+      </div>` : emptyState("Bracket not available yet", "Check back once the tournament starts.");
+
+    const seeding = tour.seeding && Array.isArray(tour.seeding.racers) ? tour.seeding.racers : [];
+    const seedingSection = seeding.length ? `
+      <div class="card" style="margin-top:24px;">
+        <div class="card-head">
+          <h3 class="card-title">Seeding standings</h3>
+          ${tour.seedingHref ? `<a href="https://ntstartrack.org${tour.seedingHref}" target="_blank" rel="noopener" class="btn btn-sm ghost">View on Startrack →</a>` : ""}
+        </div>
+        <div class="table-wrap">
+          <table class="racers">
+            <thead><tr><th>#</th><th>Racer</th><th>Squad</th><th style="text-align:right;">Races</th><th style="text-align:right;">WPM</th><th style="text-align:right;">Accuracy</th><th style="text-align:right;">Points</th></tr></thead>
+            <tbody>
+              ${seeding.map((r, i) => `
+                <tr>
+                  <td class="rank-cell">${esc(r.rank || i + 1)}</td>
+                  <td class="name">${esc(r.racer || "")}</td>
+                  <td class="text-dim">${esc(r.squad || "")}</td>
+                  <td class="num">${fmt(r.races)}</td>
+                  <td class="num">${fmt(r.wpm)}</td>
+                  <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                  <td class="num num-primary">${fmt(r.points)}</td>
+                </tr>`).join("")}
+            </tbody>
+          </table>
+        </div>
+      </div>` : (tour.seedingHref ? `
+      <div class="card" style="margin-top:24px;">
+        <div class="card-head"><h3 class="card-title">Seeding standings</h3></div>
+        ${emptyState("No seeding results yet", "Seeding standings appear here once racing starts.")}
+      </div>` : "");
+
+    return `
+      <div class="page-head"><div>
+        <div class="page-eyebrow">Bracket</div>
+        <h1 class="page-title">Tournament</h1>
+        <p class="page-sub">Live bracket for ${esc(tour.name || "the current tournament")}, mirrored from ntstartrack.org.</p>
+      </div></div>
+      ${header}
+      ${bracketSection}
+      ${seedingSection}
+    `;
+  }
+
   // ----- ALLIES -----
   function renderAllies() {
     const cards = state.allies.map(tag => {
@@ -2191,6 +2322,11 @@
     // Season switcher
     const sw = document.getElementById("season-switcher");
     if (sw) sw.addEventListener("change", (e)=>{ state.selectedSeason = e.target.value; render(); });
+
+    // Tournament round switcher
+    document.querySelectorAll("[data-tour-round]").forEach(btn => {
+      btn.addEventListener("click", () => { state.tournamentRoundIdx = Number(btn.dataset.tourRound); render(); });
+    });
 
     // Racer sort
     document.querySelectorAll("table.racers thead th[data-sort]").forEach(th=>{
