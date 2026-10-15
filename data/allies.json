@@ -508,15 +508,15 @@
         "members": 35
       },
       "daily": {
-        "races": 339,
+        "races": 325,
         "avgWPM": 64,
-        "avgAcc": 92.37,
+        "avgAcc": 92.39,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093424541
+    "_syncedAt": 1792094557415
   },
   "SVC": {
     "tag": "SVC",
@@ -827,14 +827,14 @@
         "displayName": "BabyDudeSued",
         "role": "member",
         "joinStamp": 1788876402,
-        "allTimeRaces": 633,
-        "wpm": 82,
+        "allTimeRaces": 635,
+        "wpm": 85,
         "highestWPM": 109,
-        "teamRaces": 89,
-        "acc": 93.72,
+        "teamRaces": 91,
+        "acc": 93.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1791572547
+        "lastLogin": 1792094104
       },
       {
         "username": "walb253",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39578,
+        "races": 39580,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 125,
+        "races": 123,
         "avgWPM": 77,
-        "avgAcc": 94.08,
+        "avgAcc": 93.97,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093443715
+    "_syncedAt": 1792094579430
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093463001
+    "_syncedAt": 1792094598260
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4051,
+    "profileViews": 4052,
     "leagueTier": 11,
     "racers": [
       {
@@ -1356,11 +1356,11 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 2735,
-        "wpm": 62,
+        "allTimeRaces": 2750,
+        "wpm": 60,
         "highestWPM": 80,
-        "teamRaces": 1030,
-        "acc": 96.47,
+        "teamRaces": 1043,
+        "acc": 96.48,
         "season": null,
         "status": "active",
         "lastLogin": 1792093629
@@ -1776,10 +1776,10 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 3954,
-        "wpm": 35,
+        "allTimeRaces": 3962,
+        "wpm": 37,
         "highestWPM": 80,
-        "teamRaces": 978,
+        "teamRaces": 985,
         "acc": 94.21,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114074,
+        "races": 114094,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1264,
+        "races": 1261,
         "avgWPM": 61,
-        "avgAcc": 92.91,
+        "avgAcc": 92.96,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792093632710
+    "_syncedAt": 1792094767535
   }
 }
