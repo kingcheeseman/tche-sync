@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 35,
-    "activePercent": 81,
+    "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT",
     "profileViews": 2830,
@@ -413,7 +413,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792020131
+        "lastLogin": 1792038271
       },
       {
         "username": "daisyiscute2026",
@@ -516,13 +516,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792037429059
+    "_syncedAt": 1792039057974
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 45,
-    "activePercent": 68,
+    "activePercent": 66,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 1986,
@@ -687,11 +687,11 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4543,
-        "wpm": 56,
+        "allTimeRaces": 4561,
+        "wpm": 62,
         "highestWPM": 78,
-        "teamRaces": 141,
-        "acc": 98.13,
+        "teamRaces": 155,
+        "acc": 98.12,
         "season": null,
         "status": "active",
         "lastLogin": 1792037051
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39465,
+        "races": 39479,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 306,
-        "avgWPM": 85,
-        "avgAcc": 94.88,
+        "races": 312,
+        "avgWPM": 84,
+        "avgAcc": 94.92,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792037450134
+    "_syncedAt": 1792039076791
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1213,7 +1213,7 @@
         "acc": 93.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1791928861
+        "lastLogin": 1792038374
       }
     ],
     "aggregates": {
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792037468878
+    "_syncedAt": 1792039095617
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4029,
+    "profileViews": 4030,
     "leagueTier": 11,
     "racers": [
       {
@@ -1807,8 +1807,8 @@
         "allTimeRaces": 5707,
         "wpm": 81,
         "highestWPM": 109,
-        "teamRaces": 99,
-        "acc": 95.42,
+        "teamRaces": 100,
+        "acc": 95.45,
         "season": null,
         "status": "active",
         "lastLogin": 1792037077
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113308,
+        "races": 113309,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 1015,
+        "races": 1016,
         "avgWPM": 61,
-        "avgAcc": 92.59,
+        "avgAcc": 92.6,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792037638207
+    "_syncedAt": 1792039265084
   }
 }
