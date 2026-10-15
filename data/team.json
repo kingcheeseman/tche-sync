@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 48,
+  "members": 49,
   "activePercent": 83,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨28mil NTC given✨Website: https://tinyurl.com/IMT-Website✨CASH given to active racers",
-  "profileViews": 1888,
+  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 50 team✨15 races/join✨50 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨CASH given to active racers",
+  "profileViews": 1889,
   "leagueTier": 11,
   "racers": [
     {
@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20049,
-      "wpm": 89,
+      "allTimeRaces": 20059,
+      "wpm": 88,
       "highestWPM": 108,
-      "teamRaces": 2410,
+      "teamRaces": 2420,
       "acc": 97.55,
       "season": null,
       "status": "active",
@@ -217,6 +217,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1791925066
+    },
+    {
+      "username": "teraceeben21",
+      "displayName": "t_unknown",
+      "role": "member",
+      "joinStamp": 1792076776,
+      "allTimeRaces": 5033,
+      "wpm": 81,
+      "highestWPM": 111,
+      "teamRaces": 1,
+      "acc": 96.35,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792076545
     },
     {
       "username": "813d4229906a6d50e606a1fba7857e3f",
@@ -489,11 +503,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4433,
-      "wpm": 79,
+      "allTimeRaces": 4464,
+      "wpm": 83,
       "highestWPM": 118,
-      "teamRaces": 2007,
-      "acc": 92.42,
+      "teamRaces": 2039,
+      "acc": 92.44,
       "season": null,
       "status": "active",
       "lastLogin": 1792074864
@@ -683,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51556,
+      "races": 51599,
       "avgWPM": 76,
       "avgAcc": 95.05,
-      "members": 48
+      "members": 49
     },
     "daily": {
-      "races": 580,
+      "races": 588,
       "avgWPM": 81,
-      "avgAcc": 94.64,
-      "members": 48
+      "avgAcc": 94.71,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792075287601
+  "_syncedAt": 1792077183888
 }
