@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792035470673
+    "_syncedAt": 1792037429059
   },
   "SVC": {
     "tag": "SVC",
@@ -526,7 +526,7 @@
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 1986,
-    "leagueTier": 10,
+    "leagueTier": 11,
     "racers": [
       {
         "username": "sinatoark",
@@ -687,14 +687,14 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4539,
-        "wpm": 58,
+        "allTimeRaces": 4543,
+        "wpm": 56,
         "highestWPM": 78,
-        "teamRaces": 138,
-        "acc": 98.14,
+        "teamRaces": 141,
+        "acc": 98.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1791954416
+        "lastLogin": 1792037051
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39462,
+        "races": 39465,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 320,
-        "avgWPM": 84,
-        "avgAcc": 94.99,
+        "races": 306,
+        "avgWPM": 85,
+        "avgAcc": 94.88,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792035489555
+    "_syncedAt": 1792037450134
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,16 +1227,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792035508399
+    "_syncedAt": 1792037468878
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 48,
+    "members": 49,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 180M+ Cash & 13+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4028,
+    "profileViews": 4029,
     "leagueTier": 11,
     "racers": [
       {
@@ -1258,14 +1258,14 @@
         "displayName": "C L A Y",
         "role": "officer",
         "joinStamp": 1791125619,
-        "allTimeRaces": 48590,
-        "wpm": 116,
+        "allTimeRaces": 48600,
+        "wpm": 112,
         "highestWPM": 136,
-        "teamRaces": 549,
-        "acc": 94.09,
+        "teamRaces": 560,
+        "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792032702
+        "lastLogin": 1792035968
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1552,11 +1552,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8352,
-        "wpm": 67,
+        "allTimeRaces": 8370,
+        "wpm": 70,
         "highestWPM": 95,
-        "teamRaces": 804,
-        "acc": 97.42,
+        "teamRaces": 823,
+        "acc": 97.44,
         "season": null,
         "status": "active",
         "lastLogin": 1792034900
@@ -1804,14 +1804,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5703,
+        "allTimeRaces": 5707,
         "wpm": 81,
         "highestWPM": 109,
-        "teamRaces": 96,
-        "acc": 95.4,
+        "teamRaces": 99,
+        "acc": 95.42,
         "season": null,
         "status": "active",
-        "lastLogin": 1791941174
+        "lastLogin": 1792037077
       },
       {
         "username": "nev444ehh",
@@ -1898,6 +1898,20 @@
         "lastLogin": 1791919184
       },
       {
+        "username": "500big",
+        "displayName": "NitroLegends",
+        "role": "member",
+        "joinStamp": 1792035997,
+        "allTimeRaces": 2746,
+        "wpm": 62,
+        "highestWPM": 70,
+        "teamRaces": 560,
+        "acc": 93.76,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792032006
+      },
+      {
         "username": "malott12",
         "displayName": "FastestEver808",
         "role": "member",
@@ -1914,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113275,
+        "races": 113308,
         "avgWPM": 67,
         "avgAcc": 94,
-        "members": 48
+        "members": 49
       },
       "daily": {
-        "races": 1012,
+        "races": 1015,
         "avgWPM": 61,
-        "avgAcc": 92.61,
-        "members": 48
+        "avgAcc": 92.59,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792035677859
+    "_syncedAt": 1792037638207
   }
 }
