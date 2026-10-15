@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792051460483
+    "_syncedAt": 1792053740628
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792051479871
+    "_syncedAt": 1792053759399
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792051498862
+    "_syncedAt": 1792053778235
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1762,11 +1762,11 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 3906,
-        "wpm": 35,
+        "allTimeRaces": 3939,
+        "wpm": 33,
         "highestWPM": 80,
-        "teamRaces": 922,
-        "acc": 94.23,
+        "teamRaces": 958,
+        "acc": 94.22,
         "season": null,
         "status": "active",
         "lastLogin": 1792046530
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113455,
+        "races": 113491,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 49
       },
       "daily": {
-        "races": 1157,
-        "avgWPM": 62,
-        "avgAcc": 92.9,
+        "races": 1193,
+        "avgWPM": 61,
+        "avgAcc": 92.92,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792051668530
+    "_syncedAt": 1792053947733
   }
 }
