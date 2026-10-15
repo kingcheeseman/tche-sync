@@ -224,14 +224,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1710,
-        "wpm": 64,
+        "allTimeRaces": 1721,
+        "wpm": 63,
         "highestWPM": 90,
-        "teamRaces": 665,
-        "acc": 90.53,
+        "teamRaces": 669,
+        "acc": 90.52,
         "season": null,
         "status": "active",
-        "lastLogin": 1792021387
+        "lastLogin": 1792063067
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -301,7 +301,7 @@
         "acc": 93.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1792022153
+        "lastLogin": 1792063264
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -364,14 +364,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4884,
-        "wpm": 84,
+        "allTimeRaces": 4889,
+        "wpm": 83,
         "highestWPM": 112,
-        "teamRaces": 445,
+        "teamRaces": 451,
         "acc": 95.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1792061947
+        "lastLogin": 1792064140
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -502,13 +502,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 75816,
+        "races": 75826,
         "avgWPM": 55,
         "avgAcc": 93.58,
         "members": 35
       },
       "daily": {
-        "races": 279,
+        "races": 289,
         "avgWPM": 68,
         "avgAcc": 93.01,
         "members": 35
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792062562493
+    "_syncedAt": 1792064358620
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792062581631
+    "_syncedAt": 1792064377482
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792062600795
+    "_syncedAt": 1792064396166
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1835,7 +1835,7 @@
         "allTimeRaces": 8599,
         "wpm": 38,
         "highestWPM": 75,
-        "teamRaces": 1167,
+        "teamRaces": 1169,
         "acc": 86.89,
         "season": null,
         "status": "active",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 113660,
+        "races": 113662,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 49
       },
       "daily": {
-        "races": 1155,
-        "avgWPM": 61,
-        "avgAcc": 92.94,
+        "races": 1121,
+        "avgWPM": 62,
+        "avgAcc": 93.1,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792062770664
+    "_syncedAt": 1792064565228
   }
 }
