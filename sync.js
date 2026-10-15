@@ -352,7 +352,7 @@ async function fetchTournament(context, tag) {
       const descDiv = grandparent ? grandparent.children[1] : null;
       const description = descDiv ? descDiv.textContent.trim() : null;
       const metaDiv = grandparent ? grandparent.children[2] : null;
-      let start = null, end = null, teamsLine = null;
+      let start = null, end = null, teamsLine = null, formatLine = null;
       if (metaDiv) {
         const spans = [...metaDiv.querySelectorAll("span")];
         for (const sp of spans) {
@@ -360,10 +360,11 @@ async function fetchTournament(context, tag) {
           if (t.startsWith("Start:")) start = t.replace("Start:", "").trim();
           else if (t.startsWith("End:")) end = t.replace("End:", "").trim();
           else if (t.startsWith("Teams:")) teamsLine = t.replace("Teams:", "").trim();
+          else if (!formatLine && t) formatLine = t;
         }
       }
       const teams = teamsLine ? teamsLine.split(",").map(s => s.trim()).filter(Boolean) : [];
-      const formatLine = grandparent && grandparent.children[3] ? grandparent.children[3].textContent.trim() : null;
+      if (!formatLine && grandparent && grandparent.children[3]) formatLine = grandparent.children[3].textContent.trim();
 
       // Round nav buttons carry the prize amounts (e.g. "Sweet 16 ($100,000)").
       const roundBtns = [...document.querySelectorAll("nav button, button")].filter(b => {
