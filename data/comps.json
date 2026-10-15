@@ -41,14 +41,6 @@
       "end": "10/22/2026, 01:45 PM"
     },
     {
-      "id": "1340",
-      "status": "Pending",
-      "title": "IMT Celebration Event",
-      "desc": "Event to celebrate the renaming of IMT. No payouts, but there might be later on.",
-      "start": "10/18/2026, 02:00 PM",
-      "end": "10/23/2026, 07:00 PM"
-    },
-    {
       "id": "1342",
       "status": "Pending",
       "title": "IMT Ally Celebration Tournament - Round of 64",
@@ -63,6 +55,14 @@
       "desc": "This event is part of a tournament. Seeding round for IMT Ally Celebration Tournament\n\nJoin for a chance to win up to 15M NTC!!! Captains pay their own team members if they want to.",
       "start": "10/16/2026, 02:00 PM",
       "end": "10/18/2026, 01:45 PM"
+    },
+    {
+      "id": "1340",
+      "status": "Active",
+      "title": "IMT Celebration Event",
+      "desc": "Event to celebrate the renaming of IMT. No payouts, but there might be later on.",
+      "start": "10/15/2026, 03:30 PM",
+      "end": "10/16/2026, 07:00 PM"
     },
     {
       "id": "1077",
@@ -90,5 +90,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792077206811
+  "_syncedAt": 1792079080077
 }

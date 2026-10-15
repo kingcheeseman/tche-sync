@@ -13,11 +13,11 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20059,
-      "wpm": 88,
+      "allTimeRaces": 20074,
+      "wpm": 89,
       "highestWPM": 108,
-      "teamRaces": 2420,
-      "acc": 97.55,
+      "teamRaces": 2435,
+      "acc": 97.56,
       "season": null,
       "status": "active",
       "lastLogin": 1792074992
@@ -223,11 +223,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5033,
-      "wpm": 81,
+      "allTimeRaces": 5057,
+      "wpm": 83,
       "highestWPM": 111,
-      "teamRaces": 1,
-      "acc": 96.35,
+      "teamRaces": 24,
+      "acc": 94.55,
       "season": null,
       "status": "active",
       "lastLogin": 1792076545
@@ -275,6 +275,20 @@
       "lastLogin": 1791305474
     },
     {
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "role": "member",
+      "joinStamp": 1792077388,
+      "allTimeRaces": 6050,
+      "wpm": 79,
+      "highestWPM": 102,
+      "teamRaces": 24,
+      "acc": 93.36,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792077368
+    },
+    {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "role": "member",
@@ -303,20 +317,6 @@
       "lastLogin": 1791468084
     },
     {
-      "username": "5f1fc17e0ee10d3f8f9f0ed41c3683eb",
-      "displayName": "no risk no rari",
-      "role": "member",
-      "joinStamp": 1789432610,
-      "allTimeRaces": 1716,
-      "wpm": 80,
-      "highestWPM": 126,
-      "teamRaces": 13,
-      "acc": 94.58,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1789993354
-    },
-    {
       "username": "sterling757",
       "displayName": "sterling757",
       "role": "member",
@@ -335,14 +335,14 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1202,
-      "wpm": 113,
+      "allTimeRaces": 1217,
+      "wpm": 112,
       "highestWPM": 129,
-      "teamRaces": 66,
-      "acc": 96.63,
+      "teamRaces": 81,
+      "acc": 96.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1792069076
+      "lastLogin": 1792077874
     },
     {
       "username": "wsoccerboy0929",
@@ -503,10 +503,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4464,
-      "wpm": 83,
-      "highestWPM": 118,
-      "teamRaces": 2039,
+      "allTimeRaces": 4482,
+      "wpm": 85,
+      "highestWPM": 120,
+      "teamRaces": 2055,
       "acc": 92.44,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 51599,
+      "races": 51692,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 588,
+      "races": 633,
       "avgWPM": 81,
-      "avgAcc": 94.71,
+      "avgAcc": 94.72,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792077183888
+  "_syncedAt": 1792079051095
 }
