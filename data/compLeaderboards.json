@@ -10,11 +10,6 @@
       {
         "name": null,
         "points": 0,
-        "tier": "B"
-      },
-      {
-        "name": null,
-        "points": 0,
         "tier": "C"
       },
       {
@@ -26,8 +21,23 @@
         "name": null,
         "points": 0,
         "tier": "A"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "C"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "A"
+      },
+      {
+        "name": null,
+        "points": 0,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792082605187
+    "_syncedAt": 1792084442799
   }
 }
