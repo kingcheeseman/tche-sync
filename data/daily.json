@@ -1,17 +1,27 @@
 {
   "racers": [
     {
-      "rank": 71,
+      "rank": 70,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
-      "races": 159,
-      "accuracy": 93.64,
+      "races": 153,
+      "accuracy": 93.57,
       "wpm": 92.1,
-      "points": 21742,
+      "points": 20909,
       "ppr": 137
     },
     {
-      "rank": 171,
+      "rank": 144,
+      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
+      "displayName": "viewmyvioletgarage",
+      "races": 94,
+      "accuracy": 90.93,
+      "wpm": 85.7,
+      "points": 12211,
+      "ppr": 130
+    },
+    {
+      "rank": 173,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 76,
@@ -21,17 +31,7 @@
       "ppr": 134
     },
     {
-      "rank": 172,
-      "username": "sidoh",
-      "displayName": "PootsyWafflebiscuits",
-      "races": 72,
-      "accuracy": 97.67,
-      "wpm": 89.2,
-      "points": 10170,
-      "ppr": 141
-    },
-    {
-      "rank": 179,
+      "rank": 180,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 75,
@@ -41,7 +41,7 @@
       "ppr": 132
     },
     {
-      "rank": 187,
+      "rank": 189,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 75,
@@ -51,17 +51,17 @@
       "ppr": 129
     },
     {
-      "rank": 217,
-      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
-      "displayName": "viewmyvioletgarage",
-      "races": 65,
-      "accuracy": 91.27,
-      "wpm": 85.4,
-      "points": 8465,
-      "ppr": 130
+      "rank": 206,
+      "username": "sidoh",
+      "displayName": "PootsyWafflebiscuits",
+      "races": 63,
+      "accuracy": 97.67,
+      "wpm": 89.8,
+      "points": 8915,
+      "ppr": 142
     },
     {
-      "rank": 255,
+      "rank": 248,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 52,
@@ -71,7 +71,7 @@
       "ppr": 135
     },
     {
-      "rank": 331,
+      "rank": 326,
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "races": 35,
@@ -81,17 +81,27 @@
       "ppr": 151
     },
     {
-      "rank": 361,
+      "rank": 407,
       "username": "f12e19599957d9c65c8d7609af78698d",
       "displayName": "Nosferatu",
-      "races": 42,
-      "accuracy": 90.86,
+      "races": 37,
+      "accuracy": 90.65,
       "wpm": 50.8,
-      "points": 4786,
+      "points": 4206,
       "ppr": 114
     },
     {
-      "rank": 667,
+      "rank": 448,
+      "username": "jonathan711111",
+      "displayName": "Unknown",
+      "races": 26,
+      "accuracy": 95.83,
+      "wpm": 101.1,
+      "points": 3751,
+      "ppr": 144
+    },
+    {
+      "rank": 660,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 15,
@@ -101,27 +111,7 @@
       "ppr": 119
     },
     {
-      "rank": 734,
-      "username": "jonathan711111",
-      "displayName": "Unknown",
-      "races": 10,
-      "accuracy": 96.89,
-      "wpm": 102,
-      "points": 1463,
-      "ppr": 146
-    },
-    {
-      "rank": 791,
-      "username": "470256",
-      "displayName": "TrySetBuddy",
-      "races": 8,
-      "accuracy": 97.16,
-      "wpm": 95.4,
-      "points": 1148,
-      "ppr": 144
-    },
-    {
-      "rank": 977,
+      "rank": 968,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 3,
@@ -131,7 +121,7 @@
       "ppr": 108
     },
     {
-      "rank": 1000,
+      "rank": 994,
       "username": "1ea0b919208e21b376a29ac0befb794c",
       "displayName": "StefanO",
       "races": 2,
@@ -141,7 +131,7 @@
       "ppr": 133
     },
     {
-      "rank": 1007,
+      "rank": 1002,
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
       "displayName": "The Queen",
       "races": 2,
@@ -151,17 +141,17 @@
       "ppr": 128
     },
     {
-      "rank": 1055,
-      "username": "falconsteve2",
-      "displayName": "falconsteve2",
+      "rank": 1052,
+      "username": "470256",
+      "displayName": "TrySetBuddy",
       "races": 1,
-      "accuracy": 93.79,
-      "wpm": 85,
-      "points": 134,
-      "ppr": 134
+      "accuracy": 93.07,
+      "wpm": 83.6,
+      "points": 132,
+      "ppr": 132
     },
     {
-      "rank": 1093,
+      "rank": 1092,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "disgratedboy191",
       "races": 1,
@@ -171,5 +161,5 @@
       "ppr": 114
     }
   ],
-  "_syncedAt": 1792087659839
+  "_syncedAt": 1792089904708
 }

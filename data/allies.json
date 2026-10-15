@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2834,
+    "profileViews": 2835,
     "leagueTier": 11,
     "racers": [
       {
@@ -70,14 +70,14 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 464,
-        "wpm": 51,
+        "allTimeRaces": 480,
+        "wpm": 49,
         "highestWPM": 105,
-        "teamRaces": 159,
-        "acc": 93.89,
+        "teamRaces": 175,
+        "acc": 93.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1792085086
+        "lastLogin": 1792088662
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -196,14 +196,14 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5578,
-        "wpm": 76,
+        "allTimeRaces": 5600,
+        "wpm": 74,
         "highestWPM": 100,
-        "teamRaces": 735,
-        "acc": 94.64,
+        "teamRaces": 749,
+        "acc": 94.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1792067654
+        "lastLogin": 1792088872
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -301,7 +301,7 @@
         "acc": 93.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1792072718
+        "lastLogin": 1792089878
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -378,14 +378,14 @@
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1422,
+        "allTimeRaces": 1427,
         "wpm": 59,
         "highestWPM": 78,
-        "teamRaces": 93,
-        "acc": 92.82,
+        "teamRaces": 98,
+        "acc": 92.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1792003393
+        "lastLogin": 1792088571
       },
       {
         "username": "watermelonsupreme",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76015,
+        "races": 76050,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 35
       },
       "daily": {
-        "races": 315,
+        "races": 335,
         "avgWPM": 63,
-        "avgAcc": 92.21,
+        "avgAcc": 92.3,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792087664094
+    "_syncedAt": 1792089909122
   },
   "SVC": {
     "tag": "SVC",
@@ -743,14 +743,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4338,
+        "allTimeRaces": 4339,
         "wpm": 77,
         "highestWPM": 104,
-        "teamRaces": 984,
+        "teamRaces": 985,
         "acc": 93.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792084499
+        "lastLogin": 1792089326
       },
       {
         "username": "hieuanp",
@@ -956,7 +956,7 @@
         "allTimeRaces": 750,
         "wpm": 78,
         "highestWPM": 101,
-        "teamRaces": 332,
+        "teamRaces": 334,
         "acc": 93.66,
         "season": null,
         "status": "active",
@@ -1058,7 +1058,7 @@
         "acc": 100,
         "season": null,
         "status": "active",
-        "lastLogin": 1791824509
+        "lastLogin": 1792088159
       },
       {
         "username": "074a157a4542ba80b1a530a434e414ad",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39567,
+        "races": 39570,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 147,
-        "avgWPM": 77,
-        "avgAcc": 93.97,
+        "races": 117,
+        "avgWPM": 75,
+        "avgAcc": 93.91,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792087705436
+    "_syncedAt": 1792089930735
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792087724465
+    "_syncedAt": 1792089949489
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1706,11 +1706,11 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 13999,
-        "wpm": 80,
+        "allTimeRaces": 14018,
+        "wpm": 76,
         "highestWPM": 99,
-        "teamRaces": 710,
-        "acc": 95.97,
+        "teamRaces": 721,
+        "acc": 95.98,
         "season": null,
         "status": "active",
         "lastLogin": 1792087132
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114055,
+        "races": 114066,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1347,
+        "races": 1300,
         "avgWPM": 61,
-        "avgAcc": 92.86,
+        "avgAcc": 92.87,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792087894036
+    "_syncedAt": 1792090118708
   }
 }

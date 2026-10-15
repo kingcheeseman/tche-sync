@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6762,
+      "allTimeRaces": 6780,
       "wpm": 102,
       "highestWPM": 131,
-      "teamRaces": 24,
-      "acc": 96.53,
+      "teamRaces": 42,
+      "acc": 96.04,
       "season": null,
       "status": "active",
-      "lastLogin": 1792083385
+      "lastLogin": 1792087854
     },
     {
       "username": "tre1typer",
@@ -643,11 +643,11 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4587,
-      "wpm": 89,
+      "allTimeRaces": 4606,
+      "wpm": 86,
       "highestWPM": 111,
-      "teamRaces": 941,
-      "acc": 91.65,
+      "teamRaces": 970,
+      "acc": 91.63,
       "season": null,
       "status": "active",
       "lastLogin": 1792086648
@@ -685,31 +685,31 @@
       "displayName": "Nosferatu",
       "role": "member",
       "joinStamp": 1790815714,
-      "allTimeRaces": 1749,
-      "wpm": 53,
+      "allTimeRaces": 1757,
+      "wpm": 55,
       "highestWPM": 97,
-      "teamRaces": 408,
-      "acc": 92.19,
+      "teamRaces": 414,
+      "acc": 92.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1792069083
+      "lastLogin": 1792089157
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 51957,
+      "races": 52010,
       "avgWPM": 76,
-      "avgAcc": 95.05,
+      "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 743,
+      "races": 768,
       "avgWPM": 83,
-      "avgAcc": 94.62,
+      "avgAcc": 94.42,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792087605887
+  "_syncedAt": 1792089830571
 }
