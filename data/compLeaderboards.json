@@ -9,10 +9,10 @@
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
         "squad": "Side Hustler 100",
-        "races": 84,
-        "wpm": 87.3,
-        "accuracy": 94.61,
-        "points": 11415,
+        "races": 96,
+        "wpm": 87.9,
+        "accuracy": 94.57,
+        "points": 13071,
         "tier": "A"
       },
       {
@@ -148,6 +148,19 @@
       {
         "rank": 12,
         "tag": "IMT",
+        "username": "ULT1M4TE",
+        "displayName": "ULT1M4TE",
+        "nickname": "Endurance Racer",
+        "squad": null,
+        "races": 10,
+        "wpm": 67.3,
+        "accuracy": 91.58,
+        "points": 1224,
+        "tier": "C"
+      },
+      {
+        "rank": 13,
+        "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
         "nickname": "Filthy Rich",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -172,7 +185,7 @@
         "tier": "C"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -183,21 +196,8 @@
         "accuracy": 93.01,
         "points": 122,
         "tier": "B"
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "ULT1M4TE",
-        "displayName": "ULT1M4TE",
-        "nickname": "Endurance Racer",
-        "squad": null,
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "C"
       }
     ],
-    "_syncedAt": 1792103897349
+    "_syncedAt": 1792105283518
   }
 }

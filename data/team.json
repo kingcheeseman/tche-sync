@@ -41,11 +41,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4612,
-      "wpm": 90,
+      "allTimeRaces": 4633,
+      "wpm": 93,
       "highestWPM": 110,
-      "teamRaces": 427,
-      "acc": 94.67,
+      "teamRaces": 453,
+      "acc": 94.69,
       "season": null,
       "status": "active",
       "lastLogin": 1792100782
@@ -531,11 +531,11 @@
       "displayName": "ULT1M4TE",
       "role": "member",
       "joinStamp": 1792103478,
-      "allTimeRaces": 1386,
-      "wpm": 60,
+      "allTimeRaces": 1393,
+      "wpm": 67,
       "highestWPM": 84,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 10,
+      "acc": 92.24,
       "season": null,
       "status": "active",
       "lastLogin": 1792103246
@@ -587,14 +587,14 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2587,
+      "allTimeRaces": 2588,
       "wpm": 71,
       "highestWPM": 124,
-      "teamRaces": 2760,
+      "teamRaces": 2763,
       "acc": 99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792103212
+      "lastLogin": 1792105000
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52062,
+      "races": 52101,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 720,
+      "races": 759,
       "avgWPM": 82,
       "avgAcc": 94.61,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792103800334
+  "_syncedAt": 1792105209685
 }

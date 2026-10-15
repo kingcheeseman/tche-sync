@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792103897505
+    "_syncedAt": 1792105283700
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792103916267
+    "_syncedAt": 1792105302659
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1184,7 +1184,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
-    "profileViews": 11,
+    "profileViews": 12,
     "leagueTier": 2,
     "racers": [
       {
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792103935081
+    "_syncedAt": 1792105321462
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1258,11 +1258,11 @@
         "displayName": "roadto20k",
         "role": "member",
         "joinStamp": 1792104029,
-        "allTimeRaces": 11672,
-        "wpm": 123,
+        "allTimeRaces": 11690,
+        "wpm": 125,
         "highestWPM": 156,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 18,
+        "acc": 96.68,
         "season": null,
         "status": "active",
         "lastLogin": 1792103225
@@ -1307,7 +1307,7 @@
         "acc": 92.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1792097106
+        "lastLogin": 1792104465
       },
       {
         "username": "frareynolds",
@@ -1363,7 +1363,7 @@
         "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792093629
+        "lastLogin": 1792104535
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1454,14 +1454,14 @@
         "displayName": "RidiculousJadeMinnow",
         "role": "officer",
         "joinStamp": 1790290231,
-        "allTimeRaces": 15429,
-        "wpm": 98,
+        "allTimeRaces": 15430,
+        "wpm": 99,
         "highestWPM": 123,
         "teamRaces": 2602,
         "acc": 95.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792069059
+        "lastLogin": 1792105174
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18242,
+        "allTimeRaces": 18245,
         "wpm": 83,
         "highestWPM": 123,
-        "teamRaces": 17782,
+        "teamRaces": 17785,
         "acc": 93.92,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114177,
+        "races": 114198,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 50
       },
       "daily": {
-        "races": 1199,
+        "races": 1204,
         "avgWPM": 61,
-        "avgAcc": 92.82,
+        "avgAcc": 92.85,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792104104626
+    "_syncedAt": 1792105491067
   }
 }
