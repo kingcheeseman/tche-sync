@@ -25,7 +25,7 @@
           "ppr": 140
         },
         {
-          "rank": 430,
+          "rank": 431,
           "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
           "displayName": "viewmyvioletgarage",
           "races": 883,
@@ -45,7 +45,7 @@
           "ppr": 133
         },
         {
-          "rank": 583,
+          "rank": 584,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 635,
@@ -55,7 +55,7 @@
           "ppr": 137
         },
         {
-          "rank": 626,
+          "rank": 629,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 857,
@@ -65,7 +65,7 @@
           "ppr": 96
         },
         {
-          "rank": 628,
+          "rank": 631,
           "username": "e113572b376d66c088861de8c5797a20",
           "displayName": "-kczo-",
           "races": 618,
@@ -75,7 +75,7 @@
           "ppr": 132
         },
         {
-          "rank": 672,
+          "rank": 674,
           "username": "7f0032fd385260dbd67780a4c053a0f3",
           "displayName": "Sile314",
           "races": 522,
@@ -95,7 +95,7 @@
           "ppr": 126
         },
         {
-          "rank": 881,
+          "rank": 882,
           "username": "5b7204df5a2e2c2bd6d6088673206b01",
           "displayName": "disgratedboy191",
           "races": 426,
@@ -105,7 +105,17 @@
           "ppr": 126
         },
         {
-          "rank": 919,
+          "rank": 897,
+          "username": "f12e19599957d9c65c8d7609af78698d",
+          "displayName": "Nosferatu",
+          "races": 452,
+          "accuracy": 91.76,
+          "wpm": 52,
+          "points": 52258,
+          "ppr": 116
+        },
+        {
+          "rank": 921,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 369,
@@ -115,17 +125,7 @@
           "ppr": 136
         },
         {
-          "rank": 926,
-          "username": "f12e19599957d9c65c8d7609af78698d",
-          "displayName": "Nosferatu",
-          "races": 429,
-          "accuracy": 91.81,
-          "wpm": 52.1,
-          "points": 49645,
-          "ppr": 116
-        },
-        {
-          "rank": 1118,
+          "rank": 1120,
           "username": "33e83773380949c7f2fd34d850d93d34",
           "displayName": "KippKat",
           "races": 272,
@@ -155,7 +155,7 @@
           "ppr": 123
         },
         {
-          "rank": 1375,
+          "rank": 1376,
           "username": "2865b036215f4fedbcb7bdd5a174045e",
           "displayName": "Kimchi",
           "races": 175,
@@ -165,7 +165,7 @@
           "ppr": 140
         },
         {
-          "rank": 1389,
+          "rank": 1390,
           "username": "booomtype",
           "displayName": "YellowBronzeCoral",
           "races": 180,
@@ -205,7 +205,7 @@
           "ppr": 134
         },
         {
-          "rank": 1697,
+          "rank": 1698,
           "username": "0e94cbfd8e8ec77e912046bb79b8af07",
           "displayName": "Noah0821",
           "races": 119,
@@ -215,7 +215,7 @@
           "ppr": 123
         },
         {
-          "rank": 1754,
+          "rank": 1755,
           "username": "e75ed7d5fdcb2f93c69fe3db91769503",
           "displayName": "Jeongtae Seo",
           "races": 99,
@@ -225,7 +225,7 @@
           "ppr": 138
         },
         {
-          "rank": 1794,
+          "rank": 1795,
           "username": "a0604971cedb19bc8237c0b2bd3de21e",
           "displayName": "I_Am_So_Cheesy",
           "races": 113,
@@ -235,7 +235,7 @@
           "ppr": 114
         },
         {
-          "rank": 1808,
+          "rank": 1809,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 108,
@@ -266,12 +266,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792064340243
+      "_syncedAt": 1792068554864
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792064340243
+  "_syncedAt": 1792068554864
 }
