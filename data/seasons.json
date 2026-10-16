@@ -45,7 +45,7 @@
           "ppr": 133
         },
         {
-          "rank": 557,
+          "rank": 558,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 683,
@@ -55,7 +55,7 @@
           "ppr": 137
         },
         {
-          "rank": 638,
+          "rank": 639,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 860,
@@ -65,7 +65,7 @@
           "ppr": 96
         },
         {
-          "rank": 639,
+          "rank": 641,
           "username": "7f0032fd385260dbd67780a4c053a0f3",
           "displayName": "Sile314",
           "races": 557,
@@ -75,7 +75,7 @@
           "ppr": 147
         },
         {
-          "rank": 642,
+          "rank": 644,
           "username": "e113572b376d66c088861de8c5797a20",
           "displayName": "-kczo-",
           "races": 618,
@@ -95,14 +95,14 @@
           "ppr": 136
         },
         {
-          "rank": 804,
+          "rank": 790,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
-          "races": 498,
-          "accuracy": 89.68,
-          "wpm": 80.2,
-          "points": 62571,
-          "ppr": 126
+          "races": 512,
+          "accuracy": 89.61,
+          "wpm": 80,
+          "points": 64241,
+          "ppr": 125
         },
         {
           "rank": 876,
@@ -125,7 +125,7 @@
           "ppr": 126
         },
         {
-          "rank": 1124,
+          "rank": 1125,
           "username": "33e83773380949c7f2fd34d850d93d34",
           "displayName": "KippKat",
           "races": 282,
@@ -266,12 +266,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792120612651
+      "_syncedAt": 1792123062780
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792120612651
+  "_syncedAt": 1792123062780
 }

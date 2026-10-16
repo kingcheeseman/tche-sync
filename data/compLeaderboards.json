@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "- 9te -",
+        "displayName": "- 9te -",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Entrepreneur 500",
+        "races": 31,
+        "wpm": 77,
+        "accuracy": 87.98,
+        "points": 3778,
+        "tier": "C"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "The Smasher",
@@ -79,19 +92,6 @@
         "accuracy": 93.04,
         "points": 3759,
         "tier": "A"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "- 9te -",
-        "displayName": "- 9te -",
-        "nickname": "TOUGE「峠」VIPER",
-        "squad": "Entrepreneur 500",
-        "races": 27,
-        "wpm": 77.3,
-        "accuracy": 88.21,
-        "points": 3303,
-        "tier": "C"
       },
       {
         "rank": 8,
@@ -237,6 +237,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792120652478
+    "_syncedAt": 1792123104486
   }
 }
