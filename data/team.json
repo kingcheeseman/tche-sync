@@ -209,11 +209,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5132,
-      "wpm": 85,
+      "allTimeRaces": 5135,
+      "wpm": 82,
       "highestWPM": 111,
-      "teamRaces": 95,
-      "acc": 94.65,
+      "teamRaces": 106,
+      "acc": 94.73,
       "season": null,
       "status": "active",
       "lastLogin": 1792165519
@@ -279,14 +279,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3674,
-      "wpm": 100,
+      "allTimeRaces": 3678,
+      "wpm": 98,
       "highestWPM": 120,
       "teamRaces": 25,
       "acc": 96.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1792161787
+      "lastLogin": 1792167260
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52479,
+      "races": 52490,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 764,
-      "avgWPM": 83,
-      "avgAcc": 94.77,
+      "races": 732,
+      "avgWPM": 84,
+      "avgAcc": 94.78,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792166984945
+  "_syncedAt": 1792168686936
 }
