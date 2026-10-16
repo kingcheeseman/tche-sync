@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2845,
+    "profileViews": 2846,
     "leagueTier": 11,
     "racers": [
       {
@@ -238,11 +238,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1893,
+        "allTimeRaces": 1901,
         "wpm": 64,
         "highestWPM": 90,
-        "teamRaces": 845,
-        "acc": 90.43,
+        "teamRaces": 856,
+        "acc": 90.42,
         "season": null,
         "status": "active",
         "lastLogin": 1792162789
@@ -297,8 +297,8 @@
         "allTimeRaces": 1003,
         "wpm": 49,
         "highestWPM": 67,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 1,
+        "acc": 92.92,
         "season": null,
         "status": "active",
         "lastLogin": 1792162903
@@ -329,7 +329,7 @@
         "acc": 93.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1792157231
+        "lastLogin": 1792164575
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76274,
+        "races": 76286,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 340,
+        "races": 319,
         "avgWPM": 57,
-        "avgAcc": 91.14,
+        "avgAcc": 91.1,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792163383767
+    "_syncedAt": 1792165169712
   },
   "SVC": {
     "tag": "SVC",
@@ -774,7 +774,7 @@
         "allTimeRaces": 4361,
         "wpm": 78,
         "highestWPM": 104,
-        "teamRaces": 1004,
+        "teamRaces": 1007,
         "acc": 93.1,
         "season": null,
         "status": "active",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39698,
+        "races": 39701,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 170,
+        "races": 155,
         "avgWPM": 82,
-        "avgAcc": 95.11,
+        "avgAcc": 95.37,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792163402581
+    "_syncedAt": 1792165188648
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792163421540
+    "_syncedAt": 1792165207461
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1370,14 +1370,14 @@
         "displayName": "ben the fem",
         "role": "member",
         "joinStamp": 1787588225,
-        "allTimeRaces": 3164,
-        "wpm": 68,
+        "allTimeRaces": 3182,
+        "wpm": 64,
         "highestWPM": 105,
-        "teamRaces": 1097,
-        "acc": 93.1,
+        "teamRaces": 1117,
+        "acc": 93.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792163219
+        "lastLogin": 1792164005
       },
       {
         "username": "pigglepigglepiggle",
@@ -1503,7 +1503,7 @@
         "acc": 97.1,
         "season": null,
         "status": "active",
-        "lastLogin": 1792160678
+        "lastLogin": 1792164305
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115022,
+        "races": 115042,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1093,
+        "races": 1055,
         "avgWPM": 54,
-        "avgAcc": 91.37,
+        "avgAcc": 91.24,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792163591053
+    "_syncedAt": 1792165376862
   }
 }
