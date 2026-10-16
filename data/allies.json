@@ -497,7 +497,7 @@
         "acc": 88.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792138822
+        "lastLogin": 1792143557
       },
       {
         "username": "dirk_nowitzki41",
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792141911787
+    "_syncedAt": 1792143576772
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792141938583
+    "_syncedAt": 1792143596098
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792141957504
+    "_syncedAt": 1792143615122
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4083,
+    "profileViews": 4084,
     "leagueTier": 11,
     "racers": [
       {
@@ -1832,11 +1832,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8854,
-        "wpm": 40,
+        "allTimeRaces": 8889,
+        "wpm": 44,
         "highestWPM": 75,
-        "teamRaces": 1415,
-        "acc": 86.83,
+        "teamRaces": 1456,
+        "acc": 86.77,
         "season": null,
         "status": "active",
         "lastLogin": 1792135958
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114621,
+        "races": 114662,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 49
       },
       "daily": {
-        "races": 1110,
+        "races": 1117,
         "avgWPM": 55,
-        "avgAcc": 91.95,
+        "avgAcc": 91.87,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792142127177
+    "_syncedAt": 1792143784782
   }
 }
