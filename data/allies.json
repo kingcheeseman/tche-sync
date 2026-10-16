@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 35,
-    "activePercent": 88,
+    "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2839,
@@ -516,13 +516,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792123104669
+    "_syncedAt": 1792124487708
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 45,
-    "activePercent": 66,
+    "activePercent": 57,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 1990,
@@ -1167,15 +1167,15 @@
         "members": 45
       },
       "daily": {
-        "races": 135,
-        "avgWPM": 81,
-        "avgAcc": 94.19,
+        "races": 123,
+        "avgWPM": 82,
+        "avgAcc": 93.95,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792123123856
+    "_syncedAt": 1792124511755
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792123142793
+    "_syncedAt": 1792124530768
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4079,
+    "profileViews": 4080,
     "leagueTier": 11,
     "racers": [
       {
@@ -1279,7 +1279,7 @@
         "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792123064
+        "lastLogin": 1792123881
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1447,7 +1447,7 @@
         "acc": 95.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792121233
+        "lastLogin": 1792123956
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1538,11 +1538,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8418,
-        "wpm": 50,
+        "allTimeRaces": 8423,
+        "wpm": 48,
         "highestWPM": 95,
-        "teamRaces": 871,
-        "acc": 97.35,
+        "teamRaces": 875,
+        "acc": 97.34,
         "season": null,
         "status": "active",
         "lastLogin": 1792119614
@@ -1748,11 +1748,11 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4061,
-        "wpm": 40,
+        "allTimeRaces": 4085,
+        "wpm": 45,
         "highestWPM": 80,
-        "teamRaces": 1087,
-        "acc": 94.23,
+        "teamRaces": 1105,
+        "acc": 94.24,
         "season": null,
         "status": "active",
         "lastLogin": 1792115921
@@ -1797,7 +1797,7 @@
         "acc": 95.45,
         "season": null,
         "status": "active",
-        "lastLogin": 1792037077
+        "lastLogin": 1792124274
       },
       {
         "username": "nev444ehh",
@@ -1902,10 +1902,10 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2759,
+        "allTimeRaces": 2760,
         "wpm": 49,
         "highestWPM": 70,
-        "teamRaces": 573,
+        "teamRaces": 574,
         "acc": 93.75,
         "season": null,
         "status": "active",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114467,
+        "races": 114490,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 49
       },
       "daily": {
-        "races": 1162,
+        "races": 1181,
         "avgWPM": 56,
-        "avgAcc": 92.76,
+        "avgAcc": 92.77,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792123312447
+    "_syncedAt": 1792124700395
   }
 }
