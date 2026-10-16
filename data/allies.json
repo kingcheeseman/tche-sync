@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 35,
+    "members": 36,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2840,
+    "profileViews": 2841,
     "leagueTier": 11,
     "racers": [
       {
@@ -176,6 +176,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792076565
+      },
+      {
+        "username": "f8f86a6435ccd5482bd5d1a3a4a5a136",
+        "displayName": "champion",
+        "role": "member",
+        "joinStamp": 1792133035,
+        "allTimeRaces": 328,
+        "wpm": 28,
+        "highestWPM": 33,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792120740
       },
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
@@ -476,14 +490,14 @@
         "displayName": "mazen_67",
         "role": "officer",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1218,
+        "allTimeRaces": 1241,
         "wpm": 40,
         "highestWPM": 56,
-        "teamRaces": 577,
-        "acc": 88.33,
+        "teamRaces": 600,
+        "acc": 88.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792131311
+        "lastLogin": 1792132927
       },
       {
         "username": "dirk_nowitzki41",
@@ -502,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76075,
+        "races": 76098,
         "avgWPM": 55,
         "avgAcc": 93.57,
-        "members": 35
+        "members": 36
       },
       "daily": {
-        "races": 259,
-        "avgWPM": 61,
-        "avgAcc": 91.77,
-        "members": 35
+        "races": 282,
+        "avgWPM": 59,
+        "avgAcc": 91.73,
+        "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792131491455
+    "_syncedAt": 1792134716026
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792131510522
+    "_syncedAt": 1792134735391
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792131529404
+    "_syncedAt": 1792134754383
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1934,14 +1948,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1187,
+        "races": 1134,
         "avgWPM": 55,
-        "avgAcc": 92.69,
+        "avgAcc": 92.5,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792131698830
+    "_syncedAt": 1792134924038
   }
 }
