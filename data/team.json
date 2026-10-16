@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6805,
-      "wpm": 100,
+      "allTimeRaces": 6811,
+      "wpm": 104,
       "highestWPM": 131,
-      "teamRaces": 67,
-      "acc": 96.12,
+      "teamRaces": 73,
+      "acc": 96.24,
       "season": null,
       "status": "active",
-      "lastLogin": 1792162480
+      "lastLogin": 1792169394
     },
     {
       "username": "tre1typer",
@@ -279,11 +279,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3678,
-      "wpm": 98,
+      "allTimeRaces": 3683,
+      "wpm": 97,
       "highestWPM": 120,
-      "teamRaces": 25,
-      "acc": 96.81,
+      "teamRaces": 34,
+      "acc": 96.71,
       "season": null,
       "status": "active",
       "lastLogin": 1792167260
@@ -531,14 +531,14 @@
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 679,
-      "wpm": 60,
+      "allTimeRaces": 684,
+      "wpm": 64,
       "highestWPM": 109,
       "teamRaces": 119,
       "acc": 94.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1792082561
+      "lastLogin": 1792168779
     },
     {
       "username": "58a11fcd1c239126faca23a88c0463c9",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52490,
+      "races": 52505,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 732,
+      "races": 694,
       "avgWPM": 84,
-      "avgAcc": 94.78,
+      "avgAcc": 94.95,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792168686936
+  "_syncedAt": 1792170526614
 }
