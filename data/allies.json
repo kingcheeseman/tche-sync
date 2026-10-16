@@ -245,7 +245,7 @@
         "acc": 90.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1792109172
+        "lastLogin": 1792147068
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -490,14 +490,14 @@
         "displayName": "mazen_67",
         "role": "officer",
         "joinStamp": 1790698002,
-        "allTimeRaces": 1286,
-        "wpm": 39,
+        "allTimeRaces": 1300,
+        "wpm": 37,
         "highestWPM": 56,
-        "teamRaces": 644,
-        "acc": 88.42,
+        "teamRaces": 659,
+        "acc": 88.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1792143557
+        "lastLogin": 1792146840
       },
       {
         "username": "dirk_nowitzki41",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76142,
+        "races": 76157,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 36
       },
       "daily": {
-        "races": 326,
-        "avgWPM": 57,
-        "avgAcc": 91.42,
+        "races": 341,
+        "avgWPM": 56,
+        "avgAcc": 91.31,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792145472803
+    "_syncedAt": 1792147205728
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792145503972
+    "_syncedAt": 1792147225083
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792145523241
+    "_syncedAt": 1792147243951
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4085,
+    "profileViews": 4086,
     "leagueTier": 11,
     "racers": [
       {
@@ -1832,14 +1832,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8927,
-        "wpm": 43,
+        "allTimeRaces": 8934,
+        "wpm": 39,
         "highestWPM": 75,
-        "teamRaces": 1491,
-        "acc": 86.66,
+        "teamRaces": 1502,
+        "acc": 86.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1792135958
+        "lastLogin": 1792146668
       },
       {
         "username": "legendsince2026",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114697,
+        "races": 114708,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 49
       },
       "daily": {
-        "races": 1113,
+        "races": 1083,
         "avgWPM": 55,
-        "avgAcc": 91.82,
+        "avgAcc": 91.94,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792145693140
+    "_syncedAt": 1792147413457
   }
 }
