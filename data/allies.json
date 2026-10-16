@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2837,
+    "profileViews": 2838,
     "leagueTier": 11,
     "racers": [
       {
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792113830460
+    "_syncedAt": 1792115705136
   },
   "SVC": {
     "tag": "SVC",
@@ -525,7 +525,7 @@
     "activePercent": 66,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1988,
+    "profileViews": 1989,
     "leagueTier": 11,
     "racers": [
       {
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792113849629
+    "_syncedAt": 1792115733474
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792113868757
+    "_syncedAt": 1792115752364
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp |  Most Active Daily=$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4065,
+    "profileViews": 4066,
     "leagueTier": 11,
     "racers": [
       {
@@ -1580,14 +1580,14 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2177,
-        "wpm": 44,
+        "allTimeRaces": 2180,
+        "wpm": 43,
         "highestWPM": 85,
-        "teamRaces": 760,
+        "teamRaces": 763,
         "acc": 89.54,
         "season": null,
         "status": "active",
-        "lastLogin": 1792013153
+        "lastLogin": 1792114939
       },
       {
         "username": "srivanthvadlamudi",
@@ -1723,7 +1723,7 @@
         "allTimeRaces": 18301,
         "wpm": 86,
         "highestWPM": 123,
-        "teamRaces": 17840,
+        "teamRaces": 17841,
         "acc": 93.93,
         "season": null,
         "status": "active",
@@ -1755,7 +1755,7 @@
         "acc": 94.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792100368
+        "lastLogin": 1792115921
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1895,7 +1895,7 @@
         "acc": 93.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792108868
+        "lastLogin": 1792115885
       },
       {
         "username": "malott12",
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114297,
+        "races": 114301,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 48
       },
       "daily": {
-        "races": 1146,
-        "avgWPM": 61,
-        "avgAcc": 92.88,
+        "races": 1094,
+        "avgWPM": 60,
+        "avgAcc": 92.68,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792114038520
+    "_syncedAt": 1792115921926
   }
 }
