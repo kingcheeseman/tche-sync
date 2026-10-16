@@ -27,11 +27,11 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6816,
-      "wpm": 106,
+      "allTimeRaces": 6818,
+      "wpm": 105,
       "highestWPM": 131,
-      "teamRaces": 78,
-      "acc": 96.28,
+      "teamRaces": 80,
+      "acc": 96.27,
       "season": null,
       "status": "active",
       "lastLogin": 1792169394
@@ -41,11 +41,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4642,
-      "wpm": 93,
+      "allTimeRaces": 4643,
+      "wpm": 91,
       "highestWPM": 110,
-      "teamRaces": 462,
-      "acc": 94.71,
+      "teamRaces": 463,
+      "acc": 94.7,
       "season": null,
       "status": "active",
       "lastLogin": 1792171948
@@ -408,8 +408,8 @@
       "allTimeRaces": 1169,
       "wpm": 96,
       "highestWPM": 119,
-      "teamRaces": 819,
-      "acc": 94.49,
+      "teamRaces": 822,
+      "acc": 94.48,
       "season": null,
       "status": "active",
       "lastLogin": 1792171868
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52541,
+      "races": 52547,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 633,
+      "races": 590,
       "avgWPM": 83,
-      "avgAcc": 95.18,
+      "avgAcc": 95.23,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792172123594
+  "_syncedAt": 1792173908079
 }
