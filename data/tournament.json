@@ -75,8 +75,8 @@
           "players": [
             {
               "seed": "16",
-              "racer": "Victoria Ram",
-              "teamTag": "IMT",
+              "racer": "Ash_ya_boi",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -97,7 +97,7 @@
           "players": [
             {
               "seed": "17",
-              "racer": "Namedisplayed",
+              "racer": "Victoria Ram",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -207,8 +207,8 @@
           "players": [
             {
               "seed": "4",
-              "racer": "s_e_r_i",
-              "teamTag": "SVC",
+              "racer": "Cats_4_Eva",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -251,9 +251,9 @@
           "players": [
             {
               "seed": "13",
-              "racer": "Natuski",
+              "racer": "CATS R GR8",
               "teamTag": "KEYCAT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -273,8 +273,8 @@
           "players": [
             {
               "seed": "20",
-              "racer": "CATS R GR8",
-              "teamTag": "KEYCAT",
+              "racer": "Sile314",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -427,8 +427,8 @@
           "players": [
             {
               "seed": "15",
-              "racer": "Ash_ya_boi",
-              "teamTag": "SVC",
+              "racer": "JaysonG",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -449,8 +449,8 @@
           "players": [
             {
               "seed": "18",
-              "racer": "Limit RyZex1x",
-              "teamTag": "KEYCAT",
+              "racer": "Namedisplayed",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -559,8 +559,8 @@
           "players": [
             {
               "seed": "3",
-              "racer": "Cats_4_Eva",
-              "teamTag": "KEYCAT",
+              "racer": "s_e_r_i",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -603,9 +603,9 @@
           "players": [
             {
               "seed": "14",
-              "racer": "JaysonG",
+              "racer": "Natuski",
               "teamTag": "KEYCAT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -625,8 +625,8 @@
           "players": [
             {
               "seed": "19",
-              "racer": "Sile314",
-              "teamTag": "IMT",
+              "racer": "Limit RyZex1x",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792190259593,
+  "_syncedAt": 1792191835549,
   "seeding": {
     "racers": [
       {
@@ -1477,6 +1477,19 @@
       },
       {
         "rank": 3,
+        "tag": "SVC",
+        "username": "s_e_r_i",
+        "displayName": "s_e_r_i",
+        "nickname": "Endurance Racer",
+        "squad": null,
+        "races": 60,
+        "wpm": 62.4,
+        "accuracy": 97.95,
+        "points": 7710,
+        "tier": "C"
+      },
+      {
+        "rank": 4,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -1487,19 +1500,6 @@
         "accuracy": 89.77,
         "points": 7685,
         "tier": "A"
-      },
-      {
-        "rank": 4,
-        "tag": "SVC",
-        "username": "s_e_r_i",
-        "displayName": "s_e_r_i",
-        "nickname": "Endurance Racer",
-        "squad": null,
-        "races": 47,
-        "wpm": 63,
-        "accuracy": 97.77,
-        "points": 6044,
-        "tier": "C"
       },
       {
         "rank": 5,
@@ -1608,6 +1608,19 @@
       {
         "rank": 13,
         "tag": "KEYCAT",
+        "username": "CATS R GR8",
+        "displayName": "CATS R GR8",
+        "nickname": "Original Gangster",
+        "squad": "Developing 500",
+        "races": 20,
+        "wpm": 79.7,
+        "accuracy": 95.45,
+        "points": 2669,
+        "tier": "A"
+      },
+      {
+        "rank": 14,
+        "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
         "nickname": "I Love Cats",
@@ -1619,7 +1632,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "KEYCAT",
         "username": "JaysonG",
         "displayName": "JaysonG",
@@ -1632,7 +1645,7 @@
         "tier": "B"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "SVC",
         "username": "Ash_ya_boi",
         "displayName": "Ash_ya_boi",
@@ -1645,7 +1658,7 @@
         "tier": "C"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
@@ -1658,7 +1671,7 @@
         "tier": "B"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -1671,7 +1684,7 @@
         "tier": "A"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -1684,7 +1697,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -1694,19 +1707,6 @@
         "wpm": 110.3,
         "accuracy": 95.58,
         "points": 2224,
-        "tier": "A"
-      },
-      {
-        "rank": 20,
-        "tag": "KEYCAT",
-        "username": "CATS R GR8",
-        "displayName": "CATS R GR8",
-        "nickname": "Original Gangster",
-        "squad": "Developing 500",
-        "races": 14,
-        "wpm": 78.9,
-        "accuracy": 95.29,
-        "points": 1861,
         "tier": "A"
       },
       {
@@ -1905,6 +1905,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792190263498
+    "_syncedAt": 1792191839553
   }
 }
