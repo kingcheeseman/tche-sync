@@ -207,8 +207,8 @@
           "players": [
             {
               "seed": "4",
-              "racer": "WindMaker",
-              "teamTag": "IMT",
+              "racer": "s_e_r_i",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -295,8 +295,8 @@
           "players": [
             {
               "seed": "5",
-              "racer": "s_e_r_i",
-              "teamTag": "SVC",
+              "racer": "WindMaker",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792188402076,
+  "_syncedAt": 1792190259593,
   "seeding": {
     "racers": [
       {
@@ -1490,6 +1490,19 @@
       },
       {
         "rank": 4,
+        "tag": "SVC",
+        "username": "s_e_r_i",
+        "displayName": "s_e_r_i",
+        "nickname": "Endurance Racer",
+        "squad": null,
+        "races": 47,
+        "wpm": 63,
+        "accuracy": 97.77,
+        "points": 6044,
+        "tier": "C"
+      },
+      {
+        "rank": 5,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -1500,19 +1513,6 @@
         "accuracy": 96.65,
         "points": 5783,
         "tier": "A"
-      },
-      {
-        "rank": 5,
-        "tag": "SVC",
-        "username": "s_e_r_i",
-        "displayName": "s_e_r_i",
-        "nickname": "Endurance Racer",
-        "squad": null,
-        "races": 37,
-        "wpm": 64.1,
-        "accuracy": 97.81,
-        "points": 4780,
-        "tier": "C"
       },
       {
         "rank": 6,
@@ -1905,6 +1905,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792188406021
+    "_syncedAt": 1792190263498
   }
 }
