@@ -57,6 +57,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 55,
+        "wpm": 87.7,
+        "accuracy": 97.6,
+        "points": 7722,
+        "tier": "A"
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "The Smasher",
@@ -65,19 +78,6 @@
         "wpm": 88.6,
         "accuracy": 93.04,
         "points": 3759,
-        "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 22,
-        "wpm": 88.1,
-        "accuracy": 97.77,
-        "points": 3098,
         "tier": "A"
       },
       {
@@ -164,7 +164,7 @@
         "username": "ULT1M4TE",
         "displayName": "ULT1M4TE",
         "nickname": "Endurance Racer",
-        "squad": null,
+        "squad": "Starter Fund",
         "races": 10,
         "wpm": 67.3,
         "accuracy": 91.58,
@@ -200,6 +200,19 @@
       {
         "rank": 16,
         "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 88.4,
+        "accuracy": 93.47,
+        "points": 135,
+        "tier": "A"
+      },
+      {
+        "rank": 17,
+        "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
         "nickname": "Epic Nitro User",
@@ -211,6 +224,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792109464251
+    "_syncedAt": 1792111720407
   }
 }
