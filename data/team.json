@@ -279,14 +279,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3683,
-      "wpm": 97,
+      "allTimeRaces": 3689,
+      "wpm": 100,
       "highestWPM": 120,
-      "teamRaces": 34,
-      "acc": 96.71,
+      "teamRaces": 40,
+      "acc": 96.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1792167260
+      "lastLogin": 1792176711
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -433,11 +433,11 @@
       "displayName": "Not_Ime",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2235,
-      "wpm": 71,
-      "highestWPM": 84,
-      "teamRaces": 60,
-      "acc": 90.75,
+      "allTimeRaces": 2244,
+      "wpm": 72,
+      "highestWPM": 85,
+      "teamRaces": 70,
+      "acc": 91.19,
       "season": null,
       "status": "active",
       "lastLogin": 1792175948
@@ -447,14 +447,14 @@
       "displayName": "TikTok lil_shot13",
       "role": "member",
       "joinStamp": 1792163851,
-      "allTimeRaces": 2933,
-      "wpm": 54,
+      "allTimeRaces": 2955,
+      "wpm": 63,
       "highestWPM": 76,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 21,
+      "acc": 94.48,
       "season": null,
       "status": "active",
-      "lastLogin": 1792161663
+      "lastLogin": 1792176527
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -657,11 +657,11 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4647,
-      "wpm": 86,
+      "allTimeRaces": 4680,
+      "wpm": 90,
       "highestWPM": 111,
-      "teamRaces": 1011,
-      "acc": 91.63,
+      "teamRaces": 1044,
+      "acc": 91.66,
       "season": null,
       "status": "active",
       "lastLogin": 1792175934
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52557,
+      "races": 52627,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 547,
-      "avgWPM": 83,
-      "avgAcc": 95.48,
+      "races": 612,
+      "avgWPM": 82,
+      "avgAcc": 95.29,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792176107102
+  "_syncedAt": 1792177852179
 }
