@@ -83,6 +83,19 @@
       {
         "rank": 7,
         "tag": "IMT",
+        "username": "- 9te -",
+        "displayName": "- 9te -",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Entrepreneur 500",
+        "races": 27,
+        "wpm": 77.3,
+        "accuracy": 88.21,
+        "points": 3303,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
         "nickname": "Original Gangster",
@@ -94,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "IMT",
         "username": "RonaldoSuiii777",
         "displayName": "RonaldoSuiii777",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "Nosferatu",
         "displayName": "Nosferatu",
@@ -146,7 +159,7 @@
         "tier": "C"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "KippKat",
         "displayName": "KippKat",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "ULT1M4TE",
         "displayName": "ULT1M4TE",
@@ -172,7 +185,7 @@
         "tier": "C"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -183,19 +196,6 @@
         "accuracy": 96.55,
         "points": 1196,
         "tier": "A"
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "- 9te -",
-        "displayName": "- 9te -",
-        "nickname": "TOUGE「峠」VIPER",
-        "squad": "Side Hustler 100",
-        "races": 8,
-        "wpm": 81.7,
-        "accuracy": 88.95,
-        "points": 1002,
-        "tier": "B"
       },
       {
         "rank": 16,
@@ -237,6 +237,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792119414760
+    "_syncedAt": 1792120652478
   }
 }
