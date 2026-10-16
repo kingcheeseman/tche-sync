@@ -13,28 +13,28 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20087,
-      "wpm": 92,
+      "allTimeRaces": 20102,
+      "wpm": 87,
       "highestWPM": 108,
-      "teamRaces": 2448,
-      "acc": 97.55,
+      "teamRaces": 2458,
+      "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792087065
+      "lastLogin": 1792158642
     },
     {
       "username": "jonathan711111",
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6780,
-      "wpm": 102,
+      "allTimeRaces": 6797,
+      "wpm": 104,
       "highestWPM": 131,
-      "teamRaces": 42,
-      "acc": 96.04,
+      "teamRaces": 59,
+      "acc": 96.09,
       "season": null,
       "status": "active",
-      "lastLogin": 1792087854
+      "lastLogin": 1792158331
     },
     {
       "username": "tre1typer",
@@ -216,7 +216,7 @@
       "acc": 94.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1792084567
+      "lastLogin": 1792158560
     },
     {
       "username": "813d4229906a6d50e606a1fba7857e3f",
@@ -307,14 +307,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2702,
-      "wpm": 76,
+      "allTimeRaces": 2703,
+      "wpm": 75,
       "highestWPM": 102,
-      "teamRaces": 79,
-      "acc": 95.28,
+      "teamRaces": 83,
+      "acc": 95.33,
       "season": null,
       "status": "active",
-      "lastLogin": 1792156767
+      "lastLogin": 1792159193
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -324,7 +324,7 @@
       "allTimeRaces": 1226,
       "wpm": 105,
       "highestWPM": 129,
-      "teamRaces": 88,
+      "teamRaces": 90,
       "acc": 96.74,
       "season": null,
       "status": "active",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52322,
+      "races": 52355,
       "avgWPM": 76,
-      "avgAcc": 95.04,
+      "avgAcc": 95.05,
       "members": 47
     },
     "daily": {
-      "races": 830,
+      "races": 839,
       "avgWPM": 83,
-      "avgAcc": 94.63,
+      "avgAcc": 94.64,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792157309189
+  "_syncedAt": 1792159454747
 }

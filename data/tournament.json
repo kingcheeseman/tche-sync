@@ -1,7 +1,7 @@
 {
   "id": "57",
   "name": "IMT Ally Celebration Tournament",
-  "status": "Pending",
+  "status": "Active",
   "description": "Join for a chance to win up to 15M NTC!!! Captains pay their own team members if they want to.",
   "start": "October 16, 2026 at 2:00 PM",
   "end": "October 30, 2026 at 1:45 PM",
@@ -18,7 +18,7 @@
     {
       "id": "57",
       "name": "IMT Ally Celebration Tournament",
-      "status": "Pending"
+      "status": "Active"
     }
   ],
   "rounds": [
@@ -30,7 +30,7 @@
           "id": "Match 2269",
           "players": [
             {
-              "seed": "–",
+              "seed": "1",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -38,7 +38,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "64",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -52,7 +52,7 @@
           "id": "Match 2270",
           "players": [
             {
-              "seed": "–",
+              "seed": "32",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -60,7 +60,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "33",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -74,7 +74,7 @@
           "id": "Match 2271",
           "players": [
             {
-              "seed": "–",
+              "seed": "16",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -82,7 +82,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "49",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -96,7 +96,7 @@
           "id": "Match 2272",
           "players": [
             {
-              "seed": "–",
+              "seed": "17",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -104,7 +104,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "48",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -118,7 +118,7 @@
           "id": "Match 2273",
           "players": [
             {
-              "seed": "–",
+              "seed": "8",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -126,7 +126,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "57",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -140,7 +140,7 @@
           "id": "Match 2274",
           "players": [
             {
-              "seed": "–",
+              "seed": "25",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -148,7 +148,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "40",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -162,7 +162,7 @@
           "id": "Match 2275",
           "players": [
             {
-              "seed": "–",
+              "seed": "9",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -170,7 +170,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "56",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -184,7 +184,7 @@
           "id": "Match 2276",
           "players": [
             {
-              "seed": "–",
+              "seed": "24",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -192,7 +192,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "41",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -206,7 +206,7 @@
           "id": "Match 2277",
           "players": [
             {
-              "seed": "–",
+              "seed": "4",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -214,7 +214,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "61",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -228,7 +228,7 @@
           "id": "Match 2278",
           "players": [
             {
-              "seed": "–",
+              "seed": "29",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -236,7 +236,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "36",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -250,7 +250,7 @@
           "id": "Match 2279",
           "players": [
             {
-              "seed": "–",
+              "seed": "13",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -258,7 +258,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "52",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -272,7 +272,7 @@
           "id": "Match 2280",
           "players": [
             {
-              "seed": "–",
+              "seed": "20",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -280,7 +280,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "45",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -294,7 +294,7 @@
           "id": "Match 2281",
           "players": [
             {
-              "seed": "–",
+              "seed": "5",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -302,7 +302,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "60",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -316,7 +316,7 @@
           "id": "Match 2282",
           "players": [
             {
-              "seed": "–",
+              "seed": "28",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -324,7 +324,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "37",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -338,7 +338,7 @@
           "id": "Match 2283",
           "players": [
             {
-              "seed": "–",
+              "seed": "12",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -346,7 +346,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "53",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -360,7 +360,7 @@
           "id": "Match 2284",
           "players": [
             {
-              "seed": "–",
+              "seed": "21",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -368,7 +368,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "44",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -382,7 +382,7 @@
           "id": "Match 2285",
           "players": [
             {
-              "seed": "–",
+              "seed": "2",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -390,7 +390,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "63",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -404,7 +404,7 @@
           "id": "Match 2286",
           "players": [
             {
-              "seed": "–",
+              "seed": "31",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -412,7 +412,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "34",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -426,7 +426,7 @@
           "id": "Match 2287",
           "players": [
             {
-              "seed": "–",
+              "seed": "15",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -434,7 +434,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "50",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -448,7 +448,7 @@
           "id": "Match 2288",
           "players": [
             {
-              "seed": "–",
+              "seed": "18",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -456,7 +456,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "47",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -470,7 +470,7 @@
           "id": "Match 2289",
           "players": [
             {
-              "seed": "–",
+              "seed": "7",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -478,7 +478,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "58",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -492,7 +492,7 @@
           "id": "Match 2290",
           "players": [
             {
-              "seed": "–",
+              "seed": "26",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -500,7 +500,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "39",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -514,7 +514,7 @@
           "id": "Match 2291",
           "players": [
             {
-              "seed": "–",
+              "seed": "10",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -522,7 +522,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "55",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -536,7 +536,7 @@
           "id": "Match 2292",
           "players": [
             {
-              "seed": "–",
+              "seed": "23",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -544,7 +544,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "42",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -558,7 +558,7 @@
           "id": "Match 2293",
           "players": [
             {
-              "seed": "–",
+              "seed": "3",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -566,7 +566,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "62",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -580,7 +580,7 @@
           "id": "Match 2294",
           "players": [
             {
-              "seed": "–",
+              "seed": "30",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -588,7 +588,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "35",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -602,7 +602,7 @@
           "id": "Match 2295",
           "players": [
             {
-              "seed": "–",
+              "seed": "14",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -610,7 +610,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "51",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -624,7 +624,7 @@
           "id": "Match 2296",
           "players": [
             {
-              "seed": "–",
+              "seed": "19",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -632,7 +632,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "46",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -646,7 +646,7 @@
           "id": "Match 2297",
           "players": [
             {
-              "seed": "–",
+              "seed": "6",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -654,7 +654,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "59",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -668,7 +668,7 @@
           "id": "Match 2298",
           "players": [
             {
-              "seed": "–",
+              "seed": "27",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -676,7 +676,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "38",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -690,7 +690,7 @@
           "id": "Match 2299",
           "players": [
             {
-              "seed": "–",
+              "seed": "11",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -698,7 +698,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "54",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -712,7 +712,7 @@
           "id": "Match 2300",
           "players": [
             {
-              "seed": "–",
+              "seed": "22",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -720,7 +720,7 @@
               "score": null
             },
             {
-              "seed": "–",
+              "seed": "43",
               "racer": "BYE",
               "teamTag": null,
               "gold": false,
@@ -1446,9 +1446,9 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792157384202,
+  "_syncedAt": 1792159533515,
   "seeding": {
     "racers": [],
-    "_syncedAt": 1792157387978
+    "_syncedAt": 1792159537221
   }
 }
