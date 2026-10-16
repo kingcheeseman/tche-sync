@@ -142,8 +142,8 @@
       "allTimeRaces": 771,
       "wpm": 69,
       "highestWPM": 84,
-      "teamRaces": 264,
-      "acc": 94.64,
+      "teamRaces": 270,
+      "acc": 94.65,
       "season": null,
       "status": "active",
       "lastLogin": 1792182562
@@ -405,14 +405,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1169,
-      "wpm": 96,
+      "allTimeRaces": 1183,
+      "wpm": 99,
       "highestWPM": 119,
-      "teamRaces": 822,
-      "acc": 94.48,
+      "teamRaces": 830,
+      "acc": 94.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1792174371
+      "lastLogin": 1792184063
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -447,14 +447,14 @@
       "displayName": "TikTok lil_shot13",
       "role": "member",
       "joinStamp": 1792163851,
-      "allTimeRaces": 2962,
-      "wpm": 61,
+      "allTimeRaces": 2966,
+      "wpm": 60,
       "highestWPM": 76,
       "teamRaces": 29,
       "acc": 94.36,
       "season": null,
       "status": "active",
-      "lastLogin": 1792176527
+      "lastLogin": 1792184179
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -629,11 +629,11 @@
       "displayName": "IM A BOT OK, TRUST",
       "role": "member",
       "joinStamp": 1788465401,
-      "allTimeRaces": 2916,
-      "wpm": 61,
+      "allTimeRaces": 2921,
+      "wpm": 66,
       "highestWPM": 98,
-      "teamRaces": 41,
-      "acc": 94.15,
+      "teamRaces": 45,
+      "acc": 94.02,
       "season": null,
       "status": "active",
       "lastLogin": 1792182861
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52688,
+      "races": 52706,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 662,
+      "races": 678,
       "avgWPM": 82,
-      "avgAcc": 94.93,
+      "avgAcc": 94.92,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792182977343
+  "_syncedAt": 1792184782798
 }
