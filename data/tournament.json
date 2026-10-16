@@ -229,8 +229,8 @@
           "players": [
             {
               "seed": "29",
-              "racer": "viperr",
-              "teamTag": "SVC",
+              "racer": "insta _trewatkins",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -317,9 +317,9 @@
           "players": [
             {
               "seed": "28",
-              "racer": "insta _trewatkins",
+              "racer": "me_likey_typey",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -581,10 +581,10 @@
           "players": [
             {
               "seed": "30",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             },
             {
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792180913476,
+  "_syncedAt": 1792183079504,
   "seeding": {
     "racers": [
       {
@@ -1482,10 +1482,10 @@
         "displayName": "haleyyrose",
         "nickname": "Filthy Rich",
         "squad": "Novice 300",
-        "races": 55,
+        "races": 57,
         "wpm": 79.4,
-        "accuracy": 93.97,
-        "points": 7220,
+        "accuracy": 93.91,
+        "points": 7477,
         "tier": "A"
       },
       {
@@ -1664,10 +1664,10 @@
         "displayName": "alexaaa",
         "nickname": "Mystery Man",
         "squad": null,
-        "races": 15,
-        "wpm": 78.7,
-        "accuracy": 92.72,
-        "points": 1938,
+        "races": 16,
+        "wpm": 79.5,
+        "accuracy": 92.95,
+        "points": 2078,
         "tier": "B"
       },
       {
@@ -1703,10 +1703,10 @@
         "displayName": "- 9te -",
         "nickname": "TOUGE「峠」VIPER",
         "squad": "Entrepreneur 500",
-        "races": 11,
-        "wpm": 79.8,
-        "accuracy": 87.9,
-        "points": 1353,
+        "races": 13,
+        "wpm": 81.2,
+        "accuracy": 88.16,
+        "points": 1611,
         "tier": "B"
       },
       {
@@ -1803,6 +1803,19 @@
       {
         "rank": 28,
         "tag": "IMT",
+        "username": "me_likey_typey",
+        "displayName": "me_likey_typey",
+        "nickname": "Flow State",
+        "squad": "Entrepreneur 500",
+        "races": 3,
+        "wpm": 49.5,
+        "accuracy": 77.95,
+        "points": 292,
+        "tier": "C"
+      },
+      {
+        "rank": 29,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -1814,7 +1827,7 @@
         "tier": "A"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1827,6 +1840,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792180917548
+    "_syncedAt": 1792183083472
   }
 }
