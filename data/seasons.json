@@ -5,7 +5,7 @@
       "label": "Nitro City (9/13/2026 – 10/18/2026)",
       "racers": [
         {
-          "rank": 118,
+          "rank": 119,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
           "races": 2615,
@@ -45,13 +45,13 @@
           "ppr": 133
         },
         {
-          "rank": 567,
+          "rank": 545,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
-          "races": 686,
-          "accuracy": 94.11,
-          "wpm": 91.1,
-          "points": 93956,
+          "races": 700,
+          "accuracy": 94.13,
+          "wpm": 91.2,
+          "points": 95934,
           "ppr": 137
         },
         {
@@ -95,7 +95,7 @@
           "ppr": 136
         },
         {
-          "rank": 792,
+          "rank": 793,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 525,
@@ -155,7 +155,7 @@
           "ppr": 133
         },
         {
-          "rank": 1426,
+          "rank": 1427,
           "username": "2865b036215f4fedbcb7bdd5a174045e",
           "displayName": "Kimchi",
           "races": 175,
@@ -165,7 +165,7 @@
           "ppr": 140
         },
         {
-          "rank": 1437,
+          "rank": 1438,
           "username": "booomtype",
           "displayName": "YellowBronzeCoral",
           "races": 180,
@@ -175,7 +175,7 @@
           "ppr": 134
         },
         {
-          "rank": 1599,
+          "rank": 1601,
           "username": "0e94cbfd8e8ec77e912046bb79b8af07",
           "displayName": "Noah0821",
           "races": 150,
@@ -185,7 +185,7 @@
           "ppr": 123
         },
         {
-          "rank": 1614,
+          "rank": 1616,
           "username": "e146afef38fb68bbc69f405b9a1ca1bb",
           "displayName": "supermom",
           "races": 135,
@@ -195,7 +195,7 @@
           "ppr": 133
         },
         {
-          "rank": 1625,
+          "rank": 1626,
           "username": "falconsteve2",
           "displayName": "falconsteve2",
           "races": 132,
@@ -205,7 +205,7 @@
           "ppr": 135
         },
         {
-          "rank": 1628,
+          "rank": 1629,
           "username": "6240c5f6dad57c347bcff59a0e6afbcc",
           "displayName": "LeoRuna",
           "races": 132,
@@ -215,7 +215,7 @@
           "ppr": 134
         },
         {
-          "rank": 1758,
+          "rank": 1761,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 122,
@@ -225,7 +225,7 @@
           "ppr": 116
         },
         {
-          "rank": 1760,
+          "rank": 1763,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 106,
@@ -235,7 +235,7 @@
           "ppr": 134
         },
         {
-          "rank": 1789,
+          "rank": 1794,
           "username": "e75ed7d5fdcb2f93c69fe3db91769503",
           "displayName": "Jeongtae Seo",
           "races": 99,
@@ -245,7 +245,7 @@
           "ppr": 138
         },
         {
-          "rank": 1827,
+          "rank": 1828,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 90,
@@ -255,7 +255,7 @@
           "ppr": 145
         },
         {
-          "rank": 1839,
+          "rank": 1840,
           "username": "a0604971cedb19bc8237c0b2bd3de21e",
           "displayName": "I_Am_So_Cheesy",
           "races": 113,
@@ -265,7 +265,7 @@
           "ppr": 114
         },
         {
-          "rank": 1880,
+          "rank": 1881,
           "username": "bc6469247e9ac57a0a45c6c345d4bb57",
           "displayName": "blackholesun",
           "races": 108,
@@ -276,12 +276,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792184815126
+      "_syncedAt": 1792186569170
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792184815126
+  "_syncedAt": 1792186569170
 }

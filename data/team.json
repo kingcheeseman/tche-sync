@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 49,
+  "members": 48,
   "activePercent": 85,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
@@ -146,7 +146,7 @@
       "acc": 94.65,
       "season": null,
       "status": "active",
-      "lastLogin": 1792182562
+      "lastLogin": 1792186515
     },
     {
       "username": "ilovepokedigers",
@@ -408,8 +408,8 @@
       "allTimeRaces": 1183,
       "wpm": 99,
       "highestWPM": 119,
-      "teamRaces": 830,
-      "acc": 94.49,
+      "teamRaces": 836,
+      "acc": 94.5,
       "season": null,
       "status": "active",
       "lastLogin": 1792184063
@@ -441,20 +441,6 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792175948
-    },
-    {
-      "username": "susstalkerman",
-      "displayName": "TikTok lil_shot13",
-      "role": "member",
-      "joinStamp": 1792163851,
-      "allTimeRaces": 2966,
-      "wpm": 60,
-      "highestWPM": 76,
-      "teamRaces": 29,
-      "acc": 94.36,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792184179
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -632,8 +618,8 @@
       "allTimeRaces": 2921,
       "wpm": 66,
       "highestWPM": 98,
-      "teamRaces": 45,
-      "acc": 94.02,
+      "teamRaces": 46,
+      "acc": 93.95,
       "season": null,
       "status": "active",
       "lastLogin": 1792182861
@@ -650,7 +636,7 @@
       "acc": 80.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1792180100
+      "lastLogin": 1792185819
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -697,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52706,
+      "races": 52722,
       "avgWPM": 76,
       "avgAcc": 95.04,
-      "members": 49
+      "members": 48
     },
     "daily": {
-      "races": 678,
+      "races": 694,
       "avgWPM": 82,
-      "avgAcc": 94.92,
-      "members": 49
+      "avgAcc": 94.9,
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792184782798
+  "_syncedAt": 1792186537114
 }
