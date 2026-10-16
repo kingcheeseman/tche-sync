@@ -483,7 +483,7 @@
         "acc": 88.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792081594
+        "lastLogin": 1792131311
       },
       {
         "username": "dirk_nowitzki41",
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792130136252
+    "_syncedAt": 1792131491455
   },
   "SVC": {
     "tag": "SVC",
@@ -687,11 +687,11 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4602,
-        "wpm": 60,
+        "allTimeRaces": 4606,
+        "wpm": 59,
         "highestWPM": 78,
-        "teamRaces": 198,
-        "acc": 98.01,
+        "teamRaces": 205,
+        "acc": 97.98,
         "season": null,
         "status": "active",
         "lastLogin": 1792126269
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39632,
+        "races": 39639,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 145,
-        "avgWPM": 79,
-        "avgAcc": 94.33,
+        "races": 152,
+        "avgWPM": 78,
+        "avgAcc": 94.43,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792130155197
+    "_syncedAt": 1792131510522
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792130173937
+    "_syncedAt": 1792131529404
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1934,14 +1934,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1197,
-        "avgWPM": 56,
-        "avgAcc": 92.75,
+        "races": 1187,
+        "avgWPM": 55,
+        "avgAcc": 92.69,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792130343223
+    "_syncedAt": 1792131698830
   }
 }
