@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6818,
-      "wpm": 105,
+      "allTimeRaces": 6828,
+      "wpm": 98,
       "highestWPM": 131,
-      "teamRaces": 80,
-      "acc": 96.27,
+      "teamRaces": 90,
+      "acc": 96.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1792169394
+      "lastLogin": 1792175495
     },
     {
       "username": "tre1typer",
@@ -370,7 +370,7 @@
       "acc": 93.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1790187023
+      "lastLogin": 1792175392
     },
     {
       "username": "e15c66b54114e594bdd4281610664507",
@@ -412,7 +412,7 @@
       "acc": 94.48,
       "season": null,
       "status": "active",
-      "lastLogin": 1792171868
+      "lastLogin": 1792174371
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -433,14 +433,14 @@
       "displayName": "Not_Ime",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2234,
-      "wpm": 70,
+      "allTimeRaces": 2235,
+      "wpm": 71,
       "highestWPM": 84,
       "teamRaces": 60,
       "acc": 90.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1791662386
+      "lastLogin": 1792175948
     },
     {
       "username": "susstalkerman",
@@ -664,7 +664,7 @@
       "acc": 91.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1792152527
+      "lastLogin": 1792175934
     },
     {
       "username": "falconsteve2",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52547,
+      "races": 52557,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 590,
+      "races": 547,
       "avgWPM": 83,
-      "avgAcc": 95.23,
+      "avgAcc": 95.48,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792173908079
+  "_syncedAt": 1792176107102
 }
