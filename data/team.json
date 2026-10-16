@@ -209,14 +209,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5107,
-      "wpm": 80,
+      "allTimeRaces": 5132,
+      "wpm": 85,
       "highestWPM": 111,
-      "teamRaces": 78,
-      "acc": 94.57,
+      "teamRaces": 95,
+      "acc": 94.65,
       "season": null,
       "status": "active",
-      "lastLogin": 1792158560
+      "lastLogin": 1792165519
     },
     {
       "username": "813d4229906a6d50e606a1fba7857e3f",
@@ -279,11 +279,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3671,
-      "wpm": 98,
+      "allTimeRaces": 3674,
+      "wpm": 100,
       "highestWPM": 120,
-      "teamRaces": 13,
-      "acc": 96.92,
+      "teamRaces": 25,
+      "acc": 96.81,
       "season": null,
       "status": "active",
       "lastLogin": 1792161787
@@ -338,8 +338,8 @@
       "allTimeRaces": 1241,
       "wpm": 110,
       "highestWPM": 129,
-      "teamRaces": 100,
-      "acc": 96.69,
+      "teamRaces": 105,
+      "acc": 96.59,
       "season": null,
       "status": "active",
       "lastLogin": 1792163756
@@ -517,10 +517,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4518,
+      "allTimeRaces": 4528,
       "wpm": 92,
       "highestWPM": 120,
-      "teamRaces": 2093,
+      "teamRaces": 2103,
       "acc": 92.46,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52435,
+      "races": 52479,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 778,
+      "races": 764,
       "avgWPM": 83,
-      "avgAcc": 94.73,
+      "avgAcc": 94.77,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792165093775
+  "_syncedAt": 1792166984945
 }
