@@ -447,11 +447,11 @@
       "displayName": "TikTok lil_shot13",
       "role": "member",
       "joinStamp": 1792163851,
-      "allTimeRaces": 2955,
-      "wpm": 63,
+      "allTimeRaces": 2962,
+      "wpm": 61,
       "highestWPM": 76,
-      "teamRaces": 21,
-      "acc": 94.48,
+      "teamRaces": 29,
+      "acc": 94.36,
       "season": null,
       "status": "active",
       "lastLogin": 1792176527
@@ -657,14 +657,14 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4680,
-      "wpm": 90,
+      "allTimeRaces": 4702,
+      "wpm": 85,
       "highestWPM": 111,
-      "teamRaces": 1044,
-      "acc": 91.66,
+      "teamRaces": 1065,
+      "acc": 91.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1792175934
+      "lastLogin": 1792177903
     },
     {
       "username": "falconsteve2",
@@ -685,31 +685,31 @@
       "displayName": "KippKat",
       "role": "officer",
       "joinStamp": 1782491687,
-      "allTimeRaces": 942,
+      "allTimeRaces": 952,
       "wpm": 79,
       "highestWPM": 96,
-      "teamRaces": 929,
-      "acc": 96.39,
+      "teamRaces": 939,
+      "acc": 96.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1792163719
+      "lastLogin": 1792178345
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 52627,
+      "races": 52666,
       "avgWPM": 76,
-      "avgAcc": 95.05,
+      "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 612,
+      "races": 651,
       "avgWPM": 82,
-      "avgAcc": 95.29,
+      "avgAcc": 95.12,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792177852179
+  "_syncedAt": 1792179399323
 }
