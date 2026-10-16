@@ -74,14 +74,27 @@
         "displayName": "Unknown",
         "nickname": "Olde School",
         "squad": "Starter Fund",
-        "races": 39,
+        "races": 43,
         "wpm": 101.9,
-        "accuracy": 95.6,
-        "points": 5629,
+        "accuracy": 95.74,
+        "points": 6215,
         "tier": "A"
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Investor 1k",
+        "races": 36,
+        "wpm": 89.2,
+        "accuracy": 92.89,
+        "points": 4836,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -94,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -105,19 +118,6 @@
         "accuracy": 87.98,
         "points": 3778,
         "tier": "C"
-      },
-      {
-        "rank": 9,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "The Smasher",
-        "squad": "Investor 1k",
-        "races": 28,
-        "wpm": 88.6,
-        "accuracy": 93.04,
-        "points": 3759,
-        "tier": "A"
       },
       {
         "rank": 10,
@@ -235,13 +235,26 @@
         "accuracy": 93.01,
         "points": 122,
         "tier": "B"
+      },
+      {
+        "rank": 19,
+        "tag": "IMT",
+        "username": "WindMaker",
+        "displayName": "WindMaker",
+        "nickname": "I Love Cats",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792161723427
+    "_syncedAt": 1792163383609
   },
   "1341": {
     "eventId": "1341",
     "racers": [],
-    "_syncedAt": 1792161719529
+    "_syncedAt": 1792163379650
   }
 }

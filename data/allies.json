@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 36,
+    "members": 37,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2844,
+    "profileViews": 2845,
     "leagueTier": 11,
     "racers": [
       {
@@ -238,14 +238,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1890,
-        "wpm": 63,
+        "allTimeRaces": 1893,
+        "wpm": 64,
         "highestWPM": 90,
         "teamRaces": 845,
         "acc": 90.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792149822
+        "lastLogin": 1792162789
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -288,6 +288,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1791564324
+      },
+      {
+        "username": "87fcfdfb0800cb09690e8a373dc58063",
+        "displayName": "RALSEI",
+        "role": "member",
+        "joinStamp": 1792163292,
+        "allTimeRaces": 1003,
+        "wpm": 49,
+        "highestWPM": 67,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792162903
       },
       {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
@@ -378,10 +392,10 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4894,
-        "wpm": 83,
+        "allTimeRaces": 4899,
+        "wpm": 82,
         "highestWPM": 112,
-        "teamRaces": 458,
+        "teamRaces": 463,
         "acc": 95.04,
         "season": null,
         "status": "active",
@@ -427,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792110040
+        "lastLogin": 1792162270
       },
       {
         "username": "daisyiscute2026",
@@ -516,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76269,
+        "races": 76274,
         "avgWPM": 55,
         "avgAcc": 93.56,
-        "members": 36
+        "members": 37
       },
       "daily": {
         "races": 340,
         "avgWPM": 57,
-        "avgAcc": 91.1,
-        "members": 36
+        "avgAcc": 91.14,
+        "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792161723622
+    "_syncedAt": 1792163383767
   },
   "SVC": {
     "tag": "SVC",
@@ -757,11 +771,11 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4349,
-        "wpm": 74,
+        "allTimeRaces": 4361,
+        "wpm": 78,
         "highestWPM": 104,
-        "teamRaces": 991,
-        "acc": 93.08,
+        "teamRaces": 1004,
+        "acc": 93.1,
         "season": null,
         "status": "active",
         "lastLogin": 1792161526
@@ -1175,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39685,
+        "races": 39698,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 186,
-        "avgWPM": 80,
-        "avgAcc": 94.5,
+        "races": 170,
+        "avgWPM": 82,
+        "avgAcc": 95.11,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792161744321
+    "_syncedAt": 1792163402581
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792161763248
+    "_syncedAt": 1792163421540
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1356,14 +1370,14 @@
         "displayName": "ben the fem",
         "role": "member",
         "joinStamp": 1787588225,
-        "allTimeRaces": 3160,
-        "wpm": 66,
+        "allTimeRaces": 3164,
+        "wpm": 68,
         "highestWPM": 105,
-        "teamRaces": 1096,
+        "teamRaces": 1097,
         "acc": 93.1,
         "season": null,
         "status": "active",
-        "lastLogin": 1792160310
+        "lastLogin": 1792163219
       },
       {
         "username": "pigglepigglepiggle",
@@ -1942,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115021,
+        "races": 115022,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1132,
+        "races": 1093,
         "avgWPM": 54,
-        "avgAcc": 91.46,
+        "avgAcc": 91.37,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792161932746
+    "_syncedAt": 1792163591053
   }
 }
