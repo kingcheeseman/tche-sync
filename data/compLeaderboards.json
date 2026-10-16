@@ -152,10 +152,10 @@
         "displayName": "Nosferatu",
         "nickname": "Endurance Racer",
         "squad": "Side Hustler 100",
-        "races": 11,
-        "wpm": 56.4,
-        "accuracy": 93.7,
-        "points": 1321,
+        "races": 12,
+        "wpm": 54.7,
+        "accuracy": 93.15,
+        "points": 1423,
         "tier": "C"
       },
       {
@@ -237,6 +237,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792150772424
+    "_syncedAt": 1792152516875
   }
 }

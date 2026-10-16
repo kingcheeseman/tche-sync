@@ -217,7 +217,7 @@
         "acc": 94.67,
         "season": null,
         "status": "active",
-        "lastLogin": 1792088872
+        "lastLogin": 1792152471
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -238,11 +238,11 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1834,
-        "wpm": 64,
+        "allTimeRaces": 1854,
+        "wpm": 66,
         "highestWPM": 90,
-        "teamRaces": 784,
-        "acc": 90.45,
+        "teamRaces": 799,
+        "acc": 90.47,
         "season": null,
         "status": "active",
         "lastLogin": 1792149822
@@ -315,7 +315,7 @@
         "acc": 93.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1792096032
+        "lastLogin": 1792150850
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -343,7 +343,7 @@
         "acc": 93.84,
         "season": null,
         "status": "active",
-        "lastLogin": 1792067591
+        "lastLogin": 1792152417
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76162,
+        "races": 76177,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 36
       },
       "daily": {
-        "races": 336,
+        "races": 337,
         "avgWPM": 55,
-        "avgAcc": 91.2,
+        "avgAcc": 91.22,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792150772600
+    "_syncedAt": 1792152517094
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792150791422
+    "_syncedAt": 1792152536190
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792150810126
+    "_syncedAt": 1792152555175
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1723,7 +1723,7 @@
         "allTimeRaces": 3077,
         "wpm": 40,
         "highestWPM": 60,
-        "teamRaces": 1605,
+        "teamRaces": 1607,
         "acc": 92.13,
         "season": null,
         "status": "active",
@@ -1741,7 +1741,7 @@
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792119647
+        "lastLogin": 1792152336
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1832,11 +1832,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8987,
-        "wpm": 39,
+        "allTimeRaces": 9021,
+        "wpm": 42,
         "highestWPM": 75,
-        "teamRaces": 1552,
-        "acc": 86.65,
+        "teamRaces": 1588,
+        "acc": 86.6,
         "season": null,
         "status": "active",
         "lastLogin": 1792150308
@@ -1867,7 +1867,7 @@
         "acc": 92.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792096085
+        "lastLogin": 1792152328
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114794,
+        "races": 114832,
         "avgWPM": 67,
-        "avgAcc": 93.98,
+        "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1132,
-        "avgWPM": 55,
-        "avgAcc": 91.85,
+        "races": 1167,
+        "avgWPM": 54,
+        "avgAcc": 91.68,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792150979454
+    "_syncedAt": 1792152725091
   }
 }
