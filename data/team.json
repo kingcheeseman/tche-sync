@@ -139,11 +139,11 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 771,
-      "wpm": 69,
+      "allTimeRaces": 773,
+      "wpm": 65,
       "highestWPM": 84,
-      "teamRaces": 270,
-      "acc": 94.65,
+      "teamRaces": 272,
+      "acc": 94.62,
       "season": null,
       "status": "active",
       "lastLogin": 1792186515
@@ -272,7 +272,7 @@
       "acc": 92.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1792082504
+      "lastLogin": 1792187893
     },
     {
       "username": "cash4087",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52722,
+      "races": 52724,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 694,
+      "races": 682,
       "avgWPM": 82,
-      "avgAcc": 94.9,
+      "avgAcc": 94.88,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792186537114
+  "_syncedAt": 1792188338381
 }

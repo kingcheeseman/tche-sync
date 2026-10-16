@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792186608605
+    "_syncedAt": 1792188410189
   },
   "SVC": {
     "tag": "SVC",
@@ -715,11 +715,11 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4624,
-        "wpm": 67,
+        "allTimeRaces": 4647,
+        "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 217,
-        "acc": 98.01,
+        "teamRaces": 242,
+        "acc": 97.96,
         "season": null,
         "status": "active",
         "lastLogin": 1792185244
@@ -1163,14 +1163,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 880,
-        "wpm": 112,
+        "allTimeRaces": 882,
+        "wpm": 110,
         "highestWPM": 138,
-        "teamRaces": 824,
+        "teamRaces": 826,
         "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792116226
+        "lastLogin": 1792187801
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39799,
+        "races": 39826,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 219,
-        "avgWPM": 80,
-        "avgAcc": 94.53,
+        "races": 246,
+        "avgWPM": 78,
+        "avgAcc": 94.8,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792186627421
+    "_syncedAt": 1792188434404
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792186646091
+    "_syncedAt": 1792188453263
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4101,
+    "profileViews": 4102,
     "leagueTier": 11,
     "racers": [
       {
@@ -1482,10 +1482,10 @@
         "displayName": "RidiculousJadeMinnow",
         "role": "officer",
         "joinStamp": 1790290231,
-        "allTimeRaces": 15458,
-        "wpm": 100,
+        "allTimeRaces": 15459,
+        "wpm": 99,
         "highestWPM": 123,
-        "teamRaces": 2631,
+        "teamRaces": 2632,
         "acc": 95.09,
         "season": null,
         "status": "active",
@@ -1510,14 +1510,14 @@
         "displayName": "Griefed",
         "role": "member",
         "joinStamp": 1791208329,
-        "allTimeRaces": 1230,
-        "wpm": 102,
+        "allTimeRaces": 1240,
+        "wpm": 92,
         "highestWPM": 130,
-        "teamRaces": 273,
-        "acc": 97.02,
+        "teamRaces": 283,
+        "acc": 97.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1792183775
+        "lastLogin": 1792187817
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1762,14 +1762,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18302,
-        "wpm": 86,
+        "allTimeRaces": 18305,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 17842,
+        "teamRaces": 17845,
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792183907
+        "lastLogin": 1792187768
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115202,
+        "races": 115216,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 1033,
-        "avgWPM": 55,
-        "avgAcc": 91.65,
+        "races": 1044,
+        "avgWPM": 56,
+        "avgAcc": 91.75,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792186815236
+    "_syncedAt": 1792188622779
   }
 }
