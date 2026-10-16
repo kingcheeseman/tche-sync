@@ -307,28 +307,28 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2698,
-      "wpm": 78,
+      "allTimeRaces": 2702,
+      "wpm": 76,
       "highestWPM": 102,
       "teamRaces": 79,
       "acc": 95.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1792007893
+      "lastLogin": 1792156767
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1217,
-      "wpm": 112,
+      "allTimeRaces": 1226,
+      "wpm": 105,
       "highestWPM": 129,
-      "teamRaces": 81,
+      "teamRaces": 88,
       "acc": 96.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1792077874
+      "lastLogin": 1792155562
     },
     {
       "username": "wsoccerboy0929",
@@ -629,11 +629,11 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4632,
-      "wpm": 90,
+      "allTimeRaces": 4647,
+      "wpm": 86,
       "highestWPM": 111,
-      "teamRaces": 988,
-      "acc": 91.64,
+      "teamRaces": 1011,
+      "acc": 91.63,
       "season": null,
       "status": "active",
       "lastLogin": 1792152527
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52292,
+      "races": 52322,
       "avgWPM": 76,
-      "avgAcc": 95.05,
+      "avgAcc": 95.04,
       "members": 47
     },
     "daily": {
-      "races": 853,
+      "races": 830,
       "avgWPM": 83,
-      "avgAcc": 94.73,
+      "avgAcc": 94.63,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792154821031
+  "_syncedAt": 1792157309189
 }

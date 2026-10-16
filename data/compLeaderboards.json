@@ -22,10 +22,10 @@
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
         "squad": "Entrepreneur 500",
-        "races": 90,
-        "wpm": 86.9,
-        "accuracy": 90.97,
-        "points": 11744,
+        "races": 113,
+        "wpm": 87.3,
+        "accuracy": 90.89,
+        "points": 14755,
         "tier": "A"
       },
       {
@@ -122,6 +122,19 @@
       {
         "rank": 10,
         "tag": "IMT",
+        "username": "Sile314",
+        "displayName": "Sile314",
+        "nickname": "Filthy Rich",
+        "squad": "Starter Fund",
+        "races": 15,
+        "wpm": 109.2,
+        "accuracy": 96.58,
+        "points": 2239,
+        "tier": "A"
+      },
+      {
+        "rank": 11,
+        "tag": "IMT",
         "username": "RonaldoSuiii777",
         "displayName": "RonaldoSuiii777",
         "nickname": "Mechanic",
@@ -133,7 +146,7 @@
         "tier": "C"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -146,7 +159,7 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "KippKat",
         "displayName": "KippKat",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "ULT1M4TE",
         "displayName": "ULT1M4TE",
@@ -170,19 +183,6 @@
         "accuracy": 91.58,
         "points": 1224,
         "tier": "C"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "Sile314",
-        "displayName": "Sile314",
-        "nickname": "Filthy Rich",
-        "squad": "Starter Fund",
-        "races": 8,
-        "wpm": 109.7,
-        "accuracy": 96.55,
-        "points": 1196,
-        "tier": "A"
       },
       {
         "rank": 15,
@@ -224,6 +224,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792154894796
+    "_syncedAt": 1792157391917
   }
 }
