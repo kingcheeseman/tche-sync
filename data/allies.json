@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2842,
+    "profileViews": 2843,
     "leagueTier": 11,
     "racers": [
       {
@@ -238,14 +238,14 @@
         "displayName": "Reinhard Van Astreaa",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1824,
-        "wpm": 65,
+        "allTimeRaces": 1834,
+        "wpm": 64,
         "highestWPM": 90,
-        "teamRaces": 779,
-        "acc": 90.46,
+        "teamRaces": 784,
+        "acc": 90.45,
         "season": null,
         "status": "active",
-        "lastLogin": 1792147068
+        "lastLogin": 1792149822
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76157,
+        "races": 76162,
         "avgWPM": 55,
         "avgAcc": 93.57,
         "members": 36
       },
       "daily": {
-        "races": 341,
-        "avgWPM": 56,
-        "avgAcc": 91.31,
+        "races": 336,
+        "avgWPM": 55,
+        "avgAcc": 91.2,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792148944653
+    "_syncedAt": 1792150772600
   },
   "SVC": {
     "tag": "SVC",
@@ -1009,14 +1009,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3311,
-        "wpm": 68,
+        "allTimeRaces": 3313,
+        "wpm": 67,
         "highestWPM": 101,
-        "teamRaces": 34,
-        "acc": 90.66,
+        "teamRaces": 36,
+        "acc": 90.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1791912241
+        "lastLogin": 1792149443
       },
       {
         "username": "naussica",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39639,
+        "races": 39641,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 152,
+        "races": 154,
         "avgWPM": 78,
-        "avgAcc": 94.43,
+        "avgAcc": 94.44,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792148963700
+    "_syncedAt": 1792150791422
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792148982573
+    "_syncedAt": 1792150810126
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1720,10 +1720,10 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3053,
-        "wpm": 41,
+        "allTimeRaces": 3077,
+        "wpm": 40,
         "highestWPM": 60,
-        "teamRaces": 1580,
+        "teamRaces": 1605,
         "acc": 92.13,
         "season": null,
         "status": "active",
@@ -1832,14 +1832,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 8971,
-        "wpm": 37,
+        "allTimeRaces": 8987,
+        "wpm": 39,
         "highestWPM": 75,
-        "teamRaces": 1539,
+        "teamRaces": 1552,
         "acc": 86.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1792146668
+        "lastLogin": 1792150308
       },
       {
         "username": "legendsince2026",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114756,
+        "races": 114794,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 49
       },
       "daily": {
-        "races": 1096,
+        "races": 1132,
         "avgWPM": 55,
-        "avgAcc": 91.9,
+        "avgAcc": 91.85,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792149151992
+    "_syncedAt": 1792150979454
   }
 }
