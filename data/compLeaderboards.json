@@ -48,10 +48,10 @@
         "displayName": "t_unknown",
         "nickname": "Original Gangster",
         "squad": "Starter Fund",
-        "races": 57,
-        "wpm": 84.3,
-        "accuracy": 94.34,
-        "points": 7643,
+        "races": 59,
+        "wpm": 83.8,
+        "accuracy": 94.26,
+        "points": 7890,
         "tier": "B"
       },
       {
@@ -70,6 +70,32 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 39,
+        "wpm": 101.9,
+        "accuracy": 95.6,
+        "points": 5629,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
+        "username": "PootsyWafflebiscuits",
+        "displayName": "PootsyWafflebiscuits",
+        "nickname": "Nitro Libre",
+        "squad": "Investor 1k",
+        "races": 31,
+        "wpm": 89.1,
+        "accuracy": 97.52,
+        "points": 4369,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
         "nickname": "TOUGE「峠」VIPER",
@@ -81,7 +107,7 @@
         "tier": "C"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -94,20 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Starter Fund",
-        "races": 23,
-        "wpm": 101.9,
-        "accuracy": 95.55,
-        "points": 3317,
-        "tier": "A"
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -120,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "RonaldoSuiii777",
         "displayName": "RonaldoSuiii777",
@@ -144,19 +157,6 @@
         "accuracy": 93.61,
         "points": 1671,
         "tier": "C"
-      },
-      {
-        "rank": 12,
-        "tag": "IMT",
-        "username": "PootsyWafflebiscuits",
-        "displayName": "PootsyWafflebiscuits",
-        "nickname": "Nitro Libre",
-        "squad": "Investor 1k",
-        "races": 13,
-        "wpm": 90.1,
-        "accuracy": 97.46,
-        "points": 1838,
-        "tier": "A"
       },
       {
         "rank": 13,
@@ -191,10 +191,10 @@
         "displayName": "sterling757",
         "nickname": "The Caped Crusader",
         "squad": "Starter Fund",
-        "races": 4,
-        "wpm": 76.9,
-        "accuracy": 96.18,
-        "points": 533,
+        "races": 7,
+        "wpm": 77.4,
+        "accuracy": 95.38,
+        "points": 926,
         "tier": "B"
       },
       {
@@ -237,11 +237,11 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792159544907
+    "_syncedAt": 1792161723427
   },
   "1341": {
     "eventId": "1341",
     "racers": [],
-    "_syncedAt": 1792159540894
+    "_syncedAt": 1792161719529
   }
 }

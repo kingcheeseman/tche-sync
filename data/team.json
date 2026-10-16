@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20102,
-      "wpm": 87,
+      "allTimeRaces": 20105,
+      "wpm": 88,
       "highestWPM": 108,
-      "teamRaces": 2458,
+      "teamRaces": 2466,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -27,11 +27,11 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6797,
-      "wpm": 104,
+      "allTimeRaces": 6801,
+      "wpm": 100,
       "highestWPM": 131,
-      "teamRaces": 59,
-      "acc": 96.09,
+      "teamRaces": 63,
+      "acc": 96.05,
       "season": null,
       "status": "active",
       "lastLogin": 1792158331
@@ -209,11 +209,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5105,
-      "wpm": 85,
+      "allTimeRaces": 5107,
+      "wpm": 80,
       "highestWPM": 111,
-      "teamRaces": 76,
-      "acc": 94.62,
+      "teamRaces": 78,
+      "acc": 94.57,
       "season": null,
       "status": "active",
       "lastLogin": 1792158560
@@ -307,11 +307,11 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2703,
-      "wpm": 75,
+      "allTimeRaces": 2705,
+      "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 83,
-      "acc": 95.33,
+      "teamRaces": 86,
+      "acc": 95.3,
       "season": null,
       "status": "active",
       "lastLogin": 1792159193
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52355,
+      "races": 52372,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 47
     },
     "daily": {
-      "races": 839,
+      "races": 816,
       "avgWPM": 83,
-      "avgAcc": 94.64,
+      "avgAcc": 94.68,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792159454747
+  "_syncedAt": 1792161640821
 }
