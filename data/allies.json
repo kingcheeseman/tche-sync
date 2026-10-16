@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2839,
+    "profileViews": 2840,
     "leagueTier": 11,
     "racers": [
       {
@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792124487708
+    "_syncedAt": 1792126756829
   },
   "SVC": {
     "tag": "SVC",
@@ -568,7 +568,7 @@
         "acc": 93.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1791942959
+        "lastLogin": 1792125508
       },
       {
         "username": "akb7109",
@@ -687,14 +687,14 @@
         "displayName": "s_e_r_i",
         "role": "member",
         "joinStamp": 1791308945,
-        "allTimeRaces": 4564,
-        "wpm": 63,
+        "allTimeRaces": 4571,
+        "wpm": 61,
         "highestWPM": 78,
         "teamRaces": 163,
         "acc": 98.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792098391
+        "lastLogin": 1792126269
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1167,15 +1167,15 @@
         "members": 45
       },
       "daily": {
-        "races": 123,
-        "avgWPM": 82,
-        "avgAcc": 93.95,
+        "races": 110,
+        "avgWPM": 85,
+        "avgAcc": 93.59,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792124511755
+    "_syncedAt": 1792126775724
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792124530768
+    "_syncedAt": 1792126794635
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4080,
+    "profileViews": 4081,
     "leagueTier": 11,
     "racers": [
       {
@@ -1279,7 +1279,7 @@
         "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792123881
+        "lastLogin": 1792125782
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1538,11 +1538,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8423,
+        "allTimeRaces": 8427,
         "wpm": 48,
         "highestWPM": 95,
-        "teamRaces": 875,
-        "acc": 97.34,
+        "teamRaces": 880,
+        "acc": 97.33,
         "season": null,
         "status": "active",
         "lastLogin": 1792119614
@@ -1748,11 +1748,11 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4085,
-        "wpm": 45,
+        "allTimeRaces": 4095,
+        "wpm": 43,
         "highestWPM": 80,
-        "teamRaces": 1105,
-        "acc": 94.24,
+        "teamRaces": 1121,
+        "acc": 94.22,
         "season": null,
         "status": "active",
         "lastLogin": 1792115921
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 114490,
+        "races": 114511,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 49
       },
       "daily": {
-        "races": 1181,
+        "races": 1202,
         "avgWPM": 56,
-        "avgAcc": 92.77,
+        "avgAcc": 92.78,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792124700395
+    "_syncedAt": 1792126964201
   }
 }
