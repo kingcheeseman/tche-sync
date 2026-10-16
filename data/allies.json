@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2856,
+    "profileViews": 2859,
     "leagueTier": 11,
     "racers": [
       {
@@ -35,7 +35,7 @@
         "acc": 91.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792175033
+        "lastLogin": 1792180765
       },
       {
         "username": "polarbearqueen1",
@@ -392,11 +392,11 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4945,
-        "wpm": 75,
+        "allTimeRaces": 4949,
+        "wpm": 77,
         "highestWPM": 112,
-        "teamRaces": 508,
-        "acc": 94.98,
+        "teamRaces": 513,
+        "acc": 94.95,
         "season": null,
         "status": "active",
         "lastLogin": 1792177011
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76475,
+        "races": 76480,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 405,
+        "races": 407,
         "avgWPM": 63,
-        "avgAcc": 91.36,
+        "avgAcc": 91.38,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792179471107
+    "_syncedAt": 1792180921861
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 168,
+        "races": 166,
         "avgWPM": 81,
-        "avgAcc": 95.09,
+        "avgAcc": 95.12,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792179496244
+    "_syncedAt": 1792180941151
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792179515096
+    "_syncedAt": 1792180960121
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1286,11 +1286,11 @@
         "displayName": "roadto20k",
         "role": "member",
         "joinStamp": 1792104029,
-        "allTimeRaces": 11704,
-        "wpm": 134,
+        "allTimeRaces": 11713,
+        "wpm": 125,
         "highestWPM": 156,
-        "teamRaces": 31,
-        "acc": 96.96,
+        "teamRaces": 41,
+        "acc": 97.1,
         "season": null,
         "status": "active",
         "lastLogin": 1792178813
@@ -1510,14 +1510,14 @@
         "displayName": "Griefed",
         "role": "member",
         "joinStamp": 1791208329,
-        "allTimeRaces": 1214,
-        "wpm": 72,
+        "allTimeRaces": 1216,
+        "wpm": 101,
         "highestWPM": 130,
         "teamRaces": 257,
         "acc": 96.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792170733
+        "lastLogin": 1792180986
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115164,
+        "races": 115174,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 1090,
-        "avgWPM": 54,
-        "avgAcc": 91.41,
+        "races": 1080,
+        "avgWPM": 55,
+        "avgAcc": 91.47,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792179684632
+    "_syncedAt": 1792181129660
   }
 }

@@ -293,14 +293,14 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 1967,
-      "wpm": 74,
+      "allTimeRaces": 1980,
+      "wpm": 80,
       "highestWPM": 104,
-      "teamRaces": 512,
-      "acc": 90.59,
+      "teamRaces": 525,
+      "acc": 90.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792118264
+      "lastLogin": 1792179421
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -643,24 +643,24 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 8947,
+      "allTimeRaces": 8950,
       "wpm": 51,
       "highestWPM": 77,
-      "teamRaces": 905,
+      "teamRaces": 908,
       "acc": 80.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1792074734
+      "lastLogin": 1792180100
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4702,
-      "wpm": 85,
+      "allTimeRaces": 4707,
+      "wpm": 82,
       "highestWPM": 111,
-      "teamRaces": 1065,
+      "teamRaces": 1071,
       "acc": 91.63,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52666,
+      "races": 52688,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 651,
+      "races": 672,
       "avgWPM": 82,
-      "avgAcc": 95.12,
+      "avgAcc": 94.94,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792179399323
+  "_syncedAt": 1792180841583
 }
