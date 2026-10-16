@@ -75,8 +75,8 @@
           "players": [
             {
               "seed": "16",
-              "racer": "mazen_67",
-              "teamTag": "KEYCAT",
+              "racer": "gokuglazernumber1",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -97,8 +97,8 @@
           "players": [
             {
               "seed": "17",
-              "racer": "viperr",
-              "teamTag": "SVC",
+              "racer": "sterling757",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -119,7 +119,7 @@
           "players": [
             {
               "seed": "8",
-              "racer": "Sile314",
+              "racer": "Noah0821",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -163,9 +163,9 @@
           "players": [
             {
               "seed": "9",
-              "racer": "Natuski",
-              "teamTag": "KEYCAT",
-              "gold": true,
+              "racer": "Victoria Ram",
+              "teamTag": "IMT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -251,7 +251,7 @@
           "players": [
             {
               "seed": "13",
-              "racer": "Limit RyZex1x",
+              "racer": "mazen_67",
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
@@ -339,9 +339,9 @@
           "players": [
             {
               "seed": "12",
-              "racer": "PootsyWafflebiscuits",
-              "teamTag": "IMT",
-              "gold": true,
+              "racer": "prismaticbeam",
+              "teamTag": "KEYCAT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -383,8 +383,8 @@
           "players": [
             {
               "seed": "2",
-              "racer": "t_unknown",
-              "teamTag": "IMT",
+              "racer": "Javier Mendez",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -427,8 +427,8 @@
           "players": [
             {
               "seed": "15",
-              "racer": "sterling757",
-              "teamTag": "IMT",
+              "racer": "Limit RyZex1x",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -449,8 +449,8 @@
           "players": [
             {
               "seed": "18",
-              "racer": "RALSEI",
-              "teamTag": "KEYCAT",
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -471,7 +471,7 @@
           "players": [
             {
               "seed": "7",
-              "racer": "Victoria Ram",
+              "racer": "Unknown",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -515,7 +515,7 @@
           "players": [
             {
               "seed": "10",
-              "racer": "Unknown",
+              "racer": "Sile314",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -559,8 +559,8 @@
           "players": [
             {
               "seed": "3",
-              "racer": "Javier Mendez",
-              "teamTag": "SVC",
+              "racer": "t_unknown",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -603,9 +603,9 @@
           "players": [
             {
               "seed": "14",
-              "racer": "gokuglazernumber1",
-              "teamTag": "SVC",
-              "gold": false,
+              "racer": "PootsyWafflebiscuits",
+              "teamTag": "IMT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -625,10 +625,10 @@
           "players": [
             {
               "seed": "19",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "RALSEI",
+              "teamTag": "KEYCAT",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             },
             {
@@ -691,9 +691,9 @@
           "players": [
             {
               "seed": "11",
-              "racer": "cobeanos",
+              "racer": "Natuski",
               "teamTag": "KEYCAT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792170618849,
+  "_syncedAt": 1792172193343,
   "seeding": {
     "racers": [
       {
@@ -1464,6 +1464,19 @@
       },
       {
         "rank": 2,
+        "tag": "SVC",
+        "username": "Javier Mendez",
+        "displayName": "Javier Mendez",
+        "nickname": "Street Spectre",
+        "squad": null,
+        "races": 33,
+        "wpm": 82.8,
+        "accuracy": 93.94,
+        "points": 4383,
+        "tier": "B"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -1476,20 +1489,20 @@
         "tier": "B"
       },
       {
-        "rank": 3,
-        "tag": "SVC",
-        "username": "Javier Mendez",
-        "displayName": "Javier Mendez",
-        "nickname": "Street Spectre",
-        "squad": null,
-        "races": 29,
-        "wpm": 82.9,
-        "accuracy": 93.94,
-        "points": 3853,
-        "tier": "B"
+        "rank": 4,
+        "tag": "IMT",
+        "username": "Noah0821",
+        "displayName": "Noah0821",
+        "nickname": "Filthy Rich",
+        "squad": "Side Hustler 100",
+        "races": 31,
+        "wpm": 63.3,
+        "accuracy": 94.3,
+        "points": 3848,
+        "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -1502,7 +1515,7 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -1515,7 +1528,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -1528,7 +1541,20 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 19,
+        "wpm": 102.9,
+        "accuracy": 96.72,
+        "points": 2783,
+        "tier": "A"
+      },
+      {
+        "rank": 9,
         "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
@@ -1541,7 +1567,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -1554,7 +1580,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -1567,33 +1593,33 @@
         "tier": "B"
       },
       {
-        "rank": 10,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Starter Fund",
-        "races": 14,
-        "wpm": 101.8,
-        "accuracy": 96.73,
-        "points": 2043,
-        "tier": "A"
-      },
-      {
-        "rank": 11,
+        "rank": 12,
         "tag": "KEYCAT",
-        "username": "cobeanos",
-        "displayName": "cobeanos",
+        "username": "prismaticbeam",
+        "displayName": "prismaticbeam",
         "nickname": "♪ So Delightful ♪",
         "squad": "Starter",
-        "races": 10,
-        "wpm": 76.3,
-        "accuracy": 93.4,
-        "points": 1291,
+        "races": 16,
+        "wpm": 76.7,
+        "accuracy": 93.07,
+        "points": 2060,
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
+        "tag": "KEYCAT",
+        "username": "mazen_67",
+        "displayName": "mazen_67",
+        "nickname": "Crazy About Typing",
+        "squad": "Developing 500",
+        "races": 13,
+        "wpm": 37.2,
+        "accuracy": 84.79,
+        "points": 1307,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -1606,7 +1632,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -1619,7 +1645,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -1632,7 +1658,7 @@
         "tier": "B"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -1645,20 +1671,7 @@
         "tier": "B"
       },
       {
-        "rank": 16,
-        "tag": "KEYCAT",
-        "username": "mazen_67",
-        "displayName": "mazen_67",
-        "nickname": "Crazy About Typing",
-        "squad": "Developing 500",
-        "races": 4,
-        "wpm": 32.8,
-        "accuracy": 81.38,
-        "points": 379,
-        "tier": "C"
-      },
-      {
-        "rank": 17,
+        "rank": 18,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1671,7 +1684,7 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "KEYCAT",
         "username": "RALSEI",
         "displayName": "RALSEI",
@@ -1684,7 +1697,7 @@
         "tier": "B"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "IMT",
         "username": "TikTok lil_shot13",
         "displayName": "TikTok lil_shot13",
@@ -1697,6 +1710,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792170623137
+    "_syncedAt": 1792172197340
   }
 }
