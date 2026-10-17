@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792269369256,
+  "_syncedAt": 1792271010679,
   "seeding": {
     "racers": [
       {
@@ -1456,10 +1456,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "Leader 11k",
-        "races": 130,
-        "wpm": 80.9,
-        "accuracy": 89.41,
-        "points": 16325,
+        "races": 148,
+        "wpm": 80.7,
+        "accuracy": 89.21,
+        "points": 18532,
         "tier": "A"
       },
       {
@@ -1742,10 +1742,10 @@
         "displayName": "Sile314",
         "nickname": "Filthy Rich",
         "squad": "Starter Fund",
-        "races": 15,
-        "wpm": 110.3,
-        "accuracy": 95.58,
-        "points": 2224,
+        "races": 16,
+        "wpm": 107.3,
+        "accuracy": 95.6,
+        "points": 2350,
         "tier": "A"
       },
       {
@@ -1983,6 +1983,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792269373423
+    "_syncedAt": 1792271014854
   }
 }

@@ -35,7 +35,7 @@
           "ppr": 130
         },
         {
-          "rank": 442,
+          "rank": 444,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 888,
@@ -55,13 +55,13 @@
           "ppr": 137
         },
         {
-          "rank": 643,
+          "rank": 642,
           "username": "7f0032fd385260dbd67780a4c053a0f3",
           "displayName": "Sile314",
-          "races": 581,
+          "races": 582,
           "accuracy": 96.18,
-          "wpm": 106.4,
-          "points": 85617,
+          "wpm": 106.3,
+          "points": 85743,
           "ppr": 147
         },
         {
@@ -125,7 +125,7 @@
           "ppr": 126
         },
         {
-          "rank": 1138,
+          "rank": 1139,
           "username": "33e83773380949c7f2fd34d850d93d34",
           "displayName": "KippKat",
           "races": 292,
@@ -155,7 +155,7 @@
           "ppr": 133
         },
         {
-          "rank": 1442,
+          "rank": 1443,
           "username": "2865b036215f4fedbcb7bdd5a174045e",
           "displayName": "Kimchi",
           "races": 175,
@@ -165,7 +165,7 @@
           "ppr": 140
         },
         {
-          "rank": 1453,
+          "rank": 1454,
           "username": "booomtype",
           "displayName": "YellowBronzeCoral",
           "races": 180,
@@ -175,7 +175,7 @@
           "ppr": 134
         },
         {
-          "rank": 1493,
+          "rank": 1495,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 175,
@@ -286,12 +286,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792269336952
+      "_syncedAt": 1792270978005
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792269336952
+  "_syncedAt": 1792270978005
 }

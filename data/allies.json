@@ -322,10 +322,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13696,
-        "wpm": 81,
+        "allTimeRaces": 13702,
+        "wpm": 79,
         "highestWPM": 111,
-        "teamRaces": 11483,
+        "teamRaces": 11494,
         "acc": 93.32,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76693,
+        "races": 76704,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 37
       },
       "daily": {
-        "races": 212,
+        "races": 203,
         "avgWPM": 75,
-        "avgAcc": 92.57,
+        "avgAcc": 92.05,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792269378008
+    "_syncedAt": 1792271019118
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 102,
-        "avgWPM": 69,
-        "avgAcc": 94.82,
+        "races": 81,
+        "avgWPM": 66,
+        "avgAcc": 95.38,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792269397036
+    "_syncedAt": 1792271038088
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792269415995
+    "_syncedAt": 1792271056936
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4135,
+    "profileViews": 4136,
     "leagueTier": 11,
     "racers": [
       {
@@ -1489,7 +1489,7 @@
         "acc": 95.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792256201
+        "lastLogin": 1792271031
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1948,14 +1948,14 @@
         "members": 48
       },
       "daily": {
-        "races": 1012,
+        "races": 1006,
         "avgWPM": 70,
-        "avgAcc": 94.09,
+        "avgAcc": 94.07,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792269585516
+    "_syncedAt": 1792271226385
   }
 }
