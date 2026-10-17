@@ -84,14 +84,14 @@
         "displayName": "W1LD BOI 7k",
         "role": "officer",
         "joinStamp": 1792253317,
-        "allTimeRaces": 7096,
-        "wpm": 77,
+        "allTimeRaces": 7111,
+        "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 19,
-        "acc": 96.62,
+        "teamRaces": 41,
+        "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792250736
+        "lastLogin": 1792256364
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -238,14 +238,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1925,
-        "wpm": 53,
+        "allTimeRaces": 1937,
+        "wpm": 64,
         "highestWPM": 90,
-        "teamRaces": 880,
-        "acc": 90.42,
+        "teamRaces": 889,
+        "acc": 90.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792237008
+        "lastLogin": 1792255883
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76602,
+        "races": 76633,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 302,
-        "avgWPM": 73,
-        "avgAcc": 92.36,
+        "races": 305,
+        "avgWPM": 72,
+        "avgAcc": 92.49,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792254953122
+    "_syncedAt": 1792256553921
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792254972421
+    "_syncedAt": 1792256572741
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792254991515
+    "_syncedAt": 1792256591558
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1489,7 +1489,7 @@
         "acc": 95.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792250716
+        "lastLogin": 1792256201
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1762,14 +1762,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3217,
+        "allTimeRaces": 3218,
         "wpm": 40,
         "highestWPM": 60,
         "teamRaces": 1747,
         "acc": 92.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792237743
+        "lastLogin": 1792256399
       },
       {
         "username": "sara0010",
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792255161181
+    "_syncedAt": 1792256761073
   }
 }
