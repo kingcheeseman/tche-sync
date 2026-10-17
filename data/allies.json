@@ -322,14 +322,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13674,
-        "wpm": 84,
+        "allTimeRaces": 13675,
+        "wpm": 83,
         "highestWPM": 111,
         "teamRaces": 11466,
         "acc": 93.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792262959
+        "lastLogin": 1792267796
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -536,7 +536,7 @@
         "members": 37
       },
       "daily": {
-        "races": 197,
+        "races": 195,
         "avgWPM": 75,
         "avgAcc": 92.77,
         "members": 37
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792267187884
+    "_syncedAt": 1792267956103
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792267206894
+    "_syncedAt": 1792267974910
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792267225874
+    "_syncedAt": 1792267993718
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1783,7 +1783,7 @@
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792260079
+        "lastLogin": 1792268098
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1948,14 +1948,14 @@
         "members": 48
       },
       "daily": {
-        "races": 1015,
+        "races": 1010,
         "avgWPM": 70,
-        "avgAcc": 94.1,
+        "avgAcc": 94.08,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792267395526
+    "_syncedAt": 1792268162851
   }
 }

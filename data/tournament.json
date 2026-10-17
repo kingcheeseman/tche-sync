@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792267179436,
+  "_syncedAt": 1792267948036,
   "seeding": {
     "racers": [
       {
@@ -1469,10 +1469,10 @@
         "displayName": "KirbyDelta",
         "nickname": "RIP",
         "squad": "Starter Fund",
-        "races": 94,
-        "wpm": 78,
-        "accuracy": 92.31,
-        "points": 12061,
+        "races": 100,
+        "wpm": 77.9,
+        "accuracy": 92.21,
+        "points": 12811,
         "tier": "C"
       },
       {
@@ -1983,6 +1983,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792267183473
+    "_syncedAt": 1792267951999
   }
 }
