@@ -335,10 +335,10 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1241,
-      "wpm": 110,
+      "allTimeRaces": 1242,
+      "wpm": 105,
       "highestWPM": 129,
-      "teamRaces": 105,
+      "teamRaces": 106,
       "acc": 96.59,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52874,
+      "races": 52875,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 48
     },
     "daily": {
-      "races": 186,
+      "races": 187,
       "avgWPM": 78,
-      "avgAcc": 93.22,
+      "avgAcc": 93.24,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792267876955
+  "_syncedAt": 1792269291246
 }
