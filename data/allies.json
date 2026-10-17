@@ -6,7 +6,7 @@
     "activePercent": 86,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2866,
+    "profileViews": 2869,
     "leagueTier": 11,
     "racers": [
       {
@@ -84,11 +84,11 @@
         "displayName": "W1LD BOI 7k",
         "role": "officer",
         "joinStamp": 1792253317,
-        "allTimeRaces": 7111,
-        "wpm": 76,
+        "allTimeRaces": 7127,
+        "wpm": 83,
         "highestWPM": 100,
-        "teamRaces": 41,
-        "acc": 96.47,
+        "teamRaces": 57,
+        "acc": 96.36,
         "season": null,
         "status": "active",
         "lastLogin": 1792256364
@@ -238,11 +238,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1937,
-        "wpm": 64,
+        "allTimeRaces": 1951,
+        "wpm": 63,
         "highestWPM": 90,
-        "teamRaces": 889,
-        "acc": 90.43,
+        "teamRaces": 906,
+        "acc": 90.38,
         "season": null,
         "status": "active",
         "lastLogin": 1792255883
@@ -329,7 +329,7 @@
         "acc": 93.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792248221
+        "lastLogin": 1792257486
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76633,
+        "races": 76666,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 305,
-        "avgWPM": 72,
-        "avgAcc": 92.49,
+        "races": 304,
+        "avgWPM": 74,
+        "avgAcc": 92.64,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792256553921
+    "_syncedAt": 1792258404799
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 133,
-        "avgWPM": 72,
-        "avgAcc": 94.59,
+        "races": 129,
+        "avgWPM": 71,
+        "avgAcc": 94.6,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792256572741
+    "_syncedAt": 1792258423988
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792256591558
+    "_syncedAt": 1792258442899
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1762,10 +1762,10 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3218,
-        "wpm": 40,
+        "allTimeRaces": 3235,
+        "wpm": 43,
         "highestWPM": 60,
-        "teamRaces": 1747,
+        "teamRaces": 1765,
         "acc": 92.13,
         "season": null,
         "status": "active",
@@ -1839,7 +1839,7 @@
         "acc": 95.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792252206
+        "lastLogin": 1792257215
       },
       {
         "username": "nev444ehh",
@@ -1942,7 +1942,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116064,
+        "races": 116082,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
@@ -1950,12 +1950,12 @@
       "daily": {
         "races": 1009,
         "avgWPM": 70,
-        "avgAcc": 94.23,
+        "avgAcc": 94.21,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792256761073
+    "_syncedAt": 1792258612507
   }
 }
