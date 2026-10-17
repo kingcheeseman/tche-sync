@@ -325,9 +325,9 @@
             },
             {
               "seed": "37",
-              "racer": "viperr",
-              "teamTag": "SVC",
-              "gold": false,
+              "racer": "KirbyDelta",
+              "teamTag": "IMT",
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -677,10 +677,10 @@
             },
             {
               "seed": "38",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792246360707,
+  "_syncedAt": 1792247709985,
   "seeding": {
     "racers": [
       {
@@ -1919,6 +1919,19 @@
       },
       {
         "rank": 37,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "RIP",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 74.1,
+        "accuracy": 93.85,
+        "points": 129,
+        "tier": "C"
+      },
+      {
+        "rank": 38,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1931,6 +1944,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792246364722
+    "_syncedAt": 1792247714354
   }
 }

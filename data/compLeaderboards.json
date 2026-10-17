@@ -472,6 +472,19 @@
       },
       {
         "rank": 37,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "RIP",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 74.1,
+        "accuracy": 93.85,
+        "points": 129,
+        "tier": "C"
+      },
+      {
+        "rank": 38,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -484,6 +497,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792246368776
+    "_syncedAt": 1792247718440
   }
 }
