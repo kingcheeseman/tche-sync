@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792226301844
+    "_syncedAt": 1792227887693
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792226320819
+    "_syncedAt": 1792227906678
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792226339509
+    "_syncedAt": 1792227925600
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1811,7 +1811,7 @@
         "acc": 94.17,
         "season": null,
         "status": "active",
-        "lastLogin": 1792226197
+        "lastLogin": 1792227020
       },
       {
         "username": "the1stpsycho",
@@ -1962,14 +1962,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1363,
-        "avgWPM": 62,
-        "avgAcc": 92.59,
+        "races": 1351,
+        "avgWPM": 63,
+        "avgAcc": 92.63,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792226508648
+    "_syncedAt": 1792228094993
   }
 }
