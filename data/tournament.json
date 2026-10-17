@@ -53,16 +53,16 @@
           "players": [
             {
               "seed": "32",
-              "racer": "akiraaa",
-              "teamTag": "KEYCAT",
+              "racer": "StefanO",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "33",
-              "racer": "IM A BOT OK, TRUST",
-              "teamTag": "IMT",
+              "racer": "akiraaa",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -149,8 +149,8 @@
             },
             {
               "seed": "40",
-              "racer": "viperr",
-              "teamTag": "SVC",
+              "racer": "insta _trewatkins",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -193,10 +193,10 @@
             },
             {
               "seed": "41",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -237,9 +237,9 @@
             },
             {
               "seed": "36",
-              "racer": "me_likey_typey",
-              "teamTag": "IMT",
-              "gold": true,
+              "racer": "LovelyJadeWombat",
+              "teamTag": "SVC",
+              "gold": false,
               "placeholder": false,
               "score": null
             }
@@ -325,8 +325,8 @@
             },
             {
               "seed": "37",
-              "racer": "River Star",
-              "teamTag": "KEYCAT",
+              "racer": "me_likey_typey",
+              "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
               "score": null
@@ -405,15 +405,15 @@
           "players": [
             {
               "seed": "31",
-              "racer": "StefanO",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "W1LD BOI 7k",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "34",
-              "racer": "sterling757",
+              "racer": "IM A BOT OK, TRUST",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -501,7 +501,7 @@
             },
             {
               "seed": "39",
-              "racer": "insta _trewatkins",
+              "racer": "Nitrex",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -589,8 +589,8 @@
             },
             {
               "seed": "35",
-              "racer": "LovelyJadeWombat",
-              "teamTag": "SVC",
+              "racer": "sterling757",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -677,9 +677,9 @@
             },
             {
               "seed": "38",
-              "racer": "Nitrex",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "River Star",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792253507548,
+  "_syncedAt": 1792254944293,
   "seeding": {
     "racers": [
       {
@@ -1456,10 +1456,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "Leader 11k",
-        "races": 101,
-        "wpm": 80.6,
-        "accuracy": 89.05,
-        "points": 12618,
+        "races": 107,
+        "wpm": 80.7,
+        "accuracy": 89.09,
+        "points": 13379,
         "tier": "A"
       },
       {
@@ -1841,6 +1841,19 @@
       },
       {
         "rank": 31,
+        "tag": "KEYCAT",
+        "username": "W1LD BOI 7k",
+        "displayName": "W1LD BOI 7k",
+        "nickname": "I Love Cats",
+        "squad": null,
+        "races": 8,
+        "wpm": 79.6,
+        "accuracy": 96.45,
+        "points": 1079,
+        "tier": "A"
+      },
+      {
+        "rank": 32,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -1853,7 +1866,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1866,7 +1879,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
@@ -1879,7 +1892,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -1892,7 +1905,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "SVC",
         "username": "LovelyJadeWombat",
         "displayName": "LovelyJadeWombat",
@@ -1905,7 +1918,7 @@
         "tier": "A"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -1918,7 +1931,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -1931,7 +1944,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1944,7 +1957,7 @@
         "tier": "A"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -1957,7 +1970,7 @@
         "tier": "A"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1970,6 +1983,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792253511842
+    "_syncedAt": 1792254948539
   }
 }

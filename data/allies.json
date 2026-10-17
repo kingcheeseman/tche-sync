@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 38,
+    "members": 37,
     "activePercent": 86,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2865,
+    "profileViews": 2866,
     "leagueTier": 11,
     "racers": [
       {
@@ -82,13 +82,13 @@
       {
         "username": "bf107343121ff6600d39564454f6d8e3",
         "displayName": "W1LD BOI 7k",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1792253317,
-        "allTimeRaces": 7072,
-        "wpm": 75,
+        "allTimeRaces": 7096,
+        "wpm": 77,
         "highestWPM": 100,
-        "teamRaces": 1,
-        "acc": 96.32,
+        "teamRaces": 19,
+        "acc": 96.62,
         "season": null,
         "status": "active",
         "lastLogin": 1792250736
@@ -190,20 +190,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792172201
-      },
-      {
-        "username": "f8f86a6435ccd5482bd5d1a3a4a5a136",
-        "displayName": "champion",
-        "role": "member",
-        "joinStamp": 1792133035,
-        "allTimeRaces": 328,
-        "wpm": 28,
-        "highestWPM": 33,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792120740
       },
       {
         "username": "687be2d1cef5ef13bb95c5f37d5bf8dd",
@@ -336,10 +322,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13661,
-        "wpm": 82,
+        "allTimeRaces": 13664,
+        "wpm": 81,
         "highestWPM": 111,
-        "teamRaces": 11452,
+        "teamRaces": 11456,
         "acc": 93.33,
         "season": null,
         "status": "active",
@@ -516,7 +502,7 @@
       {
         "username": "mazen_67",
         "displayName": "mazen_67",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1790698002,
         "allTimeRaces": 1324,
         "wpm": 26,
@@ -544,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76580,
+        "races": 76602,
         "avgWPM": 55,
-        "avgAcc": 93.55,
-        "members": 38
+        "avgAcc": 93.56,
+        "members": 37
       },
       "daily": {
-        "races": 282,
-        "avgWPM": 72,
-        "avgAcc": 92.09,
-        "members": 38
+        "races": 302,
+        "avgWPM": 73,
+        "avgAcc": 92.36,
+        "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792253516326
+    "_syncedAt": 1792254953122
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792253535617
+    "_syncedAt": 1792254972421
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792253554638
+    "_syncedAt": 1792254991515
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1307,7 +1293,7 @@
         "acc": 96.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792251795
+        "lastLogin": 1792254958
       },
       {
         "username": "83754c",
@@ -1370,10 +1356,10 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1316,
+        "allTimeRaces": 1317,
         "wpm": 65,
         "highestWPM": 78,
-        "teamRaces": 1003,
+        "teamRaces": 1011,
         "acc": 93.76,
         "season": null,
         "status": "active",
@@ -1956,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116056,
+        "races": 116064,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1003,
+        "races": 1009,
         "avgWPM": 70,
-        "avgAcc": 94.22,
+        "avgAcc": 94.23,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792253724311
+    "_syncedAt": 1792255161181
   }
 }

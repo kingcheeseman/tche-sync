@@ -9,10 +9,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "Leader 11k",
-        "races": 101,
-        "wpm": 80.6,
-        "accuracy": 89.05,
-        "points": 12618,
+        "races": 107,
+        "wpm": 80.7,
+        "accuracy": 89.09,
+        "points": 13379,
         "tier": "A"
       },
       {
@@ -394,6 +394,19 @@
       },
       {
         "rank": 31,
+        "tag": "KEYCAT",
+        "username": "W1LD BOI 7k",
+        "displayName": "W1LD BOI 7k",
+        "nickname": "I Love Cats",
+        "squad": null,
+        "races": 8,
+        "wpm": 79.6,
+        "accuracy": 96.45,
+        "points": 1079,
+        "tier": "A"
+      },
+      {
+        "rank": 32,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -406,7 +419,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -419,7 +432,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
@@ -432,7 +445,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -445,7 +458,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "SVC",
         "username": "LovelyJadeWombat",
         "displayName": "LovelyJadeWombat",
@@ -458,7 +471,7 @@
         "tier": "A"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -471,7 +484,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -484,7 +497,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -497,7 +510,7 @@
         "tier": "A"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -510,7 +523,7 @@
         "tier": "A"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -523,6 +536,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792253516136
+    "_syncedAt": 1792254952816
   }
 }
