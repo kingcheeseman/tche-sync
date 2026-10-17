@@ -18,6 +18,19 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "RIP",
+        "squad": "Starter Fund",
+        "races": 94,
+        "wpm": 78,
+        "accuracy": 92.31,
+        "points": 12061,
+        "tier": "C"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
@@ -29,7 +42,7 @@
         "tier": "A"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -42,7 +55,7 @@
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "SVC",
         "username": "s_e_r_i",
         "displayName": "s_e_r_i",
@@ -52,19 +65,6 @@
         "wpm": 62.4,
         "accuracy": 97.95,
         "points": 7710,
-        "tier": "C"
-      },
-      {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "RIP",
-        "squad": "Starter Fund",
-        "races": 58,
-        "wpm": 79.1,
-        "accuracy": 92.61,
-        "points": 7495,
         "tier": "C"
       },
       {
@@ -536,6 +536,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792265547882
+    "_syncedAt": 1792267187732
   }
 }

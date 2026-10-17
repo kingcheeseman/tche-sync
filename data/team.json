@@ -265,11 +265,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6172,
+      "allTimeRaces": 6200,
       "wpm": 76,
       "highestWPM": 102,
-      "teamRaces": 145,
-      "acc": 93,
+      "teamRaces": 169,
+      "acc": 92.91,
       "season": null,
       "status": "active",
       "lastLogin": 1792262934
@@ -342,7 +342,7 @@
       "acc": 96.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1792163756
+      "lastLogin": 1792266893
     },
     {
       "username": "wsoccerboy0929",
@@ -608,7 +608,7 @@
       "acc": 99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792239307
+      "lastLogin": 1792266013
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52844,
+      "races": 52868,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 178,
-      "avgWPM": 78,
-      "avgAcc": 92.9,
+      "races": 185,
+      "avgWPM": 77,
+      "avgAcc": 93.11,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792265458252
+  "_syncedAt": 1792267075437
 }
