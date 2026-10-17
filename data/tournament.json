@@ -31,9 +31,9 @@
           "players": [
             {
               "seed": "1",
-              "racer": "haleyyrose",
-              "teamTag": "KEYCAT",
-              "gold": true,
+              "racer": "viewmyvioletgarage",
+              "teamTag": "IMT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -383,9 +383,9 @@
           "players": [
             {
               "seed": "2",
-              "racer": "viewmyvioletgarage",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "haleyyrose",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -1446,11 +1446,24 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792224754561,
+  "_syncedAt": 1792226293920,
   "seeding": {
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "viewmyvioletgarage",
+        "displayName": "viewmyvioletgarage",
+        "nickname": "Titan",
+        "squad": "Entrepreneur 500",
+        "races": 74,
+        "wpm": 86.4,
+        "accuracy": 91.16,
+        "points": 9658,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -1461,19 +1474,6 @@
         "accuracy": 93.97,
         "points": 8401,
         "tier": "A"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "viewmyvioletgarage",
-        "displayName": "viewmyvioletgarage",
-        "nickname": "Titan",
-        "squad": "Entrepreneur 500",
-        "races": 64,
-        "wpm": 86.3,
-        "accuracy": 91.03,
-        "points": 8339,
-        "tier": "B"
       },
       {
         "rank": 3,
@@ -1931,6 +1931,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792224758635
+    "_syncedAt": 1792226297803
   }
 }

@@ -4,6 +4,19 @@
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "viewmyvioletgarage",
+        "displayName": "viewmyvioletgarage",
+        "nickname": "Titan",
+        "squad": "Entrepreneur 500",
+        "races": 74,
+        "wpm": 86.4,
+        "accuracy": 91.16,
+        "points": 9658,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -14,19 +27,6 @@
         "accuracy": 93.97,
         "points": 8401,
         "tier": "A"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "viewmyvioletgarage",
-        "displayName": "viewmyvioletgarage",
-        "nickname": "Titan",
-        "squad": "Entrepreneur 500",
-        "races": 64,
-        "wpm": 86.3,
-        "accuracy": 91.03,
-        "points": 8339,
-        "tier": "B"
       },
       {
         "rank": 3,
@@ -484,6 +484,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792224762647
+    "_syncedAt": 1792226301685
   }
 }

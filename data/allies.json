@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 415,
+        "races": 406,
         "avgWPM": 66,
-        "avgAcc": 91.71,
+        "avgAcc": 91.72,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792224762829
+    "_syncedAt": 1792226301844
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792224782080
+    "_syncedAt": 1792226320819
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792224801075
+    "_syncedAt": 1792226339509
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1807,11 +1807,11 @@
         "allTimeRaces": 4144,
         "wpm": 42,
         "highestWPM": 80,
-        "teamRaces": 1167,
+        "teamRaces": 1170,
         "acc": 94.17,
         "season": null,
         "status": "active",
-        "lastLogin": 1792221646
+        "lastLogin": 1792226197
       },
       {
         "username": "the1stpsycho",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115958,
+        "races": 115961,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1399,
+        "races": 1363,
         "avgWPM": 62,
-        "avgAcc": 92.45,
+        "avgAcc": 92.59,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792224970817
+    "_syncedAt": 1792226508648
   }
 }
