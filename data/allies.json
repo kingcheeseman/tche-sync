@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792198444525
+    "_syncedAt": 1792200308771
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 269,
-        "avgWPM": 77,
-        "avgAcc": 95.02,
+        "races": 268,
+        "avgWPM": 76,
+        "avgAcc": 95,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792198463498
+    "_syncedAt": 1792200328689
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792198482303
+    "_syncedAt": 1792200347552
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4113,
+    "profileViews": 4117,
     "leagueTier": 11,
     "racers": [
       {
@@ -1272,11 +1272,11 @@
         "displayName": "-Lifetime-",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 413,
-        "wpm": 95,
+        "allTimeRaces": 433,
+        "wpm": 94,
         "highestWPM": 112,
-        "teamRaces": 208,
-        "acc": 95.85,
+        "teamRaces": 225,
+        "acc": 95.86,
         "season": null,
         "status": "active",
         "lastLogin": 1792196295
@@ -1328,10 +1328,10 @@
         "displayName": "Joereynolds",
         "role": "member",
         "joinStamp": 1783518667,
-        "allTimeRaces": 11774,
-        "wpm": 95,
+        "allTimeRaces": 11793,
+        "wpm": 89,
         "highestWPM": 116,
-        "teamRaces": 4807,
+        "teamRaces": 4824,
         "acc": 92.38,
         "season": null,
         "status": "active",
@@ -1359,7 +1359,7 @@
         "allTimeRaces": 1283,
         "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 976,
+        "teamRaces": 977,
         "acc": 93.78,
         "season": null,
         "status": "active",
@@ -1517,7 +1517,7 @@
         "acc": 97.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1792196901
+        "lastLogin": 1792199623
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1762,10 +1762,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18368,
+        "allTimeRaces": 18377,
         "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 17908,
+        "teamRaces": 17917,
         "acc": 93.93,
         "season": null,
         "status": "active",
@@ -1776,25 +1776,25 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14431,
-        "wpm": 74,
+        "allTimeRaces": 14444,
+        "wpm": 72,
         "highestWPM": 96,
-        "teamRaces": 213,
-        "acc": 96.41,
+        "teamRaces": 217,
+        "acc": 96.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1791864747
+        "lastLogin": 1792199595
       },
       {
         "username": "clpz200",
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4104,
-        "wpm": 43,
+        "allTimeRaces": 4117,
+        "wpm": 46,
         "highestWPM": 80,
-        "teamRaces": 1121,
-        "acc": 94.22,
+        "teamRaces": 1143,
+        "acc": 94.19,
         "season": null,
         "status": "active",
         "lastLogin": 1792198106
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115543,
+        "races": 115613,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1265,
+        "races": 1316,
         "avgWPM": 58,
-        "avgAcc": 92.07,
+        "avgAcc": 92.13,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792198651747
+    "_syncedAt": 1792200517010
   }
 }
