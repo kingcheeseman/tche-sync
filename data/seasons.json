@@ -35,7 +35,7 @@
           "ppr": 130
         },
         {
-          "rank": 439,
+          "rank": 440,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 888,
@@ -105,7 +105,7 @@
           "ppr": 136
         },
         {
-          "rank": 901,
+          "rank": 903,
           "username": "f12e19599957d9c65c8d7609af78698d",
           "displayName": "Nosferatu",
           "races": 482,
@@ -195,7 +195,7 @@
           "ppr": 123
         },
         {
-          "rank": 1630,
+          "rank": 1631,
           "username": "e146afef38fb68bbc69f405b9a1ca1bb",
           "displayName": "supermom",
           "races": 135,
@@ -205,7 +205,7 @@
           "ppr": 133
         },
         {
-          "rank": 1639,
+          "rank": 1640,
           "username": "falconsteve2",
           "displayName": "falconsteve2",
           "races": 132,
@@ -215,7 +215,17 @@
           "ppr": 135
         },
         {
-          "rank": 1778,
+          "rank": 1665,
+          "username": "kirbydelta",
+          "displayName": "KirbyDelta",
+          "races": 133,
+          "accuracy": 92.51,
+          "wpm": 78.7,
+          "points": 17144,
+          "ppr": 129
+        },
+        {
+          "rank": 1779,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 122,
@@ -225,7 +235,7 @@
           "ppr": 116
         },
         {
-          "rank": 1780,
+          "rank": 1781,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 106,
@@ -235,7 +245,7 @@
           "ppr": 134
         },
         {
-          "rank": 1813,
+          "rank": 1814,
           "username": "e75ed7d5fdcb2f93c69fe3db91769503",
           "displayName": "Jeongtae Seo",
           "races": 99,
@@ -245,7 +255,7 @@
           "ppr": 138
         },
         {
-          "rank": 1848,
+          "rank": 1849,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 90,
@@ -253,16 +263,6 @@
           "wpm": 101,
           "points": 13014,
           "ppr": 145
-        },
-        {
-          "rank": 1855,
-          "username": "kirbydelta",
-          "displayName": "KirbyDelta",
-          "races": 100,
-          "accuracy": 92.62,
-          "wpm": 77.8,
-          "points": 12865,
-          "ppr": 129
         },
         {
           "rank": 1860,
@@ -286,12 +286,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792263889131
+      "_syncedAt": 1792265498479
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792263889131
+  "_syncedAt": 1792265498479
 }

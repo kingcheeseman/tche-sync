@@ -119,8 +119,8 @@
           "players": [
             {
               "seed": "8",
-              "racer": "alexaaa",
-              "teamTag": "SVC",
+              "racer": "WindMaker",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -163,8 +163,8 @@
           "players": [
             {
               "seed": "9",
-              "racer": "Unknown",
-              "teamTag": "IMT",
+              "racer": "alexaaa",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -251,7 +251,7 @@
           "players": [
             {
               "seed": "13",
-              "racer": "Void Racer",
+              "racer": "Noah0821",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -295,8 +295,8 @@
           "players": [
             {
               "seed": "5",
-              "racer": "W1LD BOI 7k",
-              "teamTag": "KEYCAT",
+              "racer": "KirbyDelta",
+              "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
               "score": null
@@ -339,7 +339,7 @@
           "players": [
             {
               "seed": "12",
-              "racer": "Noah0821",
+              "racer": "t_unknown",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -427,7 +427,7 @@
           "players": [
             {
               "seed": "15",
-              "racer": "KirbyDelta",
+              "racer": "- 9te -",
               "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
@@ -471,9 +471,9 @@
           "players": [
             {
               "seed": "7",
-              "racer": "WindMaker",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "Natuski",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -515,8 +515,8 @@
           "players": [
             {
               "seed": "10",
-              "racer": "Javier Mendez",
-              "teamTag": "SVC",
+              "racer": "Unknown",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -603,9 +603,9 @@
           "players": [
             {
               "seed": "14",
-              "racer": "- 9te -",
+              "racer": "Void Racer",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -647,7 +647,7 @@
           "players": [
             {
               "seed": "6",
-              "racer": "Natuski",
+              "racer": "W1LD BOI 7k",
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
@@ -691,8 +691,8 @@
           "players": [
             {
               "seed": "11",
-              "racer": "t_unknown",
-              "teamTag": "IMT",
+              "racer": "Javier Mendez",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792263923165,
+  "_syncedAt": 1792265539817,
   "seeding": {
     "racers": [
       {
@@ -1503,6 +1503,19 @@
       },
       {
         "rank": 5,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "RIP",
+        "squad": "Starter Fund",
+        "races": 58,
+        "wpm": 79.1,
+        "accuracy": 92.61,
+        "points": 7495,
+        "tier": "C"
+      },
+      {
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "W1LD BOI 7k",
         "displayName": "W1LD BOI 7k",
@@ -1515,7 +1528,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -1528,7 +1541,7 @@
         "tier": "B"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -1541,7 +1554,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -1554,7 +1567,7 @@
         "tier": "B"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -1567,7 +1580,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "SVC",
         "username": "Javier Mendez",
         "displayName": "Javier Mendez",
@@ -1580,7 +1593,7 @@
         "tier": "B"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -1593,7 +1606,7 @@
         "tier": "B"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -1606,7 +1619,7 @@
         "tier": "C"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -1619,7 +1632,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -1629,19 +1642,6 @@
         "wpm": 80.3,
         "accuracy": 88.49,
         "points": 3225,
-        "tier": "B"
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "RIP",
-        "squad": "Starter Fund",
-        "races": 25,
-        "wpm": 76.1,
-        "accuracy": 93.2,
-        "points": 3217,
         "tier": "B"
       },
       {
@@ -1983,6 +1983,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792263927988
+    "_syncedAt": 1792265543872
   }
 }

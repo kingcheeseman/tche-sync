@@ -265,11 +265,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6143,
-      "wpm": 84,
+      "allTimeRaces": 6172,
+      "wpm": 76,
       "highestWPM": 102,
-      "teamRaces": 113,
-      "acc": 93.13,
+      "teamRaces": 145,
+      "acc": 93,
       "season": null,
       "status": "active",
       "lastLogin": 1792262934
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52812,
+      "races": 52844,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 207,
+      "races": 178,
       "avgWPM": 78,
-      "avgAcc": 92.84,
+      "avgAcc": 92.9,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792263852585
+  "_syncedAt": 1792265458252
 }
