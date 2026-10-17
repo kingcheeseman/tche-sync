@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 140,
+      "rank": 143,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 101,
@@ -11,7 +11,7 @@
       "ppr": 131
     },
     {
-      "rank": 280,
+      "rank": 286,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 48,
@@ -21,7 +21,7 @@
       "ppr": 145
     },
     {
-      "rank": 332,
+      "rank": 336,
       "username": "cash4087",
       "displayName": "WindMaker",
       "races": 40,
@@ -31,17 +31,7 @@
       "ppr": 145
     },
     {
-      "rank": 413,
-      "username": "47f3f60e491637ed70f8ada27ed45f03",
-      "displayName": "- 9te -",
-      "races": 36,
-      "accuracy": 87.82,
-      "wpm": 77.4,
-      "points": 4386,
-      "ppr": 122
-    },
-    {
-      "rank": 450,
+      "rank": 452,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 30,
@@ -51,7 +41,7 @@
       "ppr": 133
     },
     {
-      "rank": 462,
+      "rank": 465,
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "races": 31,
@@ -61,7 +51,7 @@
       "ppr": 124
     },
     {
-      "rank": 469,
+      "rank": 472,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 28,
@@ -71,7 +61,7 @@
       "ppr": 135
     },
     {
-      "rank": 485,
+      "rank": 490,
       "username": "susstalkerman",
       "displayName": "TikTok lil_shot13",
       "races": 29,
@@ -81,7 +71,7 @@
       "ppr": 123
     },
     {
-      "rank": 486,
+      "rank": 491,
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "races": 24,
@@ -91,7 +81,7 @@
       "ppr": 148
     },
     {
-      "rank": 592,
+      "rank": 595,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 18,
@@ -101,7 +91,7 @@
       "ppr": 141
     },
     {
-      "rank": 602,
+      "rank": 605,
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
       "displayName": "Victoria Ram",
       "races": 18,
@@ -111,7 +101,7 @@
       "ppr": 137
     },
     {
-      "rank": 612,
+      "rank": 615,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "races": 17,
@@ -121,7 +111,17 @@
       "ppr": 141
     },
     {
-      "rank": 772,
+      "rank": 657,
+      "username": "47f3f60e491637ed70f8ada27ed45f03",
+      "displayName": "- 9te -",
+      "races": 17,
+      "accuracy": 87.74,
+      "wpm": 79.7,
+      "points": 2086,
+      "ppr": 123
+    },
+    {
+      "rank": 773,
       "username": "33e83773380949c7f2fd34d850d93d34",
       "displayName": "KippKat",
       "races": 10,
@@ -131,7 +131,7 @@
       "ppr": 134
     },
     {
-      "rank": 779,
+      "rank": 780,
       "username": "imenishat",
       "displayName": "Not_Ime",
       "races": 10,
@@ -141,7 +141,7 @@
       "ppr": 127
     },
     {
-      "rank": 815,
+      "rank": 816,
       "username": "1ea0b919208e21b376a29ac0befb794c",
       "displayName": "StefanO",
       "races": 8,
@@ -151,7 +151,7 @@
       "ppr": 124
     },
     {
-      "rank": 830,
+      "rank": 831,
       "username": "sterling757",
       "displayName": "sterling757",
       "races": 7,
@@ -161,7 +161,7 @@
       "ppr": 132
     },
     {
-      "rank": 887,
+      "rank": 886,
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
       "displayName": "IM A BOT OK, TRUST",
       "races": 5,
@@ -171,7 +171,7 @@
       "ppr": 122
     },
     {
-      "rank": 905,
+      "rank": 904,
       "username": "f12e19599957d9c65c8d7609af78698d",
       "displayName": "Nosferatu",
       "races": 5,
@@ -181,7 +181,7 @@
       "ppr": 110
     },
     {
-      "rank": 962,
+      "rank": 961,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 3,
@@ -191,7 +191,7 @@
       "ppr": 97
     },
     {
-      "rank": 1022,
+      "rank": 1020,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -201,7 +201,7 @@
       "ppr": 132
     },
     {
-      "rank": 1026,
+      "rank": 1024,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 1,
@@ -211,5 +211,5 @@
       "ppr": 129
     }
   ],
-  "_syncedAt": 1792205708689
+  "_syncedAt": 1792206980944
 }

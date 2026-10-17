@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792205730853
+    "_syncedAt": 1792207002975
   },
   "SVC": {
     "tag": "SVC",
@@ -722,7 +722,7 @@
         "acc": 97.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1792185244
+        "lastLogin": 1792206440
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792205750281
+    "_syncedAt": 1792207022264
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,12 +1255,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792205775216
+    "_syncedAt": 1792207041283
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 49,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
@@ -1300,11 +1300,11 @@
         "displayName": "C L A Y",
         "role": "officer",
         "joinStamp": 1791125619,
-        "allTimeRaces": 48615,
-        "wpm": 111,
+        "allTimeRaces": 48617,
+        "wpm": 109,
         "highestWPM": 136,
-        "teamRaces": 574,
-        "acc": 94.07,
+        "teamRaces": 577,
+        "acc": 94.08,
         "season": null,
         "status": "active",
         "lastLogin": 1792201861
@@ -1814,20 +1814,6 @@
         "lastLogin": 1792198106
       },
       {
-        "username": "3360345cdae6a05f049d72318df338a9",
-        "displayName": "Vstarz_OG THEB0SS",
-        "role": "member",
-        "joinStamp": 1792028655,
-        "allTimeRaces": 657,
-        "wpm": 63,
-        "highestWPM": 79,
-        "teamRaces": 343,
-        "acc": 92.82,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792028470
-      },
-      {
         "username": "the1stpsycho",
         "displayName": "the1stpsycho",
         "role": "member",
@@ -1970,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115801,
+        "races": 115804,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 50
+        "members": 49
       },
       "daily": {
-        "races": 1425,
-        "avgWPM": 60,
-        "avgAcc": 92.23,
-        "members": 50
+        "races": 1401,
+        "avgWPM": 61,
+        "avgAcc": 92.22,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792205944705
+    "_syncedAt": 1792207210974
   }
 }
