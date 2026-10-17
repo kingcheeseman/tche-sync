@@ -53,17 +53,17 @@
           "players": [
             {
               "seed": "32",
-              "racer": "PootsyWafflebiscuits",
-              "teamTag": "IMT",
-              "gold": true,
+              "racer": "RALSEI",
+              "teamTag": "KEYCAT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "33",
-              "racer": "StefanO",
+              "racer": "PootsyWafflebiscuits",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -141,7 +141,7 @@
           "players": [
             {
               "seed": "25",
-              "racer": "gokuglazernumber1",
+              "racer": "emmett",
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
@@ -149,7 +149,7 @@
             },
             {
               "seed": "40",
-              "racer": "insta _trewatkins",
+              "racer": "Nitrex",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -193,8 +193,8 @@
             },
             {
               "seed": "41",
-              "racer": "viperr",
-              "teamTag": "SVC",
+              "racer": "insta _trewatkins",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -229,15 +229,15 @@
           "players": [
             {
               "seed": "29",
-              "racer": "KippKat",
-              "teamTag": "IMT",
+              "racer": "TerrificPurpleSalamander",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "36",
-              "racer": "sterling757",
+              "racer": "IM A BOT OK, TRUST",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -317,17 +317,17 @@
           "players": [
             {
               "seed": "28",
-              "racer": "TerrificPurpleSalamander",
-              "teamTag": "KEYCAT",
+              "racer": "LeoRuna",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "37",
-              "racer": "me_likey_typey",
+              "racer": "sterling757",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             }
@@ -405,16 +405,16 @@
           "players": [
             {
               "seed": "31",
-              "racer": "RALSEI",
-              "teamTag": "KEYCAT",
+              "racer": "Not_Ime",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "34",
-              "racer": "akiraaa",
-              "teamTag": "KEYCAT",
+              "racer": "StefanO",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -493,17 +493,17 @@
           "players": [
             {
               "seed": "26",
-              "racer": "mazen_67",
-              "teamTag": "KEYCAT",
+              "racer": "gokuglazernumber1",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "39",
-              "racer": "Nitrex",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "River Star",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -545,10 +545,10 @@
             },
             {
               "seed": "42",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -581,7 +581,7 @@
           "players": [
             {
               "seed": "30",
-              "racer": "Not_Ime",
+              "racer": "KippKat",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -589,8 +589,8 @@
             },
             {
               "seed": "35",
-              "racer": "IM A BOT OK, TRUST",
-              "teamTag": "IMT",
+              "racer": "akiraaa",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -669,16 +669,16 @@
           "players": [
             {
               "seed": "27",
-              "racer": "LeoRuna",
-              "teamTag": "IMT",
+              "racer": "mazen_67",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "38",
-              "racer": "River Star",
-              "teamTag": "KEYCAT",
+              "racer": "me_likey_typey",
+              "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792275504169,
+  "_syncedAt": 1792277215969,
   "seeding": {
     "racers": [
       {
@@ -1764,6 +1764,19 @@
       {
         "rank": 25,
         "tag": "SVC",
+        "username": "emmett",
+        "displayName": "emmett",
+        "nickname": "Astronaut",
+        "squad": "Member",
+        "races": 15,
+        "wpm": 79.6,
+        "accuracy": 94.29,
+        "points": 1977,
+        "tier": "B"
+      },
+      {
+        "rank": 26,
+        "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
         "nickname": "Ultimate Racer",
@@ -1775,7 +1788,7 @@
         "tier": "B"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "mazen_67",
         "displayName": "mazen_67",
@@ -1788,7 +1801,7 @@
         "tier": "C"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "LeoRuna",
         "displayName": "LeoRuna",
@@ -1801,7 +1814,7 @@
         "tier": "C"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "KEYCAT",
         "username": "TerrificPurpleSalamander",
         "displayName": "TerrificPurpleSalamander",
@@ -1814,7 +1827,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "IMT",
         "username": "KippKat",
         "displayName": "KippKat",
@@ -1827,7 +1840,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "Not_Ime",
         "displayName": "Not_Ime",
@@ -1840,7 +1853,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "RALSEI",
         "displayName": "RALSEI",
@@ -1853,7 +1866,7 @@
         "tier": "B"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -1866,7 +1879,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -1879,7 +1892,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1892,7 +1905,7 @@
         "tier": "A"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
@@ -1905,7 +1918,7 @@
         "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -1918,7 +1931,7 @@
         "tier": "B"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -1931,7 +1944,7 @@
         "tier": "C"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -1944,7 +1957,7 @@
         "tier": "A"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1957,7 +1970,7 @@
         "tier": "A"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -1970,7 +1983,7 @@
         "tier": "A"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1983,6 +1996,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792275508152
+    "_syncedAt": 1792277220551
   }
 }
