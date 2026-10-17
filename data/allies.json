@@ -252,14 +252,14 @@
         "displayName": "River Star",
         "role": "member",
         "joinStamp": 1791574960,
-        "allTimeRaces": 15846,
+        "allTimeRaces": 15847,
         "wpm": 84,
         "highestWPM": 116,
-        "teamRaces": 25,
-        "acc": 92.79,
+        "teamRaces": 26,
+        "acc": 92.9,
         "season": null,
         "status": "active",
-        "lastLogin": 1791676669
+        "lastLogin": 1792248181
       },
       {
         "username": "ahhh2014",
@@ -322,14 +322,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13615,
-        "wpm": 82,
+        "allTimeRaces": 13617,
+        "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 11407,
+        "teamRaces": 11408,
         "acc": 93.35,
         "season": null,
         "status": "active",
-        "lastLogin": 1792238522
+        "lastLogin": 1792248221
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76521,
+        "races": 76523,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 252,
+        "races": 249,
         "avgWPM": 71,
-        "avgAcc": 92.65,
+        "avgAcc": 92.59,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792247718603
+    "_syncedAt": 1792249286171
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 165,
-        "avgWPM": 74,
+        "races": 151,
+        "avgWPM": 73,
         "avgAcc": 94.52,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792247737993
+    "_syncedAt": 1792249305480
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,16 +1255,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792247756826
+    "_syncedAt": 1792249324610
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 49,
+    "members": 48,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4129,
+    "profileViews": 4130,
     "leagueTier": 11,
     "racers": [
       {
@@ -1356,14 +1356,14 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1283,
-        "wpm": 60,
+        "allTimeRaces": 1296,
+        "wpm": 55,
         "highestWPM": 78,
-        "teamRaces": 977,
-        "acc": 93.78,
+        "teamRaces": 987,
+        "acc": 93.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792205189
+        "lastLogin": 1792248653
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1510,11 +1510,11 @@
         "displayName": "Griefed",
         "role": "member",
         "joinStamp": 1791208329,
-        "allTimeRaces": 1284,
-        "wpm": 100,
+        "allTimeRaces": 1287,
+        "wpm": 99,
         "highestWPM": 130,
-        "teamRaces": 327,
-        "acc": 97.32,
+        "teamRaces": 330,
+        "acc": 97.34,
         "season": null,
         "status": "active",
         "lastLogin": 1792244533
@@ -1884,20 +1884,6 @@
         "lastLogin": 1792246237
       },
       {
-        "username": "rk7474",
-        "displayName": "rk7474",
-        "role": "member",
-        "joinStamp": 1791761571,
-        "allTimeRaces": 2910,
-        "wpm": 59,
-        "highestWPM": 72,
-        "teamRaces": 524,
-        "acc": 92.26,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792246685
-      },
-      {
         "username": "0318707fd204ad574af9ce2082a4df86",
         "displayName": "dark type",
         "role": "member",
@@ -1956,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116000,
+        "races": 116027,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 49
+        "members": 48
       },
       "daily": {
-        "races": 979,
+        "races": 1006,
         "avgWPM": 70,
-        "avgAcc": 94.17,
-        "members": 49
+        "avgAcc": 94.13,
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792247926353
+    "_syncedAt": 1792249494376
   }
 }
