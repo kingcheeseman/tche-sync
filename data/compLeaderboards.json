@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Developing 500",
+        "races": 35,
+        "wpm": 60.7,
+        "accuracy": 89.17,
+        "points": 4069,
+        "tier": "B"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -120,7 +133,7 @@
         "tier": "B"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -133,7 +146,7 @@
         "tier": "C"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -146,7 +159,7 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -156,19 +169,6 @@
         "wpm": 80.3,
         "accuracy": 88.49,
         "points": 3225,
-        "tier": "B"
-      },
-      {
-        "rank": 13,
-        "tag": "KEYCAT",
-        "username": "Natuski",
-        "displayName": "Natuski",
-        "nickname": "I Love Cats",
-        "squad": "Developing 500",
-        "races": 27,
-        "wpm": 63.2,
-        "accuracy": 89.08,
-        "points": 3166,
         "tier": "B"
       },
       {
@@ -484,6 +484,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792236881232
+    "_syncedAt": 1792238450840
   }
 }
