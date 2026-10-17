@@ -329,7 +329,7 @@
         "acc": 93.35,
         "season": null,
         "status": "active",
-        "lastLogin": 1792177360
+        "lastLogin": 1792238522
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 344,
+        "races": 323,
         "avgWPM": 70,
-        "avgAcc": 92.07,
+        "avgAcc": 92.21,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792238450964
+    "_syncedAt": 1792239709021
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792238469646
+    "_syncedAt": 1792239728062
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792238488329
+    "_syncedAt": 1792239746808
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1762,11 +1762,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3208,
-        "wpm": 39,
+        "allTimeRaces": 3217,
+        "wpm": 40,
         "highestWPM": 60,
-        "teamRaces": 1734,
-        "acc": 92.12,
+        "teamRaces": 1745,
+        "acc": 92.13,
         "season": null,
         "status": "active",
         "lastLogin": 1792237743
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115971,
+        "races": 115982,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1152,
+        "races": 1142,
         "avgWPM": 66,
-        "avgAcc": 93.36,
+        "avgAcc": 93.47,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792238657608
+    "_syncedAt": 1792239916180
   }
 }
