@@ -2,7 +2,7 @@
   "tag": "IMT",
   "name": "Immortals III",
   "members": 48,
-  "activePercent": 85,
+  "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
   "profileViews": 1893,
@@ -125,14 +125,14 @@
       "displayName": "LeoRuna",
       "role": "member",
       "joinStamp": 1783524162,
-      "allTimeRaces": 7936,
-      "wpm": 74,
+      "allTimeRaces": 7949,
+      "wpm": 68,
       "highestWPM": 107,
-      "teamRaces": 456,
-      "acc": 97.56,
+      "teamRaces": 469,
+      "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1792085086
+      "lastLogin": 1792210126
     },
     {
       "username": "1ea0b919208e21b376a29ac0befb794c",
@@ -293,11 +293,11 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 1985,
+      "allTimeRaces": 1993,
       "wpm": 80,
       "highestWPM": 104,
-      "teamRaces": 525,
-      "acc": 90.56,
+      "teamRaces": 538,
+      "acc": 90.54,
       "season": null,
       "status": "active",
       "lastLogin": 1792209847
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52725,
+      "races": 52751,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 528,
+      "races": 554,
       "avgWPM": 81,
-      "avgAcc": 94.9,
+      "avgAcc": 94.83,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792210115637
+  "_syncedAt": 1792211743922
 }

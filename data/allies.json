@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 37,
-    "activePercent": 91,
+    "activePercent": 86,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2861,
@@ -238,14 +238,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1912,
-        "wpm": 65,
+        "allTimeRaces": 1917,
+        "wpm": 63,
         "highestWPM": 90,
-        "teamRaces": 867,
-        "acc": 90.41,
+        "teamRaces": 872,
+        "acc": 90.42,
         "season": null,
         "status": "active",
-        "lastLogin": 1792202243
+        "lastLogin": 1792210207
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -530,27 +530,27 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76508,
+        "races": 76513,
         "avgWPM": 55,
         "avgAcc": 93.56,
         "members": 37
       },
       "daily": {
-        "races": 433,
+        "races": 438,
         "avgWPM": 64,
-        "avgAcc": 91.69,
+        "avgAcc": 91.68,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792210187958
+    "_syncedAt": 1792211827873
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 45,
-    "activePercent": 57,
+    "activePercent": 55,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 1994,
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792210206871
+    "_syncedAt": 1792211846793
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792210227542
+    "_syncedAt": 1792211865594
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4122,
+    "profileViews": 4124,
     "leagueTier": 11,
     "racers": [
       {
@@ -1307,7 +1307,7 @@
         "acc": 94.1,
         "season": null,
         "status": "active",
-        "lastLogin": 1792207352
+        "lastLogin": 1792211908
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1482,14 +1482,14 @@
         "displayName": "RidiculousJadeMinnow",
         "role": "officer",
         "joinStamp": 1790290231,
-        "allTimeRaces": 15474,
-        "wpm": 98,
+        "allTimeRaces": 15491,
+        "wpm": 101,
         "highestWPM": 123,
-        "teamRaces": 2647,
+        "teamRaces": 2664,
         "acc": 95.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792201780
+        "lastLogin": 1792210482
       },
       {
         "username": "357c8fc32cb944f8e40658072528233c",
@@ -1790,14 +1790,14 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14491,
-        "wpm": 67,
+        "allTimeRaces": 14515,
+        "wpm": 73,
         "highestWPM": 96,
-        "teamRaces": 273,
-        "acc": 96.19,
+        "teamRaces": 297,
+        "acc": 96.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1792199595
+        "lastLogin": 1792210665
       },
       {
         "username": "clpz200",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115848,
+        "races": 115889,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1370,
-        "avgWPM": 61,
-        "avgAcc": 92.22,
+        "races": 1378,
+        "avgWPM": 62,
+        "avgAcc": 92.32,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792210396921
+    "_syncedAt": 1792212035020
   }
 }
