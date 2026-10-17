@@ -5,7 +5,7 @@
       "label": "Nitro City (9/13/2026 – 10/18/2026)",
       "racers": [
         {
-          "rank": 122,
+          "rank": 123,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
           "races": 2615,
@@ -105,7 +105,7 @@
           "ppr": 136
         },
         {
-          "rank": 897,
+          "rank": 898,
           "username": "f12e19599957d9c65c8d7609af78698d",
           "displayName": "Nosferatu",
           "races": 482,
@@ -115,7 +115,7 @@
           "ppr": 116
         },
         {
-          "rank": 925,
+          "rank": 926,
           "username": "5b7204df5a2e2c2bd6d6088673206b01",
           "displayName": "disgratedboy191",
           "races": 426,
@@ -275,23 +275,23 @@
           "ppr": 112
         },
         {
-          "rank": 1951,
+          "rank": 1912,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
-          "races": 88,
+          "races": 92,
           "accuracy": 92.47,
-          "wpm": 77.9,
-          "points": 11305,
+          "wpm": 77.7,
+          "points": 11810,
           "ppr": 128
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792249244171
+      "_syncedAt": 1792250380486
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792249244171
+  "_syncedAt": 1792250380486
 }
