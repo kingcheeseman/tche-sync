@@ -161,6 +161,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Investor 1k",
+        "races": 31,
+        "wpm": 91.2,
+        "accuracy": 92.66,
+        "points": 4182,
+        "tier": "A"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
         "nickname": "Original Gangster",
@@ -170,19 +183,6 @@
         "accuracy": 94.73,
         "points": 3979,
         "tier": "B"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "The Smasher",
-        "squad": "Investor 1k",
-        "races": 28,
-        "wpm": 91.9,
-        "accuracy": 92.62,
-        "points": 3785,
-        "tier": "A"
       },
       {
         "rank": 15,
@@ -459,6 +459,19 @@
       },
       {
         "rank": 36,
+        "tag": "KEYCAT",
+        "username": "Jamusisthebestever",
+        "displayName": "Jamusisthebestever",
+        "nickname": "I Hate Words",
+        "squad": "Beginner 100",
+        "races": 6,
+        "wpm": 47,
+        "accuracy": 93.15,
+        "points": 690,
+        "tier": "C"
+      },
+      {
+        "rank": 37,
         "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
@@ -471,7 +484,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -484,7 +497,7 @@
         "tier": "B"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -497,7 +510,20 @@
         "tier": "C"
       },
       {
-        "rank": 39,
+        "rank": 40,
+        "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 2,
+        "wpm": 89.3,
+        "accuracy": 91.29,
+        "points": 264,
+        "tier": "A"
+      },
+      {
+        "rank": 41,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -510,20 +536,7 @@
         "tier": "A"
       },
       {
-        "rank": 40,
-        "tag": "IMT",
-        "username": "Nitrex",
-        "displayName": "Nitrex",
-        "nickname": "404 Not Found",
-        "squad": "Starter Fund",
-        "races": 1,
-        "wpm": 90.2,
-        "accuracy": 91.13,
-        "points": 132,
-        "tier": "A"
-      },
-      {
-        "rank": 41,
+        "rank": 42,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -536,7 +549,7 @@
         "tier": "A"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -549,6 +562,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792279855648
+    "_syncedAt": 1792280888070
   }
 }

@@ -87,8 +87,8 @@
         "allTimeRaces": 7128,
         "wpm": 83,
         "highestWPM": 100,
-        "teamRaces": 57,
-        "acc": 96.36,
+        "teamRaces": 58,
+        "acc": 96.32,
         "season": null,
         "status": "active",
         "lastLogin": 1792279789
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76710,
+        "races": 76711,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 37
       },
       "daily": {
-        "races": 202,
+        "races": 203,
         "avgWPM": 74,
-        "avgAcc": 91.95,
+        "avgAcc": 91.96,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792279855825
+    "_syncedAt": 1792280888249
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792279874859
+    "_syncedAt": 1792280907299
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792279893778
+    "_syncedAt": 1792280926117
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4142,
+    "profileViews": 4144,
     "leagueTier": 11,
     "racers": [
       {
@@ -1272,11 +1272,11 @@
         "displayName": "-Lifetime-",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 466,
+        "allTimeRaces": 476,
         "wpm": 93,
         "highestWPM": 112,
-        "teamRaces": 263,
-        "acc": 95.83,
+        "teamRaces": 275,
+        "acc": 95.88,
         "season": null,
         "status": "active",
         "lastLogin": 1792276388
@@ -1482,10 +1482,10 @@
         "displayName": "RidiculousJadeMinnow",
         "role": "officer",
         "joinStamp": 1790290231,
-        "allTimeRaces": 15545,
-        "wpm": 98,
+        "allTimeRaces": 15548,
+        "wpm": 99,
         "highestWPM": 123,
-        "teamRaces": 2716,
+        "teamRaces": 2721,
         "acc": 95.09,
         "season": null,
         "status": "active",
@@ -1510,14 +1510,14 @@
         "displayName": "Griefed",
         "role": "member",
         "joinStamp": 1791208329,
-        "allTimeRaces": 1290,
-        "wpm": 98,
+        "allTimeRaces": 1293,
+        "wpm": 99,
         "highestWPM": 130,
-        "teamRaces": 333,
-        "acc": 97.35,
+        "teamRaces": 336,
+        "acc": 97.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792276169
+        "lastLogin": 1792280258
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1942,13 +1942,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116430,
+        "races": 116450,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1077,
+        "races": 1071,
         "avgWPM": 72,
         "avgAcc": 94.25,
         "members": 48
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792280063339
+    "_syncedAt": 1792281095203
   }
 }
