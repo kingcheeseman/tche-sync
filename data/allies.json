@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792221431918
+    "_syncedAt": 1792223558680
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792221451246
+    "_syncedAt": 1792223577481
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792221470327
+    "_syncedAt": 1792223596462
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1762,10 +1762,10 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3190,
-        "wpm": 37,
+        "allTimeRaces": 3197,
+        "wpm": 38,
         "highestWPM": 60,
-        "teamRaces": 1719,
+        "teamRaces": 1727,
         "acc": 92.11,
         "season": null,
         "status": "active",
@@ -1804,14 +1804,14 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4117,
-        "wpm": 46,
+        "allTimeRaces": 4140,
+        "wpm": 43,
         "highestWPM": 80,
-        "teamRaces": 1143,
-        "acc": 94.19,
+        "teamRaces": 1159,
+        "acc": 94.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1792198106
+        "lastLogin": 1792221646
       },
       {
         "username": "the1stpsycho",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115926,
+        "races": 115950,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1415,
+        "races": 1419,
         "avgWPM": 62,
-        "avgAcc": 92.33,
+        "avgAcc": 92.37,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792221640126
+    "_syncedAt": 1792223765954
   }
 }
