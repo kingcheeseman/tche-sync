@@ -237,10 +237,10 @@
             },
             {
               "seed": "36",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -413,7 +413,7 @@
             },
             {
               "seed": "34",
-              "racer": "insta _trewatkins",
+              "racer": "Nitrex",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -589,8 +589,8 @@
             },
             {
               "seed": "35",
-              "racer": "viperr",
-              "teamTag": "SVC",
+              "racer": "insta _trewatkins",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792196093270,
+  "_syncedAt": 1792198436528,
   "seeding": {
     "racers": [
       {
@@ -1881,6 +1881,19 @@
       {
         "rank": 34,
         "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 90.2,
+        "accuracy": 91.13,
+        "points": 132,
+        "tier": "A"
+      },
+      {
+        "rank": 35,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -1892,7 +1905,7 @@
         "tier": "A"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1905,6 +1918,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792196097382
+    "_syncedAt": 1792198440431
   }
 }

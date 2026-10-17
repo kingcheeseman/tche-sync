@@ -434,6 +434,19 @@
       {
         "rank": 34,
         "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 90.2,
+        "accuracy": 91.13,
+        "points": 132,
+        "tier": "A"
+      },
+      {
+        "rank": 35,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -445,7 +458,7 @@
         "tier": "A"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -458,6 +471,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792196101412
+    "_syncedAt": 1792198444355
   }
 }

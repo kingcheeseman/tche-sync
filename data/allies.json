@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792196101599
+    "_syncedAt": 1792198444525
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792196121701
+    "_syncedAt": 1792198463498
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792196140488
+    "_syncedAt": 1792198482303
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4108,
+    "profileViews": 4113,
     "leagueTier": 11,
     "racers": [
       {
@@ -1272,11 +1272,11 @@
         "displayName": "-Lifetime-",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 400,
-        "wpm": 90,
+        "allTimeRaces": 413,
+        "wpm": 95,
         "highestWPM": 112,
-        "teamRaces": 200,
-        "acc": 95.87,
+        "teamRaces": 208,
+        "acc": 95.85,
         "season": null,
         "status": "active",
         "lastLogin": 1792196295
@@ -1307,7 +1307,7 @@
         "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1792125782
+        "lastLogin": 1792197938
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1328,14 +1328,14 @@
         "displayName": "Joereynolds",
         "role": "member",
         "joinStamp": 1783518667,
-        "allTimeRaces": 11735,
-        "wpm": 83,
+        "allTimeRaces": 11774,
+        "wpm": 95,
         "highestWPM": 116,
-        "teamRaces": 4774,
-        "acc": 92.4,
+        "teamRaces": 4807,
+        "acc": 92.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1792166053
+        "lastLogin": 1792196398
       },
       {
         "username": "frareynolds",
@@ -1356,14 +1356,14 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1261,
-        "wpm": 59,
+        "allTimeRaces": 1283,
+        "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 955,
+        "teamRaces": 976,
         "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1792182571
+        "lastLogin": 1792196797
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1513,11 +1513,11 @@
         "allTimeRaces": 1280,
         "wpm": 101,
         "highestWPM": 130,
-        "teamRaces": 314,
-        "acc": 97.26,
+        "teamRaces": 323,
+        "acc": 97.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1792193851
+        "lastLogin": 1792196901
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1748,11 +1748,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3130,
-        "wpm": 40,
+        "allTimeRaces": 3152,
+        "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1648,
-        "acc": 92.1,
+        "teamRaces": 1682,
+        "acc": 92.09,
         "season": null,
         "status": "active",
         "lastLogin": 1792193077
@@ -1769,7 +1769,7 @@
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792191162
+        "lastLogin": 1792198313
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1790,14 +1790,14 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4095,
+        "allTimeRaces": 4104,
         "wpm": 43,
         "highestWPM": 80,
         "teamRaces": 1121,
         "acc": 94.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1792115921
+        "lastLogin": 1792198106
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1891,8 +1891,8 @@
         "allTimeRaces": 2890,
         "wpm": 54,
         "highestWPM": 72,
-        "teamRaces": 510,
-        "acc": 92.32,
+        "teamRaces": 512,
+        "acc": 92.31,
         "season": null,
         "status": "active",
         "lastLogin": 1792195796
@@ -1930,11 +1930,11 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2780,
-        "wpm": 52,
+        "allTimeRaces": 2796,
+        "wpm": 48,
         "highestWPM": 70,
-        "teamRaces": 584,
-        "acc": 93.77,
+        "teamRaces": 610,
+        "acc": 93.76,
         "season": null,
         "status": "active",
         "lastLogin": 1792195332
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115410,
+        "races": 115543,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1172,
-        "avgWPM": 57,
-        "avgAcc": 92.06,
+        "races": 1265,
+        "avgWPM": 58,
+        "avgAcc": 92.07,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792196309666
+    "_syncedAt": 1792198651747
   }
 }
