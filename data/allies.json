@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792207002975
+    "_syncedAt": 1792208679121
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792207022264
+    "_syncedAt": 1792208698250
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792207041283
+    "_syncedAt": 1792208717204
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1300,14 +1300,14 @@
         "displayName": "C L A Y",
         "role": "officer",
         "joinStamp": 1791125619,
-        "allTimeRaces": 48617,
-        "wpm": 109,
+        "allTimeRaces": 48622,
+        "wpm": 108,
         "highestWPM": 136,
-        "teamRaces": 577,
-        "acc": 94.08,
+        "teamRaces": 579,
+        "acc": 94.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792201861
+        "lastLogin": 1792207352
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1580,14 +1580,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8427,
-        "wpm": 48,
+        "allTimeRaces": 8446,
+        "wpm": 67,
         "highestWPM": 95,
-        "teamRaces": 880,
+        "teamRaces": 887,
         "acc": 97.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792158061
+        "lastLogin": 1792208050
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 115804,
+        "races": 115813,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 1401,
+        "races": 1377,
         "avgWPM": 61,
-        "avgAcc": 92.22,
+        "avgAcc": 92.14,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792207210974
+    "_syncedAt": 1792208886736
   }
 }
