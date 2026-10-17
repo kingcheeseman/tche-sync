@@ -329,7 +329,7 @@
         "acc": 93.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792267796
+        "lastLogin": 1792274083
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792272887172
+    "_syncedAt": 1792274494176
   },
   "SVC": {
     "tag": "SVC",
@@ -1163,14 +1163,14 @@
         "displayName": "LovelyJadeWombat",
         "role": "member",
         "joinStamp": 1788891516,
-        "allTimeRaces": 882,
-        "wpm": 110,
+        "allTimeRaces": 895,
+        "wpm": 112,
         "highestWPM": 138,
-        "teamRaces": 826,
-        "acc": 96.47,
+        "teamRaces": 839,
+        "acc": 96.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1792187801
+        "lastLogin": 1792273047
       },
       {
         "username": "8cc4421549856d295ce0a937bea1d713",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39849,
+        "races": 39862,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 50,
-        "avgWPM": 63,
-        "avgAcc": 97.72,
+        "races": 36,
+        "avgWPM": 79,
+        "avgAcc": 96.88,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792272911088
+    "_syncedAt": 1792274512909
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792272929749
+    "_syncedAt": 1792274531750
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4136,
+    "profileViews": 4138,
     "leagueTier": 11,
     "racers": [
       {
@@ -1776,10 +1776,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18411,
+        "allTimeRaces": 18417,
         "wpm": 89,
         "highestWPM": 123,
-        "teamRaces": 17947,
+        "teamRaces": 17957,
         "acc": 93.94,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116203,
+        "races": 116213,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1001,
+        "races": 1006,
         "avgWPM": 70,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792273098861
+    "_syncedAt": 1792274701295
   }
 }

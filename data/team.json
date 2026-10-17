@@ -510,21 +510,21 @@
       "acc": 92.46,
       "season": null,
       "status": "active",
-      "lastLogin": 1792162329
+      "lastLogin": 1792274350
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 710,
-      "wpm": 66,
+      "allTimeRaces": 723,
+      "wpm": 60,
       "highestWPM": 109,
-      "teamRaces": 150,
-      "acc": 94.74,
+      "teamRaces": 163,
+      "acc": 94.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1792168779
+      "lastLogin": 1792272833
     },
     {
       "username": "58a11fcd1c239126faca23a88c0463c9",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52875,
+      "races": 52888,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 48
     },
     "daily": {
-      "races": 153,
-      "avgWPM": 78,
-      "avgAcc": 92.99,
+      "races": 164,
+      "avgWPM": 77,
+      "avgAcc": 92.88,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792272806996
+  "_syncedAt": 1792274422360
 }
