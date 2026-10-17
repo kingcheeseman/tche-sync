@@ -441,7 +441,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792162270
+        "lastLogin": 1792274594
       },
       {
         "username": "daisyiscute2026",
@@ -544,7 +544,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792274494176
+    "_syncedAt": 1792275512289
   },
   "SVC": {
     "tag": "SVC",
@@ -645,14 +645,14 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1449,
-        "wpm": 81,
+        "allTimeRaces": 1458,
+        "wpm": 79,
         "highestWPM": 105,
         "teamRaces": 355,
         "acc": 94.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1791986797
+        "lastLogin": 1792275142
       },
       {
         "username": "6a2fc92ea132c463ba9e2b9e91ed44b7",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 36,
-        "avgWPM": 79,
-        "avgAcc": 96.88,
+        "races": 32,
+        "avgWPM": 82,
+        "avgAcc": 96.77,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792274512909
+    "_syncedAt": 1792275531014
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792274531750
+    "_syncedAt": 1792275549852
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1356,14 +1356,14 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1343,
-        "wpm": 60,
+        "allTimeRaces": 1354,
+        "wpm": 64,
         "highestWPM": 78,
-        "teamRaces": 1037,
-        "acc": 93.74,
+        "teamRaces": 1046,
+        "acc": 93.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1792259407
+        "lastLogin": 1792275049
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1776,10 +1776,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18417,
-        "wpm": 89,
+        "allTimeRaces": 18432,
+        "wpm": 92,
         "highestWPM": 123,
-        "teamRaces": 17957,
+        "teamRaces": 17971,
         "acc": 93.94,
         "season": null,
         "status": "active",
@@ -1832,14 +1832,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5742,
-        "wpm": 83,
+        "allTimeRaces": 5744,
+        "wpm": 84,
         "highestWPM": 109,
-        "teamRaces": 135,
-        "acc": 95.18,
+        "teamRaces": 137,
+        "acc": 95.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1792263499
+        "lastLogin": 1792275361
       },
       {
         "username": "nev444ehh",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116213,
+        "races": 116238,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1006,
+        "races": 1010,
         "avgWPM": 70,
-        "avgAcc": 94.05,
+        "avgAcc": 94.03,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792274701295
+    "_syncedAt": 1792275719400
   }
 }
