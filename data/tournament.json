@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792259957036,
+  "_syncedAt": 1792260793817,
   "seeding": {
     "racers": [
       {
@@ -1456,10 +1456,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "Leader 11k",
-        "races": 114,
-        "wpm": 80.6,
-        "accuracy": 89.2,
-        "points": 14267,
+        "races": 117,
+        "wpm": 80.8,
+        "accuracy": 89.27,
+        "points": 14663,
         "tier": "A"
       },
       {
@@ -1983,6 +1983,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792259961250
+    "_syncedAt": 1792260797954
   }
 }

@@ -6,7 +6,7 @@
     "activePercent": 86,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2869,
+    "profileViews": 2870,
     "leagueTier": 11,
     "racers": [
       {
@@ -322,10 +322,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13671,
-        "wpm": 82,
+        "allTimeRaces": 13674,
+        "wpm": 84,
         "highestWPM": 111,
-        "teamRaces": 11460,
+        "teamRaces": 11466,
         "acc": 93.33,
         "season": null,
         "status": "active",
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76670,
+        "races": 76676,
         "avgWPM": 55,
-        "avgAcc": 93.56,
+        "avgAcc": 93.55,
         "members": 37
       },
       "daily": {
-        "races": 281,
-        "avgWPM": 74,
-        "avgAcc": 92.66,
+        "races": 266,
+        "avgWPM": 73,
+        "avgAcc": 92.87,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792259965438
+    "_syncedAt": 1792260802513
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 45
       },
       "daily": {
-        "races": 128,
-        "avgWPM": 71,
-        "avgAcc": 94.6,
+        "races": 118,
+        "avgWPM": 70,
+        "avgAcc": 94.61,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792259994649
+    "_syncedAt": 1792260821640
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792260013525
+    "_syncedAt": 1792260840615
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4133,
+    "profileViews": 4134,
     "leagueTier": 11,
     "racers": [
       {
@@ -1356,11 +1356,11 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1331,
-        "wpm": 67,
+        "allTimeRaces": 1343,
+        "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 1021,
-        "acc": 93.74,
+        "teamRaces": 1030,
+        "acc": 93.75,
         "season": null,
         "status": "active",
         "lastLogin": 1792259407
@@ -1776,10 +1776,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18390,
-        "wpm": 93,
+        "allTimeRaces": 18397,
+        "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 17930,
+        "teamRaces": 17934,
         "acc": 93.93,
         "season": null,
         "status": "active",
@@ -1818,10 +1818,10 @@
         "displayName": "the1stpsycho",
         "role": "member",
         "joinStamp": 1786223820,
-        "allTimeRaces": 4084,
+        "allTimeRaces": 4102,
         "wpm": 84,
         "highestWPM": 128,
-        "teamRaces": 1045,
+        "teamRaces": 1054,
         "acc": 95.25,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116105,
+        "races": 116127,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1018,
-        "avgWPM": 70,
-        "avgAcc": 94.23,
+        "races": 1027,
+        "avgWPM": 71,
+        "avgAcc": 94.26,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792260183017
+    "_syncedAt": 1792261010173
   }
 }
