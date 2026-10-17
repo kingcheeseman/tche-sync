@@ -536,15 +536,15 @@
         "members": 37
       },
       "daily": {
-        "races": 380,
-        "avgWPM": 68,
-        "avgAcc": 91.87,
+        "races": 356,
+        "avgWPM": 70,
+        "avgAcc": 92.03,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792231452276
+    "_syncedAt": 1792233320076
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792231471434
+    "_syncedAt": 1792233339205
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792231490459
+    "_syncedAt": 1792233358030
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1962,14 +1962,14 @@
         "members": 49
       },
       "daily": {
-        "races": 1279,
+        "races": 1257,
         "avgWPM": 64,
-        "avgAcc": 92.96,
+        "avgAcc": 93.08,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792231660293
+    "_syncedAt": 1792233527493
   }
 }
