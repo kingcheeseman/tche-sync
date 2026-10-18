@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2873,
+    "profileViews": 2874,
     "leagueTier": 11,
     "racers": [
       {
@@ -196,11 +196,11 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5633,
-        "wpm": 76,
+        "allTimeRaces": 5645,
+        "wpm": 73,
         "highestWPM": 100,
-        "teamRaces": 788,
-        "acc": 94.7,
+        "teamRaces": 802,
+        "acc": 94.68,
         "season": null,
         "status": "active",
         "lastLogin": 1792339815
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76730,
+        "races": 76744,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 108,
-        "avgWPM": 68,
-        "avgAcc": 91.65,
+        "races": 88,
+        "avgWPM": 69,
+        "avgAcc": 91.8,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792342385042
+    "_syncedAt": 1792343628352
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792342403704
+    "_syncedAt": 1792343647275
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792342452426
+    "_syncedAt": 1792343696276
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1594,14 +1594,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3017,
-        "wpm": 93,
+        "allTimeRaces": 3021,
+        "wpm": 90,
         "highestWPM": 109,
-        "teamRaces": 1056,
+        "teamRaces": 1060,
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792185442
+        "lastLogin": 1792342796
       },
       {
         "username": "b1ff71ca0563f007c521386dded6fe19",
@@ -1900,7 +1900,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117008,
+        "races": 117012,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
@@ -1908,12 +1908,12 @@
       "daily": {
         "races": 944,
         "avgWPM": 72,
-        "avgAcc": 94.64,
+        "avgAcc": 94.65,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792342621585
+    "_syncedAt": 1792343865774
   }
 }

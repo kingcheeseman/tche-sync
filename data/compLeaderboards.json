@@ -27,8 +27,34 @@
         "accuracy": 92.38,
         "points": 2624,
         "tier": "C"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
+        "username": "viewmyvioletgarage",
+        "displayName": "viewmyvioletgarage",
+        "nickname": "Titan",
+        "squad": "Entrepreneur 500",
+        "races": 17,
+        "wpm": 94.4,
+        "accuracy": 93.25,
+        "points": 2333,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
+        "tag": "KEYCAT",
+        "username": "CATS R GR8",
+        "displayName": "CATS R GR8",
+        "nickname": "Original Gangster",
+        "squad": "Rookie 500",
+        "races": 11,
+        "wpm": 69.7,
+        "accuracy": 93.11,
+        "points": 1381,
+        "tier": "B"
       }
     ],
-    "_syncedAt": 1792342384920
+    "_syncedAt": 1792343628176
   }
 }
