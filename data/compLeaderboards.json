@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Investor 1k",
+        "races": 12,
+        "wpm": 91.3,
+        "accuracy": 94.45,
+        "points": 1651,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "KEYCAT",
         "username": "Jamusisthebestever",
         "displayName": "Jamusisthebestever",
@@ -120,7 +133,7 @@
         "tier": "B"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -146,6 +159,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792363668343
+    "_syncedAt": 1792364966928
   }
 }

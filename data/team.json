@@ -517,11 +517,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4533,
-      "wpm": 91,
+      "allTimeRaces": 4550,
+      "wpm": 95,
       "highestWPM": 120,
-      "teamRaces": 2106,
-      "acc": 92.47,
+      "teamRaces": 2118,
+      "acc": 92.48,
       "season": null,
       "status": "active",
       "lastLogin": 1792363385
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53484,
+      "races": 53496,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 596,
-      "avgWPM": 76,
-      "avgAcc": 96.29,
+      "races": 608,
+      "avgWPM": 77,
+      "avgAcc": 96.25,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792363597160
+  "_syncedAt": 1792364895120
 }
