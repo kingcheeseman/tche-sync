@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 36,
-    "activePercent": 86,
+    "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2871,
@@ -522,15 +522,15 @@
         "members": 36
       },
       "daily": {
-        "races": 218,
+        "races": 213,
         "avgWPM": 72,
-        "avgAcc": 92,
+        "avgAcc": 92.01,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792296585877
+    "_syncedAt": 1792298307770
   },
   "SVC": {
     "tag": "SVC",
@@ -582,7 +582,7 @@
         "acc": 93.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1792125508
+        "lastLogin": 1792298311
       },
       {
         "username": "akb7109",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792296645357
+    "_syncedAt": 1792298357133
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792296694450
+    "_syncedAt": 1792298406177
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4158,
+    "profileViews": 4161,
     "leagueTier": 11,
     "racers": [
       {
@@ -1552,11 +1552,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8517,
-        "wpm": 67,
+        "allTimeRaces": 8522,
+        "wpm": 70,
         "highestWPM": 95,
-        "teamRaces": 966,
-        "acc": 97.37,
+        "teamRaces": 975,
+        "acc": 97.38,
         "season": null,
         "status": "active",
         "lastLogin": 1792293751
@@ -1685,7 +1685,7 @@
         "acc": 91.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1792286085
+        "lastLogin": 1792297631
       },
       {
         "username": "e32e09bc862222a8555509279a758bd3",
@@ -1755,7 +1755,7 @@
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792288073
+        "lastLogin": 1792297843
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1776,11 +1776,11 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4256,
-        "wpm": 38,
+        "allTimeRaces": 4293,
+        "wpm": 40,
         "highestWPM": 80,
-        "teamRaces": 1277,
-        "acc": 94.12,
+        "teamRaces": 1314,
+        "acc": 94.09,
         "season": null,
         "status": "active",
         "lastLogin": 1792291766
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116829,
+        "races": 116875,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 981,
-        "avgWPM": 74,
-        "avgAcc": 94.74,
+        "races": 986,
+        "avgWPM": 72,
+        "avgAcc": 94.68,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792296864196
+    "_syncedAt": 1792298576048
   }
 }

@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 118,
+      "rank": 117,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 128
     },
     {
-      "rank": 343,
+      "rank": 347,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 20,
@@ -21,27 +21,7 @@
       "ppr": 132
     },
     {
-      "rank": 358,
-      "username": "47f3f60e491637ed70f8ada27ed45f03",
-      "displayName": "- 9te -",
-      "races": 20,
-      "accuracy": 88.67,
-      "wpm": 78.1,
-      "points": 2466,
-      "ppr": 123
-    },
-    {
-      "rank": 429,
-      "username": "6240c5f6dad57c347bcff59a0e6afbcc",
-      "displayName": "LeoRuna",
-      "races": 13,
-      "accuracy": 97.2,
-      "wpm": 68.6,
-      "points": 1697,
-      "ppr": 131
-    },
-    {
-      "rank": 445,
+      "rank": 446,
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "races": 13,
@@ -49,6 +29,16 @@
       "wpm": 60,
       "points": 1520,
       "ppr": 117
+    },
+    {
+      "rank": 485,
+      "username": "47f3f60e491637ed70f8ada27ed45f03",
+      "displayName": "- 9te -",
+      "races": 7,
+      "accuracy": 88.4,
+      "wpm": 75.9,
+      "points": 854,
+      "ppr": 122
     },
     {
       "rank": 497,
@@ -61,7 +51,7 @@
       "ppr": 138
     },
     {
-      "rank": 530,
+      "rank": 527,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 3,
@@ -71,7 +61,7 @@
       "ppr": 139
     },
     {
-      "rank": 534,
+      "rank": 531,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 3,
@@ -81,7 +71,7 @@
       "ppr": 133
     },
     {
-      "rank": 551,
+      "rank": 550,
       "username": "0ccde8a573d2a2ea52362b3c44e31c5d",
       "displayName": "12 loyal",
       "races": 2,
@@ -101,5 +91,5 @@
       "ppr": 132
     }
   ],
-  "_syncedAt": 1792296563437
+  "_syncedAt": 1792298285487
 }
