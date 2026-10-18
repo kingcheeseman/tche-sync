@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 62,
+      "rank": 81,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 85,
@@ -11,7 +11,17 @@
       "ppr": 140
     },
     {
-      "rank": 115,
+      "rank": 103,
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "races": 75,
+      "accuracy": 93.43,
+      "wpm": 75,
+      "points": 9637,
+      "ppr": 128
+    },
+    {
+      "rank": 137,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -21,17 +31,7 @@
       "ppr": 146
     },
     {
-      "rank": 130,
-      "username": "kirbydelta",
-      "displayName": "KirbyDelta",
-      "races": 53,
-      "accuracy": 93.51,
-      "wpm": 75.4,
-      "points": 6824,
-      "ppr": 129
-    },
-    {
-      "rank": 191,
+      "rank": 208,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 32,
@@ -41,7 +41,17 @@
       "ppr": 136
     },
     {
-      "rank": 248,
+      "rank": 247,
+      "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
+      "displayName": "RonaldoSuiii777",
+      "races": 28,
+      "accuracy": 91.17,
+      "wpm": 53.9,
+      "points": 3241,
+      "ppr": 116
+    },
+    {
+      "rank": 278,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 23,
@@ -51,17 +61,7 @@
       "ppr": 114
     },
     {
-      "rank": 276,
-      "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
-      "displayName": "RonaldoSuiii777",
-      "races": 18,
-      "accuracy": 90.07,
-      "wpm": 53.1,
-      "points": 2051,
-      "ppr": 114
-    },
-    {
-      "rank": 427,
+      "rank": 459,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -71,7 +71,7 @@
       "ppr": 135
     },
     {
-      "rank": 433,
+      "rank": 466,
       "username": "mweid2",
       "displayName": "cheese",
       "races": 1,
@@ -81,5 +81,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1792357328108
+  "_syncedAt": 1792359254549
 }

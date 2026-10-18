@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792357358668
+    "_syncedAt": 1792359286396
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792357407568
+    "_syncedAt": 1792359339252
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792357486592
+    "_syncedAt": 1792359418809
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4178,
+    "profileViews": 4180,
     "leagueTier": 11,
     "racers": [
       {
@@ -1328,10 +1328,10 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1443,
-        "wpm": 65,
+        "allTimeRaces": 1455,
+        "wpm": 66,
         "highestWPM": 85,
-        "teamRaces": 1135,
+        "teamRaces": 1149,
         "acc": 93.69,
         "season": null,
         "status": "active",
@@ -1706,14 +1706,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3269,
+        "allTimeRaces": 3270,
         "wpm": 37,
         "highestWPM": 60,
-        "teamRaces": 1799,
+        "teamRaces": 1800,
         "acc": 92.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792355181
+        "lastLogin": 1792358487
       },
       {
         "username": "sara0010",
@@ -1860,14 +1860,14 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2814,
-        "wpm": 52,
+        "allTimeRaces": 2835,
+        "wpm": 53,
         "highestWPM": 70,
-        "teamRaces": 628,
-        "acc": 93.74,
+        "teamRaces": 639,
+        "acc": 93.76,
         "season": null,
         "status": "active",
-        "lastLogin": 1792282985
+        "lastLogin": 1792358182
       },
       {
         "username": "malott12",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117106,
+        "races": 117132,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 914,
+        "races": 929,
         "avgWPM": 71,
-        "avgAcc": 94.65,
+        "avgAcc": 94.62,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792357656109
+    "_syncedAt": 1792359588729
   }
 }

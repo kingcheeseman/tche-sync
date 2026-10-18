@@ -5,6 +5,19 @@
       {
         "rank": 1,
         "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Not So Koi",
+        "squad": "Starter Fund",
+        "races": 75,
+        "wpm": 75,
+        "accuracy": 93.43,
+        "points": 9637,
+        "tier": "C"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
         "nickname": "Original Gangster",
@@ -16,20 +29,20 @@
         "tier": "B"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Not So Koi",
-        "squad": "Starter Fund",
-        "races": 53,
-        "wpm": 75.4,
-        "accuracy": 93.51,
-        "points": 6824,
+        "username": "RonaldoSuiii777",
+        "displayName": "RonaldoSuiii777",
+        "nickname": "Mechanic",
+        "squad": "Side Hustler 100",
+        "races": 28,
+        "wpm": 53.9,
+        "accuracy": 91.17,
+        "points": 3241,
         "tier": "C"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
@@ -42,7 +55,7 @@
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -55,7 +68,7 @@
         "tier": "C"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -66,19 +79,6 @@
         "accuracy": 93.58,
         "points": 2532,
         "tier": "B"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "RonaldoSuiii777",
-        "displayName": "RonaldoSuiii777",
-        "nickname": "Mechanic",
-        "squad": "Side Hustler 100",
-        "races": 18,
-        "wpm": 53.1,
-        "accuracy": 90.07,
-        "points": 2051,
-        "tier": "C"
       },
       {
         "rank": 7,
@@ -133,6 +133,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792357358499
+    "_syncedAt": 1792359286176
   }
 }
