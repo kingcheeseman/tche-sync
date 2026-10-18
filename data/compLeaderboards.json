@@ -386,10 +386,10 @@
         "displayName": "TerrificPurpleSalamander",
         "nickname": "Hallow Hunter",
         "squad": "Starter",
-        "races": 12,
-        "wpm": 61.2,
-        "accuracy": 93.02,
-        "points": 1458,
+        "races": 13,
+        "wpm": 60.4,
+        "accuracy": 92.94,
+        "points": 1573,
         "tier": "B"
       },
       {
@@ -588,6 +588,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792310647988
+    "_syncedAt": 1792312632676
   }
 }
