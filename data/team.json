@@ -377,14 +377,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5240,
-      "wpm": 93,
+      "allTimeRaces": 5242,
+      "wpm": 96,
       "highestWPM": 117,
-      "teamRaces": 80,
-      "acc": 91.23,
+      "teamRaces": 82,
+      "acc": 91.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1792280283
+      "lastLogin": 1792287680
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52892,
+      "races": 52894,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 48
     },
     "daily": {
-      "races": 167,
+      "races": 169,
       "avgWPM": 77,
-      "avgAcc": 92.89,
+      "avgAcc": 92.9,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792286605715
+  "_syncedAt": 1792288352517
 }
