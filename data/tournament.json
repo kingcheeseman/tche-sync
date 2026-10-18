@@ -53,17 +53,17 @@
           "players": [
             {
               "seed": "32",
-              "racer": "PootsyWafflebiscuits",
-              "teamTag": "IMT",
-              "gold": true,
+              "racer": "RALSEI",
+              "teamTag": "KEYCAT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "33",
-              "racer": "StefanO",
+              "racer": "PootsyWafflebiscuits",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -141,7 +141,7 @@
           "players": [
             {
               "seed": "25",
-              "racer": "gokuglazernumber1",
+              "racer": "emmett",
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
@@ -185,7 +185,7 @@
           "players": [
             {
               "seed": "24",
-              "racer": "emmett",
+              "racer": "LovelyJadeWombat",
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
@@ -229,8 +229,8 @@
           "players": [
             {
               "seed": "29",
-              "racer": "KippKat",
-              "teamTag": "IMT",
+              "racer": "TerrificPurpleSalamander",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -317,8 +317,8 @@
           "players": [
             {
               "seed": "28",
-              "racer": "TerrificPurpleSalamander",
-              "teamTag": "KEYCAT",
+              "racer": "LeoRuna",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -361,7 +361,7 @@
           "players": [
             {
               "seed": "21",
-              "racer": "Limit RyZex1x",
+              "racer": "Jamusisthebestever",
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
@@ -405,16 +405,16 @@
           "players": [
             {
               "seed": "31",
-              "racer": "RALSEI",
-              "teamTag": "KEYCAT",
+              "racer": "Not_Ime",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
             },
             {
               "seed": "34",
-              "racer": "akiraaa",
-              "teamTag": "KEYCAT",
+              "racer": "StefanO",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -493,8 +493,8 @@
           "players": [
             {
               "seed": "26",
-              "racer": "mazen_67",
-              "teamTag": "KEYCAT",
+              "racer": "gokuglazernumber1",
+              "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -537,8 +537,8 @@
           "players": [
             {
               "seed": "23",
-              "racer": "LovelyJadeWombat",
-              "teamTag": "SVC",
+              "racer": "Sile314",
+              "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -581,7 +581,7 @@
           "players": [
             {
               "seed": "30",
-              "racer": "Not_Ime",
+              "racer": "KippKat",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -589,7 +589,7 @@
             },
             {
               "seed": "35",
-              "racer": "Jamusisthebestever",
+              "racer": "akiraaa",
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
@@ -669,8 +669,8 @@
           "players": [
             {
               "seed": "27",
-              "racer": "LeoRuna",
-              "teamTag": "IMT",
+              "racer": "mazen_67",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -713,8 +713,8 @@
           "players": [
             {
               "seed": "22",
-              "racer": "Sile314",
-              "teamTag": "IMT",
+              "racer": "Limit RyZex1x",
+              "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
               "score": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792282183174,
+  "_syncedAt": 1792284616027,
   "seeding": {
     "racers": [
       {
@@ -1712,6 +1712,19 @@
       {
         "rank": 21,
         "tag": "KEYCAT",
+        "username": "Jamusisthebestever",
+        "displayName": "Jamusisthebestever",
+        "nickname": "I Hate Words",
+        "squad": "Beginner 100",
+        "races": 21,
+        "wpm": 43.6,
+        "accuracy": 92.64,
+        "points": 2370,
+        "tier": "C"
+      },
+      {
+        "rank": 22,
+        "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
         "nickname": "Raw Racing Recruit",
@@ -1723,7 +1736,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -1736,7 +1749,7 @@
         "tier": "A"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "SVC",
         "username": "LovelyJadeWombat",
         "displayName": "LovelyJadeWombat",
@@ -1749,7 +1762,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "SVC",
         "username": "emmett",
         "displayName": "emmett",
@@ -1762,7 +1775,7 @@
         "tier": "B"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -1775,7 +1788,7 @@
         "tier": "B"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "mazen_67",
         "displayName": "mazen_67",
@@ -1788,7 +1801,7 @@
         "tier": "C"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "LeoRuna",
         "displayName": "LeoRuna",
@@ -1801,7 +1814,7 @@
         "tier": "C"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "KEYCAT",
         "username": "TerrificPurpleSalamander",
         "displayName": "TerrificPurpleSalamander",
@@ -1814,7 +1827,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "IMT",
         "username": "KippKat",
         "displayName": "KippKat",
@@ -1827,7 +1840,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "Not_Ime",
         "displayName": "Not_Ime",
@@ -1840,7 +1853,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "RALSEI",
         "displayName": "RALSEI",
@@ -1853,7 +1866,7 @@
         "tier": "B"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -1866,7 +1879,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -1879,7 +1892,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1890,19 +1903,6 @@
         "accuracy": 97.07,
         "points": 990,
         "tier": "A"
-      },
-      {
-        "rank": 35,
-        "tag": "KEYCAT",
-        "username": "Jamusisthebestever",
-        "displayName": "Jamusisthebestever",
-        "nickname": "I Hate Words",
-        "squad": "Beginner 100",
-        "races": 6,
-        "wpm": 47,
-        "accuracy": 93.15,
-        "points": 690,
-        "tier": "C"
       },
       {
         "rank": 36,
@@ -1996,6 +1996,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792282187487
+    "_syncedAt": 1792284620044
   }
 }
