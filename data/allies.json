@@ -392,14 +392,14 @@
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1439,
-        "wpm": 61,
+        "allTimeRaces": 1440,
+        "wpm": 60,
         "highestWPM": 78,
-        "teamRaces": 110,
-        "acc": 92.93,
+        "teamRaces": 111,
+        "acc": 92.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1792249654
+        "lastLogin": 1792310285
       },
       {
         "username": "watermelonsupreme",
@@ -516,13 +516,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76727,
+        "races": 76728,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 214,
+        "races": 215,
         "avgWPM": 72,
         "avgAcc": 92.02,
         "members": 36
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792309313717
+    "_syncedAt": 1792310648192
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792309332922
+    "_syncedAt": 1792310667187
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792309382111
+    "_syncedAt": 1792310716395
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1920,14 +1920,14 @@
         "members": 47
       },
       "daily": {
-        "races": 995,
+        "races": 987,
         "avgWPM": 72,
-        "avgAcc": 94.66,
+        "avgAcc": 94.67,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792309551929
+    "_syncedAt": 1792310885985
   }
 }
