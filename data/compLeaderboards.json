@@ -1,7 +1,21 @@
 {
   "1342": {
     "eventId": "1342",
-    "racers": [],
-    "_syncedAt": 1792332772255
+    "racers": [
+      {
+        "rank": 1,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Side Hustler 100",
+        "races": 9,
+        "wpm": 44.3,
+        "accuracy": 92.72,
+        "points": 1019,
+        "tier": "C"
+      }
+    ],
+    "_syncedAt": 1792334116729
   }
 }

@@ -5,7 +5,7 @@
       "label": "Nitro City (9/13/2026 – 10/18/2026)",
       "racers": [
         {
-          "rank": 121,
+          "rank": 122,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
           "races": 2634,
@@ -45,7 +45,7 @@
           "ppr": 133
         },
         {
-          "rank": 564,
+          "rank": 565,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 700,
@@ -55,7 +55,7 @@
           "ppr": 137
         },
         {
-          "rank": 642,
+          "rank": 643,
           "username": "7f0032fd385260dbd67780a4c053a0f3",
           "displayName": "Sile314",
           "races": 582,
@@ -95,7 +95,7 @@
           "ppr": 125
         },
         {
-          "rank": 805,
+          "rank": 806,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 489,
@@ -135,7 +135,7 @@
           "ppr": 135
         },
         {
-          "rank": 1331,
+          "rank": 1332,
           "username": "1ea0b919208e21b376a29ac0befb794c",
           "displayName": "StefanO",
           "races": 231,
@@ -145,7 +145,7 @@
           "ppr": 123
         },
         {
-          "rank": 1358,
+          "rank": 1359,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 203,
@@ -255,7 +255,17 @@
           "ppr": 134
         },
         {
-          "rank": 1809,
+          "rank": 1802,
+          "username": "a0604971cedb19bc8237c0b2bd3de21e",
+          "displayName": "I_Am_So_Cheesy",
+          "races": 122,
+          "accuracy": 91,
+          "wpm": 49.7,
+          "points": 13858,
+          "ppr": 114
+        },
+        {
+          "rank": 1810,
           "username": "e75ed7d5fdcb2f93c69fe3db91769503",
           "displayName": "Jeongtae Seo",
           "races": 99,
@@ -265,17 +275,7 @@
           "ppr": 138
         },
         {
-          "rank": 1854,
-          "username": "a0604971cedb19bc8237c0b2bd3de21e",
-          "displayName": "I_Am_So_Cheesy",
-          "races": 113,
-          "accuracy": 90.87,
-          "wpm": 50.1,
-          "points": 12841,
-          "ppr": 114
-        },
-        {
-          "rank": 1894,
+          "rank": 1895,
           "username": "bc6469247e9ac57a0a45c6c345d4bb57",
           "displayName": "blackholesun",
           "races": 108,
@@ -286,12 +286,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792332733059
+      "_syncedAt": 1792334077697
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792332733059
+  "_syncedAt": 1792334077697
 }

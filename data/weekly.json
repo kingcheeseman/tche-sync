@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 41,
+      "rank": 44,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -11,7 +11,7 @@
       "ppr": 146
     },
     {
-      "rank": 91,
+      "rank": 98,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 19,
@@ -21,7 +21,7 @@
       "ppr": 139
     },
     {
-      "rank": 116,
+      "rank": 125,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 11,
@@ -29,7 +29,17 @@
       "wpm": 93.2,
       "points": 1507,
       "ppr": 137
+    },
+    {
+      "rank": 144,
+      "username": "a0604971cedb19bc8237c0b2bd3de21e",
+      "displayName": "I_Am_So_Cheesy",
+      "races": 9,
+      "accuracy": 92.72,
+      "wpm": 44.3,
+      "points": 1019,
+      "ppr": 113
     }
   ],
-  "_syncedAt": 1792332742108
+  "_syncedAt": 1792334086741
 }
