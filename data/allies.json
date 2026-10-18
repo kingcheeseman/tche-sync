@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792349021343
+    "_syncedAt": 1792350419683
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792349070290
+    "_syncedAt": 1792350468616
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792349149372
+    "_syncedAt": 1792350547553
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1328,10 +1328,10 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1373,
+        "allTimeRaces": 1376,
         "wpm": 64,
         "highestWPM": 78,
-        "teamRaces": 1067,
+        "teamRaces": 1069,
         "acc": 93.73,
         "season": null,
         "status": "active",
@@ -1713,7 +1713,7 @@
         "acc": 92.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792319672
+        "lastLogin": 1792350557
       },
       {
         "username": "sara0010",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117014,
+        "races": 117016,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 868,
+        "races": 856,
         "avgWPM": 72,
-        "avgAcc": 94.66,
+        "avgAcc": 94.67,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792349318818
+    "_syncedAt": 1792350716911
   }
 }
