@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792353115501
+    "_syncedAt": 1792354180673
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792353164700
+    "_syncedAt": 1792354231677
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792353243880
+    "_syncedAt": 1792354310557
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4176,
+    "profileViews": 4177,
     "leagueTier": 11,
     "racers": [
       {
@@ -1265,7 +1265,7 @@
         "acc": 95.8,
         "season": null,
         "status": "active",
-        "lastLogin": 1792331028
+        "lastLogin": 1792354433
       },
       {
         "username": "1vxymphasdf",
@@ -1328,11 +1328,11 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1397,
-        "wpm": 61,
-        "highestWPM": 78,
-        "teamRaces": 1091,
-        "acc": 93.72,
+        "allTimeRaces": 1415,
+        "wpm": 64,
+        "highestWPM": 85,
+        "teamRaces": 1103,
+        "acc": 93.71,
         "season": null,
         "status": "active",
         "lastLogin": 1792345829
@@ -1886,13 +1886,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117047,
+        "races": 117059,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 862,
+        "races": 870,
         "avgWPM": 71,
         "avgAcc": 94.7,
         "members": 45
@@ -1900,6 +1900,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792353413571
+    "_syncedAt": 1792354479708
   }
 }

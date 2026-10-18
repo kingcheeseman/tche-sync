@@ -87,10 +87,10 @@
         "displayName": "Natuski",
         "nickname": "I Love Cats",
         "squad": "Rookie 500",
-        "races": 8,
-        "wpm": 63.5,
-        "accuracy": 88.83,
-        "points": 936,
+        "races": 12,
+        "wpm": 63.6,
+        "accuracy": 89.32,
+        "points": 1413,
         "tier": "B"
       },
       {
@@ -120,6 +120,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792353115282
+    "_syncedAt": 1792354180553
   }
 }
