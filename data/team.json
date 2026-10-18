@@ -475,11 +475,11 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3187,
+      "allTimeRaces": 3195,
       "wpm": 54,
       "highestWPM": 107,
-      "teamRaces": 123,
-      "acc": 92.92,
+      "teamRaces": 137,
+      "acc": 92.75,
       "season": null,
       "status": "active",
       "lastLogin": 1792346867
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53278,
+      "races": 53292,
       "avgWPM": 76,
-      "avgAcc": 95.05,
+      "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 479,
+      "races": 493,
       "avgWPM": 79,
-      "avgAcc": 95.75,
+      "avgAcc": 95.67,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792347260518
+  "_syncedAt": 1792348899666
 }

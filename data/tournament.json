@@ -717,7 +717,7 @@
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 818
             },
             {
               "seed": "43",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792347373108,
+  "_syncedAt": 1792349013106,
   "seeding": {
     "racers": [
       {
@@ -2035,6 +2035,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792347377244
+    "_syncedAt": 1792349017182
   }
 }

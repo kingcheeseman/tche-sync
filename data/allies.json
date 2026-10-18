@@ -70,14 +70,14 @@
         "displayName": "Jamusisthebestever",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 501,
-        "wpm": 40,
+        "allTimeRaces": 508,
+        "wpm": 51,
         "highestWPM": 105,
-        "teamRaces": 196,
-        "acc": 93.76,
+        "teamRaces": 203,
+        "acc": 93.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1792282099
+        "lastLogin": 1792347468
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -203,7 +203,7 @@
         "acc": 94.68,
         "season": null,
         "status": "active",
-        "lastLogin": 1792339815
+        "lastLogin": 1792348615
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76748,
+        "races": 76755,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 72,
-        "avgWPM": 66,
-        "avgAcc": 91.76,
+        "races": 79,
+        "avgWPM": 65,
+        "avgAcc": 91.86,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792347381309
+    "_syncedAt": 1792349021343
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792347430062
+    "_syncedAt": 1792349070290
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792347509009
+    "_syncedAt": 1792349149372
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4173,
+    "profileViews": 4174,
     "leagueTier": 11,
     "racers": [
       {
@@ -1727,7 +1727,7 @@
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792345384
+        "lastLogin": 1792349296
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1900,6 +1900,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792347678434
+    "_syncedAt": 1792349318818
   }
 }

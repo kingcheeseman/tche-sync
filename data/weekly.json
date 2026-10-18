@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 41,
+      "rank": 44,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 85,
@@ -11,7 +11,7 @@
       "ppr": 140
     },
     {
-      "rank": 65,
+      "rank": 67,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -21,7 +21,7 @@
       "ppr": 146
     },
     {
-      "rank": 110,
+      "rank": 115,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 32,
@@ -31,7 +31,7 @@
       "ppr": 136
     },
     {
-      "rank": 141,
+      "rank": 145,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 25,
@@ -41,7 +41,7 @@
       "ppr": 126
     },
     {
-      "rank": 162,
+      "rank": 165,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 23,
@@ -51,7 +51,17 @@
       "ppr": 114
     },
     {
-      "rank": 277,
+      "rank": 192,
+      "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
+      "displayName": "RonaldoSuiii777",
+      "races": 15,
+      "accuracy": 90.7,
+      "wpm": 54.1,
+      "points": 1729,
+      "ppr": 115
+    },
+    {
+      "rank": 290,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -61,5 +71,5 @@
       "ppr": 135
     }
   ],
-  "_syncedAt": 1792347350943
+  "_syncedAt": 1792348990723
 }

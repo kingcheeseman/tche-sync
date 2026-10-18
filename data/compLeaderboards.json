@@ -70,6 +70,32 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "RonaldoSuiii777",
+        "displayName": "RonaldoSuiii777",
+        "nickname": "Mechanic",
+        "squad": "Side Hustler 100",
+        "races": 15,
+        "wpm": 54.1,
+        "accuracy": 90.7,
+        "points": 1729,
+        "tier": "C"
+      },
+      {
+        "rank": 7,
+        "tag": "KEYCAT",
+        "username": "Jamusisthebestever",
+        "displayName": "Jamusisthebestever",
+        "nickname": "I Hate Words",
+        "squad": "Beginner 100",
+        "races": 7,
+        "wpm": 51,
+        "accuracy": 93.15,
+        "points": 818,
+        "tier": "B"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
         "nickname": "404 Not Found",
@@ -79,21 +105,8 @@
         "accuracy": 89.71,
         "points": 135,
         "tier": "A"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "RonaldoSuiii777",
-        "displayName": "RonaldoSuiii777",
-        "nickname": "Mechanic",
-        "squad": "Side Hustler 100",
-        "races": 1,
-        "wpm": 55.8,
-        "accuracy": 93.39,
-        "points": 119,
-        "tier": "C"
       }
     ],
-    "_syncedAt": 1792347381170
+    "_syncedAt": 1792349021162
   }
 }
