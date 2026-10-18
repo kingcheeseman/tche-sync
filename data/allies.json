@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 37,
+    "members": 36,
     "activePercent": 86,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -77,21 +77,7 @@
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1792279354
-      },
-      {
-        "username": "bf107343121ff6600d39564454f6d8e3",
-        "displayName": "W1LD BOI 7k",
-        "role": "officer",
-        "joinStamp": 1792253317,
-        "allTimeRaces": 7128,
-        "wpm": 83,
-        "highestWPM": 100,
-        "teamRaces": 58,
-        "acc": 96.32,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792279789
+        "lastLogin": 1792282099
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -533,18 +519,18 @@
         "races": 76711,
         "avgWPM": 55,
         "avgAcc": 93.55,
-        "members": 37
+        "members": 36
       },
       "daily": {
         "races": 203,
         "avgWPM": 74,
         "avgAcc": 91.96,
-        "members": 37
+        "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792280888249
+    "_syncedAt": 1792282191777
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792280907299
+    "_syncedAt": 1792282240731
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792280926117
+    "_syncedAt": 1792282293882
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1272,10 +1258,10 @@
         "displayName": "-Lifetime-",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 476,
-        "wpm": 93,
+        "allTimeRaces": 480,
+        "wpm": 96,
         "highestWPM": 112,
-        "teamRaces": 275,
+        "teamRaces": 277,
         "acc": 95.88,
         "season": null,
         "status": "active",
@@ -1762,14 +1748,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3235,
-        "wpm": 43,
+        "allTimeRaces": 3246,
+        "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1765,
-        "acc": 92.13,
+        "teamRaces": 1771,
+        "acc": 92.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792269131
+        "lastLogin": 1792281711
       },
       {
         "username": "sara0010",
@@ -1804,14 +1790,14 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4144,
-        "wpm": 42,
+        "allTimeRaces": 4155,
+        "wpm": 46,
         "highestWPM": 80,
-        "teamRaces": 1170,
-        "acc": 94.17,
+        "teamRaces": 1180,
+        "acc": 94.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1792230154
+        "lastLogin": 1792281212
       },
       {
         "username": "the1stpsycho",
@@ -1942,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116450,
+        "races": 116468,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1071,
+        "races": 1058,
         "avgWPM": 72,
-        "avgAcc": 94.25,
+        "avgAcc": 94.26,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792281095203
+    "_syncedAt": 1792282463324
   }
 }
