@@ -83,6 +83,19 @@
       {
         "rank": 7,
         "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Rookie 500",
+        "races": 8,
+        "wpm": 63.5,
+        "accuracy": 88.83,
+        "points": 936,
+        "tier": "B"
+      },
+      {
+        "rank": 8,
+        "tag": "KEYCAT",
         "username": "Jamusisthebestever",
         "displayName": "Jamusisthebestever",
         "nickname": "I Hate Words",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -107,6 +120,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792351940174
+    "_syncedAt": 1792353115282
   }
 }
