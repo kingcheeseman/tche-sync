@@ -20,12 +20,12 @@
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
-        "nickname": "RIP",
+        "nickname": "Not So Koi",
         "squad": "Starter Fund",
-        "races": 42,
-        "wpm": 75.3,
-        "accuracy": 93.36,
-        "points": 5398,
+        "races": 53,
+        "wpm": 75.4,
+        "accuracy": 93.51,
+        "points": 6824,
         "tier": "C"
       },
       {
@@ -118,8 +118,21 @@
         "accuracy": 89.71,
         "points": 135,
         "tier": "A"
+      },
+      {
+        "rank": 10,
+        "tag": "IMT",
+        "username": "cheese",
+        "displayName": "cheese",
+        "nickname": "Potaytoes",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 78.4,
+        "accuracy": 91.84,
+        "points": 128,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792355743301
+    "_syncedAt": 1792357358499
   }
 }
