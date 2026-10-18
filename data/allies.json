@@ -227,8 +227,8 @@
         "allTimeRaces": 1952,
         "wpm": 63,
         "highestWPM": 90,
-        "teamRaces": 906,
-        "acc": 90.38,
+        "teamRaces": 907,
+        "acc": 90.39,
         "season": null,
         "status": "active",
         "lastLogin": 1792299831
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76726,
+        "races": 76727,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 213,
+        "races": 214,
         "avgWPM": 72,
-        "avgAcc": 92.01,
+        "avgAcc": 92.02,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792300050285
+    "_syncedAt": 1792301767397
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792300099537
+    "_syncedAt": 1792301786169
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792300148910
+    "_syncedAt": 1792301834935
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1776,11 +1776,11 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4324,
-        "wpm": 38,
+        "allTimeRaces": 4343,
+        "wpm": 50,
         "highestWPM": 80,
-        "teamRaces": 1349,
-        "acc": 94.07,
+        "teamRaces": 1369,
+        "acc": 94.04,
         "season": null,
         "status": "active",
         "lastLogin": 1792291766
@@ -1839,7 +1839,7 @@
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792251794
+        "lastLogin": 1792301084
       },
       {
         "username": "legendsince2026",
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116910,
+        "races": 116930,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 1021,
-        "avgWPM": 71,
-        "avgAcc": 94.66,
+        "races": 1041,
+        "avgWPM": 70,
+        "avgAcc": 94.63,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792300318639
+    "_syncedAt": 1792302004106
   }
 }

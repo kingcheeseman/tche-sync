@@ -1,4 +1,15 @@
 {
-  "racers": [],
-  "_syncedAt": 1792300017835
+  "racers": [
+    {
+      "rank": 17,
+      "username": "jonathan711111",
+      "displayName": "Unknown",
+      "races": 18,
+      "accuracy": 94.52,
+      "wpm": 106.8,
+      "points": 2610,
+      "ppr": 145
+    }
+  ],
+  "_syncedAt": 1792301737412
 }

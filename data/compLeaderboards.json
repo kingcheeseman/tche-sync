@@ -74,14 +74,27 @@
         "displayName": "Natuski",
         "nickname": "I Love Cats",
         "squad": "Rookie 500",
-        "races": 61,
-        "wpm": 61.9,
-        "accuracy": 88.58,
-        "points": 7076,
+        "races": 62,
+        "wpm": 62,
+        "accuracy": 88.64,
+        "points": 7199,
         "tier": "B"
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 49,
+        "wpm": 103.2,
+        "accuracy": 95.68,
+        "points": 7108,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -94,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -107,7 +120,7 @@
         "tier": "C"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -118,19 +131,6 @@
         "accuracy": 92.87,
         "points": 4561,
         "tier": "B"
-      },
-      {
-        "rank": 10,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Starter Fund",
-        "races": 31,
-        "wpm": 101.2,
-        "accuracy": 96.36,
-        "points": 4499,
-        "tier": "A"
       },
       {
         "rank": 11,
@@ -575,6 +575,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792300050056
+    "_syncedAt": 1792301767247
   }
 }
