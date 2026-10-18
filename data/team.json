@@ -195,14 +195,14 @@
       "displayName": "cone_manager",
       "role": "member",
       "joinStamp": 1790378920,
-      "allTimeRaces": 2641,
+      "allTimeRaces": 2645,
       "wpm": 84,
       "highestWPM": 98,
       "teamRaces": 22,
       "acc": 97.12,
       "season": null,
       "status": "active",
-      "lastLogin": 1791659613
+      "lastLogin": 1792292108
     },
     {
       "username": "teraceeben21",
@@ -293,14 +293,14 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 1993,
-      "wpm": 80,
+      "allTimeRaces": 2000,
+      "wpm": 77,
       "highestWPM": 104,
-      "teamRaces": 538,
-      "acc": 90.54,
+      "teamRaces": 545,
+      "acc": 90.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792209847
+      "lastLogin": 1792291416
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52894,
+      "races": 52901,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 48
     },
     "daily": {
-      "races": 169,
+      "races": 176,
       "avgWPM": 77,
-      "avgAcc": 92.9,
+      "avgAcc": 92.76,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792291363882
+  "_syncedAt": 1792292823869
 }

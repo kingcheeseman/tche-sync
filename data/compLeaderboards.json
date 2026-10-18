@@ -161,6 +161,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "- 9te -",
+        "displayName": "- 9te -",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Entrepreneur 500",
+        "races": 33,
+        "wpm": 79.3,
+        "accuracy": 88.47,
+        "points": 4077,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
         "nickname": "Original Gangster",
@@ -169,19 +182,6 @@
         "wpm": 80,
         "accuracy": 94.73,
         "points": 3979,
-        "tier": "B"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "- 9te -",
-        "displayName": "- 9te -",
-        "nickname": "TOUGE「峠」VIPER",
-        "squad": "Entrepreneur 500",
-        "races": 26,
-        "wpm": 80.3,
-        "accuracy": 88.49,
-        "points": 3225,
         "tier": "B"
       },
       {
@@ -549,6 +549,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792291488169
+    "_syncedAt": 1792292948473
   }
 }

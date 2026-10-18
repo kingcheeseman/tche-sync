@@ -251,9 +251,9 @@
           "players": [
             {
               "seed": "13",
-              "racer": "t_unknown",
+              "racer": "- 9te -",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -603,9 +603,9 @@
           "players": [
             {
               "seed": "14",
-              "racer": "- 9te -",
+              "racer": "t_unknown",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792291479587,
+  "_syncedAt": 1792292939607,
   "seeding": {
     "racers": [
       {
@@ -1608,6 +1608,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "- 9te -",
+        "displayName": "- 9te -",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Entrepreneur 500",
+        "races": 33,
+        "wpm": 79.3,
+        "accuracy": 88.47,
+        "points": 4077,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
         "nickname": "Original Gangster",
@@ -1616,19 +1629,6 @@
         "wpm": 80,
         "accuracy": 94.73,
         "points": 3979,
-        "tier": "B"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "- 9te -",
-        "displayName": "- 9te -",
-        "nickname": "TOUGE「峠」VIPER",
-        "squad": "Entrepreneur 500",
-        "races": 26,
-        "wpm": 80.3,
-        "accuracy": 88.49,
-        "points": 3225,
         "tier": "B"
       },
       {
@@ -1996,6 +1996,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792291483891
+    "_syncedAt": 1792292944115
   }
 }
