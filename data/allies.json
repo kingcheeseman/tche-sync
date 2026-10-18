@@ -522,15 +522,15 @@
         "members": 36
       },
       "daily": {
-        "races": 165,
-        "avgWPM": 72,
-        "avgAcc": 92.46,
+        "races": 154,
+        "avgWPM": 71,
+        "avgAcc": 92.83,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792337682405
+    "_syncedAt": 1792339308341
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792337701405
+    "_syncedAt": 1792339327342
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792337806842
+    "_syncedAt": 1792339376263
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4170,
+    "profileViews": 4171,
     "leagueTier": 11,
     "racers": [
       {
@@ -1818,14 +1818,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9155,
-        "wpm": 41,
+        "allTimeRaces": 9156,
+        "wpm": 34,
         "highestWPM": 75,
         "teamRaces": 1725,
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792301084
+        "lastLogin": 1792339096
       },
       {
         "username": "legendsince2026",
@@ -1906,14 +1906,14 @@
         "members": 46
       },
       "daily": {
-        "races": 965,
+        "races": 955,
         "avgWPM": 72,
-        "avgAcc": 94.64,
+        "avgAcc": 94.62,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792337976129
+    "_syncedAt": 1792339545405
   }
 }
