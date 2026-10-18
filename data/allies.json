@@ -497,7 +497,7 @@
         "acc": 88.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792259417
+        "lastLogin": 1792332084
       },
       {
         "username": "dirk_nowitzki41",
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792331494555
+    "_syncedAt": 1792332772420
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792331513654
+    "_syncedAt": 1792332791226
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792331562864
+    "_syncedAt": 1792332840180
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1482,14 +1482,14 @@
         "displayName": "Griefed",
         "role": "member",
         "joinStamp": 1791208329,
-        "allTimeRaces": 1300,
+        "allTimeRaces": 1304,
         "wpm": 100,
         "highestWPM": 130,
-        "teamRaces": 343,
-        "acc": 97.4,
+        "teamRaces": 347,
+        "acc": 97.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1792284639
+        "lastLogin": 1792331775
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1853,7 +1853,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792293516
+        "lastLogin": 1792331979
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116990,
+        "races": 116994,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 1005,
+        "races": 1007,
         "avgWPM": 71,
-        "avgAcc": 94.53,
+        "avgAcc": 94.54,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792331732726
+    "_syncedAt": 1792333009700
   }
 }
