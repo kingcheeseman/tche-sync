@@ -615,10 +615,10 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2591,
-      "wpm": 71,
+      "allTimeRaces": 2614,
+      "wpm": 72,
       "highestWPM": 124,
-      "teamRaces": 2766,
+      "teamRaces": 2814,
       "acc": 99,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 52993,
+      "races": 53041,
       "avgWPM": 76,
-      "avgAcc": 95.03,
+      "avgAcc": 95.04,
       "members": 49
     },
     "daily": {
-      "races": 219,
-      "avgWPM": 85,
-      "avgAcc": 93.96,
+      "races": 267,
+      "avgWPM": 82,
+      "avgAcc": 94.7,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792329708605
+  "_syncedAt": 1792331413697
 }
