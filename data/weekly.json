@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 5,
+      "rank": 14,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -9,7 +9,17 @@
       "wpm": 108.1,
       "points": 7613,
       "ppr": 146
+    },
+    {
+      "rank": 30,
+      "username": "75ece50e19f0ca3d92787e4a86138578",
+      "displayName": "rorok09",
+      "races": 19,
+      "accuracy": 97.33,
+      "wpm": 85.3,
+      "points": 2638,
+      "ppr": 139
     }
   ],
-  "_syncedAt": 1792303363211
+  "_syncedAt": 1792305694722
 }

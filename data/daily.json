@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 119,
+      "rank": 116,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 128
     },
     {
-      "rank": 184,
+      "rank": 185,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -21,17 +21,27 @@
       "ppr": 146
     },
     {
-      "rank": 342,
+      "rank": 341,
+      "username": "75ece50e19f0ca3d92787e4a86138578",
+      "displayName": "rorok09",
+      "races": 19,
+      "accuracy": 97.33,
+      "wpm": 85.3,
+      "points": 2638,
+      "ppr": 139
+    },
+    {
+      "rank": 379,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
-      "races": 20,
-      "accuracy": 92.12,
-      "wpm": 86.1,
-      "points": 2635,
+      "races": 16,
+      "accuracy": 92.02,
+      "wpm": 87.5,
+      "points": 2117,
       "ppr": 132
     },
     {
-      "rank": 436,
+      "rank": 431,
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "races": 13,
@@ -41,7 +51,7 @@
       "ppr": 117
     },
     {
-      "rank": 474,
+      "rank": 468,
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "races": 7,
@@ -51,7 +61,7 @@
       "ppr": 122
     },
     {
-      "rank": 488,
+      "rank": 482,
       "username": "jules_dot",
       "displayName": "cone_manager",
       "races": 5,
@@ -61,7 +71,7 @@
       "ppr": 138
     },
     {
-      "rank": 514,
+      "rank": 510,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 3,
@@ -71,7 +81,7 @@
       "ppr": 139
     },
     {
-      "rank": 518,
+      "rank": 514,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 3,
@@ -81,7 +91,7 @@
       "ppr": 133
     },
     {
-      "rank": 538,
+      "rank": 535,
       "username": "0ccde8a573d2a2ea52362b3c44e31c5d",
       "displayName": "12 loyal",
       "races": 2,
@@ -91,7 +101,7 @@
       "ppr": 127
     },
     {
-      "rank": 564,
+      "rank": 562,
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "races": 1,
@@ -101,5 +111,5 @@
       "ppr": 132
     }
   ],
-  "_syncedAt": 1792303372031
+  "_syncedAt": 1792305703718
 }
