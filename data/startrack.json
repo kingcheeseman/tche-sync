@@ -18,14 +18,14 @@
     },
     "week": {
       "rank": 28,
-      "races": 3135,
-      "accuracy": 94.25,
+      "races": 3112,
+      "accuracy": 94.27,
       "wpm": 84.5,
-      "points": 420296,
+      "points": 417274,
       "ppr": 134
     },
     "weekly": {
-      "rank": 18,
+      "rank": 19,
       "races": 82,
       "accuracy": 95.3,
       "wpm": 100.8,
@@ -48,5 +48,5 @@
   "points": 1942643,
   "ppr": 131,
   "source": "ntstartrack.org",
-  "_syncedAt": 1792328329170
+  "_syncedAt": 1792329727873
 }
