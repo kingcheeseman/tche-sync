@@ -285,13 +285,32 @@
           "ppr": 112
         }
       ],
-      "isCurrent": true,
+      "isCurrent": false,
       "_syncedAt": 1792343588352
+    },
+    "SpiritRacers": {
+      "value": "SpiritRacers",
+      "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
+      "racers": [
+        {
+          "rank": 55,
+          "username": "kirbydelta",
+          "displayName": "KirbyDelta",
+          "races": 17,
+          "accuracy": 94.87,
+          "wpm": 78,
+          "points": 2242,
+          "ppr": 132
+        }
+      ],
+      "isCurrent": true,
+      "_syncedAt": 1792355703142
     }
   },
   "order": [
+    "SpiritRacers",
     "NitroCity"
   ],
-  "currentValue": "NitroCity",
-  "_syncedAt": 1792343588352
+  "currentValue": "SpiritRacers",
+  "_syncedAt": 1792355703142
 }

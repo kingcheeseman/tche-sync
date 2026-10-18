@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2874,
+    "profileViews": 2875,
     "leagueTier": 11,
     "racers": [
       {
@@ -522,15 +522,15 @@
         "members": 36
       },
       "daily": {
-        "races": 91,
-        "avgWPM": 65,
-        "avgAcc": 91.68,
+        "races": 74,
+        "avgWPM": 61,
+        "avgAcc": 92.01,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792354180673
+    "_syncedAt": 1792355743506
   },
   "SVC": {
     "tag": "SVC",
@@ -708,7 +708,7 @@
         "acc": 97.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1792268717
+        "lastLogin": 1792354644
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792354231677
+    "_syncedAt": 1792355792667
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792354310557
+    "_syncedAt": 1792355871734
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1255,7 +1255,7 @@
     "racers": [
       {
         "username": "joepellicc_gold",
-        "displayName": "-Lifetime-",
+        "displayName": "Myst_ry",
         "role": "member",
         "joinStamp": 1791676311,
         "allTimeRaces": 550,
@@ -1328,11 +1328,11 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1415,
-        "wpm": 64,
+        "allTimeRaces": 1441,
+        "wpm": 65,
         "highestWPM": 85,
-        "teamRaces": 1103,
-        "acc": 93.71,
+        "teamRaces": 1135,
+        "acc": 93.69,
         "season": null,
         "status": "active",
         "lastLogin": 1792345829
@@ -1531,7 +1531,7 @@
         "acc": 97.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1792324261
+        "lastLogin": 1792355451
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1713,21 +1713,21 @@
         "acc": 92.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792350557
+        "lastLogin": 1792355181
       },
       {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18530,
-        "wpm": 95,
+        "allTimeRaces": 18540,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 18070,
+        "teamRaces": 18079,
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792351159
+        "lastLogin": 1792355448
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117059,
+        "races": 117100,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 870,
+        "races": 908,
         "avgWPM": 71,
-        "avgAcc": 94.7,
+        "avgAcc": 94.65,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792354479708
+    "_syncedAt": 1792356041407
   }
 }
