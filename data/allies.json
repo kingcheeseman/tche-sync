@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792301767397
+    "_syncedAt": 1792303393472
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792301786169
+    "_syncedAt": 1792303412275
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792301834935
+    "_syncedAt": 1792303461136
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1510,14 +1510,14 @@
         "displayName": "SeriouslyTypes 2k",
         "role": "member",
         "joinStamp": 1791128511,
-        "allTimeRaces": 2205,
-        "wpm": 103,
+        "allTimeRaces": 2206,
+        "wpm": 91,
         "highestWPM": 137,
-        "teamRaces": 84,
-        "acc": 98.22,
+        "teamRaces": 85,
+        "acc": 98.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1792083460
+        "lastLogin": 1792302444
       },
       {
         "username": "francisreynolds",
@@ -1776,10 +1776,10 @@
         "displayName": "-BOSS PLZ PROMOTE-",
         "role": "member",
         "joinStamp": 1789680203,
-        "allTimeRaces": 4343,
-        "wpm": 50,
+        "allTimeRaces": 4348,
+        "wpm": 43,
         "highestWPM": 80,
-        "teamRaces": 1369,
+        "teamRaces": 1374,
         "acc": 94.04,
         "season": null,
         "status": "active",
@@ -1914,13 +1914,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116930,
+        "races": 116936,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 1041,
+        "races": 1047,
         "avgWPM": 70,
         "avgAcc": 94.63,
         "members": 47
@@ -1928,6 +1928,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792302004106
+    "_syncedAt": 1792303630456
   }
 }

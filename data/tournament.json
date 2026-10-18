@@ -207,9 +207,9 @@
           "players": [
             {
               "seed": "4",
-              "racer": "haleyyrose",
-              "teamTag": "KEYCAT",
-              "gold": true,
+              "racer": "viewmyvioletgarage",
+              "teamTag": "IMT",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -295,9 +295,9 @@
           "players": [
             {
               "seed": "5",
-              "racer": "s_e_r_i",
-              "teamTag": "SVC",
-              "gold": false,
+              "racer": "haleyyrose",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -471,9 +471,9 @@
           "players": [
             {
               "seed": "7",
-              "racer": "Unknown",
-              "teamTag": "IMT",
-              "gold": false,
+              "racer": "Natuski",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             },
@@ -559,7 +559,7 @@
           "players": [
             {
               "seed": "3",
-              "racer": "viewmyvioletgarage",
+              "racer": "Unknown",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -647,9 +647,9 @@
           "players": [
             {
               "seed": "6",
-              "racer": "Natuski",
-              "teamTag": "KEYCAT",
-              "gold": true,
+              "racer": "s_e_r_i",
+              "teamTag": "SVC",
+              "gold": false,
               "placeholder": false,
               "score": null
             },
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792301759241,
+  "_syncedAt": 1792303385228,
   "seeding": {
     "racers": [
       {
@@ -1478,6 +1478,19 @@
       {
         "rank": 3,
         "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 83,
+        "wpm": 105.5,
+        "accuracy": 95.52,
+        "points": 12110,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
+        "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
@@ -1489,7 +1502,7 @@
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -1502,7 +1515,7 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "SVC",
         "username": "s_e_r_i",
         "displayName": "s_e_r_i",
@@ -1515,7 +1528,7 @@
         "tier": "C"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -1526,19 +1539,6 @@
         "accuracy": 88.64,
         "points": 7199,
         "tier": "B"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Starter Fund",
-        "races": 49,
-        "wpm": 103.2,
-        "accuracy": 95.68,
-        "points": 7108,
-        "tier": "A"
       },
       {
         "rank": 8,
@@ -2022,6 +2022,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792301763215
+    "_syncedAt": 1792303389304
   }
 }
