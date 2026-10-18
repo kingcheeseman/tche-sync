@@ -460,6 +460,19 @@
       {
         "rank": 36,
         "tag": "IMT",
+        "username": "cone_manager",
+        "displayName": "cone_manager",
+        "nickname": "I Hate Words",
+        "squad": "Starter Fund",
+        "races": 5,
+        "wpm": 84.8,
+        "accuracy": 97.02,
+        "points": 691,
+        "tier": "B"
+      },
+      {
+        "rank": 37,
+        "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
         "nickname": "Not a Bot",
@@ -471,7 +484,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -484,7 +497,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -497,7 +510,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -510,7 +523,20 @@
         "tier": "C"
       },
       {
-        "rank": 40,
+        "rank": 41,
+        "tag": "IMT",
+        "username": "12 loyal",
+        "displayName": "12 loyal",
+        "nickname": "Ghoul's Gold",
+        "squad": null,
+        "races": 2,
+        "wpm": 76.2,
+        "accuracy": 92.27,
+        "points": 255,
+        "tier": "B"
+      },
+      {
+        "rank": 42,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -523,7 +549,7 @@
         "tier": "A"
       },
       {
-        "rank": 41,
+        "rank": 43,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -536,7 +562,7 @@
         "tier": "A"
       },
       {
-        "rank": 42,
+        "rank": 44,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -549,6 +575,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792292948473
+    "_syncedAt": 1792294649026
   }
 }

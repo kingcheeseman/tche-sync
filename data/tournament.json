@@ -149,8 +149,8 @@
             },
             {
               "seed": "40",
-              "racer": "River Star",
-              "teamTag": "KEYCAT",
+              "racer": "me_likey_typey",
+              "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
               "score": null
@@ -193,9 +193,9 @@
             },
             {
               "seed": "41",
-              "racer": "insta _trewatkins",
+              "racer": "12 loyal",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -237,7 +237,7 @@
             },
             {
               "seed": "36",
-              "racer": "IM A BOT OK, TRUST",
+              "racer": "cone_manager",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -325,7 +325,7 @@
             },
             {
               "seed": "37",
-              "racer": "Nitrex",
+              "racer": "IM A BOT OK, TRUST",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -369,10 +369,10 @@
             },
             {
               "seed": "44",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "viperr",
+              "teamTag": "SVC",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -501,9 +501,9 @@
             },
             {
               "seed": "39",
-              "racer": "me_likey_typey",
+              "racer": "sterling757",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             }
@@ -545,9 +545,9 @@
             },
             {
               "seed": "42",
-              "racer": "viperr",
-              "teamTag": "SVC",
-              "gold": false,
+              "racer": "River Star",
+              "teamTag": "KEYCAT",
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -677,7 +677,7 @@
             },
             {
               "seed": "38",
-              "racer": "sterling757",
+              "racer": "Nitrex",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -721,10 +721,10 @@
             },
             {
               "seed": "43",
-              "racer": "BYE",
-              "teamTag": null,
+              "racer": "insta _trewatkins",
+              "teamTag": "IMT",
               "gold": false,
-              "placeholder": true,
+              "placeholder": false,
               "score": null
             }
           ],
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792292939607,
+  "_syncedAt": 1792294640271,
   "seeding": {
     "racers": [
       {
@@ -1907,6 +1907,19 @@
       {
         "rank": 36,
         "tag": "IMT",
+        "username": "cone_manager",
+        "displayName": "cone_manager",
+        "nickname": "I Hate Words",
+        "squad": "Starter Fund",
+        "races": 5,
+        "wpm": 84.8,
+        "accuracy": 97.02,
+        "points": 691,
+        "tier": "B"
+      },
+      {
+        "rank": 37,
+        "tag": "IMT",
         "username": "IM A BOT OK, TRUST",
         "displayName": "IM A BOT OK, TRUST",
         "nickname": "Not a Bot",
@@ -1918,7 +1931,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1931,7 +1944,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -1944,7 +1957,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -1957,7 +1970,20 @@
         "tier": "C"
       },
       {
-        "rank": 40,
+        "rank": 41,
+        "tag": "IMT",
+        "username": "12 loyal",
+        "displayName": "12 loyal",
+        "nickname": "Ghoul's Gold",
+        "squad": null,
+        "races": 2,
+        "wpm": 76.2,
+        "accuracy": 92.27,
+        "points": 255,
+        "tier": "B"
+      },
+      {
+        "rank": 42,
         "tag": "KEYCAT",
         "username": "River Star",
         "displayName": "River Star",
@@ -1970,7 +1996,7 @@
         "tier": "A"
       },
       {
-        "rank": 41,
+        "rank": 43,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -1983,7 +2009,7 @@
         "tier": "A"
       },
       {
-        "rank": 42,
+        "rank": 44,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1996,6 +2022,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792292944115
+    "_syncedAt": 1792294644445
   }
 }
