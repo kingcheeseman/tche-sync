@@ -657,14 +657,14 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4738,
-      "wpm": 93,
+      "allTimeRaces": 4746,
+      "wpm": 90,
       "highestWPM": 111,
-      "teamRaces": 1102,
-      "acc": 91.67,
+      "teamRaces": 1107,
+      "acc": 91.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1792313948
+      "lastLogin": 1792341815
     },
     {
       "username": "falconsteve2",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53230,
+      "races": 53235,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 431,
+      "races": 436,
       "avgWPM": 79,
-      "avgAcc": 96.08,
+      "avgAcc": 96.05,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792340405770
+  "_syncedAt": 1792342311193
 }

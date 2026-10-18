@@ -196,10 +196,10 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5629,
-        "wpm": 79,
+        "allTimeRaces": 5633,
+        "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 786,
+        "teamRaces": 788,
         "acc": 94.7,
         "season": null,
         "status": "active",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76728,
+        "races": 76730,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 139,
-        "avgWPM": 70,
-        "avgAcc": 92.68,
+        "races": 108,
+        "avgWPM": 68,
+        "avgAcc": 91.65,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792340483767
+    "_syncedAt": 1792342385042
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792340502765
+    "_syncedAt": 1792342403704
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792340551501
+    "_syncedAt": 1792342452426
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4171,
+    "profileViews": 4172,
     "leagueTier": 11,
     "racers": [
       {
@@ -1734,14 +1734,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18517,
-        "wpm": 89,
+        "allTimeRaces": 18521,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 18054,
+        "teamRaces": 18061,
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792340493
+        "lastLogin": 1792341050
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117001,
+        "races": 117008,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 937,
+        "races": 944,
         "avgWPM": 72,
-        "avgAcc": 94.63,
+        "avgAcc": 94.64,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792340720614
+    "_syncedAt": 1792342621585
   }
 }
