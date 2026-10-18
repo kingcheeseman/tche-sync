@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792314267737,
+  "_syncedAt": 1792316139018,
   "seeding": {
     "racers": [
       {
@@ -1495,10 +1495,10 @@
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
         "squad": "Entrepreneur 500",
-        "races": 80,
-        "wpm": 86.5,
-        "accuracy": 91.23,
-        "points": 10455,
+        "races": 91,
+        "wpm": 87.3,
+        "accuracy": 91.51,
+        "points": 11963,
         "tier": "A"
       },
       {
@@ -2035,6 +2035,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792314271735
+    "_syncedAt": 1792316143017
   }
 }

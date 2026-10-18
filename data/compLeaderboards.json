@@ -48,10 +48,10 @@
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
         "squad": "Entrepreneur 500",
-        "races": 80,
-        "wpm": 86.5,
-        "accuracy": 91.23,
-        "points": 10455,
+        "races": 91,
+        "wpm": 87.3,
+        "accuracy": 91.51,
+        "points": 11963,
         "tier": "A"
       },
       {
@@ -588,6 +588,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792314275798
+    "_syncedAt": 1792316147067
   }
 }
