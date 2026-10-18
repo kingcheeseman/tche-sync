@@ -44,6 +44,19 @@
       {
         "rank": 4,
         "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Investor 1k",
+        "races": 25,
+        "wpm": 93.7,
+        "accuracy": 94.17,
+        "points": 3458,
+        "tier": "A"
+      },
+      {
+        "rank": 5,
+        "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
@@ -55,7 +68,7 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -68,7 +81,7 @@
         "tier": "C"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -79,19 +92,6 @@
         "accuracy": 93.58,
         "points": 2532,
         "tier": "B"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "The Smasher",
-        "squad": "Investor 1k",
-        "races": 12,
-        "wpm": 91.3,
-        "accuracy": 94.45,
-        "points": 1651,
-        "tier": "A"
       },
       {
         "rank": 8,
@@ -159,6 +159,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792364966928
+    "_syncedAt": 1792366317045
   }
 }

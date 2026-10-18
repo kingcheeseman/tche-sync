@@ -427,7 +427,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792274594
+        "lastLogin": 1792365190
       },
       {
         "username": "daisyiscute2026",
@@ -522,15 +522,15 @@
         "members": 36
       },
       "daily": {
-        "races": 63,
-        "avgWPM": 58,
-        "avgAcc": 92.95,
+        "races": 57,
+        "avgWPM": 59,
+        "avgAcc": 92.9,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792364967104
+    "_syncedAt": 1792366317209
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792365015999
+    "_syncedAt": 1792366366027
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792365034905
+    "_syncedAt": 1792366384845
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4181,
+    "profileViews": 4185,
     "leagueTier": 11,
     "racers": [
       {
@@ -1328,10 +1328,10 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1498,
-        "wpm": 65,
+        "allTimeRaces": 1505,
+        "wpm": 62,
         "highestWPM": 87,
-        "teamRaces": 1187,
+        "teamRaces": 1199,
         "acc": 93.7,
         "season": null,
         "status": "active",
@@ -1706,24 +1706,24 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3270,
-        "wpm": 37,
+        "allTimeRaces": 3271,
+        "wpm": 38,
         "highestWPM": 60,
-        "teamRaces": 1800,
+        "teamRaces": 1801,
         "acc": 92.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792358487
+        "lastLogin": 1792365827
       },
       {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18563,
-        "wpm": 89,
+        "allTimeRaces": 18587,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18098,
+        "teamRaces": 18125,
         "acc": 93.95,
         "season": null,
         "status": "active",
@@ -1746,7 +1746,7 @@
       {
         "username": "clpz200",
         "displayName": "-BOSS PLZ PROMOTE-",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1789680203,
         "allTimeRaces": 4357,
         "wpm": 45,
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117218,
+        "races": 117258,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 810,
+        "races": 828,
         "avgWPM": 66,
-        "avgAcc": 94.49,
+        "avgAcc": 94.45,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792365204428
+    "_syncedAt": 1792366554287
   }
 }
