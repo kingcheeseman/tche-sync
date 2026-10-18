@@ -522,15 +522,15 @@
         "members": 36
       },
       "daily": {
-        "races": 205,
-        "avgWPM": 73,
-        "avgAcc": 92.06,
+        "races": 165,
+        "avgWPM": 72,
+        "avgAcc": 92.46,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792335745838
+    "_syncedAt": 1792337682405
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792335764591
+    "_syncedAt": 1792337701405
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792335813535
+    "_syncedAt": 1792337806842
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1249,8 +1249,8 @@
     "members": 46,
     "activePercent": 95,
     "createdStamp": 1763145613,
-    "otherInfo": "600R=1M | 220M+ Cash & 14+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4169,
+    "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
+    "profileViews": 4170,
     "leagueTier": 11,
     "racers": [
       {
@@ -1471,11 +1471,11 @@
         "allTimeRaces": 1310,
         "wpm": 99,
         "highestWPM": 130,
-        "teamRaces": 349,
-        "acc": 97.42,
+        "teamRaces": 353,
+        "acc": 97.44,
         "season": null,
         "status": "active",
-        "lastLogin": 1792335146
+        "lastLogin": 1792337605
       },
       {
         "username": "11acd0b9a53406d66113f4b8bcb9a360",
@@ -1741,7 +1741,7 @@
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792335034
+        "lastLogin": 1792336035
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 116996,
+        "races": 117000,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 969,
+        "races": 965,
         "avgWPM": 72,
-        "avgAcc": 94.63,
+        "avgAcc": 94.64,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792335982977
+    "_syncedAt": 1792337976129
   }
 }
