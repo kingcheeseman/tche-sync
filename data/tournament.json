@@ -101,7 +101,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 4805
             },
             {
               "seed": "48",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792334108816,
+  "_syncedAt": 1792335737655,
   "seeding": {
     "racers": [
       {
@@ -1668,7 +1668,7 @@
         "wpm": 85.3,
         "accuracy": 97.33,
         "points": 2638,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 18,
@@ -2035,6 +2035,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792334112807
+    "_syncedAt": 1792335741898
   }
 }

@@ -5,13 +5,13 @@
       "label": "Nitro City (9/13/2026 – 10/18/2026)",
       "racers": [
         {
-          "rank": 122,
+          "rank": 120,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 2634,
+          "races": 2668,
           "accuracy": 97.38,
-          "wpm": 85.1,
-          "points": 365630,
+          "wpm": 85.2,
+          "points": 370435,
           "ppr": 139
         },
         {
@@ -55,7 +55,7 @@
           "ppr": 137
         },
         {
-          "rank": 643,
+          "rank": 644,
           "username": "7f0032fd385260dbd67780a4c053a0f3",
           "displayName": "Sile314",
           "races": 582,
@@ -75,7 +75,7 @@
           "ppr": 96
         },
         {
-          "rank": 678,
+          "rank": 679,
           "username": "e113572b376d66c088861de8c5797a20",
           "displayName": "-kczo-",
           "races": 618,
@@ -85,7 +85,7 @@
           "ppr": 132
         },
         {
-          "rank": 789,
+          "rank": 791,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 545,
@@ -95,7 +95,7 @@
           "ppr": 125
         },
         {
-          "rank": 806,
+          "rank": 807,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 489,
@@ -135,7 +135,7 @@
           "ppr": 135
         },
         {
-          "rank": 1332,
+          "rank": 1333,
           "username": "1ea0b919208e21b376a29ac0befb794c",
           "displayName": "StefanO",
           "races": 231,
@@ -155,7 +155,7 @@
           "ppr": 133
         },
         {
-          "rank": 1431,
+          "rank": 1432,
           "username": "2865b036215f4fedbcb7bdd5a174045e",
           "displayName": "Kimchi",
           "races": 175,
@@ -235,7 +235,17 @@
           "ppr": 135
         },
         {
-          "rank": 1778,
+          "rank": 1728,
+          "username": "a0604971cedb19bc8237c0b2bd3de21e",
+          "displayName": "I_Am_So_Cheesy",
+          "races": 136,
+          "accuracy": 91.11,
+          "wpm": 49.6,
+          "points": 15463,
+          "ppr": 114
+        },
+        {
+          "rank": 1779,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 122,
@@ -245,7 +255,7 @@
           "ppr": 116
         },
         {
-          "rank": 1780,
+          "rank": 1781,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 106,
@@ -253,16 +263,6 @@
           "wpm": 82.9,
           "points": 14159,
           "ppr": 134
-        },
-        {
-          "rank": 1802,
-          "username": "a0604971cedb19bc8237c0b2bd3de21e",
-          "displayName": "I_Am_So_Cheesy",
-          "races": 122,
-          "accuracy": 91,
-          "wpm": 49.7,
-          "points": 13858,
-          "ppr": 114
         },
         {
           "rank": 1810,
@@ -286,12 +286,12 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792334077697
+      "_syncedAt": 1792335706133
     }
   },
   "order": [
     "NitroCity"
   ],
   "currentValue": "NitroCity",
-  "_syncedAt": 1792334077697
+  "_syncedAt": 1792335706133
 }

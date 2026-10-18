@@ -5,17 +5,30 @@
       {
         "rank": 1,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 34,
+        "wpm": 88.9,
+        "accuracy": 97.82,
+        "points": 4805,
+        "tier": "B"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
         "nickname": "Spring Speedster",
         "squad": "Side Hustler 100",
-        "races": 9,
-        "wpm": 44.3,
-        "accuracy": 92.72,
-        "points": 1019,
+        "races": 23,
+        "wpm": 47,
+        "accuracy": 92.38,
+        "points": 2624,
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792334116729
+    "_syncedAt": 1792335745696
   }
 }
