@@ -473,6 +473,19 @@
       {
         "rank": 37,
         "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 4,
+        "wpm": 97.8,
+        "accuracy": 92.15,
+        "points": 549,
+        "tier": "A"
+      },
+      {
+        "rank": 38,
+        "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
         "nickname": "The Caped Crusader",
@@ -484,7 +497,7 @@
         "tier": "B"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -495,19 +508,6 @@
         "accuracy": 77.95,
         "points": 292,
         "tier": "C"
-      },
-      {
-        "rank": 39,
-        "tag": "IMT",
-        "username": "Nitrex",
-        "displayName": "Nitrex",
-        "nickname": "404 Not Found",
-        "squad": "Starter Fund",
-        "races": 2,
-        "wpm": 89.3,
-        "accuracy": 91.29,
-        "points": 264,
-        "tier": "A"
       },
       {
         "rank": 40,
@@ -549,6 +549,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792288490805
+    "_syncedAt": 1792289851602
   }
 }

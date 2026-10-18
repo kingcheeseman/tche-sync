@@ -325,7 +325,7 @@
             },
             {
               "seed": "37",
-              "racer": "sterling757",
+              "racer": "Nitrex",
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
@@ -501,9 +501,9 @@
             },
             {
               "seed": "39",
-              "racer": "Nitrex",
+              "racer": "me_likey_typey",
               "teamTag": "IMT",
-              "gold": false,
+              "gold": true,
               "placeholder": false,
               "score": null
             }
@@ -677,9 +677,9 @@
             },
             {
               "seed": "38",
-              "racer": "me_likey_typey",
+              "racer": "sterling757",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
               "score": null
             }
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792288483155,
+  "_syncedAt": 1792289843439,
   "seeding": {
     "racers": [
       {
@@ -1920,6 +1920,19 @@
       {
         "rank": 37,
         "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 4,
+        "wpm": 97.8,
+        "accuracy": 92.15,
+        "points": 549,
+        "tier": "A"
+      },
+      {
+        "rank": 38,
+        "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
         "nickname": "The Caped Crusader",
@@ -1931,7 +1944,7 @@
         "tier": "B"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -1942,19 +1955,6 @@
         "accuracy": 77.95,
         "points": 292,
         "tier": "C"
-      },
-      {
-        "rank": 39,
-        "tag": "IMT",
-        "username": "Nitrex",
-        "displayName": "Nitrex",
-        "nickname": "404 Not Found",
-        "squad": "Starter Fund",
-        "races": 2,
-        "wpm": 89.3,
-        "accuracy": 91.29,
-        "points": 264,
-        "tier": "A"
       },
       {
         "rank": 40,
@@ -1996,6 +1996,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792288486973
+    "_syncedAt": 1792289847603
   }
 }

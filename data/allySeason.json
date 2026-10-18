@@ -18,7 +18,7 @@
         "ppr": 121
       },
       "week": {
-        "rank": 47,
+        "rank": 45,
         "races": 1748,
         "accuracy": 91.48,
         "wpm": 65.3,
@@ -42,12 +42,12 @@
     "points": 429545,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792288541431
+    "_syncedAt": 1792289900553
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 69,
+        "rank": 70,
         "races": 28,
         "accuracy": 94.92,
         "wpm": 95.9,
@@ -87,7 +87,7 @@
     "points": 1246600,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792288590186
+    "_syncedAt": 1792289949457
   },
   "IMTR": {
     "timeframes": {
@@ -104,33 +104,33 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792288759138
+    "_syncedAt": 1792290118879
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 12,
-        "races": 969,
-        "accuracy": 94.32,
-        "wpm": 76.1,
-        "points": 126197,
-        "ppr": 130
+        "rank": 13,
+        "races": 904,
+        "accuracy": 94.37,
+        "wpm": 78.1,
+        "points": 118627,
+        "ppr": 131
       },
       "season": {
         "rank": 19,
-        "races": 34333,
-        "accuracy": 93.23,
+        "races": 34353,
+        "accuracy": 93.24,
         "wpm": 67.7,
-        "points": 4284192,
+        "points": 4286952,
         "ppr": 125
       },
       "week": {
         "rank": 16,
-        "races": 8036,
-        "accuracy": 92.45,
-        "wpm": 65.1,
-        "points": 984599,
-        "ppr": 123
+        "races": 8020,
+        "accuracy": 92.44,
+        "wpm": 65,
+        "points": 982419,
+        "ppr": 122
       },
       "weekly": null,
       "alltime": {
@@ -143,12 +143,12 @@
       }
     },
     "rank": 19,
-    "races": 34333,
-    "accuracy": 93.23,
+    "races": 34353,
+    "accuracy": 93.24,
     "wpm": 67.7,
-    "points": 4284192,
+    "points": 4286952,
     "ppr": 125,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792288808012
+    "_syncedAt": 1792290174568
   }
 }
