@@ -279,14 +279,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6200,
-      "wpm": 76,
+      "allTimeRaces": 6218,
+      "wpm": 75,
       "highestWPM": 102,
-      "teamRaces": 175,
-      "acc": 92.86,
+      "teamRaces": 189,
+      "acc": 92.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1792262934
+      "lastLogin": 1792343906
     },
     {
       "username": "cash4087",
@@ -657,14 +657,14 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4755,
-      "wpm": 97,
+      "allTimeRaces": 4759,
+      "wpm": 92,
       "highestWPM": 111,
-      "teamRaces": 1119,
+      "teamRaces": 1122,
       "acc": 91.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1792341815
+      "lastLogin": 1792344432
     },
     {
       "username": "falconsteve2",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53247,
+      "races": 53264,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 448,
-      "avgWPM": 80,
-      "avgAcc": 95.97,
+      "races": 465,
+      "avgWPM": 79,
+      "avgAcc": 95.86,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792343555650
+  "_syncedAt": 1792344885513
 }

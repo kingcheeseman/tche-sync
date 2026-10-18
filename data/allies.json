@@ -196,10 +196,10 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5645,
-        "wpm": 73,
+        "allTimeRaces": 5648,
+        "wpm": 71,
         "highestWPM": 100,
-        "teamRaces": 802,
+        "teamRaces": 804,
         "acc": 94.68,
         "season": null,
         "status": "active",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76744,
+        "races": 76746,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 88,
-        "avgWPM": 69,
-        "avgAcc": 91.8,
+        "races": 80,
+        "avgWPM": 68,
+        "avgAcc": 91.78,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792343628352
+    "_syncedAt": 1792345005879
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792343647275
+    "_syncedAt": 1792345054715
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792343696276
+    "_syncedAt": 1792345133478
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4172,
+    "profileViews": 4173,
     "leagueTier": 11,
     "racers": [
       {
@@ -1594,10 +1594,10 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3021,
-        "wpm": 90,
+        "allTimeRaces": 3023,
+        "wpm": 87,
         "highestWPM": 109,
-        "teamRaces": 1060,
+        "teamRaces": 1062,
         "acc": 93.93,
         "season": null,
         "status": "active",
@@ -1797,7 +1797,7 @@
         "acc": 94.79,
         "season": null,
         "status": "active",
-        "lastLogin": 1792299810
+        "lastLogin": 1792344795
       },
       {
         "username": "nev444ehh",
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117012,
+        "races": 117014,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 944,
+        "races": 932,
         "avgWPM": 72,
-        "avgAcc": 94.65,
+        "avgAcc": 94.67,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792343865774
+    "_syncedAt": 1792345302468
   }
 }
