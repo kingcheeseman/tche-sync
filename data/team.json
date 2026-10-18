@@ -279,11 +279,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6218,
-      "wpm": 75,
+      "allTimeRaces": 6225,
+      "wpm": 73,
       "highestWPM": 102,
-      "teamRaces": 189,
-      "acc": 92.88,
+      "teamRaces": 200,
+      "acc": 92.86,
       "season": null,
       "status": "active",
       "lastLogin": 1792343906
@@ -391,14 +391,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5242,
+      "allTimeRaces": 5243,
       "wpm": 96,
       "highestWPM": 117,
-      "teamRaces": 82,
+      "teamRaces": 83,
       "acc": 91.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1792287680
+      "lastLogin": 1792345119
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -660,8 +660,8 @@
       "allTimeRaces": 4759,
       "wpm": 92,
       "highestWPM": 111,
-      "teamRaces": 1122,
-      "acc": 91.71,
+      "teamRaces": 1123,
+      "acc": 91.7,
       "season": null,
       "status": "active",
       "lastLogin": 1792344432
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53264,
+      "races": 53277,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 465,
+      "races": 478,
       "avgWPM": 79,
-      "avgAcc": 95.86,
+      "avgAcc": 95.76,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792344885513
+  "_syncedAt": 1792346289728
 }

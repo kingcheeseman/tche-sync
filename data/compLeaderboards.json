@@ -18,18 +18,31 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "RIP",
+        "squad": "Starter Fund",
+        "races": 25,
+        "wpm": 73.6,
+        "accuracy": 92.34,
+        "points": 3158,
+        "tier": "C"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
         "squad": "Entrepreneur 500",
-        "races": 20,
-        "wpm": 93.4,
-        "accuracy": 92.92,
-        "points": 2726,
+        "races": 21,
+        "wpm": 92.5,
+        "accuracy": 92.73,
+        "points": 2848,
         "tier": "A"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -42,32 +55,32 @@
         "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
         "nickname": "Original Gangster",
         "squad": "Rookie 500",
-        "races": 17,
-        "wpm": 70.5,
-        "accuracy": 93.47,
-        "points": 2149,
+        "races": 20,
+        "wpm": 70.6,
+        "accuracy": 93.58,
+        "points": 2532,
         "tier": "B"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "RIP",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
         "squad": "Starter Fund",
-        "races": 14,
-        "wpm": 74.7,
-        "accuracy": 92.77,
-        "points": 1784,
-        "tier": "C"
+        "races": 1,
+        "wpm": 102,
+        "accuracy": 89.71,
+        "points": 135,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792345005729
+    "_syncedAt": 1792346410719
   }
 }
