@@ -315,7 +315,7 @@
         "acc": 93.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792352825
+        "lastLogin": 1792359292
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792359286396
+    "_syncedAt": 1792360877618
   },
   "SVC": {
     "tag": "SVC",
@@ -1181,15 +1181,15 @@
         "members": 45
       },
       "daily": {
-        "races": 28,
-        "avgWPM": 96,
-        "avgAcc": 95.17,
+        "races": 15,
+        "avgWPM": 80,
+        "avgAcc": 94.6,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792359339252
+    "_syncedAt": 1792360926625
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792359418809
+    "_syncedAt": 1792361005434
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4180,
+    "profileViews": 4181,
     "leagueTier": 11,
     "racers": [
       {
@@ -1727,7 +1727,7 @@
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792355448
+        "lastLogin": 1792360003
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1825,7 +1825,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792346857
+        "lastLogin": 1792360104
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1860,11 +1860,11 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2835,
-        "wpm": 53,
+        "allTimeRaces": 2851,
+        "wpm": 51,
         "highestWPM": 70,
-        "teamRaces": 639,
-        "acc": 93.76,
+        "teamRaces": 662,
+        "acc": 93.74,
         "season": null,
         "status": "active",
         "lastLogin": 1792358182
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117132,
+        "races": 117155,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 929,
-        "avgWPM": 71,
-        "avgAcc": 94.62,
+        "races": 942,
+        "avgWPM": 70,
+        "avgAcc": 94.57,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792359588729
+    "_syncedAt": 1792361174595
   }
 }

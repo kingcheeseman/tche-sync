@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 81,
+      "rank": 93,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 85,
@@ -11,17 +11,17 @@
       "ppr": 140
     },
     {
-      "rank": 103,
+      "rank": 97,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "races": 75,
-      "accuracy": 93.43,
-      "wpm": 75,
-      "points": 9637,
+      "races": 90,
+      "accuracy": 93.27,
+      "wpm": 74.6,
+      "points": 11523,
       "ppr": 128
     },
     {
-      "rank": 137,
+      "rank": 149,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -31,7 +31,17 @@
       "ppr": 146
     },
     {
-      "rank": 208,
+      "rank": 213,
+      "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
+      "displayName": "RonaldoSuiii777",
+      "races": 42,
+      "accuracy": 91.67,
+      "wpm": 54.2,
+      "points": 4894,
+      "ppr": 117
+    },
+    {
+      "rank": 228,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 32,
@@ -41,17 +51,7 @@
       "ppr": 136
     },
     {
-      "rank": 247,
-      "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
-      "displayName": "RonaldoSuiii777",
-      "races": 28,
-      "accuracy": 91.17,
-      "wpm": 53.9,
-      "points": 3241,
-      "ppr": 116
-    },
-    {
-      "rank": 278,
+      "rank": 296,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 23,
@@ -61,7 +61,7 @@
       "ppr": 114
     },
     {
-      "rank": 459,
+      "rank": 479,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -71,7 +71,7 @@
       "ppr": 135
     },
     {
-      "rank": 466,
+      "rank": 486,
       "username": "mweid2",
       "displayName": "cheese",
       "races": 1,
@@ -81,5 +81,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1792359254549
+  "_syncedAt": 1792360847065
 }

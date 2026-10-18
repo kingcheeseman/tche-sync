@@ -9,10 +9,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Not So Koi",
         "squad": "Starter Fund",
-        "races": 75,
-        "wpm": 75,
-        "accuracy": 93.43,
-        "points": 9637,
+        "races": 90,
+        "wpm": 74.6,
+        "accuracy": 93.27,
+        "points": 11523,
         "tier": "C"
       },
       {
@@ -35,10 +35,10 @@
         "displayName": "RonaldoSuiii777",
         "nickname": "Mechanic",
         "squad": "Side Hustler 100",
-        "races": 28,
-        "wpm": 53.9,
-        "accuracy": 91.17,
-        "points": 3241,
+        "races": 42,
+        "wpm": 54.2,
+        "accuracy": 91.67,
+        "points": 4894,
         "tier": "C"
       },
       {
@@ -133,6 +133,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792359286176
+    "_syncedAt": 1792360877456
   }
 }
