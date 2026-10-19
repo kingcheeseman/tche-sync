@@ -41,14 +41,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4643,
-      "wpm": 91,
+      "allTimeRaces": 4648,
+      "wpm": 93,
       "highestWPM": 110,
-      "teamRaces": 463,
-      "acc": 94.7,
+      "teamRaces": 467,
+      "acc": 94.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1792372004
+      "lastLogin": 1792429509
     },
     {
       "username": "tbnr_andy",
@@ -69,14 +69,14 @@
       "displayName": "TrySetBuddy",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1272,
-      "wpm": 96,
-      "highestWPM": 102,
-      "teamRaces": 44,
-      "acc": 97.4,
+      "allTimeRaces": 1275,
+      "wpm": 91,
+      "highestWPM": 105,
+      "teamRaces": 47,
+      "acc": 97.46,
       "season": null,
       "status": "active",
-      "lastLogin": 1792013157
+      "lastLogin": 1792428412
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -139,10 +139,10 @@
       "displayName": "LeoRuna",
       "role": "member",
       "joinStamp": 1783524162,
-      "allTimeRaces": 7953,
-      "wpm": 69,
+      "allTimeRaces": 7960,
+      "wpm": 75,
       "highestWPM": 107,
-      "teamRaces": 470,
+      "teamRaces": 480,
       "acc": 97.55,
       "season": null,
       "status": "active",
@@ -293,11 +293,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3740,
-      "wpm": 101,
+      "allTimeRaces": 3745,
+      "wpm": 102,
       "highestWPM": 120,
-      "teamRaces": 87,
-      "acc": 96.83,
+      "teamRaces": 96,
+      "acc": 96.81,
       "season": null,
       "status": "active",
       "lastLogin": 1792426667
@@ -517,14 +517,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4598,
-      "wpm": 88,
+      "allTimeRaces": 4599,
+      "wpm": 89,
       "highestWPM": 120,
-      "teamRaces": 2173,
-      "acc": 92.5,
+      "teamRaces": 2174,
+      "acc": 92.51,
       "season": null,
       "status": "active",
-      "lastLogin": 1792424299
+      "lastLogin": 1792429421
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -587,14 +587,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 412,
+      "allTimeRaces": 414,
       "wpm": 53,
       "highestWPM": 96,
-      "teamRaces": 164,
+      "teamRaces": 166,
       "acc": 92.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1792417301
+      "lastLogin": 1792429461
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53869,
+      "races": 53898,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 639,
+      "races": 651,
       "avgWPM": 75,
-      "avgAcc": 95.16,
+      "avgAcc": 95.29,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792428130364
+  "_syncedAt": 1792429851707
 }
