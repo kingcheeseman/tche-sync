@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2891,
+    "profileViews": 2894,
     "leagueTier": 11,
     "racers": [
       {
@@ -112,11 +112,11 @@
         "displayName": "ModestCyanWasp",
         "role": "member",
         "joinStamp": 1792448559,
-        "allTimeRaces": 1746,
+        "allTimeRaces": 1748,
         "wpm": 118,
         "highestWPM": 174,
-        "teamRaces": 40,
-        "acc": 94.49,
+        "teamRaces": 51,
+        "acc": 94.83,
         "season": null,
         "status": "active",
         "lastLogin": 1792448313
@@ -315,7 +315,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792442964
+        "lastLogin": 1792450578
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -437,8 +437,8 @@
         "allTimeRaces": 304,
         "wpm": 74,
         "highestWPM": 113,
-        "teamRaces": 58,
-        "acc": 93.28,
+        "teamRaces": 60,
+        "acc": 93.2,
         "season": null,
         "status": "active",
         "lastLogin": 1792450313
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77240,
+        "races": 77253,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 473,
-        "avgWPM": 73,
-        "avgAcc": 92.18,
+        "races": 486,
+        "avgWPM": 74,
+        "avgAcc": 92.32,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792450448436
+    "_syncedAt": 1792451830149
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 55,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1997,
+    "profileViews": 1998,
     "leagueTier": 11,
     "racers": [
       {
@@ -631,14 +631,14 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1473,
-        "wpm": 81,
+        "allTimeRaces": 1477,
+        "wpm": 82,
         "highestWPM": 105,
-        "teamRaces": 379,
-        "acc": 94.38,
+        "teamRaces": 383,
+        "acc": 94.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1792447705
+        "lastLogin": 1792450731
       },
       {
         "username": "6a2fc92ea132c463ba9e2b9e91ed44b7",
@@ -1175,46 +1175,32 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39965,
+        "races": 39969,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 81,
+        "races": 85,
         "avgWPM": 79,
-        "avgAcc": 94.64,
+        "avgAcc": 94.71,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792450467716
+    "_syncedAt": 1792451849052
   },
   "IMTR": {
     "tag": "IMTR",
     "name": "IMT Retired Racers",
-    "members": 2,
+    "members": 1,
     "activePercent": 0,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
     "profileViews": 14,
     "leagueTier": 2,
     "racers": [
-      {
-        "username": "king_cheeseman",
-        "displayName": "Elite Cheese NT",
-        "role": "officer",
-        "joinStamp": 1791836131,
-        "allTimeRaces": 16148,
-        "wpm": 86,
-        "highestWPM": 118,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791836087
-      },
       {
         "username": "the_only_winner123",
         "displayName": "the_only_winner123",
@@ -1235,13 +1221,13 @@
         "races": 9,
         "avgWPM": 97,
         "avgAcc": 93.49,
-        "members": 2
+        "members": 1
       },
       "daily": null,
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792450486701
+    "_syncedAt": 1792451867760
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1236,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4223,
+    "profileViews": 4224,
     "leagueTier": 11,
     "racers": [
       {
@@ -1265,18 +1251,18 @@
         "acc": 95.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1792449084
+        "lastLogin": 1792450993
       },
       {
         "username": "1vxymphasdf",
         "displayName": "roadto20k",
         "role": "member",
         "joinStamp": 1792104029,
-        "allTimeRaces": 11739,
-        "wpm": 133,
+        "allTimeRaces": 11753,
+        "wpm": 127,
         "highestWPM": 156,
-        "teamRaces": 58,
-        "acc": 96.94,
+        "teamRaces": 80,
+        "acc": 97.06,
         "season": null,
         "status": "active",
         "lastLogin": 1792450027
@@ -1874,11 +1860,11 @@
         "displayName": "Patrick Jane",
         "role": "member",
         "joinStamp": 1792449531,
-        "allTimeRaces": 3889,
-        "wpm": 79,
+        "allTimeRaces": 3898,
+        "wpm": 91,
         "highestWPM": 115,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 13,
+        "acc": 92.51,
         "season": null,
         "status": "active",
         "lastLogin": 1792450323
@@ -1900,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118109,
+        "races": 118144,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 923,
-        "avgWPM": 67,
-        "avgAcc": 93.45,
+        "races": 900,
+        "avgWPM": 69,
+        "avgAcc": 93.55,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792450656263
+    "_syncedAt": 1792452036929
   }
 }
