@@ -168,14 +168,14 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5673,
-        "wpm": 76,
+        "allTimeRaces": 5678,
+        "wpm": 75,
         "highestWPM": 100,
-        "teamRaces": 828,
-        "acc": 94.71,
+        "teamRaces": 835,
+        "acc": 94.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792440548
+        "lastLogin": 1792441547
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -266,14 +266,14 @@
         "displayName": "ECLIPS - MARIO CART",
         "role": "member",
         "joinStamp": 1763243275,
-        "allTimeRaces": 3415,
-        "wpm": 39,
+        "allTimeRaces": 3416,
+        "wpm": 41,
         "highestWPM": 78,
-        "teamRaces": 1572,
+        "teamRaces": 1573,
         "acc": 94.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1791335517
+        "lastLogin": 1792441323
       },
       {
         "username": "vertur",
@@ -294,14 +294,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13775,
-        "wpm": 83,
+        "allTimeRaces": 13782,
+        "wpm": 77,
         "highestWPM": 111,
         "teamRaces": 11567,
         "acc": 93.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1792436683
+        "lastLogin": 1792442964
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -322,14 +322,14 @@
         "displayName": "CATS R GR8 ALT",
         "role": "member",
         "joinStamp": 1775584352,
-        "allTimeRaces": 1285,
-        "wpm": 77,
+        "allTimeRaces": 1297,
+        "wpm": 74,
         "highestWPM": 99,
-        "teamRaces": 1030,
-        "acc": 93.85,
+        "teamRaces": 1042,
+        "acc": 93.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1792437998
+        "lastLogin": 1792441555
       },
       {
         "username": "soap2x",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77159,
+        "races": 77179,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 35
       },
       "daily": {
-        "races": 392,
-        "avgWPM": 67,
-        "avgAcc": 91.83,
+        "races": 412,
+        "avgWPM": 68,
+        "avgAcc": 91.97,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792441307806
+    "_syncedAt": 1792443485778
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792441327212
+    "_syncedAt": 1792443504716
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792441346389
+    "_syncedAt": 1792443523551
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4215,
+    "profileViews": 4217,
     "leagueTier": 11,
     "racers": [
       {
@@ -1699,7 +1699,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792364087
+        "lastLogin": 1792443625
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1864,14 +1864,14 @@
         "members": 44
       },
       "daily": {
-        "races": 963,
+        "races": 930,
         "avgWPM": 65,
-        "avgAcc": 93.23,
+        "avgAcc": 93.2,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792441516161
+    "_syncedAt": 1792443693121
   }
 }

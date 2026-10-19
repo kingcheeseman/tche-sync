@@ -4,7 +4,7 @@
   "status": "Active",
   "description": "Join for a chance to win up to 15M NTC!!! Captains pay their own team members if they want to.",
   "start": "October 16, 2026 at 2:00 PM",
-  "end": "October 30, 2026 at 1:45 PM",
+  "end": "November 9, 2026 at 2:45 PM",
   "teams": [
     "IMT",
     "KEYCAT",
@@ -123,7 +123,7 @@
               "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
-              "score": 19373
+              "score": 22414
             },
             {
               "seed": "57",
@@ -189,7 +189,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 10761
+              "score": 13753
             },
             {
               "seed": "41",
@@ -409,7 +409,7 @@
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": 4360
+              "score": 6326
             },
             {
               "seed": "34",
@@ -549,7 +549,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 1363
+              "score": 1576
             }
           ],
           "winner": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792441298243,
+  "_syncedAt": 1792443476536,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792441303153
+    "_syncedAt": 1792443480637
   }
 }
