@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1921,
+  "profileViews": 1922,
   "leagueTier": 11,
   "racers": [
     {
@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6880,
-      "wpm": 107,
+      "allTimeRaces": 6882,
+      "wpm": 106,
       "highestWPM": 132,
-      "teamRaces": 142,
-      "acc": 95.86,
+      "teamRaces": 144,
+      "acc": 95.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1792299729
+      "lastLogin": 1792381896
     },
     {
       "username": "tre1typer",
@@ -697,7 +697,7 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53612,
+      "races": 53614,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
@@ -705,11 +705,11 @@
     "daily": {
       "races": 706,
       "avgWPM": 76,
-      "avgAcc": 96.03,
+      "avgAcc": 96.05,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792379901146
+  "_syncedAt": 1792382454026
 }

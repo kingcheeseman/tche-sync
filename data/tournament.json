@@ -167,7 +167,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 137
+              "score": 271
             },
             {
               "seed": "56",
@@ -475,7 +475,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 24248
+              "score": 27295
             },
             {
               "seed": "58",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792379965420,
+  "_syncedAt": 1792382519284,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792379969723
+    "_syncedAt": 1792382523771
   }
 }

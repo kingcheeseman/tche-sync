@@ -9,10 +9,10 @@
         "displayName": "CrazyTyper",
         "nickname": "Not So Koi",
         "squad": "Loyal",
-        "races": 198,
+        "races": 223,
         "wpm": 63,
-        "accuracy": 93.12,
-        "points": 24248,
+        "accuracy": 93.06,
+        "points": 27295,
         "tier": "B"
       },
       {
@@ -226,6 +226,19 @@
       {
         "rank": 18,
         "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 2,
+        "wpm": 73.3,
+        "accuracy": 99.32,
+        "points": 271,
+        "tier": "B"
+      },
+      {
+        "rank": 19,
+        "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
         "nickname": "Epic Nitro User",
@@ -235,19 +248,6 @@
         "accuracy": 90.07,
         "points": 215,
         "tier": "C"
-      },
-      {
-        "rank": 19,
-        "tag": "THB0S",
-        "username": "Speedster-1",
-        "displayName": "Speedster-1",
-        "nickname": "Pro Gamer Move",
-        "squad": null,
-        "races": 1,
-        "wpm": 74.9,
-        "accuracy": 99.36,
-        "points": 137,
-        "tier": "B"
       },
       {
         "rank": 20,
@@ -289,6 +289,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792379973715
+    "_syncedAt": 1792382527904
   }
 }

@@ -224,14 +224,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1981,
-        "wpm": 65,
+        "allTimeRaces": 1983,
+        "wpm": 64,
         "highestWPM": 90,
         "teamRaces": 936,
         "acc": 90.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792372280
+        "lastLogin": 1792382311
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792379974020
+    "_syncedAt": 1792382528080
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792379992819
+    "_syncedAt": 1792382547271
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792380011636
+    "_syncedAt": 1792382566136
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4196,
+    "profileViews": 4199,
     "leagueTier": 11,
     "racers": [
       {
@@ -1328,11 +1328,11 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1576,
+        "allTimeRaces": 1596,
         "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1270,
-        "acc": 93.7,
+        "teamRaces": 1290,
+        "acc": 93.69,
         "season": null,
         "status": "active",
         "lastLogin": 1792379223
@@ -1524,14 +1524,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8523,
-        "wpm": 70,
+        "allTimeRaces": 8524,
+        "wpm": 71,
         "highestWPM": 95,
-        "teamRaces": 976,
+        "teamRaces": 977,
         "acc": 97.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1792369783
+        "lastLogin": 1792380303
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1783,7 +1783,7 @@
         "acc": 94.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792377795
+        "lastLogin": 1792382711
       },
       {
         "username": "nev444ehh",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117471,
+        "races": 117492,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 740,
-        "avgWPM": 64,
-        "avgAcc": 94.2,
+        "races": 668,
+        "avgWPM": 65,
+        "avgAcc": 94,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792380181131
+    "_syncedAt": 1792382735609
   }
 }
