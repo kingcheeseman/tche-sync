@@ -56,6 +56,19 @@
       },
       {
         "rank": 5,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Epic Nitro User",
+        "squad": "Officer",
+        "races": 70,
+        "wpm": 37.1,
+        "accuracy": 92.44,
+        "points": 7670,
+        "tier": "C"
+      },
+      {
+        "rank": 6,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -68,7 +81,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "IMT",
         "username": "RonaldoSuiii777",
         "displayName": "RonaldoSuiii777",
@@ -81,7 +94,7 @@
         "tier": "C"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
@@ -94,7 +107,7 @@
         "tier": "C"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -105,19 +118,6 @@
         "accuracy": 88.76,
         "points": 4905,
         "tier": "B"
-      },
-      {
-        "rank": 9,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Epic Nitro User",
-        "squad": "Officer",
-        "races": 36,
-        "wpm": 35.6,
-        "accuracy": 91.86,
-        "points": 3896,
-        "tier": "C"
       },
       {
         "rank": 10,
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "Violets-NTGfor30mil",
+        "displayName": "Violets-NTGfor30mil",
+        "nickname": "Drift Queen",
+        "squad": null,
+        "races": 25,
+        "wpm": 40.7,
+        "accuracy": 92.38,
+        "points": 2780,
+        "tier": "C"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -159,7 +172,7 @@
         "tier": "C"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -172,7 +185,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -185,7 +198,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "THB0S",
         "username": "the1stpsycho",
         "displayName": "the1stpsycho",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -211,7 +224,7 @@
         "tier": "C"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "KEYCAT",
         "username": "TheDoctor225181",
         "displayName": "TheDoctor225181",
@@ -224,7 +237,7 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -237,7 +250,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "KEYCAT",
         "username": "Jamusisthebestever",
         "displayName": "Jamusisthebestever",
@@ -250,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -276,7 +289,7 @@
         "tier": "B"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -289,7 +302,7 @@
         "tier": "A"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -315,6 +328,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792390368488
+    "_syncedAt": 1792392727097
   }
 }

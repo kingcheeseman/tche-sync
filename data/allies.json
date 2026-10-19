@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792390368935
+    "_syncedAt": 1792392727240
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792390387930
+    "_syncedAt": 1792392746063
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792390406896
+    "_syncedAt": 1792392764934
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4200,
+    "profileViews": 4204,
     "leagueTier": 11,
     "racers": [
       {
@@ -1322,6 +1322,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792285667
+      },
+      {
+        "username": "joe772",
+        "displayName": "Violets-NTGfor30mil",
+        "role": "member",
+        "joinStamp": 1792390803,
+        "allTimeRaces": 60773,
+        "wpm": 39,
+        "highestWPM": 117,
+        "teamRaces": 38,
+        "acc": 93.32,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792392554
       },
       {
         "username": "toptyper1",
@@ -1702,20 +1716,6 @@
         "lastLogin": 1792043144
       },
       {
-        "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
-        "displayName": "Sakupen",
-        "role": "officer",
-        "joinStamp": 1790537945,
-        "allTimeRaces": 3319,
-        "wpm": 37,
-        "highestWPM": 60,
-        "teamRaces": 1844,
-        "acc": 92.15,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792387970
-      },
-      {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
@@ -1804,14 +1804,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9156,
-        "wpm": 34,
+        "allTimeRaces": 9159,
+        "wpm": 25,
         "highestWPM": 75,
-        "teamRaces": 1726,
+        "teamRaces": 1727,
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792339096
+        "lastLogin": 1792391852
       },
       {
         "username": "legendsince2026",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117535,
+        "races": 117605,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 599,
-        "avgWPM": 67,
-        "avgAcc": 93.99,
+        "races": 660,
+        "avgWPM": 65,
+        "avgAcc": 93.93,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792390576396
+    "_syncedAt": 1792392934423
   }
 }
