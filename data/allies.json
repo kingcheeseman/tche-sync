@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2887,
+    "profileViews": 2888,
     "leagueTier": 11,
     "racers": [
       {
@@ -168,14 +168,14 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5662,
-        "wpm": 78,
+        "allTimeRaces": 5673,
+        "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 819,
-        "acc": 94.69,
+        "teamRaces": 828,
+        "acc": 94.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1792438662
+        "lastLogin": 1792440548
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -203,7 +203,7 @@
         "acc": 90.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1792438404
+        "lastLogin": 1792440843
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -294,10 +294,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13773,
-        "wpm": 84,
+        "allTimeRaces": 13775,
+        "wpm": 83,
         "highestWPM": 111,
-        "teamRaces": 11556,
+        "teamRaces": 11567,
         "acc": 93.3,
         "season": null,
         "status": "active",
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77139,
+        "races": 77159,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 35
       },
       "daily": {
-        "races": 372,
+        "races": 392,
         "avgWPM": 67,
-        "avgAcc": 91.75,
+        "avgAcc": 91.83,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792439902416
+    "_syncedAt": 1792441307806
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792439921324
+    "_syncedAt": 1792441327212
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792439940224
+    "_syncedAt": 1792441346389
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1622,11 +1622,11 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6190,
-        "wpm": 68,
+        "allTimeRaces": 6203,
+        "wpm": 72,
         "highestWPM": 98,
-        "teamRaces": 43,
-        "acc": 84.52,
+        "teamRaces": 57,
+        "acc": 84.87,
         "season": null,
         "status": "active",
         "lastLogin": 1792439941
@@ -1858,20 +1858,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118022,
+        "races": 118036,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 44
       },
       "daily": {
-        "races": 973,
+        "races": 963,
         "avgWPM": 65,
-        "avgAcc": 93.35,
+        "avgAcc": 93.23,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792440109772
+    "_syncedAt": 1792441516161
   }
 }

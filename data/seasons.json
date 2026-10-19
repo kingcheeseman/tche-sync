@@ -293,27 +293,27 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 190,
+          "rank": 176,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
-          "races": 116,
-          "accuracy": 93.52,
+          "races": 126,
+          "accuracy": 93.46,
           "wpm": 75.4,
-          "points": 14940,
+          "points": 16216,
           "ppr": 129
         },
         {
-          "rank": 264,
+          "rank": 260,
           "username": "taylorja32",
           "displayName": "Void Racer",
-          "races": 77,
-          "accuracy": 93.31,
-          "wpm": 92.1,
-          "points": 10491,
+          "races": 79,
+          "accuracy": 93.33,
+          "wpm": 91.9,
+          "points": 10761,
           "ppr": 136
         },
         {
-          "rank": 316,
+          "rank": 321,
           "username": "cash4087",
           "displayName": "WindMaker",
           "races": 56,
@@ -323,7 +323,7 @@
           "ppr": 145
         },
         {
-          "rank": 327,
+          "rank": 331,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 84,
@@ -333,7 +333,7 @@
           "ppr": 95
         },
         {
-          "rank": 340,
+          "rank": 343,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 60,
@@ -343,7 +343,7 @@
           "ppr": 124
         },
         {
-          "rank": 431,
+          "rank": 437,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 38,
@@ -353,7 +353,7 @@
           "ppr": 137
         },
         {
-          "rank": 466,
+          "rank": 472,
           "username": "a0604971cedb19bc8237c0b2bd3de21e",
           "displayName": "I_Am_So_Cheesy",
           "races": 41,
@@ -363,7 +363,17 @@
           "ppr": 116
         },
         {
-          "rank": 556,
+          "rank": 483,
+          "username": "b12d93562133c1f47d58fd7c2118abd6",
+          "displayName": "Namedisplayed",
+          "races": 34,
+          "accuracy": 93.55,
+          "wpm": 92.9,
+          "points": 4658,
+          "ppr": 137
+        },
+        {
+          "rank": 563,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 32,
@@ -373,7 +383,7 @@
           "ppr": 118
         },
         {
-          "rank": 594,
+          "rank": 597,
           "username": "sidoh",
           "displayName": "PootsyWafflebiscuits",
           "races": 24,
@@ -383,27 +393,17 @@
           "ppr": 142
         },
         {
-          "rank": 693,
-          "username": "b12d93562133c1f47d58fd7c2118abd6",
-          "displayName": "Namedisplayed",
-          "races": 18,
-          "accuracy": 93.79,
-          "wpm": 93.9,
-          "points": 2481,
-          "ppr": 138
-        },
-        {
-          "rank": 794,
+          "rank": 680,
           "username": "470256",
-          "displayName": "TrySetBuddy",
-          "races": 12,
-          "accuracy": 97.2,
-          "wpm": 87.3,
-          "points": 1676,
+          "displayName": "Torque_Demon",
+          "races": 19,
+          "accuracy": 96.84,
+          "wpm": 89,
+          "points": 2659,
           "ppr": 140
         },
         {
-          "rank": 821,
+          "rank": 830,
           "username": "10712a0152fd25105448b6ef1298504b",
           "displayName": "RationalGoldApe",
           "races": 11,
@@ -413,7 +413,7 @@
           "ppr": 138
         },
         {
-          "rank": 827,
+          "rank": 836,
           "username": "6240c5f6dad57c347bcff59a0e6afbcc",
           "displayName": "LeoRuna",
           "races": 11,
@@ -423,7 +423,7 @@
           "ppr": 134
         },
         {
-          "rank": 868,
+          "rank": 881,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 10,
@@ -433,7 +433,7 @@
           "ppr": 125
         },
         {
-          "rank": 922,
+          "rank": 932,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 6,
@@ -443,7 +443,7 @@
           "ppr": 145
         },
         {
-          "rank": 955,
+          "rank": 966,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 5,
@@ -453,7 +453,7 @@
           "ppr": 133
         },
         {
-          "rank": 1130,
+          "rank": 1142,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -464,7 +464,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792439860267
+      "_syncedAt": 1792441263787
     }
   },
   "order": [
@@ -472,5 +472,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792439860267
+  "_syncedAt": 1792441263787
 }
