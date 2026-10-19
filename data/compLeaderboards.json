@@ -95,6 +95,19 @@
       },
       {
         "rank": 8,
+        "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Rookie 500",
+        "races": 42,
+        "wpm": 63.2,
+        "accuracy": 88.76,
+        "points": 4905,
+        "tier": "B"
+      },
+      {
+        "rank": 9,
         "tag": "THB0S",
         "username": "The Ghost",
         "displayName": "The Ghost",
@@ -105,19 +118,6 @@
         "accuracy": 93.78,
         "points": 3888,
         "tier": "A"
-      },
-      {
-        "rank": 9,
-        "tag": "KEYCAT",
-        "username": "Natuski",
-        "displayName": "Natuski",
-        "nickname": "I Love Cats",
-        "squad": "Rookie 500",
-        "races": 29,
-        "wpm": 64.1,
-        "accuracy": 88.27,
-        "points": 3380,
-        "tier": "B"
       },
       {
         "rank": 10,
@@ -225,6 +225,19 @@
       },
       {
         "rank": 18,
+        "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Side Hustler 100",
+        "races": 2,
+        "wpm": 102.6,
+        "accuracy": 96.91,
+        "points": 293,
+        "tier": "A"
+      },
+      {
+        "rank": 19,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -237,7 +250,7 @@
         "tier": "B"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -250,7 +263,7 @@
         "tier": "C"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -289,6 +302,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792382527904
+    "_syncedAt": 1792384873259
   }
 }
