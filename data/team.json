@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20105,
-      "wpm": 88,
+      "allTimeRaces": 20114,
+      "wpm": 89,
       "highestWPM": 108,
-      "teamRaces": 2466,
+      "teamRaces": 2468,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792158642
+      "lastLogin": 1792417379
     },
     {
       "username": "jonathan711111",
@@ -356,7 +356,7 @@
       "acc": 96.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1792266893
+      "lastLogin": 1792417860
     },
     {
       "username": "wsoccerboy0929",
@@ -517,14 +517,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4582,
-      "wpm": 86,
+      "allTimeRaces": 4590,
+      "wpm": 85,
       "highestWPM": 120,
-      "teamRaces": 2157,
+      "teamRaces": 2160,
       "acc": 92.51,
       "season": null,
       "status": "active",
-      "lastLogin": 1792411909
+      "lastLogin": 1792417734
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -587,14 +587,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 397,
-      "wpm": 52,
+      "allTimeRaces": 412,
+      "wpm": 53,
       "highestWPM": 96,
-      "teamRaces": 149,
-      "acc": 91.95,
+      "teamRaces": 158,
+      "acc": 91.99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792411922
+      "lastLogin": 1792417301
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53693,
+      "races": 53707,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 703,
+      "races": 666,
       "avgWPM": 73,
-      "avgAcc": 96.18,
+      "avgAcc": 95.95,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792415620899
+  "_syncedAt": 1792418108335
 }
