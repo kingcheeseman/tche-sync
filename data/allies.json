@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792388600188
+    "_syncedAt": 1792390368935
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792388619026
+    "_syncedAt": 1792390387930
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792388637780
+    "_syncedAt": 1792390406896
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4199,
+    "profileViews": 4200,
     "leagueTier": 11,
     "racers": [
       {
@@ -1706,11 +1706,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1790537945,
-        "allTimeRaces": 3288,
-        "wpm": 35,
+        "allTimeRaces": 3319,
+        "wpm": 37,
         "highestWPM": 60,
-        "teamRaces": 1810,
-        "acc": 92.13,
+        "teamRaces": 1844,
+        "acc": 92.15,
         "season": null,
         "status": "active",
         "lastLogin": 1792387970
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117501,
+        "races": 117535,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 571,
-        "avgWPM": 69,
-        "avgAcc": 94,
+        "races": 599,
+        "avgWPM": 67,
+        "avgAcc": 93.99,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792388807082
+    "_syncedAt": 1792390576396
   }
 }

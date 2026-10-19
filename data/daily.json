@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 179,
+      "rank": 182,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,13 +11,13 @@
       "ppr": 128
     },
     {
-      "rank": 188,
+      "rank": 217,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 85,
-      "accuracy": 97.47,
-      "wpm": 87.3,
-      "points": 11901,
+      "races": 71,
+      "accuracy": 97.52,
+      "wpm": 87.7,
+      "points": 9961,
       "ppr": 140
     },
     {
@@ -31,7 +31,7 @@
       "ppr": 137
     },
     {
-      "rank": 305,
+      "rank": 308,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 50,
@@ -41,7 +41,7 @@
       "ppr": 116
     },
     {
-      "rank": 355,
+      "rank": 359,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 32,
@@ -51,7 +51,7 @@
       "ppr": 136
     },
     {
-      "rank": 439,
+      "rank": 445,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 23,
@@ -61,7 +61,7 @@
       "ppr": 114
     },
     {
-      "rank": 500,
+      "rank": 509,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 18,
@@ -71,17 +71,17 @@
       "ppr": 99
     },
     {
-      "rank": 526,
+      "rank": 636,
       "username": "jonathan711111",
       "displayName": "Unknown",
-      "races": 10,
-      "accuracy": 95.93,
-      "wpm": 106.2,
-      "points": 1469,
+      "races": 2,
+      "accuracy": 96.91,
+      "wpm": 102.6,
+      "points": 293,
       "ppr": 147
     },
     {
-      "rank": 670,
+      "rank": 674,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -91,7 +91,7 @@
       "ppr": 135
     },
     {
-      "rank": 675,
+      "rank": 679,
       "username": "mweid2",
       "displayName": "cheese",
       "races": 1,
@@ -101,5 +101,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1792388576825
+  "_syncedAt": 1792390345167
 }
