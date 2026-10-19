@@ -293,7 +293,7 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 182,
+          "rank": 183,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 75,
@@ -303,7 +303,7 @@
           "ppr": 129
         },
         {
-          "rank": 226,
+          "rank": 229,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 51,
@@ -313,7 +313,7 @@
           "ppr": 137
         },
         {
-          "rank": 333,
+          "rank": 340,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 32,
@@ -323,7 +323,7 @@
           "ppr": 118
         },
         {
-          "rank": 437,
+          "rank": 443,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 18,
@@ -333,7 +333,7 @@
           "ppr": 99
         },
         {
-          "rank": 534,
+          "rank": 542,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 2,
@@ -343,7 +343,7 @@
           "ppr": 147
         },
         {
-          "rank": 570,
+          "rank": 580,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -354,7 +354,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792395448237
+      "_syncedAt": 1792398075016
     }
   },
   "order": [
@@ -362,5 +362,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792395448237
+  "_syncedAt": 1792398075016
 }
