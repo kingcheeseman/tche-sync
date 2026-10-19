@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792367876037
+    "_syncedAt": 1792368871338
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792367924814
+    "_syncedAt": 1792368920558
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792367943608
+    "_syncedAt": 1792368939664
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4185,
+    "profileViews": 4187,
     "leagueTier": 11,
     "racers": [
       {
@@ -1720,10 +1720,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18591,
-        "wpm": 89,
+        "allTimeRaces": 18611,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18128,
+        "teamRaces": 18142,
         "acc": 93.95,
         "season": null,
         "status": "active",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117261,
+        "races": 117275,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 808,
-        "avgWPM": 65,
-        "avgAcc": 94.38,
+        "races": 807,
+        "avgWPM": 66,
+        "avgAcc": 94.4,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792368112985
+    "_syncedAt": 1792369109338
   }
 }
