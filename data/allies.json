@@ -224,10 +224,10 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1997,
-        "wpm": 61,
+        "allTimeRaces": 2005,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 951,
+        "teamRaces": 960,
         "acc": 90.36,
         "season": null,
         "status": "active",
@@ -287,7 +287,7 @@
         "acc": 92.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1792174781
+        "lastLogin": 1792408945
       },
       {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
@@ -315,7 +315,7 @@
         "acc": 93.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792370583
+        "lastLogin": 1792410596
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -378,14 +378,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 4957,
-        "wpm": 78,
+        "allTimeRaces": 4960,
+        "wpm": 79,
         "highestWPM": 112,
-        "teamRaces": 521,
-        "acc": 94.95,
+        "teamRaces": 522,
+        "acc": 94.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1792183563
+        "lastLogin": 1792410395
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76812,
+        "races": 76822,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 84,
+        "races": 94,
         "avgWPM": 65,
-        "avgAcc": 92.09,
+        "avgAcc": 91.95,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792408892577
+    "_syncedAt": 1792411199899
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792408911784
+    "_syncedAt": 1792411219201
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792408931169
+    "_syncedAt": 1792411238130
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1900,6 +1900,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792409101010
+    "_syncedAt": 1792411407784
   }
 }
