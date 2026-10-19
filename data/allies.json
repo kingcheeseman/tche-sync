@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2877,
+    "profileViews": 2878,
     "leagueTier": 11,
     "racers": [
       {
@@ -224,11 +224,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2006,
-        "wpm": 65,
+        "allTimeRaces": 2037,
+        "wpm": 63,
         "highestWPM": 90,
-        "teamRaces": 960,
-        "acc": 90.36,
+        "teamRaces": 992,
+        "acc": 90.31,
         "season": null,
         "status": "active",
         "lastLogin": 1792412543
@@ -252,14 +252,14 @@
         "displayName": "Karthik",
         "role": "member",
         "joinStamp": 1775825236,
-        "allTimeRaces": 8337,
-        "wpm": 67,
+        "allTimeRaces": 8345,
+        "wpm": 60,
         "highestWPM": 90,
-        "teamRaces": 1075,
-        "acc": 92.89,
+        "teamRaces": 1079,
+        "acc": 92.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1792069110
+        "lastLogin": 1792414974
       },
       {
         "username": "d805338153c36671f411566bd44c1b95",
@@ -283,8 +283,8 @@
         "allTimeRaces": 1014,
         "wpm": 45,
         "highestWPM": 67,
-        "teamRaces": 11,
-        "acc": 92.82,
+        "teamRaces": 12,
+        "acc": 93.07,
         "season": null,
         "status": "active",
         "lastLogin": 1792412522
@@ -381,7 +381,7 @@
         "allTimeRaces": 4963,
         "wpm": 82,
         "highestWPM": 112,
-        "teamRaces": 526,
+        "teamRaces": 527,
         "acc": 94.94,
         "season": null,
         "status": "active",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76826,
+        "races": 76864,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 98,
-        "avgWPM": 66,
-        "avgAcc": 92.07,
+        "races": 136,
+        "avgWPM": 65,
+        "avgAcc": 91.31,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792412939079
+    "_syncedAt": 1792415697584
   },
   "SVC": {
     "tag": "SVC",
@@ -953,24 +953,24 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1267,
-        "wpm": 62,
+        "allTimeRaces": 1274,
+        "wpm": 61,
         "highestWPM": 81,
-        "teamRaces": 897,
-        "acc": 93.72,
+        "teamRaces": 904,
+        "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1791986009
+        "lastLogin": 1792414268
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 774,
-        "wpm": 83,
+        "allTimeRaces": 780,
+        "wpm": 86,
         "highestWPM": 107,
-        "teamRaces": 358,
+        "teamRaces": 364,
         "acc": 93.71,
         "season": null,
         "status": "active",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39884,
+        "races": 39897,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 7,
-        "avgWPM": 123,
-        "avgAcc": 100,
+        "races": 20,
+        "avgWPM": 91,
+        "avgAcc": 97.07,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792412958015
+    "_syncedAt": 1792415716823
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792412976819
+    "_syncedAt": 1792415735928
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1426,14 +1426,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4536,
-        "wpm": 43,
+        "allTimeRaces": 4544,
+        "wpm": 44,
         "highestWPM": 121,
-        "teamRaces": 1122,
-        "acc": 87.6,
+        "teamRaces": 1130,
+        "acc": 87.59,
         "season": null,
         "status": "active",
-        "lastLogin": 1792168843
+        "lastLogin": 1792414114
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1580,14 +1580,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3033,
-        "wpm": 87,
+        "allTimeRaces": 3037,
+        "wpm": 84,
         "highestWPM": 109,
         "teamRaces": 1072,
         "acc": 93.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1792377576
+        "lastLogin": 1792415635
       },
       {
         "username": "b1ff71ca0563f007c521386dded6fe19",
@@ -1797,7 +1797,7 @@
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792391852
+        "lastLogin": 1792414370
       },
       {
         "username": "legendsince2026",
@@ -1872,20 +1872,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117637,
+        "races": 117645,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 44
       },
       "daily": {
-        "races": 647,
+        "races": 655,
         "avgWPM": 65,
-        "avgAcc": 94.11,
+        "avgAcc": 94.05,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792413145998
+    "_syncedAt": 1792415906021
   }
 }

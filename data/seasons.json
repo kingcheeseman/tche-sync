@@ -293,7 +293,7 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 203,
+          "rank": 204,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 75,
@@ -303,7 +303,7 @@
           "ppr": 129
         },
         {
-          "rank": 255,
+          "rank": 259,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 51,
@@ -313,7 +313,7 @@
           "ppr": 137
         },
         {
-          "rank": 368,
+          "rank": 374,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 32,
@@ -323,7 +323,7 @@
           "ppr": 118
         },
         {
-          "rank": 484,
+          "rank": 501,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 18,
@@ -333,7 +333,17 @@
           "ppr": 99
         },
         {
-          "rank": 525,
+          "rank": 527,
+          "username": "a0604971cedb19bc8237c0b2bd3de21e",
+          "displayName": "I_Am_So_Cheesy",
+          "races": 13,
+          "accuracy": 92.59,
+          "wpm": 52.6,
+          "points": 1520,
+          "ppr": 117
+        },
+        {
+          "rank": 549,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 10,
@@ -343,7 +353,17 @@
           "ppr": 125
         },
         {
-          "rank": 605,
+          "rank": 601,
+          "username": "b12d93562133c1f47d58fd7c2118abd6",
+          "displayName": "Namedisplayed",
+          "races": 5,
+          "accuracy": 93.96,
+          "wpm": 92.5,
+          "points": 687,
+          "ppr": 137
+        },
+        {
+          "rank": 649,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 2,
@@ -353,7 +373,7 @@
           "ppr": 147
         },
         {
-          "rank": 648,
+          "rank": 697,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -364,7 +384,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792412897386
+      "_syncedAt": 1792415654336
     }
   },
   "order": [
@@ -372,5 +392,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792412897386
+  "_syncedAt": 1792415654336
 }

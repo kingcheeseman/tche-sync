@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1922,
+  "profileViews": 1923,
   "leagueTier": 11,
   "racers": [
     {
@@ -419,14 +419,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1183,
-      "wpm": 99,
+      "allTimeRaces": 1188,
+      "wpm": 96,
       "highestWPM": 119,
-      "teamRaces": 836,
+      "teamRaces": 841,
       "acc": 94.5,
       "season": null,
       "status": "active",
-      "lastLogin": 1792184063
+      "lastLogin": 1792413546
     },
     {
       "username": "bf4685c06d7326779d99a38480e88838",
@@ -585,13 +585,13 @@
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
-      "role": "member",
+      "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 386,
-      "wpm": 49,
+      "allTimeRaces": 397,
+      "wpm": 52,
       "highestWPM": 96,
-      "teamRaces": 136,
-      "acc": 91.84,
+      "teamRaces": 149,
+      "acc": 91.95,
       "season": null,
       "status": "active",
       "lastLogin": 1792411922
@@ -683,7 +683,7 @@
     {
       "username": "33e83773380949c7f2fd34d850d93d34",
       "displayName": "KippKat",
-      "role": "officer",
+      "role": "member",
       "joinStamp": 1782491687,
       "allTimeRaces": 952,
       "wpm": 79,
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53675,
+      "races": 53693,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 685,
+      "races": 703,
       "avgWPM": 73,
-      "avgAcc": 96.24,
+      "avgAcc": 96.18,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792412864660
+  "_syncedAt": 1792415620899
 }
