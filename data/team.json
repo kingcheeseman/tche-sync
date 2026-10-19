@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1928,
+  "profileViews": 1929,
   "leagueTier": 11,
   "racers": [
     {
@@ -279,14 +279,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6300,
-      "wpm": 74,
+      "allTimeRaces": 6301,
+      "wpm": 73,
       "highestWPM": 102,
       "teamRaces": 275,
       "acc": 93.15,
       "season": null,
       "status": "active",
-      "lastLogin": 1792353719
+      "lastLogin": 1792435397
     },
     {
       "username": "cash4087",
@@ -573,14 +573,14 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1350,
+      "allTimeRaces": 1360,
       "wpm": 86,
       "highestWPM": 100,
-      "teamRaces": 1,
-      "acc": 95.31,
+      "teamRaces": 11,
+      "acc": 97.06,
       "season": null,
       "status": "active",
-      "lastLogin": 1792430193
+      "lastLogin": 1792434389
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -629,14 +629,14 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 8970,
-      "wpm": 53,
+      "allTimeRaces": 9002,
+      "wpm": 55,
       "highestWPM": 77,
-      "teamRaces": 928,
+      "teamRaces": 954,
       "acc": 80.19,
       "season": null,
       "status": "active",
-      "lastLogin": 1792421345
+      "lastLogin": 1792433966
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53972,
+      "races": 54008,
       "avgWPM": 76,
-      "avgAcc": 95.05,
+      "avgAcc": 95.04,
       "members": 48
     },
     "daily": {
-      "races": 695,
+      "races": 716,
       "avgWPM": 76,
-      "avgAcc": 95.37,
+      "avgAcc": 95,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792433143759
+  "_syncedAt": 1792435525208
 }
