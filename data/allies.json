@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2888,
+    "profileViews": 2889,
     "leagueTier": 11,
     "racers": [
       {
@@ -294,11 +294,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13782,
-        "wpm": 77,
+        "allTimeRaces": 13786,
+        "wpm": 79,
         "highestWPM": 111,
-        "teamRaces": 11567,
-        "acc": 93.3,
+        "teamRaces": 11574,
+        "acc": 93.29,
         "season": null,
         "status": "active",
         "lastLogin": 1792442964
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77179,
+        "races": 77186,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 35
       },
       "daily": {
-        "races": 412,
+        "races": 419,
         "avgWPM": 68,
-        "avgAcc": 91.97,
+        "avgAcc": 91.93,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792443485778
+    "_syncedAt": 1792444727710
   },
   "SVC": {
     "tag": "SVC",
@@ -694,7 +694,7 @@
         "acc": 97.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1792354644
+        "lastLogin": 1792443846
       },
       {
         "username": "66f39f5fbaf65eaa4f808fd2c7939b20",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792443504716
+    "_syncedAt": 1792444746469
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792443523551
+    "_syncedAt": 1792444765286
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4217,
+    "profileViews": 4219,
     "leagueTier": 11,
     "racers": [
       {
@@ -1864,7 +1864,7 @@
         "members": 44
       },
       "daily": {
-        "races": 930,
+        "races": 915,
         "avgWPM": 65,
         "avgAcc": 93.2,
         "members": 44
@@ -1872,6 +1872,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792443693121
+    "_syncedAt": 1792444934712
   }
 }

@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1937,
+  "profileViews": 1938,
   "leagueTier": 11,
   "racers": [
     {
@@ -237,11 +237,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6380,
-      "wpm": 77,
+      "allTimeRaces": 6400,
+      "wpm": 73,
       "highestWPM": 102,
-      "teamRaces": 350,
-      "acc": 93.23,
+      "teamRaces": 368,
+      "acc": 93.26,
       "season": null,
       "status": "active",
       "lastLogin": 1792435397
@@ -545,10 +545,10 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2767,
-      "wpm": 71,
+      "allTimeRaces": 2785,
+      "wpm": 70,
       "highestWPM": 124,
-      "teamRaces": 3105,
+      "teamRaces": 3129,
       "acc": 98.98,
       "season": null,
       "status": "active",
@@ -566,17 +566,17 @@
       "acc": 93.95,
       "season": null,
       "status": "active",
-      "lastLogin": 1792182861
+      "lastLogin": 1792444538
     },
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9038,
-      "wpm": 57,
-      "highestWPM": 77,
-      "teamRaces": 992,
+      "allTimeRaces": 9047,
+      "wpm": 72,
+      "highestWPM": 82,
+      "teamRaces": 1004,
       "acc": 80.09,
       "season": null,
       "status": "active",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54172,
+      "races": 54226,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 44
     },
     "daily": {
-      "races": 848,
+      "races": 864,
       "avgWPM": 76,
-      "avgAcc": 94.17,
+      "avgAcc": 94.03,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792443410899
+  "_syncedAt": 1792444653062
 }
