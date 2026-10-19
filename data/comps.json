@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "1386",
+      "status": "Pending",
+      "title": "New Season Cash Comp",
+      "desc": "1st: 1,000,000 2nd: 500,000 3rd: 100,000 | Enjoy the new season!",
+      "start": "11/29/2026, 08:00 PM",
+      "end": "12/03/2026, 08:00 PM"
+    },
+    {
       "id": "1347",
       "status": "Pending",
       "title": "IMT Ally Celebration Tournament - Championship",
@@ -90,5 +98,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792444675938
+  "_syncedAt": 1792446840534
 }
