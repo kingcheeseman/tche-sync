@@ -264,6 +264,19 @@
       },
       {
         "rank": 21,
+        "tag": "KEYCAT",
+        "username": "haleyyrose",
+        "displayName": "haleyyrose",
+        "nickname": "Filthy Rich",
+        "squad": "Rookie 500",
+        "races": 5,
+        "wpm": 78.4,
+        "accuracy": 93.6,
+        "points": 651,
+        "tier": "A"
+      },
+      {
+        "rank": 22,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -276,7 +289,7 @@
         "tier": "C"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -289,7 +302,7 @@
         "tier": "A"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -302,7 +315,7 @@
         "tier": "B"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -326,21 +339,8 @@
         "accuracy": 91.84,
         "points": 128,
         "tier": "A"
-      },
-      {
-        "rank": 26,
-        "tag": "KEYCAT",
-        "username": "haleyyrose",
-        "displayName": "haleyyrose",
-        "nickname": "Filthy Rich",
-        "squad": "Rookie 500",
-        "races": 1,
-        "wpm": 68.4,
-        "accuracy": 91.56,
-        "points": 123,
-        "tier": "A"
       }
     ],
-    "_syncedAt": 1792411199704
+    "_syncedAt": 1792412938682
   }
 }
