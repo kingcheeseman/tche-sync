@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1916,
+  "profileViews": 1918,
   "leagueTier": 11,
   "racers": [
     {
@@ -48,7 +48,7 @@
       "acc": 94.7,
       "season": null,
       "status": "active",
-      "lastLogin": 1792294630
+      "lastLogin": 1792372004
     },
     {
       "username": "tbnr_andy",
@@ -517,11 +517,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4571,
-      "wpm": 95,
+      "allTimeRaces": 4573,
+      "wpm": 97,
       "highestWPM": 120,
-      "teamRaces": 2146,
-      "acc": 92.5,
+      "teamRaces": 2147,
+      "acc": 92.51,
       "season": null,
       "status": "active",
       "lastLogin": 1792365256
@@ -615,11 +615,11 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2720,
-      "wpm": 72,
+      "allTimeRaces": 2739,
+      "wpm": 68,
       "highestWPM": 124,
-      "teamRaces": 3011,
-      "acc": 98.99,
+      "teamRaces": 3054,
+      "acc": 98.98,
       "season": null,
       "status": "active",
       "lastLogin": 1792370663
@@ -643,11 +643,11 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 8950,
-      "wpm": 51,
+      "allTimeRaces": 8968,
+      "wpm": 53,
       "highestWPM": 77,
-      "teamRaces": 908,
-      "acc": 80.14,
+      "teamRaces": 926,
+      "acc": 80.18,
       "season": null,
       "status": "active",
       "lastLogin": 1792370999
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53540,
+      "races": 53602,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 648,
-      "avgWPM": 77,
-      "avgAcc": 96.15,
+      "races": 710,
+      "avgWPM": 76,
+      "avgAcc": 96.01,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792371162881
+  "_syncedAt": 1792373181968
 }
