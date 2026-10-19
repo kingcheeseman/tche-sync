@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792392727240
+    "_syncedAt": 1792395490654
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792392746063
+    "_syncedAt": 1792395509727
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792392764934
+    "_syncedAt": 1792395529081
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1328,11 +1328,11 @@
         "displayName": "Violets-NTGfor30mil",
         "role": "member",
         "joinStamp": 1792390803,
-        "allTimeRaces": 60773,
-        "wpm": 39,
+        "allTimeRaces": 60795,
+        "wpm": 69,
         "highestWPM": 117,
-        "teamRaces": 38,
-        "acc": 93.32,
+        "teamRaces": 68,
+        "acc": 92.61,
         "season": null,
         "status": "active",
         "lastLogin": 1792392554
@@ -1807,7 +1807,7 @@
         "allTimeRaces": 9159,
         "wpm": 25,
         "highestWPM": 75,
-        "teamRaces": 1727,
+        "teamRaces": 1729,
         "acc": 86.34,
         "season": null,
         "status": "active",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117605,
+        "races": 117637,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 660,
-        "avgWPM": 65,
-        "avgAcc": 93.93,
+        "races": 692,
+        "avgWPM": 63,
+        "avgAcc": 93.86,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792392934423
+    "_syncedAt": 1792395698934
   }
 }
