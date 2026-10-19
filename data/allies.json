@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2876,
+    "profileViews": 2877,
     "leagueTier": 11,
     "racers": [
       {
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792375060070
+    "_syncedAt": 1792376390281
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 55,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1994,
+    "profileViews": 1995,
     "leagueTier": 11,
     "racers": [
       {
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792375079174
+    "_syncedAt": 1792376409084
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1198,7 +1198,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
-    "profileViews": 13,
+    "profileViews": 14,
     "leagueTier": 2,
     "racers": [
       {
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792375098530
+    "_syncedAt": 1792376427801
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4192,
+    "profileViews": 4194,
     "leagueTier": 11,
     "racers": [
       {
@@ -1328,10 +1328,10 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1528,
+        "allTimeRaces": 1540,
         "wpm": 64,
         "highestWPM": 87,
-        "teamRaces": 1222,
+        "teamRaces": 1230,
         "acc": 93.71,
         "season": null,
         "status": "active",
@@ -1720,11 +1720,11 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18644,
-        "wpm": 84,
+        "allTimeRaces": 18660,
+        "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 18184,
-        "acc": 93.95,
+        "teamRaces": 18198,
+        "acc": 93.96,
         "season": null,
         "status": "active",
         "lastLogin": 1792364087
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117397,
+        "races": 117419,
         "avgWPM": 67,
-        "avgAcc": 93.97,
+        "avgAcc": 93.98,
         "members": 45
       },
       "daily": {
-        "races": 706,
+        "races": 726,
         "avgWPM": 63,
-        "avgAcc": 94.23,
+        "avgAcc": 94.25,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792375268115
+    "_syncedAt": 1792376596960
   }
 }
