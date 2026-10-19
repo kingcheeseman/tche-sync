@@ -4,11 +4,37 @@
     "racers": [
       {
         "rank": 1,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 121,
+        "wpm": 90.8,
+        "accuracy": 94.68,
+        "points": 16658,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
+        "tag": "THB0S",
+        "username": "CrazyTyper",
+        "displayName": "CrazyTyper",
+        "nickname": "Not So Koi",
+        "squad": "Officer",
+        "races": 132,
+        "wpm": 63.3,
+        "accuracy": 93.02,
+        "points": 16163,
+        "tier": "B"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Not So Koi",
-        "squad": "Starter Fund",
+        "squad": "Side Hustler 100",
         "races": 100,
         "wpm": 74.5,
         "accuracy": 93.25,
@@ -16,7 +42,7 @@
         "tier": "C"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
@@ -29,7 +55,7 @@
         "tier": "B"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "tag": "IMT",
         "username": "RonaldoSuiii777",
         "displayName": "RonaldoSuiii777",
@@ -42,25 +68,38 @@
         "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "tag": "THB0S",
+        "username": "NitroLegends",
+        "displayName": "NitroLegends",
+        "nickname": "Ghoul Gamer",
+        "squad": "Active!",
+        "races": 47,
+        "wpm": 50.5,
+        "accuracy": 93.52,
+        "points": 5505,
+        "tier": "C"
+      },
+      {
+        "rank": 7,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Investor 1k",
-        "races": 33,
-        "wpm": 93.8,
-        "accuracy": 93.95,
-        "points": 4555,
+        "races": 39,
+        "wpm": 94.4,
+        "accuracy": 93.94,
+        "points": 5392,
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "tag": "IMT",
         "username": "viewmyvioletgarage",
         "displayName": "viewmyvioletgarage",
         "nickname": "Titan",
-        "squad": "Entrepreneur 500",
+        "squad": "Investor 1k",
         "races": 21,
         "wpm": 92.5,
         "accuracy": 92.73,
@@ -68,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -81,7 +120,7 @@
         "tier": "C"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -94,7 +133,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 11,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -107,7 +146,7 @@
         "tier": "B"
       },
       {
-        "rank": 9,
+        "rank": 12,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -120,7 +159,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 13,
         "tag": "KEYCAT",
         "username": "Jamusisthebestever",
         "displayName": "Jamusisthebestever",
@@ -133,7 +172,46 @@
         "tier": "B"
       },
       {
-        "rank": 11,
+        "rank": 14,
+        "tag": "THB0S",
+        "username": "Srivanth",
+        "displayName": "Srivanth",
+        "nickname": "Nitro Rich",
+        "squad": "Loyal",
+        "races": 6,
+        "wpm": 83.3,
+        "accuracy": 93.98,
+        "points": 799,
+        "tier": "A"
+      },
+      {
+        "rank": 15,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Epic Nitro User",
+        "squad": "Officer",
+        "races": 2,
+        "wpm": 38.5,
+        "accuracy": 90.07,
+        "points": 215,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
+        "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 1,
+        "wpm": 74.9,
+        "accuracy": 99.36,
+        "points": 137,
+        "tier": "B"
+      },
+      {
+        "rank": 17,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -146,7 +224,7 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 18,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -157,8 +235,21 @@
         "accuracy": 91.84,
         "points": 128,
         "tier": "A"
+      },
+      {
+        "rank": 19,
+        "tag": "THB0S",
+        "username": "Gt650,",
+        "displayName": "Gt650,",
+        "nickname": "Keyboard Cat",
+        "squad": "Active!",
+        "races": 1,
+        "wpm": 13.6,
+        "accuracy": 86.46,
+        "points": 92,
+        "tier": "C"
       }
     ],
-    "_syncedAt": 1792368871127
+    "_syncedAt": 1792371235085
   }
 }

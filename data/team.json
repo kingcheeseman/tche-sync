@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1914,
+  "profileViews": 1916,
   "leagueTier": 11,
   "racers": [
     {
@@ -517,10 +517,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4564,
-      "wpm": 97,
+      "allTimeRaces": 4571,
+      "wpm": 95,
       "highestWPM": 120,
-      "teamRaces": 2139,
+      "teamRaces": 2146,
       "acc": 92.5,
       "season": null,
       "status": "active",
@@ -615,14 +615,14 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2713,
-      "wpm": 74,
+      "allTimeRaces": 2720,
+      "wpm": 72,
       "highestWPM": 124,
-      "teamRaces": 3003,
+      "teamRaces": 3011,
       "acc": 98.99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792361056
+      "lastLogin": 1792370663
     },
     {
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
@@ -650,7 +650,7 @@
       "acc": 80.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1792185819
+      "lastLogin": 1792370999
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -697,13 +697,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53525,
+      "races": 53540,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 633,
+      "races": 648,
       "avgWPM": 77,
       "avgAcc": 96.15,
       "members": 49
@@ -711,5 +711,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792368797247
+  "_syncedAt": 1792371162881
 }
