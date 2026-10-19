@@ -516,7 +516,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792446890957
+    "_syncedAt": 1792448270211
   },
   "SVC": {
     "tag": "SVC",
@@ -617,14 +617,14 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1464,
-        "wpm": 79,
+        "allTimeRaces": 1473,
+        "wpm": 81,
         "highestWPM": 105,
-        "teamRaces": 370,
-        "acc": 94.35,
+        "teamRaces": 371,
+        "acc": 94.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792275142
+        "lastLogin": 1792447705
       },
       {
         "username": "6a2fc92ea132c463ba9e2b9e91ed44b7",
@@ -1161,21 +1161,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39956,
+        "races": 39957,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 79,
-        "avgWPM": 83,
-        "avgAcc": 95.25,
+        "races": 73,
+        "avgWPM": 79,
+        "avgAcc": 94.53,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792446909771
+    "_syncedAt": 1792448289227
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792446928612
+    "_syncedAt": 1792448308781
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1412,14 +1412,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4598,
+        "allTimeRaces": 4604,
         "wpm": 45,
         "highestWPM": 121,
-        "teamRaces": 1184,
-        "acc": 87.57,
+        "teamRaces": 1190,
+        "acc": 87.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1792433655
+        "lastLogin": 1792447981
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1524,11 +1524,11 @@
         "displayName": "RacerKay",
         "role": "member",
         "joinStamp": 1792017722,
-        "allTimeRaces": 16438,
-        "wpm": 110,
+        "allTimeRaces": 16455,
+        "wpm": 107,
         "highestWPM": 129,
-        "teamRaces": 6,
-        "acc": 97.37,
+        "teamRaces": 22,
+        "acc": 97.66,
         "season": null,
         "status": "active",
         "lastLogin": 1792446927
@@ -1839,7 +1839,7 @@
         "acc": 91.35,
         "season": null,
         "status": "active",
-        "lastLogin": 1792116178
+        "lastLogin": 1792448270
       },
       {
         "username": "500big",
@@ -1872,20 +1872,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118048,
+        "races": 118070,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 900,
-        "avgWPM": 65,
-        "avgAcc": 93.19,
+        "races": 905,
+        "avgWPM": 66,
+        "avgAcc": 93.29,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792447098091
+    "_syncedAt": 1792448478671
   }
 }

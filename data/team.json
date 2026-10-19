@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 43,
+  "members": 42,
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1941,
+  "profileViews": 1942,
   "leagueTier": 11,
   "racers": [
     {
@@ -485,20 +485,6 @@
       "lastLogin": 1792103246
     },
     {
-      "username": "bc97ef334f797414c73ff903b1652e04",
-      "displayName": "Jayden Ouobster",
-      "role": "member",
-      "joinStamp": 1792439772,
-      "allTimeRaces": 3785,
-      "wpm": 70,
-      "highestWPM": 84,
-      "teamRaces": 0,
-      "acc": 0,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792437815
-    },
-    {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
@@ -613,19 +599,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54276,
+      "races": 54284,
       "avgWPM": 76,
       "avgAcc": 95.03,
-      "members": 43
+      "members": 42
     },
     "daily": {
-      "races": 853,
+      "races": 843,
       "avgWPM": 76,
-      "avgAcc": 94.09,
-      "members": 43
+      "avgAcc": 94.05,
+      "members": 42
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792446817656
+  "_syncedAt": 1792448194722
 }

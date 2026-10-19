@@ -725,7 +725,7 @@
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 136
             }
           ],
           "winner": null
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792446882346,
+  "_syncedAt": 1792448261358,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792446886588
+    "_syncedAt": 1792448265687
   }
 }
