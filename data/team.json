@@ -41,10 +41,10 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4673,
-      "wpm": 87,
+      "allTimeRaces": 4681,
+      "wpm": 85,
       "highestWPM": 110,
-      "teamRaces": 487,
+      "teamRaces": 501,
       "acc": 94.76,
       "season": null,
       "status": "active",
@@ -69,11 +69,11 @@
       "displayName": "TrySetBuddy",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1282,
-      "wpm": 88,
+      "allTimeRaces": 1283,
+      "wpm": 90,
       "highestWPM": 105,
-      "teamRaces": 54,
-      "acc": 97.34,
+      "teamRaces": 55,
+      "acc": 97.35,
       "season": null,
       "status": "active",
       "lastLogin": 1792428412
@@ -223,11 +223,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5193,
-      "wpm": 64,
+      "allTimeRaces": 5195,
+      "wpm": 73,
       "highestWPM": 111,
-      "teamRaces": 155,
-      "acc": 94.38,
+      "teamRaces": 166,
+      "acc": 94.4,
       "season": null,
       "status": "active",
       "lastLogin": 1792431038
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53946,
+      "races": 53972,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 48
     },
     "daily": {
-      "races": 682,
+      "races": 695,
       "avgWPM": 76,
-      "avgAcc": 95.32,
+      "avgAcc": 95.37,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792431484154
+  "_syncedAt": 1792433143759
 }
