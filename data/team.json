@@ -307,10 +307,10 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 2000,
-      "wpm": 77,
+      "allTimeRaces": 2010,
+      "wpm": 80,
       "highestWPM": 104,
-      "teamRaces": 545,
+      "teamRaces": 555,
       "acc": 90.53,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53614,
+      "races": 53624,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 635,
-      "avgWPM": 73,
-      "avgAcc": 96.09,
+      "races": 645,
+      "avgWPM": 74,
+      "avgAcc": 95.99,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792398041018
+  "_syncedAt": 1792400682611
 }

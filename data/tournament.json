@@ -143,9 +143,9 @@
               "seed": "25",
               "racer": "- 9te -",
               "teamTag": "IMT",
-              "gold": true,
+              "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 1250
             },
             {
               "seed": "40",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792398108569,
+  "_syncedAt": 1792400748809,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792398113159
+    "_syncedAt": 1792400753116
   }
 }

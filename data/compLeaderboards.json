@@ -225,6 +225,19 @@
       },
       {
         "rank": 18,
+        "tag": "IMT",
+        "username": "- 9te -",
+        "displayName": "- 9te -",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Entrepreneur 500",
+        "races": 10,
+        "wpm": 80,
+        "accuracy": 89.28,
+        "points": 1250,
+        "tier": "B"
+      },
+      {
+        "rank": 19,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -237,7 +250,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "KEYCAT",
         "username": "Jamusisthebestever",
         "displayName": "Jamusisthebestever",
@@ -250,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -263,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -289,7 +302,7 @@
         "tier": "B"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "IMT",
         "username": "cheese",
         "displayName": "cheese",
@@ -315,6 +328,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792398117459
+    "_syncedAt": 1792400757271
   }
 }
