@@ -35,10 +35,10 @@
         "displayName": "RonaldoSuiii777",
         "nickname": "Mechanic",
         "squad": "Side Hustler 100",
-        "races": 42,
+        "races": 50,
         "wpm": 54.2,
-        "accuracy": 91.67,
-        "points": 4894,
+        "accuracy": 91.56,
+        "points": 5818,
         "tier": "C"
       },
       {
@@ -48,10 +48,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Investor 1k",
-        "races": 25,
-        "wpm": 93.7,
-        "accuracy": 94.17,
-        "points": 3458,
+        "races": 33,
+        "wpm": 93.8,
+        "accuracy": 93.95,
+        "points": 4555,
         "tier": "A"
       },
       {
@@ -159,6 +159,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792366317045
+    "_syncedAt": 1792367875891
   }
 }

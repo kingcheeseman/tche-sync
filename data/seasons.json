@@ -293,7 +293,7 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 85,
+          "rank": 94,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 75,
@@ -303,27 +303,27 @@
           "ppr": 129
         },
         {
-          "rank": 202,
+          "rank": 183,
           "username": "taylorja32",
           "displayName": "Void Racer",
-          "races": 25,
-          "accuracy": 94.17,
-          "wpm": 93.7,
-          "points": 3458,
+          "races": 33,
+          "accuracy": 93.95,
+          "wpm": 93.8,
+          "points": 4555,
           "ppr": 138
         },
         {
-          "rank": 217,
+          "rank": 206,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
-          "races": 24,
-          "accuracy": 92.89,
-          "wpm": 55.1,
-          "points": 2843,
+          "races": 32,
+          "accuracy": 92.4,
+          "wpm": 54.8,
+          "points": 3767,
           "ppr": 118
         },
         {
-          "rank": 352,
+          "rank": 373,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -334,7 +334,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792366277941
+      "_syncedAt": 1792367837087
     }
   },
   "order": [
@@ -342,5 +342,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792366277941
+  "_syncedAt": 1792367837087
 }

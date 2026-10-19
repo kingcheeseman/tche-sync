@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1913,
+  "profileViews": 1914,
   "leagueTier": 11,
   "racers": [
     {
@@ -475,14 +475,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3222,
-      "wpm": 56,
+      "allTimeRaces": 3230,
+      "wpm": 55,
       "highestWPM": 107,
-      "teamRaces": 164,
-      "acc": 92.75,
+      "teamRaces": 172,
+      "acc": 92.7,
       "season": null,
       "status": "active",
-      "lastLogin": 1792357697
+      "lastLogin": 1792366836
     },
     {
       "username": "booomtype",
@@ -517,10 +517,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4560,
-      "wpm": 99,
+      "allTimeRaces": 4564,
+      "wpm": 97,
       "highestWPM": 120,
-      "teamRaces": 2135,
+      "teamRaces": 2139,
       "acc": 92.5,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53513,
+      "races": 53525,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 622,
+      "races": 633,
       "avgWPM": 77,
-      "avgAcc": 96.21,
+      "avgAcc": 96.15,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792366244142
+  "_syncedAt": 1792367805171
 }

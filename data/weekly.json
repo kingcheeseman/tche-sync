@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 112,
+      "rank": 119,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 128
     },
     {
-      "rank": 118,
+      "rank": 123,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 85,
@@ -21,7 +21,7 @@
       "ppr": 140
     },
     {
-      "rank": 179,
+      "rank": 186,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 52,
@@ -31,17 +31,27 @@
       "ppr": 146
     },
     {
-      "rank": 257,
+      "rank": 238,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
-      "races": 42,
-      "accuracy": 91.67,
+      "races": 50,
+      "accuracy": 91.56,
       "wpm": 54.2,
-      "points": 4894,
-      "ppr": 117
+      "points": 5818,
+      "ppr": 116
     },
     {
-      "rank": 274,
+      "rank": 279,
+      "username": "taylorja32",
+      "displayName": "Void Racer",
+      "races": 33,
+      "accuracy": 93.95,
+      "wpm": 93.8,
+      "points": 4555,
+      "ppr": 138
+    },
+    {
+      "rank": 285,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "races": 32,
@@ -51,17 +61,7 @@
       "ppr": 136
     },
     {
-      "rank": 303,
-      "username": "taylorja32",
-      "displayName": "Void Racer",
-      "races": 25,
-      "accuracy": 94.17,
-      "wpm": 93.7,
-      "points": 3458,
-      "ppr": 138
-    },
-    {
-      "rank": 337,
+      "rank": 353,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 23,
@@ -71,7 +71,7 @@
       "ppr": 114
     },
     {
-      "rank": 534,
+      "rank": 547,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -81,7 +81,7 @@
       "ppr": 135
     },
     {
-      "rank": 540,
+      "rank": 553,
       "username": "mweid2",
       "displayName": "cheese",
       "races": 1,
@@ -91,5 +91,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1792366287079
+  "_syncedAt": 1792367845948
 }
