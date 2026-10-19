@@ -224,10 +224,10 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2069,
-        "wpm": 64,
+        "allTimeRaces": 2071,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 1024,
+        "teamRaces": 1026,
         "acc": 90.25,
         "season": null,
         "status": "active",
@@ -280,11 +280,11 @@
         "displayName": "RALSEI",
         "role": "member",
         "joinStamp": 1792163292,
-        "allTimeRaces": 1019,
-        "wpm": 71,
-        "highestWPM": 86,
-        "teamRaces": 17,
-        "acc": 93.07,
+        "allTimeRaces": 1020,
+        "wpm": 102,
+        "highestWPM": 102,
+        "teamRaces": 18,
+        "acc": 93.52,
         "season": null,
         "status": "active",
         "lastLogin": 1792423897
@@ -516,13 +516,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76974,
+        "races": 76977,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 246,
+        "races": 249,
         "avgWPM": 69,
         "avgAcc": 91.21,
         "members": 36
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792424467085
+    "_syncedAt": 1792426346725
   },
   "SVC": {
     "tag": "SVC",
@@ -953,11 +953,11 @@
         "displayName": "EmeraldLimePheasant",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1277,
-        "wpm": 61,
+        "allTimeRaces": 1295,
+        "wpm": 67,
         "highestWPM": 81,
-        "teamRaces": 906,
-        "acc": 93.73,
+        "teamRaces": 925,
+        "acc": 93.75,
         "season": null,
         "status": "active",
         "lastLogin": 1792424296
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39901,
+        "races": 39920,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 24,
-        "avgWPM": 88,
-        "avgAcc": 96.72,
+        "races": 43,
+        "avgWPM": 78,
+        "avgAcc": 95.99,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792424486046
+    "_syncedAt": 1792426365441
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792424504828
+    "_syncedAt": 1792426384125
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1289,8 +1289,8 @@
         "allTimeRaces": 5128,
         "wpm": 99,
         "highestWPM": 121,
-        "teamRaces": 392,
-        "acc": 95.48,
+        "teamRaces": 394,
+        "acc": 95.47,
         "season": null,
         "status": "active",
         "lastLogin": 1792423778
@@ -1356,11 +1356,11 @@
         "displayName": "ben the fem",
         "role": "member",
         "joinStamp": 1787588225,
-        "allTimeRaces": 3213,
-        "wpm": 70,
+        "allTimeRaces": 3218,
+        "wpm": 68,
         "highestWPM": 105,
-        "teamRaces": 1148,
-        "acc": 93.12,
+        "teamRaces": 1154,
+        "acc": 93.13,
         "season": null,
         "status": "active",
         "lastLogin": 1792424605
@@ -1454,10 +1454,10 @@
         "displayName": "Luke B",
         "role": "member",
         "joinStamp": 1790726139,
-        "allTimeRaces": 2826,
-        "wpm": 60,
+        "allTimeRaces": 2827,
+        "wpm": 59,
         "highestWPM": 76,
-        "teamRaces": 260,
+        "teamRaces": 261,
         "acc": 91.97,
         "season": null,
         "status": "active",
@@ -1566,10 +1566,10 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2208,
-        "wpm": 44,
+        "allTimeRaces": 2211,
+        "wpm": 45,
         "highestWPM": 85,
-        "teamRaces": 791,
+        "teamRaces": 794,
         "acc": 89.57,
         "season": null,
         "status": "active",
@@ -1678,14 +1678,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14018,
+        "allTimeRaces": 14039,
         "wpm": 76,
         "highestWPM": 99,
-        "teamRaces": 729,
+        "teamRaces": 742,
         "acc": 95.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792087132
+        "lastLogin": 1792425556
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1872,20 +1872,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117892,
+        "races": 117917,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 44
       },
       "daily": {
-        "races": 892,
+        "races": 916,
         "avgWPM": 66,
-        "avgAcc": 93.4,
+        "avgAcc": 93.44,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792424673862
+    "_syncedAt": 1792426553518
   }
 }

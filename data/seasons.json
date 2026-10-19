@@ -293,7 +293,7 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 223,
+          "rank": 227,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 75,
@@ -303,17 +303,27 @@
           "ppr": 129
         },
         {
-          "rank": 257,
+          "rank": 237,
           "username": "taylorja32",
           "displayName": "Void Racer",
-          "races": 59,
-          "accuracy": 93.52,
-          "wpm": 92.5,
-          "points": 8071,
-          "ppr": 137
+          "races": 67,
+          "accuracy": 93.21,
+          "wpm": 92.1,
+          "points": 9122,
+          "ppr": 136
         },
         {
-          "rank": 436,
+          "rank": 387,
+          "username": "teraceeben21",
+          "displayName": "t_unknown",
+          "races": 37,
+          "accuracy": 93.45,
+          "wpm": 66.8,
+          "points": 4612,
+          "ppr": 125
+        },
+        {
+          "rank": 450,
           "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
           "displayName": "RonaldoSuiii777",
           "races": 32,
@@ -323,7 +333,7 @@
           "ppr": 118
         },
         {
-          "rank": 463,
+          "rank": 483,
           "username": "sidoh",
           "displayName": "PootsyWafflebiscuits",
           "races": 24,
@@ -333,7 +343,7 @@
           "ppr": 142
         },
         {
-          "rank": 474,
+          "rank": 494,
           "username": "a0604971cedb19bc8237c0b2bd3de21e",
           "displayName": "I_Am_So_Cheesy",
           "races": 28,
@@ -343,7 +353,17 @@
           "ppr": 117
         },
         {
-          "rank": 544,
+          "rank": 512,
+          "username": "cash4087",
+          "displayName": "WindMaker",
+          "races": 21,
+          "accuracy": 96.56,
+          "wpm": 97,
+          "points": 3012,
+          "ppr": 143
+        },
+        {
+          "rank": 567,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 18,
@@ -353,17 +373,7 @@
           "ppr": 138
         },
         {
-          "rank": 548,
-          "username": "cash4087",
-          "displayName": "WindMaker",
-          "races": 17,
-          "accuracy": 96.97,
-          "wpm": 97.9,
-          "points": 2456,
-          "ppr": 144
-        },
-        {
-          "rank": 594,
+          "rank": 621,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 20,
@@ -373,7 +383,7 @@
           "ppr": 100
         },
         {
-          "rank": 675,
+          "rank": 707,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 10,
@@ -383,7 +393,7 @@
           "ppr": 125
         },
         {
-          "rank": 714,
+          "rank": 748,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 6,
@@ -393,7 +403,7 @@
           "ppr": 145
         },
         {
-          "rank": 864,
+          "rank": 905,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -401,20 +411,10 @@
           "wpm": 78.4,
           "points": 128,
           "ppr": 128
-        },
-        {
-          "rank": 896,
-          "username": "teraceeben21",
-          "displayName": "t_unknown",
-          "races": 1,
-          "accuracy": 87.85,
-          "wpm": 41.8,
-          "points": 106,
-          "ppr": 106
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792424424891
+      "_syncedAt": 1792426305328
     }
   },
   "order": [
@@ -422,5 +422,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792424424891
+  "_syncedAt": 1792426305328
 }
