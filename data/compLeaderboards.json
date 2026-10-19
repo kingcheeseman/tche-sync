@@ -9,10 +9,10 @@
         "displayName": "CrazyTyper",
         "nickname": "Not So Koi",
         "squad": "Loyal",
-        "races": 155,
-        "wpm": 63.2,
+        "races": 193,
+        "wpm": 63,
         "accuracy": 93.09,
-        "points": 18990,
+        "points": 23626,
         "tier": "B"
       },
       {
@@ -22,10 +22,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 133,
-        "wpm": 90.2,
-        "accuracy": 94.6,
-        "points": 18255,
+        "races": 152,
+        "wpm": 90.8,
+        "accuracy": 94.62,
+        "points": 20911,
         "tier": "A"
       },
       {
@@ -61,11 +61,11 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Investor 1k",
-        "races": 42,
-        "wpm": 94.9,
-        "accuracy": 94.01,
-        "points": 5821,
-        "tier": "A"
+        "races": 51,
+        "wpm": 93.1,
+        "accuracy": 93.74,
+        "points": 7006,
+        "tier": "B"
       },
       {
         "rank": 6,
@@ -289,6 +289,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792376390108
+    "_syncedAt": 1792378620465
   }
 }
