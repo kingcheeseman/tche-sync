@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 42,
+  "members": 43,
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
@@ -258,7 +258,7 @@
       "acc": 96.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1792426667
+      "lastLogin": 1792449271
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -447,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4646,
-      "wpm": 95,
+      "allTimeRaces": 4666,
+      "wpm": 92,
       "highestWPM": 120,
-      "teamRaces": 2221,
+      "teamRaces": 2239,
       "acc": 92.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792440469
+      "lastLogin": 1792448676
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -482,7 +482,7 @@
       "acc": 92.24,
       "season": null,
       "status": "active",
-      "lastLogin": 1792103246
+      "lastLogin": 1792448882
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -539,6 +539,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792443305
+    },
+    {
+      "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
+      "displayName": "reteyrhyj",
+      "role": "member",
+      "joinStamp": 1792448692,
+      "allTimeRaces": 5297,
+      "wpm": 85,
+      "highestWPM": 103,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792446503
     },
     {
       "username": "me_likey_typey",
@@ -599,19 +613,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54284,
+      "races": 54304,
       "avgWPM": 76,
       "avgAcc": 95.03,
-      "members": 42
+      "members": 43
     },
     "daily": {
-      "races": 843,
-      "avgWPM": 76,
-      "avgAcc": 94.05,
-      "members": 42
+      "races": 818,
+      "avgWPM": 77,
+      "avgAcc": 93.78,
+      "members": 43
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792448194722
+  "_syncedAt": 1792450372215
 }
