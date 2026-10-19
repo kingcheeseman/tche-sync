@@ -139,14 +139,14 @@
       "displayName": "LeoRuna",
       "role": "member",
       "joinStamp": 1783524162,
-      "allTimeRaces": 7949,
-      "wpm": 68,
+      "allTimeRaces": 7953,
+      "wpm": 69,
       "highestWPM": 107,
-      "teamRaces": 469,
+      "teamRaces": 470,
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1792210126
+      "lastLogin": 1792427868
     },
     {
       "username": "1ea0b919208e21b376a29ac0befb794c",
@@ -223,11 +223,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5182,
-      "wpm": 67,
+      "allTimeRaces": 5184,
+      "wpm": 66,
       "highestWPM": 111,
-      "teamRaces": 153,
-      "acc": 94.41,
+      "teamRaces": 155,
+      "acc": 94.38,
       "season": null,
       "status": "active",
       "lastLogin": 1792423643
@@ -293,14 +293,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3710,
-      "wpm": 96,
+      "allTimeRaces": 3740,
+      "wpm": 101,
       "highestWPM": 120,
-      "teamRaces": 61,
-      "acc": 96.73,
+      "teamRaces": 87,
+      "acc": 96.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1792420167
+      "lastLogin": 1792426667
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -538,7 +538,7 @@
       "acc": 94.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1792272833
+      "lastLogin": 1792428091
     },
     {
       "username": "58a11fcd1c239126faca23a88c0463c9",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 53840,
+      "races": 53869,
       "avgWPM": 76,
       "avgAcc": 95.05,
       "members": 49
     },
     "daily": {
-      "races": 610,
-      "avgWPM": 74,
-      "avgAcc": 95.06,
+      "races": 639,
+      "avgWPM": 75,
+      "avgAcc": 95.16,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792426273854
+  "_syncedAt": 1792428130364
 }

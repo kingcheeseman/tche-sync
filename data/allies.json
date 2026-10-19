@@ -98,14 +98,14 @@
         "displayName": "prismaticbeam",
         "role": "member",
         "joinStamp": 1789581515,
-        "allTimeRaces": 528,
+        "allTimeRaces": 529,
         "wpm": 77,
         "highestWPM": 96,
-        "teamRaces": 77,
-        "acc": 93.71,
+        "teamRaces": 78,
+        "acc": 93.72,
         "season": null,
         "status": "active",
-        "lastLogin": 1792170604
+        "lastLogin": 1792426474
       },
       {
         "username": "c8819cadbfe243837c5545b372cb3cd1",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76977,
+        "races": 76978,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 249,
+        "races": 250,
         "avgWPM": 69,
-        "avgAcc": 91.21,
+        "avgAcc": 91.22,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792426346725
+    "_syncedAt": 1792428204752
   },
   "SVC": {
     "tag": "SVC",
@@ -617,14 +617,14 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1742,
-        "wpm": 86,
+        "allTimeRaces": 1760,
+        "wpm": 85,
         "highestWPM": 114,
-        "teamRaces": 350,
+        "teamRaces": 368,
         "acc": 94.51,
         "season": null,
         "status": "active",
-        "lastLogin": 1792001032
+        "lastLogin": 1792426509
       },
       {
         "username": "longeater",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39920,
+        "races": 39938,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 43,
-        "avgWPM": 78,
-        "avgAcc": 95.99,
+        "races": 61,
+        "avgWPM": 81,
+        "avgAcc": 95.49,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792426365441
+    "_syncedAt": 1792428223755
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792426384125
+    "_syncedAt": 1792428242689
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1678,14 +1678,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14039,
-        "wpm": 76,
+        "allTimeRaces": 14048,
+        "wpm": 78,
         "highestWPM": 99,
-        "teamRaces": 742,
-        "acc": 95.98,
+        "teamRaces": 756,
+        "acc": 95.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792425556
+        "lastLogin": 1792427762
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1872,20 +1872,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117917,
+        "races": 117931,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 44
       },
       "daily": {
-        "races": 916,
+        "races": 923,
         "avgWPM": 66,
-        "avgAcc": 93.44,
+        "avgAcc": 93.45,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792426553518
+    "_syncedAt": 1792428412146
   }
 }

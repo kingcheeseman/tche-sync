@@ -585,7 +585,7 @@
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 134
             },
             {
               "seed": "35",
@@ -629,7 +629,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 3012
+              "score": 5206
             },
             {
               "seed": "46",
@@ -673,7 +673,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 4612
+              "score": 6085
             },
             {
               "seed": "38",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792426338322,
+  "_syncedAt": 1792428196022,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792426342434
+    "_syncedAt": 1792428200326
   }
 }
