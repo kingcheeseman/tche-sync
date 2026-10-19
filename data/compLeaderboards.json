@@ -9,10 +9,10 @@
         "displayName": "CrazyTyper",
         "nickname": "Not So Koi",
         "squad": "Loyal",
-        "races": 193,
+        "races": 198,
         "wpm": 63,
-        "accuracy": 93.09,
-        "points": 23626,
+        "accuracy": 93.12,
+        "points": 24248,
         "tier": "B"
       },
       {
@@ -22,10 +22,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 152,
+        "races": 156,
         "wpm": 90.8,
-        "accuracy": 94.62,
-        "points": 20911,
+        "accuracy": 94.59,
+        "points": 21454,
         "tier": "A"
       },
       {
@@ -289,6 +289,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792378620465
+    "_syncedAt": 1792379973715
   }
 }
