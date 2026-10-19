@@ -43,7 +43,7 @@
               "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
-              "score": 1782
+              "score": 2000
             }
           ],
           "winner": null
@@ -101,7 +101,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 9886
+              "score": 12907
             },
             {
               "seed": "48",
@@ -109,10 +109,10 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 729
             }
           ],
-          "winner": null
+          "winner": 0
         },
         {
           "id": "Match 2273",
@@ -175,10 +175,10 @@
               "teamTag": "IMT",
               "gold": true,
               "placeholder": false,
-              "score": null
+              "score": 3406
             }
           ],
-          "winner": null
+          "winner": 1
         },
         {
           "id": "Match 2276",
@@ -189,7 +189,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 7006
+              "score": 8071
             },
             {
               "seed": "41",
@@ -255,7 +255,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 3888
+              "score": 4762
             },
             {
               "seed": "52",
@@ -299,7 +299,7 @@
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": 1628
+              "score": 4985
             },
             {
               "seed": "60",
@@ -329,7 +329,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 687
+              "score": 2481
             }
           ],
           "winner": null
@@ -373,7 +373,7 @@
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
-              "score": 799
+              "score": 1067
             }
           ],
           "winner": null
@@ -395,7 +395,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 1593
+              "score": 6381
             }
           ],
           "winner": 0
@@ -453,7 +453,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 6807
+              "score": 8399
             },
             {
               "seed": "47",
@@ -497,7 +497,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 2924
             },
             {
               "seed": "39",
@@ -519,7 +519,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 293
+              "score": 873
             },
             {
               "seed": "55",
@@ -530,7 +530,7 @@
               "score": 364
             }
           ],
-          "winner": 1
+          "winner": 0
         },
         {
           "id": "Match 2292",
@@ -563,7 +563,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": null
+              "score": 3523
             },
             {
               "seed": "62",
@@ -607,7 +607,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 782
+              "score": 4159
             },
             {
               "seed": "51",
@@ -629,7 +629,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 2456
             },
             {
               "seed": "46",
@@ -651,7 +651,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": null
+              "score": 7947
             },
             {
               "seed": "59",
@@ -673,7 +673,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 106
             },
             {
               "seed": "38",
@@ -684,7 +684,7 @@
               "score": 818
             }
           ],
-          "winner": null
+          "winner": 1
         },
         {
           "id": "Match 2299",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792418172756,
+  "_syncedAt": 1792424457895,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792418177125
+    "_syncedAt": 1792424462161
   }
 }
