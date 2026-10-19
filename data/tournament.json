@@ -101,7 +101,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 1413
+              "score": 3380
             },
             {
               "seed": "48",
@@ -189,7 +189,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 5686
+              "score": 5821
             },
             {
               "seed": "41",
@@ -255,7 +255,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 3651
             },
             {
               "seed": "52",
@@ -387,7 +387,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 17452
+              "score": 17588
             },
             {
               "seed": "63",
@@ -475,7 +475,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 16163
+              "score": 18622
             },
             {
               "seed": "58",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792373246099,
+  "_syncedAt": 1792375050853,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792373250271
+    "_syncedAt": 1792375055334
   }
 }

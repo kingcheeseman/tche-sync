@@ -224,11 +224,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 1979,
+        "allTimeRaces": 1981,
         "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 926,
-        "acc": 90.37,
+        "teamRaces": 936,
+        "acc": 90.36,
         "season": null,
         "status": "active",
         "lastLogin": 1792372280
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76774,
+        "races": 76784,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 48,
+        "races": 58,
         "avgWPM": 64,
-        "avgAcc": 92.29,
+        "avgAcc": 91.7,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792373254402
+    "_syncedAt": 1792375060070
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792373273196
+    "_syncedAt": 1792375079174
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792373292068
+    "_syncedAt": 1792375098530
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4191,
+    "profileViews": 4192,
     "leagueTier": 11,
     "racers": [
       {
@@ -1307,7 +1307,7 @@
         "acc": 92.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792285412
+        "lastLogin": 1792374512
       },
       {
         "username": "frareynolds",
@@ -1328,11 +1328,11 @@
         "displayName": "CrazyTyper",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1510,
-        "wpm": 61,
+        "allTimeRaces": 1528,
+        "wpm": 64,
         "highestWPM": 87,
-        "teamRaces": 1203,
-        "acc": 93.7,
+        "teamRaces": 1222,
+        "acc": 93.71,
         "season": null,
         "status": "active",
         "lastLogin": 1792373036
@@ -1720,10 +1720,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18641,
-        "wpm": 85,
+        "allTimeRaces": 18644,
+        "wpm": 84,
         "highestWPM": 123,
-        "teamRaces": 18181,
+        "teamRaces": 18184,
         "acc": 93.95,
         "season": null,
         "status": "active",
@@ -1776,11 +1776,11 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5798,
-        "wpm": 87,
+        "allTimeRaces": 5815,
+        "wpm": 84,
         "highestWPM": 109,
-        "teamRaces": 190,
-        "acc": 94.8,
+        "teamRaces": 208,
+        "acc": 94.7,
         "season": null,
         "status": "active",
         "lastLogin": 1792372507
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 117357,
+        "races": 117397,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 45
       },
       "daily": {
-        "races": 694,
+        "races": 706,
         "avgWPM": 63,
-        "avgAcc": 94.3,
+        "avgAcc": 94.23,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792373461487
+    "_syncedAt": 1792375268115
   }
 }
