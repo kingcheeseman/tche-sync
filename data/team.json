@@ -5,7 +5,7 @@
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1929,
+  "profileViews": 1933,
   "leagueTier": 11,
   "racers": [
     {
@@ -69,14 +69,14 @@
       "displayName": "TrySetBuddy",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1283,
-      "wpm": 90,
+      "allTimeRaces": 1284,
+      "wpm": 91,
       "highestWPM": 105,
-      "teamRaces": 55,
-      "acc": 97.35,
+      "teamRaces": 56,
+      "acc": 97.37,
       "season": null,
       "status": "active",
-      "lastLogin": 1792428412
+      "lastLogin": 1792435878
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -279,11 +279,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6301,
-      "wpm": 73,
+      "allTimeRaces": 6327,
+      "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 275,
-      "acc": 93.15,
+      "teamRaces": 300,
+      "acc": 93.25,
       "season": null,
       "status": "active",
       "lastLogin": 1792435397
@@ -629,11 +629,11 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9002,
-      "wpm": 55,
+      "allTimeRaces": 9035,
+      "wpm": 59,
       "highestWPM": 77,
-      "teamRaces": 954,
-      "acc": 80.19,
+      "teamRaces": 992,
+      "acc": 80.09,
       "season": null,
       "status": "active",
       "lastLogin": 1792433966
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54008,
+      "races": 54072,
       "avgWPM": 76,
-      "avgAcc": 95.04,
+      "avgAcc": 95.03,
       "members": 48
     },
     "daily": {
-      "races": 716,
-      "avgWPM": 76,
-      "avgAcc": 95,
+      "races": 778,
+      "avgWPM": 75,
+      "avgAcc": 94.26,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792435525208
+  "_syncedAt": 1792437525802
 }
