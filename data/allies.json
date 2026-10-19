@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2886,
+    "profileViews": 2887,
     "leagueTier": 11,
     "racers": [
       {
@@ -28,14 +28,14 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2671,
-        "wpm": 66,
+        "allTimeRaces": 2682,
+        "wpm": 71,
         "highestWPM": 88,
-        "teamRaces": 294,
-        "acc": 91.47,
+        "teamRaces": 305,
+        "acc": 91.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1792180765
+        "lastLogin": 1792438543
       },
       {
         "username": "slushy_da_goat",
@@ -168,14 +168,14 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5653,
-        "wpm": 69,
+        "allTimeRaces": 5662,
+        "wpm": 78,
         "highestWPM": 100,
-        "teamRaces": 809,
-        "acc": 94.68,
+        "teamRaces": 819,
+        "acc": 94.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792437413
+        "lastLogin": 1792438662
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -203,7 +203,7 @@
         "acc": 90.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1792435195
+        "lastLogin": 1792438404
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -294,10 +294,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13744,
-        "wpm": 77,
+        "allTimeRaces": 13773,
+        "wpm": 84,
         "highestWPM": 111,
-        "teamRaces": 11535,
+        "teamRaces": 11556,
         "acc": 93.3,
         "season": null,
         "status": "active",
@@ -322,25 +322,25 @@
         "displayName": "CATS R GR8 ALT",
         "role": "member",
         "joinStamp": 1775584352,
-        "allTimeRaces": 1272,
-        "wpm": 74,
+        "allTimeRaces": 1285,
+        "wpm": 77,
         "highestWPM": 99,
-        "teamRaces": 1017,
-        "acc": 93.84,
+        "teamRaces": 1030,
+        "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1792152417
+        "lastLogin": 1792437998
       },
       {
         "username": "soap2x",
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2484,
-        "wpm": 68,
+        "allTimeRaces": 2491,
+        "wpm": 62,
         "highestWPM": 83,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 7,
+        "acc": 95.54,
         "season": null,
         "status": "active",
         "lastLogin": 1792436422
@@ -502,21 +502,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77077,
+        "races": 77139,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 35
       },
       "daily": {
-        "races": 322,
-        "avgWPM": 65,
-        "avgAcc": 91.39,
+        "races": 372,
+        "avgWPM": 67,
+        "avgAcc": 91.75,
         "members": 35
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792437612421
+    "_syncedAt": 1792439902416
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792437631847
+    "_syncedAt": 1792439921324
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792437650704
+    "_syncedAt": 1792439940224
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1236,7 +1236,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4214,
+    "profileViews": 4215,
     "leagueTier": 11,
     "racers": [
       {
@@ -1265,7 +1265,7 @@
         "acc": 96.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792254958
+        "lastLogin": 1792439278
       },
       {
         "username": "1aae40d4e717fbfd0765a622f5febaea",
@@ -1552,14 +1552,14 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2253,
+        "allTimeRaces": 2255,
         "wpm": 42,
         "highestWPM": 85,
-        "teamRaces": 836,
-        "acc": 89.62,
+        "teamRaces": 838,
+        "acc": 89.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1792429064
+        "lastLogin": 1792438910
       },
       {
         "username": "srivanthvadlamudi",
@@ -1622,14 +1622,14 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6189,
-        "wpm": 69,
+        "allTimeRaces": 6190,
+        "wpm": 68,
         "highestWPM": 98,
         "teamRaces": 43,
         "acc": 84.52,
         "season": null,
         "status": "active",
-        "lastLogin": 1792191962
+        "lastLogin": 1792439941
       },
       {
         "username": "dd156d382c3032a69fb260ced2dd6ba5",
@@ -1858,20 +1858,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118020,
+        "races": 118022,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 44
       },
       "daily": {
-        "races": 995,
+        "races": 973,
         "avgWPM": 65,
-        "avgAcc": 93.39,
+        "avgAcc": 93.35,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792437820149
+    "_syncedAt": 1792440109772
   }
 }
