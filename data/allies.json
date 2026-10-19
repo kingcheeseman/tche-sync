@@ -84,14 +84,14 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3948,
-        "wpm": 74,
+        "allTimeRaces": 3958,
+        "wpm": 77,
         "highestWPM": 97,
-        "teamRaces": 3147,
+        "teamRaces": 3149,
         "acc": 95.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792033965
+        "lastLogin": 1792386468
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 76797,
+        "races": 76799,
         "avgWPM": 55,
         "avgAcc": 93.55,
         "members": 36
       },
       "daily": {
-        "races": 71,
+        "races": 72,
         "avgWPM": 64,
-        "avgAcc": 91.53,
+        "avgAcc": 91.69,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792384873447
+    "_syncedAt": 1792386925295
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,13 +1189,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792384892363
+    "_syncedAt": 1792386945855
   },
   "IMTR": {
     "tag": "IMTR",
     "name": "IMT Retired Racers",
     "members": 2,
-    "activePercent": 50,
+    "activePercent": 0,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
     "profileViews": 14,
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792384911306
+    "_syncedAt": 1792386964976
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1892,14 +1892,14 @@
         "members": 45
       },
       "daily": {
-        "races": 617,
-        "avgWPM": 67,
-        "avgAcc": 93.96,
+        "races": 582,
+        "avgWPM": 68,
+        "avgAcc": 93.97,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792385080921
+    "_syncedAt": 1792387134840
   }
 }

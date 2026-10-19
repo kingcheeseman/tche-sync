@@ -52,7 +52,7 @@
         "wpm": 87.8,
         "accuracy": 97.52,
         "points": 9263,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 5,
@@ -65,7 +65,7 @@
         "wpm": 93.1,
         "accuracy": 93.74,
         "points": 7006,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 6,
@@ -302,6 +302,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792384873259
+    "_syncedAt": 1792386925086
   }
 }
