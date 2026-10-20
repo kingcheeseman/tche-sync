@@ -293,13 +293,13 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 177,
+          "rank": 142,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 166,
-          "accuracy": 96.79,
+          "races": 206,
+          "accuracy": 96.75,
           "wpm": 89.1,
-          "points": 23228,
+          "points": 28806,
           "ppr": 140
         },
         {
@@ -313,7 +313,7 @@
           "ppr": 128
         },
         {
-          "rank": 216,
+          "rank": 217,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 136,
@@ -353,7 +353,7 @@
           "ppr": 145
         },
         {
-          "rank": 442,
+          "rank": 443,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 60,
@@ -433,7 +433,7 @@
           "ppr": 138
         },
         {
-          "rank": 989,
+          "rank": 990,
           "username": "6240c5f6dad57c347bcff59a0e6afbcc",
           "displayName": "LeoRuna",
           "races": 11,
@@ -443,7 +443,7 @@
           "ppr": 134
         },
         {
-          "rank": 1027,
+          "rank": 1028,
           "username": "47f3f60e491637ed70f8ada27ed45f03",
           "displayName": "- 9te -",
           "races": 10,
@@ -453,7 +453,7 @@
           "ppr": 125
         },
         {
-          "rank": 1087,
+          "rank": 1089,
           "username": "jonathan711111",
           "displayName": "Unknown",
           "races": 6,
@@ -463,7 +463,7 @@
           "ppr": 145
         },
         {
-          "rank": 1121,
+          "rank": 1122,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 5,
@@ -473,7 +473,7 @@
           "ppr": 133
         },
         {
-          "rank": 1194,
+          "rank": 1195,
           "username": "b117a6ca4001a9faee6bbeef4cb5f746",
           "displayName": "IM A BOT OK, TRUST",
           "races": 3,
@@ -483,7 +483,7 @@
           "ppr": 119
         },
         {
-          "rank": 1232,
+          "rank": 1233,
           "username": "61d10b8f23f7f8535f91a789fc7c0895",
           "displayName": "The Queen",
           "races": 2,
@@ -493,7 +493,7 @@
           "ppr": 129
         },
         {
-          "rank": 1315,
+          "rank": 1316,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -504,7 +504,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792475772092
+      "_syncedAt": 1792477089185
     }
   },
   "order": [
@@ -512,5 +512,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792475772093
+  "_syncedAt": 1792477089185
 }

@@ -1,13 +1,13 @@
 {
   "racers": [
     {
-      "rank": 126,
+      "rank": 117,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 264,
-      "accuracy": 97.02,
+      "races": 291,
+      "accuracy": 96.96,
       "wpm": 88.5,
-      "points": 36950,
+      "points": 40706,
       "ppr": 140
     },
     {
@@ -21,7 +21,7 @@
       "ppr": 128
     },
     {
-      "rank": 236,
+      "rank": 237,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 136,
@@ -91,7 +91,7 @@
       "ppr": 115
     },
     {
-      "rank": 573,
+      "rank": 574,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 50,
@@ -161,7 +161,7 @@
       "ppr": 138
     },
     {
-      "rank": 1025,
+      "rank": 1026,
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
       "displayName": "LeoRuna",
       "races": 11,
@@ -181,7 +181,7 @@
       "ppr": 125
     },
     {
-      "rank": 1165,
+      "rank": 1166,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 5,
@@ -191,7 +191,7 @@
       "ppr": 133
     },
     {
-      "rank": 1241,
+      "rank": 1242,
       "username": "b117a6ca4001a9faee6bbeef4cb5f746",
       "displayName": "IM A BOT OK, TRUST",
       "races": 3,
@@ -201,7 +201,7 @@
       "ppr": 119
     },
     {
-      "rank": 1278,
+      "rank": 1279,
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
       "displayName": "The Queen",
       "races": 2,
@@ -211,7 +211,7 @@
       "ppr": 129
     },
     {
-      "rank": 1354,
+      "rank": 1355,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -221,7 +221,7 @@
       "ppr": 135
     },
     {
-      "rank": 1367,
+      "rank": 1368,
       "username": "mweid2",
       "displayName": "cheese",
       "races": 1,
@@ -231,5 +231,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1792475781485
+  "_syncedAt": 1792477098303
 }
