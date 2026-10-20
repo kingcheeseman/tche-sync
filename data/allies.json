@@ -171,7 +171,7 @@
         "allTimeRaces": 5695,
         "wpm": 72,
         "highestWPM": 100,
-        "teamRaces": 851,
+        "teamRaces": 852,
         "acc": 94.74,
         "season": null,
         "status": "active",
@@ -544,21 +544,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77637,
+        "races": 77638,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 38
       },
       "daily": {
-        "races": 451,
+        "races": 439,
         "avgWPM": 69,
-        "avgAcc": 93.24,
+        "avgAcc": 93.42,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792530590038
+    "_syncedAt": 1792532332960
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792530608822
+    "_syncedAt": 1792532351969
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792530627666
+    "_syncedAt": 1792532370788
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4284,
+    "profileViews": 4285,
     "leagueTier": 11,
     "racers": [
       {
@@ -1769,7 +1769,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792528683
+        "lastLogin": 1792532533
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1930,11 +1930,11 @@
         "displayName": "Patrick Jane",
         "role": "member",
         "joinStamp": 1792449531,
-        "allTimeRaces": 3912,
-        "wpm": 77,
+        "allTimeRaces": 3917,
+        "wpm": 85,
         "highestWPM": 115,
-        "teamRaces": 27,
-        "acc": 92.24,
+        "teamRaces": 32,
+        "acc": 92.28,
         "season": null,
         "status": "active",
         "lastLogin": 1792529159
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118662,
+        "races": 118667,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 626,
+        "races": 628,
         "avgWPM": 76,
-        "avgAcc": 94.33,
+        "avgAcc": 94.32,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792530797113
+    "_syncedAt": 1792532540076
   }
 }
