@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 36,
-    "activePercent": 88,
+    "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2895,
@@ -441,7 +441,7 @@
         "acc": 93.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792460243
+        "lastLogin": 1792469223
       },
       {
         "username": "happygoluckygirl07",
@@ -522,21 +522,21 @@
         "members": 36
       },
       "daily": {
-        "races": 493,
+        "races": 480,
         "avgWPM": 74,
-        "avgAcc": 92.47,
+        "avgAcc": 92.51,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792466437286
+    "_syncedAt": 1792470141347
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 45,
-    "activePercent": 55,
+    "activePercent": 51,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 2010,
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792466461918
+    "_syncedAt": 1792470160412
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792466480872
+    "_syncedAt": 1792470179243
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1328,14 +1328,14 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1596,
+        "allTimeRaces": 1597,
         "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1290,
+        "teamRaces": 1291,
         "acc": 93.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792457048
+        "lastLogin": 1792469345
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1510,14 +1510,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8524,
-        "wpm": 71,
+        "allTimeRaces": 8538,
+        "wpm": 72,
         "highestWPM": 95,
-        "teamRaces": 977,
-        "acc": 97.38,
+        "teamRaces": 991,
+        "acc": 97.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1792380303
+        "lastLogin": 1792466952
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1762,14 +1762,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5836,
-        "wpm": 80,
+        "allTimeRaces": 5837,
+        "wpm": 79,
         "highestWPM": 109,
-        "teamRaces": 229,
-        "acc": 94.71,
+        "teamRaces": 230,
+        "acc": 94.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792457171
+        "lastLogin": 1792467618
       },
       {
         "username": "nev444ehh",
@@ -1853,7 +1853,7 @@
         "acc": 93.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1792454844
+        "lastLogin": 1792467032
       },
       {
         "username": "comet_eclipse",
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118231,
+        "races": 118247,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 760,
+        "races": 755,
         "avgWPM": 67,
-        "avgAcc": 93.53,
+        "avgAcc": 93.6,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792466650542
+    "_syncedAt": 1792470348620
   }
 }

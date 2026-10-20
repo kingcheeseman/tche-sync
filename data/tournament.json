@@ -57,7 +57,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 9263
+              "score": 16419
             },
             {
               "seed": "33",
@@ -167,7 +167,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 271
+              "score": 2113
             },
             {
               "seed": "56",
@@ -255,7 +255,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 6635
+              "score": 6760
             },
             {
               "seed": "52",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792466427452,
+  "_syncedAt": 1792470132580,
   "seeding": {
     "racers": [
       {
@@ -2345,21 +2345,8 @@
         "accuracy": 87.89,
         "points": 124,
         "tier": "B"
-      },
-      {
-        "rank": 70,
-        "tag": "THB0S",
-        "username": "SeriouslyTypes 2k",
-        "displayName": "SeriouslyTypes 2k",
-        "nickname": "Champion Chaser",
-        "squad": null,
-        "races": 1,
-        "wpm": 46.1,
-        "accuracy": 93.28,
-        "points": 115,
-        "tier": "A"
       }
     ],
-    "_syncedAt": 1792466431966
+    "_syncedAt": 1792470136846
   }
 }
