@@ -83,7 +83,7 @@
     const root = document.getElementById("root");
     const page = (root && root.dataset.page) || "home";
     state.page = page;
-    document.title = page === "home" ? `${TEAM_TAG} Dashboard` : `${TEAM_TAG} · ` + LABELS[page];
+    document.title = page === "home" ? `${TEAM_TAG} Dashboard` : `${TEAM_TAG} · ` + (LABELS[page] || "Racer");
     // Check admin from session
     try { state.isAdmin = sessionStorage.getItem("tcheAdmin") === "1"; } catch(_) {}
     // Build shell + initial empty render
@@ -1237,6 +1237,7 @@
       else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
       else if (p === "info") view.innerHTML = renderInfo();
+      else if (p === "racer") view.innerHTML = staleBanner() + renderRacerProfile();
       else view.innerHTML = `<div class="empty"><h3>Unknown page</h3><p>Open <a href="${PAGES.home}">Home</a>.</p></div>`;
       wireHandlers();
     } catch(e) {
@@ -1570,7 +1571,7 @@
           <div class="podium-card p${i+1}">
             <div class="podium-badge">${i+1}</div>
             <div class="podium-position">${positions[i]}</div>
-            <div class="podium-name"><a href="${NT_RACER_URL(r.username)}" target="_blank" rel="noopener" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
+            <div class="podium-name"><a href="racer.html?u=${encodeURIComponent(r.username)}" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
             <div class="podium-handle">@${esc(r.username)}</div>
             <div class="podium-stats">
               <div><div class="podium-stat-k">Avg WPM</div><div class="podium-stat-v">${fmt(extract.wpm(r))}</div></div>
@@ -1618,6 +1619,7 @@
             <a href="${NT_RACER_URL(r.username)}" target="_blank" rel="noopener">${esc(r.displayName || r.username)}</a>
             ${isNew ? '<span class="pill pill-gold" style="margin-left:6px;">New</span>' : ''}
             <div class="name-sub">@${esc(r.username)}${r.role && r.role !== "member" ? ` · ${esc(r.role)}` : ""} ${activePill}</div>
+            <a class="profile-link" href="racer.html?u=${encodeURIComponent(r.username)}">View profile →</a>
             ${note && note.text ? `<div class="racer-note">💬 ${esc(note.text)}</div>` : ""}
             ${state.isAdmin ? `<button class="note-edit-btn" data-note-user="${esc(r.username)}">${note && note.text ? "Edit note" : "+ Add note"}</button>` : ""}
           </td>
@@ -1646,7 +1648,7 @@
             const dailyRaces = (dailyMap[r.username] && dailyMap[r.username].races) || 0;
             return `
               <div class="compare-card">
-                <div class="compare-name">${esc(r.displayName || r.username)}</div>
+                <div class="compare-name"><a href="racer.html?u=${encodeURIComponent(r.username)}" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
                 <div class="compare-handle">@${esc(r.username)}</div>
                 <div class="compare-stats">
                   <div><div class="compare-k">Avg WPM</div><div class="compare-v">${fmt(r.wpm)}</div></div>
@@ -1709,6 +1711,164 @@
           <tbody>${rows || `<tr><td colspan="10" style="padding:40px; text-align:center; color: var(--text-dim);">No racers match this filter.</td></tr>`}</tbody>
         </table>
       </div>
+    `;
+  }
+
+  // ----- RACER PROFILE -----
+  function renderRacerProfile() {
+    const params = new URLSearchParams(location.search);
+    const username = params.get("u") || params.get("user") || "";
+    const t = state.team;
+    if (!t || !Array.isArray(t.racers)) return emptyState("No roster data yet", "Sync the team to load racer profiles.");
+    const racer = t.racers.find(r => r.username === username);
+    if (!racer) {
+      return emptyState("Racer not found", `No one on the roster matches "${username}".`) +
+        `<p style="text-align:center;"><a href="${PAGES.racers}">← Back to Racers</a></p>`;
+    }
+    document.title = `${TEAM_TAG} · ${racer.displayName || racer.username}`;
+
+    const now = Date.now();
+    const DAY_MS = 86400000;
+    const DAILY_REQ = 20, WEEKLY_REQ = 100;
+
+    const weeklyMap = {};
+    if (state.weekly && Array.isArray(state.weekly.racers)) state.weekly.racers.forEach(r => { weeklyMap[r.username] = r; });
+    const dailyMap = {};
+    if (state.daily && Array.isArray(state.daily.racers)) state.daily.racers.forEach(r => { dailyMap[r.username] = r; });
+    const weekly = weeklyMap[username];
+    const daily = dailyMap[username];
+
+    const curSeasonKey = state.seasons && state.seasons.currentValue;
+    const curSeasonRacers = (state.seasons && state.seasons.seasons && curSeasonKey && state.seasons.seasons[curSeasonKey] && state.seasons.seasons[curSeasonKey].racers) || [];
+    const seasonRow = curSeasonRacers.find(r => r.username === username);
+
+    const lastSeenMs = racer.lastLogin ? now - racer.lastLogin * 1000 : null;
+    const activePill = lastSeenMs == null ? ""
+      : lastSeenMs < DAY_MS ? `<span class="pill pill-green">Active today</span>`
+      : lastSeenMs < 7 * DAY_MS ? `<span class="pill pill-yellow">${Math.floor(lastSeenMs/DAY_MS)}d ago</span>`
+      : `<span class="pill pill-gray">${Math.floor(lastSeenMs/DAY_MS)}d away</span>`;
+    const joinedTxt = racer.joinStamp ? new Date(racer.joinStamp * 1000).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) : "—";
+
+    const goalBar = (count, req) => {
+      const pct = Math.min(100, Math.round((count / req) * 100));
+      const cls = count >= req ? "weekly-bar-met" : count >= req * 0.6 ? "weekly-bar-ok" : "weekly-bar-low";
+      return `
+        <div class="weekly-cell" style="align-items:flex-start;">
+          <div class="weekly-num">${fmt(count)}<span class="weekly-of">/${req}</span></div>
+          <div class="weekly-bar-wrap"><div class="weekly-bar ${cls}" style="width:${pct}%;"></div></div>
+        </div>`;
+    };
+
+    const statGrid = `
+      <div class="stat-grid">
+        <div class="stat"><div class="stat-label">Avg WPM</div><div class="stat-value">${fmt(racer.wpm)}</div></div>
+        <div class="stat"><div class="stat-label">Top WPM</div><div class="stat-value">${fmt(racer.highestWPM)}</div></div>
+        <div class="stat"><div class="stat-label">Accuracy</div><div class="stat-value">${fmt(racer.acc)}%</div></div>
+        <div class="stat"><div class="stat-label">Total races</div><div class="stat-value">${fmt(racer.allTimeRaces)}</div></div>
+        <div class="stat"><div class="stat-label">Team races</div><div class="stat-value">${fmt(racer.teamRaces)}</div></div>
+        ${seasonRow ? `<div class="stat highlight"><div class="stat-label">Season points</div><div class="stat-value">${fmt(seasonRow.points)}</div><div class="stat-sub">Rank #${fmt(seasonRow.rank)}</div></div>` : ""}
+      </div>`;
+
+    const goalsSection = `
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">Goal progress</h3></div>
+        <div class="compare-grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr));">
+          <div><div class="compare-k">Today</div>${daily ? goalBar(daily.races, DAILY_REQ) : `<span class="text-muted" style="font-size:13px;">No Startrack data yet</span>`}</div>
+          <div><div class="compare-k">This week</div>${weekly ? goalBar(weekly.races, WEEKLY_REQ) : `<span class="text-muted" style="font-size:13px;">No Startrack data yet</span>`}</div>
+        </div>
+      </div>`;
+
+    // Competitions this racer has appeared in (any tracked event leaderboard)
+    const compsEvents = (state.comps && Array.isArray(state.comps.events)) ? state.comps.events : [];
+    const compRows = [];
+    Object.entries(state.compLeaderboards || {}).forEach(([eventId, lb]) => {
+      const lbRacers = (lb && Array.isArray(lb.racers)) ? lb.racers : (Array.isArray(lb) ? lb : []);
+      const row = lbRacers.find(r => r.username === username);
+      if (row) {
+        const ev = compsEvents.find(c => String(c.id) === String(eventId));
+        compRows.push({ eventId, title: (ev && ev.title) || `Event ${eventId}`, status: ev && ev.status, ...row });
+      }
+    });
+    const compsSection = compRows.length ? `
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">Competitions</h3></div>
+        <div class="table-wrap">
+          <table class="racers">
+            <thead><tr><th>Event</th><th style="text-align:right;">Rank</th><th style="text-align:right;">Races</th><th style="text-align:right;">WPM</th><th style="text-align:right;">Accuracy</th><th style="text-align:right;">Points</th><th>Tier</th></tr></thead>
+            <tbody>${compRows.map(r => `
+              <tr>
+                <td>${esc(r.title)}${r.status ? ` <span class="text-muted" style="font-size:11px;">(${esc(r.status)})</span>` : ""}</td>
+                <td class="num rank-cell">${fmt(r.rank)}</td>
+                <td class="num">${fmt(r.races)}</td>
+                <td class="num">${fmt(r.wpm)}</td>
+                <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                <td class="num num-primary">${fmt(r.points)}</td>
+                <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
+              </tr>`).join("")}</tbody>
+          </table>
+        </div>
+      </div>` : "";
+
+    // Tournament match history
+    const tour = state.tournament;
+    const tourMatches = [];
+    if (tour && Array.isArray(tour.rounds)) {
+      tour.rounds.forEach(round => {
+        (round.matches || []).forEach(m => {
+          const players = m.players || [];
+          const myIdx = players.findIndex(p => p && p.racer === username);
+          if (myIdx === -1) return;
+          const opp = players[1 - myIdx];
+          const decided = players.length === 2 && players.every(p => p && !p.placeholder);
+          tourMatches.push({ round: round.label, me: players[myIdx], opp, won: decided && m.winner === myIdx, decided });
+        });
+      });
+    }
+    const tourSection = tourMatches.length ? `
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">Tournament · ${esc((tour && tour.name) || "")}</h3></div>
+        <div class="table-wrap">
+          <table class="racers">
+            <thead><tr><th>Round</th><th>Opponent</th><th style="text-align:right;">Score</th><th style="text-align:right;">Opp. score</th><th>Result</th></tr></thead>
+            <tbody>${tourMatches.map(tm => `
+              <tr>
+                <td>${esc(tm.round)}</td>
+                <td>${tm.opp && !tm.opp.placeholder ? esc(tm.opp.racer) + (tm.opp.teamTag ? ` <span class="text-muted" style="font-size:11px;">[${esc(tm.opp.teamTag)}]</span>` : "") : "TBD"}</td>
+                <td class="num">${fmt(tm.me.score)}</td>
+                <td class="num">${tm.opp ? fmt(tm.opp.score) : "—"}</td>
+                <td>${!tm.decided ? `<span class="pill pill-gray">Pending</span>` : tm.won ? `<span class="pill pill-green">Won</span>` : `<span class="pill pill-yellow">Lost</span>`}</td>
+              </tr>`).join("")}</tbody>
+          </table>
+        </div>
+      </div>` : "";
+
+    const note = state.notes[username];
+    const noteSection = state.isAdmin ? `
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">Admin note</h3></div>
+        ${note && note.text ? `<p class="racer-note" style="font-size:14px; max-width:none;">💬 ${esc(note.text)}</p>` : `<p class="text-dim" style="margin:0 0 6px;">No note yet.</p>`}
+        <button class="note-edit-btn" data-note-user="${esc(username)}">${note && note.text ? "Edit note" : "+ Add note"}</button>
+      </div>` : "";
+
+    return `
+      <div class="page-head">
+        <div>
+          <div class="page-eyebrow"><a href="${PAGES.racers}">← Racers</a></div>
+          <h1 class="page-title">${esc(racer.displayName || racer.username)}</h1>
+          <p class="page-sub">@${esc(racer.username)}${racer.role && racer.role !== "member" ? ` · ${esc(racer.role)}` : ""} ${activePill} · Joined ${esc(joinedTxt)} · <a href="${NT_RACER_URL(racer.username)}" target="_blank" rel="noopener">View on Nitro Type →</a></p>
+        </div>
+      </div>
+
+      <div class="card" style="margin-bottom:20px;">${statGrid}</div>
+      ${goalsSection}
+      ${compsSection}
+      ${tourSection}
+
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">React</h3></div>
+        ${renderReactionBar("racer-" + username)}
+      </div>
+      ${noteSection}
     `;
   }
 

@@ -1106,6 +1106,15 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
   padding: 2px 0;
 }
 .note-edit-btn:hover { text-decoration: underline; }
+.profile-link {
+  display: inline-block;
+  margin-top: 4px;
+  color: var(--gold-strong);
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 600;
+}
+.profile-link:hover { text-decoration: underline; }
 
 /* COMPARE */
 .compare-check { accent-color: var(--gold); width: 16px; height: 16px; cursor: pointer; }
