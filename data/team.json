@@ -1,10 +1,10 @@
 {
   "tag": "IMT",
-  "name": "Immortals III",
+  "name": "Immortal Legends",
   "members": 44,
   "activePercent": 93,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
+  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!",
   "profileViews": 1952,
   "leagueTier": 11,
   "racers": [
@@ -307,14 +307,14 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1242,
-      "wpm": 105,
+      "allTimeRaces": 1250,
+      "wpm": 101,
       "highestWPM": 129,
-      "teamRaces": 106,
-      "acc": 96.59,
+      "teamRaces": 114,
+      "acc": 96.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792417860
+      "lastLogin": 1792501096
     },
     {
       "username": "wsoccerboy0929",
@@ -356,7 +356,7 @@
       "acc": 93.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1792003969
+      "lastLogin": 1792501627
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -447,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4667,
-      "wpm": 91,
+      "allTimeRaces": 4680,
+      "wpm": 83,
       "highestWPM": 120,
-      "teamRaces": 2242,
-      "acc": 92.53,
+      "teamRaces": 2255,
+      "acc": 92.52,
       "season": null,
       "status": "active",
-      "lastLogin": 1792495894
+      "lastLogin": 1792500911
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -503,14 +503,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 425,
-      "wpm": 51,
+      "allTimeRaces": 459,
+      "wpm": 54,
       "highestWPM": 96,
-      "teamRaces": 177,
-      "acc": 92.01,
+      "teamRaces": 211,
+      "acc": 92.19,
       "season": null,
       "status": "active",
-      "lastLogin": 1792429461
+      "lastLogin": 1792499442
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54695,
+      "races": 54750,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 44
     },
     "daily": {
-      "races": 1020,
+      "races": 1057,
       "avgWPM": 80,
-      "avgAcc": 94.55,
+      "avgAcc": 94.51,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792498670783
+  "_syncedAt": 1792501878752
 }
