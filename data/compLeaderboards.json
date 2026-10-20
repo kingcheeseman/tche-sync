@@ -4,6 +4,19 @@
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 205,
+        "wpm": 88.7,
+        "accuracy": 97.02,
+        "points": 28713,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -16,7 +29,7 @@
         "tier": "C"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -27,19 +40,6 @@
         "accuracy": 93.23,
         "points": 25629,
         "tier": "C"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 176,
-        "wpm": 88.7,
-        "accuracy": 97.09,
-        "points": 24672,
-        "tier": "A"
       },
       {
         "rank": 4,
@@ -135,6 +135,19 @@
       {
         "rank": 11,
         "tag": "THB0S",
+        "username": "The Ghost",
+        "displayName": "The Ghost",
+        "nickname": "RIP",
+        "squad": "Newbies!",
+        "races": 66,
+        "wpm": 80.8,
+        "accuracy": 94.43,
+        "points": 8751,
+        "tier": "B"
+      },
+      {
+        "rank": 12,
+        "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
         "nickname": "Nitro Rich",
@@ -146,7 +159,7 @@
         "tier": "B"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
@@ -159,7 +172,7 @@
         "tier": "C"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -170,19 +183,6 @@
         "accuracy": 96.74,
         "points": 8120,
         "tier": "A"
-      },
-      {
-        "rank": 14,
-        "tag": "THB0S",
-        "username": "The Ghost",
-        "displayName": "The Ghost",
-        "nickname": "I Love Cats",
-        "squad": "Newbies!",
-        "races": 61,
-        "wpm": 81.4,
-        "accuracy": 94.42,
-        "points": 8103,
-        "tier": "B"
       },
       {
         "rank": 15,
@@ -260,7 +260,7 @@
         "wpm": 79.3,
         "accuracy": 95.57,
         "points": 6673,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 21,
@@ -429,7 +429,7 @@
         "wpm": 50.5,
         "accuracy": 88.69,
         "points": 3444,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 34,
@@ -507,7 +507,7 @@
         "wpm": 78.1,
         "accuracy": 94.4,
         "points": 2100,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 40,
@@ -598,7 +598,7 @@
         "wpm": 74.9,
         "accuracy": 95.26,
         "points": 1702,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 47,
@@ -965,6 +965,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792472276523
+    "_syncedAt": 1792473626307
   }
 }
