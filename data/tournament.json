@@ -343,7 +343,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": null
+              "score": 3837
             },
             {
               "seed": "53",
@@ -354,7 +354,7 @@
               "score": 868
             }
           ],
-          "winner": null
+          "winner": 0
         },
         {
           "id": "Match 2284",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792462655096,
+  "_syncedAt": 1792465046537,
   "seeding": {
     "racers": [
       {
@@ -2360,6 +2360,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792462659181
+    "_syncedAt": 1792465050535
   }
 }
