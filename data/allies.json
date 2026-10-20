@@ -31,7 +31,7 @@
         "allTimeRaces": 2710,
         "wpm": 61,
         "highestWPM": 88,
-        "teamRaces": 332,
+        "teamRaces": 333,
         "acc": 91.43,
         "season": null,
         "status": "active",
@@ -112,14 +112,14 @@
         "displayName": "How_Random",
         "role": "member",
         "joinStamp": 1789582243,
-        "allTimeRaces": 2266,
+        "allTimeRaces": 2267,
         "wpm": 81,
         "highestWPM": 100,
-        "teamRaces": 96,
+        "teamRaces": 97,
         "acc": 95.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1791565154
+        "lastLogin": 1792505499
       },
       {
         "username": "bf60bb92cfa7c5f84cc4932cb845bacf",
@@ -203,7 +203,7 @@
         "acc": 90.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1792495221
+        "lastLogin": 1792505630
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -252,11 +252,11 @@
         "displayName": "weak kingsley",
         "role": "member",
         "joinStamp": 1792163292,
-        "allTimeRaces": 1031,
-        "wpm": 42,
+        "allTimeRaces": 1038,
+        "wpm": 83,
         "highestWPM": 102,
-        "teamRaces": 21,
-        "acc": 93,
+        "teamRaces": 36,
+        "acc": 92.05,
         "season": null,
         "status": "active",
         "lastLogin": 1792503343
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77397,
+        "races": 77414,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 513,
-        "avgWPM": 73,
-        "avgAcc": 92.46,
+        "races": 490,
+        "avgWPM": 71,
+        "avgAcc": 92.52,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792504163520
+    "_syncedAt": 1792506169219
   },
   "SVC": {
     "tag": "SVC",
@@ -634,8 +634,8 @@
         "allTimeRaces": 1479,
         "wpm": 82,
         "highestWPM": 105,
-        "teamRaces": 383,
-        "acc": 94.4,
+        "teamRaces": 385,
+        "acc": 94.41,
         "season": null,
         "status": "active",
         "lastLogin": 1792503909
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40008,
+        "races": 40010,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 111,
+        "races": 113,
         "avgWPM": 76,
-        "avgAcc": 94.12,
+        "avgAcc": 94.16,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792504182833
+    "_syncedAt": 1792506188252
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,16 +1227,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792504201873
+    "_syncedAt": 1792506207136
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
+    "members": 48,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4248,
+    "profileViews": 4249,
     "leagueTier": 11,
     "racers": [
       {
@@ -1426,14 +1426,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4604,
-        "wpm": 45,
+        "allTimeRaces": 4618,
+        "wpm": 49,
         "highestWPM": 121,
-        "teamRaces": 1190,
-        "acc": 87.58,
+        "teamRaces": 1204,
+        "acc": 87.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792499255
+        "lastLogin": 1792505363
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1548,18 +1548,32 @@
         "lastLogin": 1792068736
       },
       {
+        "username": "mwhit4",
+        "displayName": "Mwhit4",
+        "role": "member",
+        "joinStamp": 1792505481,
+        "allTimeRaces": 7678,
+        "wpm": 59,
+        "highestWPM": 73,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792501678
+      },
+      {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2263,
-        "wpm": 42,
+        "allTimeRaces": 2271,
+        "wpm": 45,
         "highestWPM": 85,
-        "teamRaces": 846,
+        "teamRaces": 854,
         "acc": 89.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792452797
+        "lastLogin": 1792505273
       },
       {
         "username": "srivanthvadlamudi",
@@ -1811,7 +1825,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792502371
+        "lastLogin": 1792506361
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1846,14 +1860,14 @@
         "displayName": "NitroLegends",
         "role": "member",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2910,
-        "wpm": 28,
+        "allTimeRaces": 2926,
+        "wpm": 41,
         "highestWPM": 70,
-        "teamRaces": 723,
-        "acc": 93.77,
+        "teamRaces": 735,
+        "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1792502271
+        "lastLogin": 1792504910
       },
       {
         "username": "comet_eclipse",
@@ -1900,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118303,
+        "races": 118337,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 47
+        "members": 48
       },
       "daily": {
-        "races": 636,
+        "races": 628,
         "avgWPM": 73,
-        "avgAcc": 93.88,
-        "members": 47
+        "avgAcc": 93.96,
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792504371669
+    "_syncedAt": 1792506376739
   }
 }
