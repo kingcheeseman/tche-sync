@@ -550,15 +550,15 @@
         "members": 38
       },
       "daily": {
-        "races": 439,
+        "races": 438,
         "avgWPM": 69,
-        "avgAcc": 93.42,
+        "avgAcc": 93.44,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792532332960
+    "_syncedAt": 1792534175781
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792532351969
+    "_syncedAt": 1792534194738
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792532370788
+    "_syncedAt": 1792534213687
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4285,
+    "profileViews": 4286,
     "leagueTier": 11,
     "racers": [
       {
@@ -1608,14 +1608,14 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2275,
-        "wpm": 47,
+        "allTimeRaces": 2279,
+        "wpm": 46,
         "highestWPM": 85,
-        "teamRaces": 858,
+        "teamRaces": 862,
         "acc": 89.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792525956
+        "lastLogin": 1792532793
       },
       {
         "username": "srivanthvadlamudi",
@@ -1881,7 +1881,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792506361
+        "lastLogin": 1792533710
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1937,7 +1937,7 @@
         "acc": 92.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792529159
+        "lastLogin": 1792533487
       },
       {
         "username": "malott12",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118667,
+        "races": 118671,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 628,
-        "avgWPM": 76,
-        "avgAcc": 94.32,
+        "races": 614,
+        "avgWPM": 75,
+        "avgAcc": 94.24,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792532540076
+    "_syncedAt": 1792534383299
   }
 }

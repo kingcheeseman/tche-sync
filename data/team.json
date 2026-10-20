@@ -4,8 +4,8 @@
   "members": 44,
   "activePercent": 93,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!",
-  "profileViews": 1969,
+  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
+  "profileViews": 1972,
   "leagueTier": 11,
   "racers": [
     {
@@ -447,11 +447,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4696,
-      "wpm": 92,
+      "allTimeRaces": 4719,
+      "wpm": 91,
       "highestWPM": 120,
-      "teamRaces": 2267,
-      "acc": 92.52,
+      "teamRaces": 2285,
+      "acc": 92.53,
       "season": null,
       "status": "active",
       "lastLogin": 1792530749
@@ -559,14 +559,14 @@
       "displayName": "reteyrhyj",
       "role": "member",
       "joinStamp": 1792448692,
-      "allTimeRaces": 5306,
-      "wpm": 77,
+      "allTimeRaces": 5314,
+      "wpm": 78,
       "highestWPM": 103,
-      "teamRaces": 9,
-      "acc": 89.7,
+      "teamRaces": 17,
+      "acc": 90.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1792524729
+      "lastLogin": 1792533005
     },
     {
       "username": "me_likey_typey",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55157,
+      "races": 55183,
       "avgWPM": 76,
-      "avgAcc": 95.03,
+      "avgAcc": 95.02,
       "members": 44
     },
     "daily": {
-      "races": 890,
+      "races": 907,
       "avgWPM": 79,
-      "avgAcc": 94.76,
+      "avgAcc": 94.72,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792532269925
+  "_syncedAt": 1792534097695
 }
