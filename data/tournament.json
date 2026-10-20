@@ -775,7 +775,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 734
+              "score": 1230
             }
           ],
           "winner": null
@@ -951,7 +951,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 1911
+              "score": 2014
             }
           ],
           "winner": null
@@ -1031,7 +1031,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 2392
+              "score": 2537
             },
             {
               "seed": "19",
@@ -1039,10 +1039,10 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 439
             }
           ],
-          "winner": null
+          "winner": 0
         },
         {
           "id": "Match 2315",
@@ -1053,7 +1053,7 @@
               "teamTag": "THB0S",
               "gold": true,
               "placeholder": false,
-              "score": 821
+              "score": 1627
             },
             {
               "seed": "27",
@@ -1061,7 +1061,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 2750
+              "score": 4262
             }
           ],
           "winner": 1
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792510034879,
+  "_syncedAt": 1792511965188,
   "seeding": {
     "racers": [
       {
@@ -2347,6 +2347,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792510039022
+    "_syncedAt": 1792511969371
   }
 }
