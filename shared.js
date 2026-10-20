@@ -67,7 +67,7 @@
     currentSeasonKey: null,
     allies: [],
     allyData: {},
-    info: { content: "", updatedAt: 0 },
+    info: { posts: [] },
     auth: null, // { username, pwHash }
     isAdmin: false,
     reactions: {}, // reactions/<target> → { "<emoji>": { "<userId>": ts } }
@@ -238,7 +238,7 @@
         arr.sort((a, b) => a.date.localeCompare(b.date));
         state.history = arr;
       }
-      if (info) state.info = info;
+      if (info) state.info = normalizeInfo(info);
       if (pinned) state.pinnedNotice = pinned;
       if (tournament) state.tournament = tournament;
       if (allies && typeof allies === "object") state.allies = Object.keys(allies);
@@ -939,10 +939,25 @@
         return;
       }
       if (path === "settings/info") {
-        // Shared content — open the file on github.com for the admin to commit
+        // Shared content — the static site can't write to GitHub itself, so
+        // the full updated file is copied to the clipboard and the admin
+        // pastes it into GitHub's own editor (which opens pre-loaded with
+        // the current file) and commits. The site shows it live afterward.
         state.info = data;
+        const json = JSON.stringify(data, null, 2);
+        let copied = false;
+        try {
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            await navigator.clipboard.writeText(json);
+            copied = true;
+          }
+        } catch(_) {}
         try { window.open(GITHUB_EDIT("data/info.json"), "_blank", "noopener"); } catch(_) {}
-        toast("Opened the Info file on GitHub — paste the new content there and commit. The site shows the committed version within a minute.", 7500);
+        if (copied) {
+          toast("Copied the updated Info content to your clipboard. On the GitHub tab that just opened: select all (Ctrl/Cmd+A), paste, then commit.", 9000);
+        } else {
+          toast("Couldn't copy automatically — select all text in the GitHub tab, delete it, and paste this instead: " + json.slice(0, 120) + "…", 9000);
+        }
         return;
       }
       if (path === "settings/auth") {
@@ -2249,26 +2264,41 @@
     `;
   }
 
-  // ----- INFO (single admin-editable page) -----
+  // ----- INFO (admin-editable feed of posts) -----
+  // data/info.json shape: { posts: [{ id, title, content, createdAt, updatedAt }, ...] }
+  // normalizeInfo() upgrades the old single-blob {content, updatedAt} shape
+  // (from before posts existed) into a one-post feed, so old data keeps working.
+  function normalizeInfo(info) {
+    if (info && Array.isArray(info.posts)) return info;
+    if (info && typeof info.content === "string" && info.content) {
+      return { posts: [{ id: "legacy", title: null, content: info.content, createdAt: info.updatedAt || Date.now(), updatedAt: info.updatedAt || Date.now() }] };
+    }
+    return { posts: [] };
+  }
+  function newPostId() { return "p" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+
   function renderInfo() {
-    const content = state.info && state.info.content ? state.info.content : "";
-    const updated = state.info && state.info.updatedAt ? state.info.updatedAt : 0;
-    const editing = state._editingInfo === true;
+    const posts = (state.info && Array.isArray(state.info.posts) ? state.info.posts.slice() : [])
+      .sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+    const editingPostId = state._editingInfo || null; // null | "new" | <post id>
+    const editing = editingPostId != null;
     const editingPinned = state._editingPinned === true;
     const pinned = state.pinnedNotice && state.pinnedNotice.content ? state.pinnedNotice : null;
+    const editingPost = editingPostId && editingPostId !== "new" ? posts.find(p => p.id === editingPostId) : null;
+    const latestUpdate = posts.reduce((m, p) => Math.max(m, p.updatedAt || p.createdAt || 0), 0);
 
     const head = `
       <div class="page-head">
         <div>
           <div class="page-eyebrow">Team information</div>
           <h1 class="page-title">Info</h1>
-          <p class="page-sub">Everything your team needs to know, in one place. ${updated ? "Updated " + timeAgo(updated) + "." : "Not yet filled in."}</p>
+          <p class="page-sub">${posts.length ? `${fmt(posts.length)} post${posts.length === 1 ? "" : "s"}${latestUpdate ? " · latest " + timeAgo(latestUpdate) : ""}.` : "Nothing posted yet."}</p>
         </div>
         ${state.isAdmin && !editing && !editingPinned ? `
           <div class="flex">
             <button class="btn ghost btn-sm" id="change-pw-btn">Change password</button>
             <button class="btn ghost btn-sm" id="edit-pinned-btn">${pinned ? "Edit pin" : "+ Pin notice"}</button>
-            <button class="btn primary" id="edit-info-btn">${content ? "Edit" : "Add info"}</button>
+            <button class="btn primary" id="edit-info-btn">+ New post</button>
           </div>` : ""}
       </div>`;
 
@@ -2296,13 +2326,18 @@
         ${head}
         <div class="card">
           <form id="info-form">
+            <input type="hidden" id="info-post-id" value="${esc(editingPostId)}">
             <div class="form-row">
-              <label for="info-body">Team info</label>
-              <textarea id="info-body" placeholder="Write team rules, meeting times, event dates, roster notes…">${esc(content)}</textarea>
+              <label for="info-title">Title <span class="text-muted">(optional)</span></label>
+              <input type="text" id="info-title" placeholder="e.g. Season kickoff, Roster update…" value="${esc(editingPost ? (editingPost.title || "") : "")}">
+            </div>
+            <div class="form-row">
+              <label for="info-body">Post</label>
+              <textarea id="info-body" placeholder="Write team rules, meeting times, event dates, roster notes…">${esc(editingPost ? editingPost.content : "")}</textarea>
               <div class="help">Supports simple formatting: <code>## Heading</code>, <code>**bold**</code>, <code>*italic*</code>, <code>- bullet</code>, and <code>[link text](https://url)</code>.</div>
             </div>
             <div class="flex" style="gap:10px;">
-              <button type="submit" class="btn primary">Save</button>
+              <button type="submit" class="btn primary">${editingPost ? "Save post" : "Publish post"}</button>
               <button type="button" class="btn ghost" id="info-cancel">Cancel</button>
             </div>
           </form>
@@ -2319,20 +2354,37 @@
         <div class="info-content">${renderMarkdownLite(pinned.content)}</div>
       </div>` : "";
 
-    if (!content) {
+    if (!posts.length) {
       return `
         ${head}
         ${pinnedCard}
-        ${emptyState("No team info yet", state.isAdmin ? "Click Add info above to write team rules, meeting times, event dates and whatever else your team needs." : "The team admin hasn't added info yet.")}`;
+        ${emptyState("No team info yet", state.isAdmin ? "Click + New post above to write team rules, meeting times, event dates and whatever else your team needs." : "The team admin hasn't posted anything yet.")}`;
     }
+
+    const postCard = (p) => `
+      <div class="card" style="margin-bottom:16px;">
+        <div class="card-head">
+          <div style="min-width:0;">
+            ${p.title ? `<h3 class="card-title">${esc(p.title)}</h3>` : ""}
+            <div class="text-muted" style="font-size:11.5px; margin-top:${p.title ? "4px" : "0"};">
+              ${p.createdAt ? timeAgo(p.createdAt) : ""}${p.updatedAt && p.updatedAt !== p.createdAt ? " · edited " + timeAgo(p.updatedAt) : ""}
+            </div>
+          </div>
+          ${state.isAdmin ? `
+            <div class="flex" style="gap:6px;">
+              <button class="btn btn-sm ghost" data-edit-post="${esc(p.id)}">Edit</button>
+              <button class="btn btn-sm danger" data-delete-post="${esc(p.id)}">Delete</button>
+            </div>` : ""}
+        </div>
+        <div class="info-content">${renderMarkdownLite(p.content)}</div>
+        ${renderReactionBar("info-" + p.id)}
+      </div>`;
 
     return `
       ${head}
       ${pinnedCard}
-      <div class="card">
-        <div class="info-content">${renderMarkdownLite(content)}</div>
-        ${renderReactionBar("info")}
-      </div>`;
+      ${posts.map(postCard).join("")}
+    `;
   }
 
   // Lightweight markdown renderer — safe (escapes first), supports:
@@ -2423,23 +2475,51 @@
       });
     });
 
-    // Info edit
+    // Info: posts feed
     const editBtn = document.getElementById("edit-info-btn");
-    if (editBtn) editBtn.addEventListener("click", ()=>{ state._editingInfo = true; render(); });
+    if (editBtn) editBtn.addEventListener("click", ()=>{ state._editingInfo = "new"; render(); });
     const cpBtn = document.getElementById("change-pw-btn");
     if (cpBtn) cpBtn.addEventListener("click", openChangePwModal);
     const infoCancel = document.getElementById("info-cancel");
-    if (infoCancel) infoCancel.addEventListener("click", ()=>{ state._editingInfo = false; render(); });
+    if (infoCancel) infoCancel.addEventListener("click", ()=>{ state._editingInfo = null; render(); });
+    document.querySelectorAll("[data-edit-post]").forEach(btn => {
+      btn.addEventListener("click", ()=>{ state._editingInfo = btn.dataset.editPost; render(); });
+    });
+    document.querySelectorAll("[data-delete-post]").forEach(btn => {
+      btn.addEventListener("click", async ()=>{
+        if (!state.isAdmin) return;
+        const id = btn.dataset.deletePost;
+        if (!window.confirm("Delete this post? This can't be undone once committed.")) return;
+        const posts = (state.info && Array.isArray(state.info.posts) ? state.info.posts : []).filter(p => p.id !== id);
+        const payload = { posts };
+        try {
+          await writeDoc("settings/info", payload);
+          state.info = payload;
+          render();
+        } catch(err) { toast("Could not delete: " + (err.message || err), 4000); }
+      });
+    });
     const infoForm = document.getElementById("info-form");
     if (infoForm) infoForm.addEventListener("submit", async (e)=>{
       e.preventDefault();
       if (!state.isAdmin) return;
+      const editingId = document.getElementById("info-post-id").value;
+      const title = document.getElementById("info-title").value.trim();
       const body = document.getElementById("info-body").value;
-      const payload = { content: body, updatedAt: Date.now() };
+      if (!body.trim()) { toast("Post can't be empty."); return; }
+      const now = Date.now();
+      const posts = (state.info && Array.isArray(state.info.posts) ? state.info.posts.slice() : []);
+      if (editingId && editingId !== "new") {
+        const idx = posts.findIndex(p => p.id === editingId);
+        if (idx >= 0) posts[idx] = { ...posts[idx], title: title || null, content: body, updatedAt: now };
+      } else {
+        posts.unshift({ id: newPostId(), title: title || null, content: body, createdAt: now, updatedAt: now });
+      }
+      const payload = { posts };
       try {
         await writeDoc("settings/info", payload);
         state.info = payload;
-        state._editingInfo = false;
+        state._editingInfo = null;
         render();
         toast("Saved ✓");
       } catch(err) {
