@@ -301,7 +301,7 @@
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792501076
+        "lastLogin": 1792525304
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -361,14 +361,14 @@
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
-        "displayName": "The Real Goat",
+        "displayName": "Barcelona",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 481,
-        "wpm": 25,
+        "allTimeRaces": 494,
+        "wpm": 24,
         "highestWPM": 46,
-        "teamRaces": 42,
-        "acc": 95.2,
+        "teamRaces": 55,
+        "acc": 95.03,
         "season": null,
         "status": "active",
         "lastLogin": 1792525279
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77552,
+        "races": 77565,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 37
       },
       "daily": {
-        "races": 431,
-        "avgWPM": 71,
-        "avgAcc": 92.69,
+        "races": 417,
+        "avgWPM": 69,
+        "avgAcc": 92.8,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792525301355
+    "_syncedAt": 1792526806016
   },
   "SVC": {
     "tag": "SVC",
@@ -553,7 +553,7 @@
     "activePercent": 51,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2013,
+    "profileViews": 2014,
     "leagueTier": 11,
     "racers": [
       {
@@ -967,14 +967,14 @@
         "displayName": "NotFastEnough",
         "role": "member",
         "joinStamp": 1787859687,
-        "allTimeRaces": 1817,
-        "wpm": 73,
+        "allTimeRaces": 1830,
+        "wpm": 80,
         "highestWPM": 99,
-        "teamRaces": 204,
-        "acc": 95.39,
+        "teamRaces": 214,
+        "acc": 95.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1791996708
+        "lastLogin": 1792525384
       },
       {
         "username": "2ae50af112906d5bedd9e37f029481e2",
@@ -1203,13 +1203,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40087,
+        "races": 40097,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 46
       },
       "daily": {
-        "races": 131,
+        "races": 141,
         "avgWPM": 80,
         "avgAcc": 94.17,
         "members": 46
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792525320031
+    "_syncedAt": 1792526824888
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792525338806
+    "_syncedAt": 1792526843768
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4280,
+    "profileViews": 4281,
     "leagueTier": 11,
     "racers": [
       {
@@ -1335,7 +1335,7 @@
         "acc": 92.35,
         "season": null,
         "status": "active",
-        "lastLogin": 1792509137
+        "lastLogin": 1792526205
       },
       {
         "username": "frareynolds",
@@ -1580,11 +1580,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792505481,
-        "allTimeRaces": 7736,
-        "wpm": 65,
+        "allTimeRaces": 7749,
+        "wpm": 64,
         "highestWPM": 75,
-        "teamRaces": 50,
-        "acc": 94.89,
+        "teamRaces": 71,
+        "acc": 94.47,
         "season": null,
         "status": "active",
         "lastLogin": 1792521218
@@ -1601,7 +1601,7 @@
         "acc": 89.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792523429
+        "lastLogin": 1792525956
       },
       {
         "username": "srivanthvadlamudi",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118596,
+        "races": 118617,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 576,
+        "races": 583,
         "avgWPM": 75,
-        "avgAcc": 94.49,
+        "avgAcc": 94.63,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792525507956
+    "_syncedAt": 1792527013394
   }
 }

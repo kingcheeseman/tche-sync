@@ -293,14 +293,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2709,
-      "wpm": 78,
+      "allTimeRaces": 2711,
+      "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 90,
-      "acc": 95.29,
+      "teamRaces": 92,
+      "acc": 95.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1792521552
+      "lastLogin": 1792526251
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1251,
-      "wpm": 90,
+      "allTimeRaces": 1253,
+      "wpm": 91,
       "highestWPM": 119,
       "teamRaces": 904,
       "acc": 94.47,
       "season": null,
       "status": "active",
-      "lastLogin": 1792522643
+      "lastLogin": 1792526602
     },
     {
       "username": "imenishat",
@@ -419,14 +419,14 @@
       "displayName": "YellowBronzeCoral",
       "role": "member",
       "joinStamp": 1786907870,
-      "allTimeRaces": 4440,
+      "allTimeRaces": 4441,
       "wpm": 86,
       "highestWPM": 125,
-      "teamRaces": 236,
-      "acc": 92.94,
+      "teamRaces": 237,
+      "acc": 92.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1791990238
+      "lastLogin": 1792525668
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -454,7 +454,7 @@
       "acc": 92.52,
       "season": null,
       "status": "active",
-      "lastLogin": 1792507980
+      "lastLogin": 1792525335
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -503,14 +503,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 475,
-      "wpm": 49,
+      "allTimeRaces": 489,
+      "wpm": 50,
       "highestWPM": 96,
-      "teamRaces": 227,
-      "acc": 92.29,
+      "teamRaces": 239,
+      "acc": 92.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1792506905
+      "lastLogin": 1792525244
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -559,11 +559,11 @@
       "displayName": "reteyrhyj",
       "role": "member",
       "joinStamp": 1792448692,
-      "allTimeRaces": 5304,
-      "wpm": 83,
+      "allTimeRaces": 5306,
+      "wpm": 77,
       "highestWPM": 103,
-      "teamRaces": 6,
-      "acc": 90.83,
+      "teamRaces": 9,
+      "acc": 89.7,
       "season": null,
       "status": "active",
       "lastLogin": 1792524729
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55033,
+      "races": 55051,
       "avgWPM": 76,
-      "avgAcc": 95.03,
+      "avgAcc": 95.02,
       "members": 44
     },
     "daily": {
-      "races": 944,
-      "avgWPM": 80,
-      "avgAcc": 94.62,
+      "races": 938,
+      "avgWPM": 79,
+      "avgAcc": 94.6,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792525225974
+  "_syncedAt": 1792526730364
 }
