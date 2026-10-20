@@ -210,11 +210,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2081,
-        "wpm": 70,
+        "allTimeRaces": 2088,
+        "wpm": 80,
         "highestWPM": 90,
-        "teamRaces": 1036,
-        "acc": 90.25,
+        "teamRaces": 1043,
+        "acc": 90.29,
         "season": null,
         "status": "active",
         "lastLogin": 1792490502
@@ -516,21 +516,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77287,
+        "races": 77294,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 477,
-        "avgWPM": 74,
-        "avgAcc": 92.39,
+        "races": 484,
+        "avgWPM": 73,
+        "avgAcc": 92.44,
         "members": 36
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792491753726
+    "_syncedAt": 1792493801874
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792491772714
+    "_syncedAt": 1792493820950
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792491791636
+    "_syncedAt": 1792493839705
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1914,6 +1914,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792491961243
+    "_syncedAt": 1792494008913
   }
 }
