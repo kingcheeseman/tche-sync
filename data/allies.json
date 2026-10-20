@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792470141347
+    "_syncedAt": 1792472276635
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 51,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2010,
+    "profileViews": 2011,
     "leagueTier": 11,
     "racers": [
       {
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792470160412
+    "_syncedAt": 1792472295318
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792470179243
+    "_syncedAt": 1792472313953
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1328,10 +1328,10 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1597,
-        "wpm": 65,
+        "allTimeRaces": 1598,
+        "wpm": 60,
         "highestWPM": 87,
-        "teamRaces": 1291,
+        "teamRaces": 1292,
         "acc": 93.69,
         "season": null,
         "status": "active",
@@ -1762,14 +1762,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5837,
-        "wpm": 79,
+        "allTimeRaces": 5852,
+        "wpm": 78,
         "highestWPM": 109,
-        "teamRaces": 230,
-        "acc": 94.7,
+        "teamRaces": 245,
+        "acc": 94.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792467618
+        "lastLogin": 1792471048
       },
       {
         "username": "nev444ehh",
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118247,
+        "races": 118263,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 755,
+        "races": 771,
         "avgWPM": 67,
-        "avgAcc": 93.6,
+        "avgAcc": 93.65,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792470348620
+    "_syncedAt": 1792472483159
   }
 }
