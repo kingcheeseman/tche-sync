@@ -26,6 +26,7 @@
     home: "index.html",
     stats: "stats.html",
     racers: "racers.html",
+    activity: "activity.html",
     competitions: "competitions.html",
     tournament: "tournament.html",
     allies: "allies.html",
@@ -35,6 +36,7 @@
     home: "Home",
     stats: "Team Stats",
     racers: "Racers",
+    activity: "Activity",
     competitions: "Competitions",
     tournament: "Tournament",
     allies: "Allies",
@@ -56,6 +58,8 @@
     tournamentRoundIdx: null,
     weekly: null,          // per-racer weekly stats (Startrack)
     daily: null,           // per-racer 24h stats (Startrack)
+    roster: null,          // squad/tier/role + thresholds (Startrack roster API)
+    activity: null,        // hourly races per racer, last ~24h (Startrack)
     notes: {},             // notes/<username> → { text, updatedAt }
     pinnedNotice: null,    // settings/pinnedNotice doc
     history: [],           // history/YYYY-MM-DD list for charts
@@ -63,6 +67,7 @@
     compLeaderboards: {},  // compLeaderboards/<eventId> → racers[]
     compareIds: [],        // transient — selected usernames for comparison
     racerFilter: "all",    // "all", "recent-join", "recent-active", "inactive"
+    racerSquadFilter: "all", // "all" or a squad name (from roster.json)
     seasons: {},        // keyed by season key
     currentSeasonKey: null,
     allies: [],
@@ -205,7 +210,7 @@
 
   async function loadFromGitHub() {
     try {
-      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned, tournament] = await Promise.all([
+      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned, tournament, roster, activity] = await Promise.all([
         fetchGH("team.json"),
         fetchGH("startrack.json"),
         fetchGH("comps.json"),
@@ -220,6 +225,8 @@
         fetchGH("info.json"),
         fetchGH("pinned.json"),
         fetchGH("tournament.json"),
+        fetchGH("roster.json"),
+        fetchGH("activity.json"),
       ]);
       if (team) { state.team = team; state.lastSync = team._syncedAt || state.lastSync; }
       if (startrack) state.startrack = startrack;
@@ -241,6 +248,8 @@
       if (info) state.info = normalizeInfo(info);
       if (pinned) state.pinnedNotice = pinned;
       if (tournament) state.tournament = tournament;
+      if (roster) state.roster = roster;
+      if (activity) state.activity = activity;
       if (allies && typeof allies === "object") state.allies = Object.keys(allies);
       state.syncIndex = index || null;
       if (!team && !startrack && !comps) {
@@ -372,8 +381,10 @@
     const seasonMap = {};
     const curSeason = state.seasons && state.seasons.currentValue && state.seasons.seasons && state.seasons.seasons[state.seasons.currentValue];
     if (curSeason && curSeason.racers) curSeason.racers.forEach(r => { seasonMap[r.username] = r; });
+    const rosterMap = {};
+    if (state.roster && Array.isArray(state.roster.racers)) state.roster.racers.forEach(r => { rosterMap[r.username] = r; });
 
-    const headers = ["Display name","Username","Role","Avg WPM","Top WPM","Accuracy","Total races","Team races","Daily races (goal 20)","Weekly races (goal 100)","Season races","Season points","Season rank","Joined","Last login","Note"];
+    const headers = ["Display name","Username","Role","Squad","Tier","Avg WPM","Top WPM","Accuracy","Total races","Team races","Daily races (goal 20)","Weekly races (goal 100)","Season races","Season points","Season rank","Joined","Last login","Note"];
     const quote = (v) => {
       const s = v == null ? "" : String(v);
       return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
@@ -382,11 +393,14 @@
       const wk = weeklyMap[r.username] || {};
       const dy = dailyMap[r.username] || {};
       const se = seasonMap[r.username] || {};
+      const ro = rosterMap[r.username] || {};
       const note = state.notes[r.username];
       return [
         r.displayName || r.username,
         r.username,
         r.role || "member",
+        ro.squad || "",
+        ro.tier || "",
         r.wpm || 0,
         r.highestWPM || 0,
         (r.acc || 0) + "%",
@@ -1233,6 +1247,7 @@
       if (p === "home") view.innerHTML = staleBanner() + renderHome();
       else if (p === "stats") view.innerHTML = staleBanner() + renderStats();
       else if (p === "racers") view.innerHTML = staleBanner() + renderRacers();
+      else if (p === "activity") view.innerHTML = staleBanner() + renderActivity();
       else if (p === "competitions") view.innerHTML = staleBanner() + renderCompetitions();
       else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
@@ -1518,10 +1533,21 @@
     if (state.daily && Array.isArray(state.daily.racers)) {
       state.daily.racers.forEach(r => { dailyMap[r.username] = r; });
     }
+    // Squad + tier (from Startrack's roster API), keyed by username
+    const rosterMap = {};
+    const hasRosterData = !!(state.roster && Array.isArray(state.roster.racers) && state.roster.racers.length);
+    if (hasRosterData) state.roster.racers.forEach(r => { rosterMap[r.username] = r; });
+    const squadOf = u => (rosterMap[u] && rosterMap[u].squad) || null;
+    const tierOf = u => (rosterMap[u] && rosterMap[u].tier) || null;
 
     // Apply filter
     const filter = state.racerFilter || "all";
+    const squadFilter = state.racerSquadFilter || "all";
     const racers = allRacers.filter(r => {
+      if (squadFilter !== "all") {
+        const sq = squadOf(r.username) || "No squad";
+        if (sq !== squadFilter) return false;
+      }
       if (filter === "all") return true;
       if (filter === "recent-join") {
         // joined in last 14 days
@@ -1551,6 +1577,8 @@
       daily: r => (dailyMap[r.username] && dailyMap[r.username].races) || 0,
       joinStamp: r => r.joinStamp || 0,
       lastLogin: r => r.lastLogin || 0,
+      tier: r => tierOf(r.username) || "ZZ",
+      squad: r => (squadOf(r.username) || "zzz").toLowerCase(),
     };
     racers.sort((a,b)=>{
       const av = extract[key](a), bv = extract[key](b);
@@ -1594,6 +1622,8 @@
     };
     const weeklyBar = (count) => goalBar(count, WEEKLY_REQ);
     const dailyBar = (count) => goalBar(count, DAILY_REQ);
+    const tierPill = (tier) => tier ? `<span class="pill pill-tier-${tier.toLowerCase()}">Tier ${esc(tier)}</span>` : `<span class="text-muted" style="font-size:11px;">—</span>`;
+    const squadPill = (squad) => squad ? `<span class="squad-pill">${esc(squad)}</span>` : `<span class="text-muted" style="font-size:11px;">—</span>`;
 
     const rows = racers.map((r, i) => {
       const rankCls = i === 0 ? "top1" : i === 1 ? "top2" : i === 2 ? "top3" : "";
@@ -1623,6 +1653,8 @@
             ${note && note.text ? `<div class="racer-note">💬 ${esc(note.text)}</div>` : ""}
             ${state.isAdmin ? `<button class="note-edit-btn" data-note-user="${esc(r.username)}">${note && note.text ? "Edit note" : "+ Add note"}</button>` : ""}
           </td>
+          <td>${hasRosterData ? squadPill(squadOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
+          <td>${hasRosterData ? tierPill(tierOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
           <td class="num num-primary">${fmt(extract.wpm(r))}</td>
           <td class="num">${fmt(extract.highestWPM(r))}</td>
           <td class="num">${fmt(extract.acc(r))}%</td>
@@ -1646,10 +1678,11 @@
           ${compareRacers.map(r => {
             const weeklyRaces = (weeklyMap[r.username] && weeklyMap[r.username].races) || 0;
             const dailyRaces = (dailyMap[r.username] && dailyMap[r.username].races) || 0;
+            const ro = rosterMap[r.username];
             return `
               <div class="compare-card">
                 <div class="compare-name"><a href="racer.html?u=${encodeURIComponent(r.username)}" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
-                <div class="compare-handle">@${esc(r.username)}</div>
+                <div class="compare-handle">@${esc(r.username)} ${ro && ro.squad ? `<span class="squad-pill" style="margin-left:4px;">${esc(ro.squad)}</span>` : ""} ${ro && ro.tier ? `<span class="pill pill-tier-${ro.tier.toLowerCase()}" style="margin-left:4px;">Tier ${esc(ro.tier)}</span>` : ""}</div>
                 <div class="compare-stats">
                   <div><div class="compare-k">Avg WPM</div><div class="compare-v">${fmt(r.wpm)}</div></div>
                   <div><div class="compare-k">Top WPM</div><div class="compare-v">${fmt(r.highestWPM)}</div></div>
@@ -1669,12 +1702,18 @@
         <p class="text-dim" style="margin:0;font-size:13px;">Pick one more racer to compare, or <a href="#" id="compare-clear">clear</a>.</p>
       </div>` : "");
 
+    const squadNames = hasRosterData ? [...new Set(state.roster.racers.map(r => r.squad || "No squad"))].sort((a,b)=>a.localeCompare(b)) : [];
     const filterChips = `
-      <div class="filter-chips">
+      <div class="filter-chips" style="align-items:center;">
         <button class="filter-chip ${filter === 'all' ? 'active' : ''}" data-filter="all">All (${allRacers.length})</button>
         <button class="filter-chip ${filter === 'recent-join' ? 'active' : ''}" data-filter="recent-join">Recently joined</button>
         <button class="filter-chip ${filter === 'recent-active' ? 'active' : ''}" data-filter="recent-active">Active (48h)</button>
         <button class="filter-chip ${filter === 'inactive' ? 'active' : ''}" data-filter="inactive">Inactive (14d+)</button>
+        ${squadNames.length ? `
+          <select id="squad-filter" class="input-select" style="margin-left:auto;">
+            <option value="all" ${squadFilter === 'all' ? 'selected' : ''}>All squads</option>
+            ${squadNames.map(sq => `<option value="${esc(sq)}" ${squadFilter === sq ? 'selected' : ''}>${esc(sq)}</option>`).join("")}
+          </select>` : ""}
       </div>`;
 
     return `
@@ -1698,6 +1737,8 @@
               <th>Rank</th>
               <th style="width:40px;">⇔</th>
               <th data-sort="name" class="${key==='name'?'sorted':''}">Racer${arrow('name')}</th>
+              <th data-sort="squad" class="${key==='squad'?'sorted':''}">Squad${arrow('squad')}</th>
+              <th data-sort="tier" class="${key==='tier'?'sorted':''}">Tier${arrow('tier')}</th>
               <th data-sort="wpm" class="${key==='wpm'?'sorted':''}" style="text-align:right;">Avg WPM${arrow('wpm')}</th>
               <th data-sort="highestWPM" class="${key==='highestWPM'?'sorted':''}" style="text-align:right;">Top WPM${arrow('highestWPM')}</th>
               <th data-sort="acc" class="${key==='acc'?'sorted':''}" style="text-align:right;">Accuracy${arrow('acc')}</th>
@@ -1708,7 +1749,7 @@
               <th data-sort="season" class="${key==='season'?'sorted':''}" style="text-align:right;">Season${arrow('season')}</th>
             </tr>
           </thead>
-          <tbody>${rows || `<tr><td colspan="10" style="padding:40px; text-align:center; color: var(--text-dim);">No racers match this filter.</td></tr>`}</tbody>
+          <tbody>${rows || `<tr><td colspan="12" style="padding:40px; text-align:center; color: var(--text-dim);">No racers match this filter.</td></tr>`}</tbody>
         </table>
       </div>
     `;
@@ -1741,6 +1782,8 @@
     const curSeasonKey = state.seasons && state.seasons.currentValue;
     const curSeasonRacers = (state.seasons && state.seasons.seasons && curSeasonKey && state.seasons.seasons[curSeasonKey] && state.seasons.seasons[curSeasonKey].racers) || [];
     const seasonRow = curSeasonRacers.find(r => r.username === username);
+
+    const rosterEntry = state.roster && Array.isArray(state.roster.racers) ? state.roster.racers.find(r => r.username === username) : null;
 
     const lastSeenMs = racer.lastLogin ? now - racer.lastLogin * 1000 : null;
     const activePill = lastSeenMs == null ? ""
@@ -1856,6 +1899,7 @@
           <div class="page-eyebrow"><a href="${PAGES.racers}">← Racers</a></div>
           <h1 class="page-title">${esc(racer.displayName || racer.username)}</h1>
           <p class="page-sub">@${esc(racer.username)}${racer.role && racer.role !== "member" ? ` · ${esc(racer.role)}` : ""} ${activePill} · Joined ${esc(joinedTxt)} · <a href="${NT_RACER_URL(racer.username)}" target="_blank" rel="noopener">View on Nitro Type →</a></p>
+          ${rosterEntry && (rosterEntry.squad || rosterEntry.tier) ? `<p style="margin:8px 0 0;">${rosterEntry.squad ? `<span class="squad-pill">${esc(rosterEntry.squad)}</span>` : ""} ${rosterEntry.tier ? `<span class="pill pill-tier-${rosterEntry.tier.toLowerCase()}" style="margin-left:6px;">Tier ${esc(rosterEntry.tier)}</span>` : ""}</p>` : ""}
         </div>
       </div>
 
@@ -1869,6 +1913,121 @@
         ${renderReactionBar("racer-" + username)}
       </div>
       ${noteSection}
+    `;
+  }
+
+  // ----- ACTIVITY -----
+  const ACTIVITY_PALETTE = ["#7C3AED","#22C55E","#F97316","#3B82F6","#EC4899","#EAB308","#14B8A6","#A855F7","#EF4444","#64748B"];
+
+  function renderActivity() {
+    const act = state.activity;
+    const hours = act && Array.isArray(act.hours) ? act.hours : [];
+    if (!hours.length) return emptyState("No activity data yet", "Startrack's hourly activity feed appears here once synced.");
+
+    // Resolve racer display name → username (for profile links), via roster.json first (it's the freshest display-name map) then team.json.
+    const byDisplay = {};
+    const rosterRacers = (state.roster && Array.isArray(state.roster.racers)) ? state.roster.racers : [];
+    rosterRacers.forEach(r => { if (r.displayName) byDisplay[r.displayName] = r.username; });
+    if (state.team && Array.isArray(state.team.racers)) {
+      state.team.racers.forEach(r => { if (r.displayName && !byDisplay[r.displayName]) byDisplay[r.displayName] = r.username; });
+    }
+
+    // Aggregate by hour bucket, preserving chronological order, and by racer total.
+    const byHour = new Map();
+    const totalsByRacer = new Map();
+    hours.forEach(h => {
+      if (!h.hour || !h.racer) return;
+      if (!byHour.has(h.hour)) byHour.set(h.hour, new Map());
+      const bucket = byHour.get(h.hour);
+      bucket.set(h.racer, (bucket.get(h.racer) || 0) + (h.races || 0));
+      totalsByRacer.set(h.racer, (totalsByRacer.get(h.racer) || 0) + (h.races || 0));
+    });
+    const orderedHours = [...byHour.keys()].sort();
+
+    const rankedTotals = [...totalsByRacer.entries()].sort((a, b) => b[1] - a[1]);
+    const topRacers = rankedTotals.slice(0, 10).map(([name]) => name);
+    const colorOf = {};
+    topRacers.forEach((name, i) => { colorOf[name] = ACTIVITY_PALETTE[i % ACTIVITY_PALETTE.length]; });
+    const OTHER_COLOR = "var(--surface-3)";
+
+    const totalRaces = rankedTotals.reduce((s, [, v]) => s + v, 0);
+    const activeRacers = totalsByRacer.size;
+    const topRacerEntry = rankedTotals[0];
+
+    const hourLabel = (h) => {
+      const d = new Date(h.replace(" ", "T") + "Z");
+      if (isNaN(d.getTime())) return h;
+      return d.toLocaleTimeString(undefined, { hour: "numeric", hour12: true });
+    };
+
+    const bucketTotals = [...byHour.values()].map(bucket => [...bucket.values()].reduce((s, v) => s + v, 0));
+    const maxBucketTotal = Math.max(1, ...bucketTotals);
+
+    const chartCols = orderedHours.map(h => {
+      const bucket = byHour.get(h);
+      const entries = [...bucket.entries()].sort((a, b) => b[1] - a[1]);
+      const bucketTotal = entries.reduce((s, [, v]) => s + v, 0);
+      const heightPct = Math.max(bucketTotal > 0 ? 3 : 0, Math.round((bucketTotal / maxBucketTotal) * 100));
+      const segs = entries.filter(([, races]) => races > 0).map(([name, races]) => {
+        const pct = Math.max(1, Math.round((races / Math.max(bucketTotal, 1)) * 100));
+        const color = colorOf[name] || OTHER_COLOR;
+        return `<div class="activity-bar-seg" style="height:${pct}%; background:${color};" title="${esc(name)}: ${fmt(races)} races"></div>`;
+      }).join("");
+      return `
+        <div class="activity-bar-col">
+          <div class="activity-bar-total">${bucketTotal ? fmt(bucketTotal) : ""}</div>
+          <div class="activity-bar-track"><div class="activity-bar-fill" style="height:${heightPct}%;">${segs}</div></div>
+          <div class="activity-bar-label">${esc(hourLabel(h))}</div>
+        </div>`;
+    }).join("");
+
+    const legend = topRacers.map(name => {
+      const uname = byDisplay[name];
+      const label = uname ? `<a href="racer.html?u=${encodeURIComponent(uname)}">${esc(name)}</a>` : esc(name);
+      return `<div class="activity-legend-item"><span class="activity-legend-swatch" style="background:${colorOf[name]};"></span>${label} <span class="text-muted">· ${fmt(totalsByRacer.get(name))}</span></div>`;
+    }).join("");
+    const legendMore = rankedTotals.length > topRacers.length ? `<div class="activity-legend-item"><span class="activity-legend-swatch" style="background:${OTHER_COLOR};"></span>+${rankedTotals.length - topRacers.length} more</div>` : "";
+
+    const rows = rankedTotals.map(([name, races], i) => {
+      const uname = byDisplay[name];
+      const pct = totalRaces ? ((races / totalRaces) * 100).toFixed(1) : "0.0";
+      return `
+        <tr>
+          <td class="rank-cell">${i + 1}</td>
+          <td class="name">${uname ? `<a href="racer.html?u=${encodeURIComponent(uname)}">${esc(name)}</a>` : esc(name)}</td>
+          <td class="num num-primary">${fmt(races)}</td>
+          <td class="num">${pct}%</td>
+        </tr>`;
+    }).join("");
+
+    return `
+      <div class="page-head"><div>
+        <div class="page-eyebrow">Last 24 hours</div>
+        <h1 class="page-title">Activity</h1>
+        <p class="page-sub">Hourly race activity across the team, from ntstartrack.org. Bar heights are relative to the busiest hour.</p>
+      </div></div>
+
+      <div class="stat-grid">
+        <div class="stat highlight"><div class="stat-label">Races (24h)</div><div class="stat-value">${fmt(totalRaces)}</div></div>
+        <div class="stat"><div class="stat-label">Active racers</div><div class="stat-value">${fmt(activeRacers)}</div></div>
+        <div class="stat"><div class="stat-label">Top racer</div><div class="stat-value" style="font-size:18px;">${topRacerEntry ? esc(topRacerEntry[0]) : "—"}</div><div class="stat-sub">${topRacerEntry ? fmt(topRacerEntry[1]) + " races" : ""}</div></div>
+      </div>
+
+      <div class="card" style="margin-top:20px;">
+        <div class="card-head"><h3 class="card-title">Races by hour</h3></div>
+        <div class="activity-chart-wrap"><div class="activity-chart">${chartCols}</div></div>
+        <div class="activity-legend">${legend}${legendMore}</div>
+      </div>
+
+      <div class="card" style="margin-top:20px;">
+        <div class="card-head"><h3 class="card-title">Racer totals (24h)</h3></div>
+        <div class="table-wrap">
+          <table class="racers">
+            <thead><tr><th>#</th><th>Racer</th><th style="text-align:right;">Races</th><th style="text-align:right;">Share</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+      </div>
     `;
   }
 
@@ -2722,6 +2881,13 @@
     // Racer filter chips
     document.querySelectorAll(".filter-chip[data-filter]").forEach(btn => {
       btn.addEventListener("click", ()=>{ state.racerFilter = btn.dataset.filter; render(); });
+    });
+
+    // Racer squad filter
+    const squadFilterSel = document.getElementById("squad-filter");
+    if (squadFilterSel) squadFilterSel.addEventListener("change", () => {
+      state.racerSquadFilter = squadFilterSel.value;
+      render();
     });
 
     // Compare checkboxes

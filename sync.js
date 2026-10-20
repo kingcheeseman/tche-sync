@@ -500,6 +500,72 @@ async function fetchCompLeaderboard(context, eventId) {
   } finally { await page.close(); }
 }
 
+// Startrack's team pages are backed by plain JSON APIs (same origin, no
+// auth needed — these are the calls the roster/activity pages themselves
+// make). One page visit, three fetches: team-info (tier/race thresholds),
+// current-display-names (per-racer squad + tier + role), hourly-races
+// (last ~24h of races per racer, for the activity chart).
+async function fetchStartrackExtras(context, tag) {
+  const page = await context.newPage();
+  try {
+    await page.goto(`https://ntstartrack.org/roster?tag=${encodeURIComponent(tag)}`, { waitUntil: "networkidle", timeout: 60000 });
+    await sleep(1500);
+    return await page.evaluate(async (TAG) => {
+      const [infoRes, rosterRes, hourlyRes] = await Promise.all([
+        fetch(`/api/team-info?tag=${encodeURIComponent(TAG)}`),
+        fetch(`/api/current-display-names?tag=${encodeURIComponent(TAG)}`),
+        fetch(`/api/hourly-races?tag=${encodeURIComponent(TAG)}`),
+      ]);
+      const [info, roster, hourly] = await Promise.all([
+        infoRes.ok ? infoRes.json() : null,
+        rosterRes.ok ? rosterRes.json() : null,
+        hourlyRes.ok ? hourlyRes.json() : null,
+      ]);
+      return { info, roster, hourly };
+    }, tag);
+  } finally { await page.close(); }
+}
+
+function buildRoster(extras) {
+  if (!extras || !extras.info || !Array.isArray(extras.roster)) return null;
+  const info = extras.info;
+  const num = v => (v == null || v === "" ? null : Number(v));
+  const racers = extras.roster.map(r => ({
+    username: r.Username,
+    displayName: r.CurrentDisplayName || r.Username,
+    nickname: r.title || null,
+    role: r.Username && r.Username === r.CaptainUsername ? "captain" : (r.role || "member"),
+    squad: r.SquadName || null,
+    tier: r.Tier || null,
+    avgWPM: num(r.AvgWPM),
+    topWPM: num(r.TopWPM),
+    lifetimeRaces: num(r.LifetimeRaces),
+    teamRaces: num(r.TeamRaces),
+    joined: r.Joined || null,
+  })).filter(r => r.username);
+  return {
+    thresholds: {
+      minRaces: num(info.min_races),
+      minWPM: num(info.min_speed),
+      tierA: num(info.thresholdA),
+      tierB: num(info.thresholdB),
+      weeklyReq: num(info.WeeklyRequirements),
+    },
+    captainUsername: info.username || null,
+    racers,
+    source: "ntstartrack.org",
+    _syncedAt: Date.now(),
+  };
+}
+
+function buildActivity(extras) {
+  if (!extras || !Array.isArray(extras.hourly)) return null;
+  const hours = extras.hourly
+    .map(h => ({ hour: h.hour, racer: h.racer, races: h.races != null ? Number(h.races) || 0 : 0 }))
+    .filter(h => h.hour && h.racer);
+  return { hours, source: "ntstartrack.org", _syncedAt: Date.now() };
+}
+
 // ---- main ----
 async function main() {
   const started = Date.now();
@@ -554,6 +620,13 @@ async function main() {
   // Daily (24h)
   const daily = await safe("daily", () => fetchSeasonRacers(context, "24 Hour"));
   if (daily) await writeJSON("daily.json", { racers: daily.racers || [], _syncedAt: Date.now() });
+
+  // Roster extras (squad names, tier badges, thresholds) + hourly activity
+  const startrackExtras = await safe("startrack-extras", () => fetchStartrackExtras(context, TEAM_TAG));
+  const roster = startrackExtras ? buildRoster(startrackExtras) : null;
+  if (roster) await writeJSON("roster.json", roster);
+  const activity = startrackExtras ? buildActivity(startrackExtras) : null;
+  if (activity) await writeJSON("activity.json", activity);
 
   // Tournament bracket (whatever tournament is current/featured for TEAM_TAG)
   const tournament = await safe("tournament", () => fetchTournament(context, TEAM_TAG));
@@ -610,6 +683,8 @@ async function main() {
     weekly: weekly ? Date.now() : null,
     daily: daily ? Date.now() : null,
     tournament: tournament ? tournament._syncedAt : null,
+    roster: roster ? roster._syncedAt : null,
+    activity: activity ? activity._syncedAt : null,
     allies: Object.keys(allyTeams),
     took: Date.now() - started,
     ok: results.ok,

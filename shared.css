@@ -1081,6 +1081,85 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
 .pill-yellow { background: var(--yellow-soft); color: var(--gold-strong); }
 .pill-gray { background: var(--surface-3); color: var(--text-muted); }
 .pill-gold { background: linear-gradient(145deg, var(--yellow), var(--gold)); color: var(--black); }
+.pill-tier-a { background: color-mix(in oklab, #22C55E 20%, transparent); color: #15803D; }
+:root[data-theme="dark"] .pill-tier-a,
+:root:not([data-theme="light"]) .pill-tier-a { color: #4ADE80; }
+.pill-tier-b { background: color-mix(in oklab, #3B82F6 18%, transparent); color: #1D4ED8; }
+:root[data-theme="dark"] .pill-tier-b,
+:root:not([data-theme="light"]) .pill-tier-b { color: #93C5FD; }
+.pill-tier-c { background: var(--surface-3); color: var(--text-muted); }
+.input-select {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.squad-pill {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  background: var(--surface-3);
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+/* ACTIVITY CHART */
+.activity-chart-wrap { overflow-x: auto; padding-bottom: 6px; }
+.activity-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  min-width: max-content;
+  height: 220px;
+  padding: 10px 4px 0;
+}
+.activity-bar-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30px;
+  flex-shrink: 0;
+}
+.activity-bar-track {
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+  height: 180px;
+  background: var(--surface-2);
+  border-radius: 4px 4px 0 0;
+}
+.activity-bar-fill {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px 4px 0 0;
+  overflow: hidden;
+}
+.activity-bar-seg { width: 100%; }
+.activity-bar-label {
+  margin-top: 6px;
+  font-size: 9.5px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  transform: rotate(0deg);
+}
+.activity-bar-total {
+  font-size: 9.5px;
+  color: var(--text-dim);
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+.activity-legend { display: flex; flex-wrap: wrap; gap: 10px 16px; margin-top: 16px; }
+.activity-legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-dim); }
+.activity-legend-swatch { width: 10px; height: 10px; border-radius: 3px; flex-shrink: 0; }
 
 /* RACER NOTE */
 .racer-note {
