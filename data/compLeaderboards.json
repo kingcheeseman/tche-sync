@@ -135,6 +135,19 @@
       {
         "rank": 11,
         "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Nitro Rich",
+        "squad": "OG's still racing",
+        "races": 67,
+        "wpm": 87.3,
+        "accuracy": 90.52,
+        "points": 8712,
+        "tier": "B"
+      },
+      {
+        "rank": 12,
+        "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
         "nickname": "Ghoul Gamer",
@@ -144,19 +157,6 @@
         "accuracy": 93.25,
         "points": 8633,
         "tier": "C"
-      },
-      {
-        "rank": 12,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Nitro Rich",
-        "squad": "OG's still racing",
-        "races": 65,
-        "wpm": 88,
-        "accuracy": 90.38,
-        "points": 8461,
-        "tier": "A"
       },
       {
         "rank": 13,
@@ -952,6 +952,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792461432691
+    "_syncedAt": 1792462663493
   }
 }
