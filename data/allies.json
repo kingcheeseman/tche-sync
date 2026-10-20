@@ -301,7 +301,7 @@
         "acc": 92.72,
         "season": null,
         "status": "active",
-        "lastLogin": 1792430651
+        "lastLogin": 1792457668
       },
       {
         "username": "cats_4_eva",
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792455284185
+    "_syncedAt": 1792457720987
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 55,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 1998,
+    "profileViews": 2009,
     "leagueTier": 11,
     "racers": [
       {
@@ -1065,14 +1065,14 @@
         "displayName": "PeriwinkleCoffeeStarfish",
         "role": "member",
         "joinStamp": 1791824790,
-        "allTimeRaces": 430,
-        "wpm": 124,
+        "allTimeRaces": 434,
+        "wpm": 92,
         "highestWPM": 126,
-        "teamRaces": 18,
-        "acc": 100,
+        "teamRaces": 19,
+        "acc": 99.31,
         "season": null,
         "status": "active",
-        "lastLogin": 1792361018
+        "lastLogin": 1792457011
       },
       {
         "username": "074a157a4542ba80b1a530a434e414ad",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 39969,
+        "races": 39970,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 85,
-        "avgWPM": 79,
-        "avgAcc": 94.71,
+        "races": 86,
+        "avgWPM": 78,
+        "avgAcc": 94.57,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792455303043
+    "_syncedAt": 1792457740210
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,22 +1227,22 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792455322198
+    "_syncedAt": 1792457759284
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 46,
+    "members": 47,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4224,
+    "profileViews": 4234,
     "leagueTier": 11,
     "racers": [
       {
         "username": "joepellicc_gold",
         "displayName": "Myst_ry",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1791676311,
         "allTimeRaces": 575,
         "wpm": 94,
@@ -1289,7 +1289,7 @@
         "allTimeRaces": 11915,
         "wpm": 84,
         "highestWPM": 116,
-        "teamRaces": 4951,
+        "teamRaces": 4954,
         "acc": 92.34,
         "season": null,
         "status": "active",
@@ -1335,7 +1335,7 @@
         "acc": 93.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792422331
+        "lastLogin": 1792457048
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1762,14 +1762,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5832,
+        "allTimeRaces": 5836,
         "wpm": 80,
         "highestWPM": 109,
-        "teamRaces": 225,
-        "acc": 94.69,
+        "teamRaces": 227,
+        "acc": 94.68,
         "season": null,
         "status": "active",
-        "lastLogin": 1792449402
+        "lastLogin": 1792457171
       },
       {
         "username": "nev444ehh",
@@ -1856,6 +1856,20 @@
         "lastLogin": 1792454844
       },
       {
+        "username": "comet_eclipse",
+        "displayName": "Lunar-Solar",
+        "role": "member",
+        "joinStamp": 1792457914,
+        "allTimeRaces": 361,
+        "wpm": 78,
+        "highestWPM": 93,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792457349
+      },
+      {
         "username": "mediumrareribeye",
         "displayName": "Patrick Jane",
         "role": "member",
@@ -1886,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118168,
+        "races": 118173,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 46
+        "members": 47
       },
       "daily": {
-        "races": 893,
+        "races": 863,
         "avgWPM": 68,
-        "avgAcc": 93.55,
-        "members": 46
+        "avgAcc": 93.48,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792455491328
+    "_syncedAt": 1792457929001
   }
 }

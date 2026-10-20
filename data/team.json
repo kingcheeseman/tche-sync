@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortals III",
-  "members": 43,
+  "members": 44,
   "activePercent": 87,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament SOON",
-  "profileViews": 1944,
+  "profileViews": 1947,
   "leagueTier": 11,
   "racers": [
     {
@@ -457,6 +457,20 @@
       "lastLogin": 1792452048
     },
     {
+      "username": "2ee8114b79a8dbe9aa406f885f04362c",
+      "displayName": "Bobby Junior",
+      "role": "member",
+      "joinStamp": 1792456341,
+      "allTimeRaces": 1151,
+      "wpm": 76,
+      "highestWPM": 228,
+      "teamRaces": 15,
+      "acc": 94.84,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792455973
+    },
+    {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
       "displayName": "Noah0821",
       "role": "member",
@@ -531,11 +545,11 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2803,
-      "wpm": 69,
+      "allTimeRaces": 2820,
+      "wpm": 70,
       "highestWPM": 124,
-      "teamRaces": 3168,
-      "acc": 98.98,
+      "teamRaces": 3206,
+      "acc": 98.97,
       "season": null,
       "status": "active",
       "lastLogin": 1792454504
@@ -613,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54371,
+      "races": 54424,
       "avgWPM": 76,
       "avgAcc": 95.03,
-      "members": 43
+      "members": 44
     },
     "daily": {
-      "races": 846,
-      "avgWPM": 77,
-      "avgAcc": 93.7,
-      "members": 43
+      "races": 884,
+      "avgWPM": 76,
+      "avgAcc": 93.87,
+      "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792455211125
+  "_syncedAt": 1792457654525
 }
