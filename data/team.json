@@ -83,14 +83,14 @@
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20560,
-      "wpm": 83,
+      "allTimeRaces": 20566,
+      "wpm": 78,
       "highestWPM": 127,
-      "teamRaces": 208,
-      "acc": 93.97,
+      "teamRaces": 210,
+      "acc": 93.99,
       "season": null,
       "status": "active",
-      "lastLogin": 1792512255
+      "lastLogin": 1792529310
     },
     {
       "username": "mweid2",
@@ -153,14 +153,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 774,
-      "wpm": 67,
+      "allTimeRaces": 777,
+      "wpm": 66,
       "highestWPM": 84,
       "teamRaces": 273,
       "acc": 94.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1792521746
+      "lastLogin": 1792530155
     },
     {
       "username": "ilovepokedigers",
@@ -363,10 +363,10 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1270,
-      "wpm": 91,
+      "allTimeRaces": 1273,
+      "wpm": 89,
       "highestWPM": 119,
-      "teamRaces": 915,
+      "teamRaces": 926,
       "acc": 94.46,
       "season": null,
       "status": "active",
@@ -503,11 +503,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 498,
-      "wpm": 49,
+      "allTimeRaces": 501,
+      "wpm": 51,
       "highestWPM": 96,
-      "teamRaces": 246,
-      "acc": 92.26,
+      "teamRaces": 253,
+      "acc": 92.18,
       "season": null,
       "status": "active",
       "lastLogin": 1792527733
@@ -545,14 +545,14 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1790451240,
-      "allTimeRaces": 2835,
-      "wpm": 73,
+      "allTimeRaces": 2846,
+      "wpm": 70,
       "highestWPM": 124,
-      "teamRaces": 3234,
+      "teamRaces": 3243,
       "acc": 98.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1792458493
+      "lastLogin": 1792529626
     },
     {
       "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55069,
+      "races": 55098,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 44
     },
     "daily": {
-      "races": 913,
+      "races": 906,
       "avgWPM": 79,
-      "avgAcc": 94.6,
+      "avgAcc": 94.64,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792528755525
+  "_syncedAt": 1792530516913
 }
