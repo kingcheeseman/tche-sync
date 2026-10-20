@@ -550,15 +550,15 @@
         "members": 38
       },
       "daily": {
-        "races": 438,
-        "avgWPM": 69,
-        "avgAcc": 93.44,
+        "races": 430,
+        "avgWPM": 68,
+        "avgAcc": 93.42,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792534175781
+    "_syncedAt": 1792535843674
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 46
       },
       "daily": {
-        "races": 144,
+        "races": 135,
         "avgWPM": 80,
-        "avgAcc": 94.18,
+        "avgAcc": 94.08,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792534194738
+    "_syncedAt": 1792535862526
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792534213687
+    "_syncedAt": 1792535881243
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4286,
+    "profileViews": 4287,
     "leagueTier": 11,
     "racers": [
       {
@@ -1412,14 +1412,14 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 2841,
+        "allTimeRaces": 2842,
         "wpm": 67,
         "highestWPM": 80,
         "teamRaces": 1136,
         "acc": 96.44,
         "season": null,
         "status": "active",
-        "lastLogin": 1792527383
+        "lastLogin": 1792535989
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1608,14 +1608,14 @@
         "displayName": "GRANDMAISTHEGOAT",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2279,
-        "wpm": 46,
+        "allTimeRaces": 2289,
+        "wpm": 48,
         "highestWPM": 85,
-        "teamRaces": 862,
-        "acc": 89.6,
+        "teamRaces": 872,
+        "acc": 89.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1792532793
+        "lastLogin": 1792535245
       },
       {
         "username": "srivanthvadlamudi",
@@ -1762,14 +1762,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18670,
-        "wpm": 92,
+        "allTimeRaces": 18676,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 18210,
+        "teamRaces": 18216,
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792532533
+        "lastLogin": 1792535008
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118671,
+        "races": 118687,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 614,
-        "avgWPM": 75,
-        "avgAcc": 94.24,
+        "races": 591,
+        "avgWPM": 74,
+        "avgAcc": 94.05,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792534383299
+    "_syncedAt": 1792536050631
   }
 }

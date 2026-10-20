@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1972,
+  "profileViews": 1976,
   "leagueTier": 11,
   "racers": [
     {
@@ -41,14 +41,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4737,
-      "wpm": 92,
+      "allTimeRaces": 4763,
+      "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 557,
-      "acc": 94.79,
+      "teamRaces": 576,
+      "acc": 94.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1792518018
+      "lastLogin": 1792534369
     },
     {
       "username": "tbnr_andy",
@@ -258,7 +258,7 @@
       "acc": 96.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1792523485
+      "lastLogin": 1792535764
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -447,11 +447,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4719,
-      "wpm": 91,
+      "allTimeRaces": 4735,
+      "wpm": 96,
       "highestWPM": 120,
-      "teamRaces": 2285,
-      "acc": 92.53,
+      "teamRaces": 2310,
+      "acc": 92.54,
       "season": null,
       "status": "active",
       "lastLogin": 1792530749
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55183,
+      "races": 55227,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 44
     },
     "daily": {
-      "races": 907,
-      "avgWPM": 79,
-      "avgAcc": 94.72,
+      "races": 938,
+      "avgWPM": 80,
+      "avgAcc": 94.71,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792534097695
+  "_syncedAt": 1792535766332
 }

@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 96,
       "topWPM": 120,
-      "lifetimeRaces": 4717,
-      "teamRaces": 2285,
+      "lifetimeRaces": 4735,
+      "teamRaces": 2310,
       "joined": "06/10/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 90,
       "topWPM": 110,
-      "lifetimeRaces": 4737,
-      "teamRaces": 557,
+      "lifetimeRaces": 4763,
+      "teamRaces": 576,
       "joined": "10/06/26"
     },
     {
@@ -582,5 +582,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792534152236
+  "_syncedAt": 1792535820000
 }

@@ -819,10 +819,10 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 4068
+              "score": 7473
             }
           ],
-          "winner": 0
+          "winner": 1
         },
         {
           "id": "Match 2305",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792534167060,
+  "_syncedAt": 1792535834892,
   "seeding": {
     "racers": [
       {
@@ -2347,6 +2347,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792534171401
+    "_syncedAt": 1792535839002
   }
 }
