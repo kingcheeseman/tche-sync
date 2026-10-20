@@ -566,6 +566,91 @@ function buildActivity(extras) {
   return { hours, source: "ntstartrack.org", _syncedAt: Date.now() };
 }
 
+// ---- notifications feed ----
+// Built by diffing each sync's fresh data against the previous run's
+// data/*.json (read before they get overwritten below). Every event gets a
+// stable `key` so re-runs never duplicate it; results are capped and kept
+// newest-first in data/notifications.json.
+const MILESTONES = [1000, 2500, 5000, 10000, 20000, 30000, 50000, 75000, 100000];
+const MAX_NOTIFICATIONS = 150;
+
+async function readPrevJSON(name) {
+  try {
+    const fs = await import("node:fs/promises");
+    return JSON.parse(await fs.readFile(`${DATA_DIR}/${name}`, "utf8"));
+  } catch (_) { return null; }
+}
+
+function detectTeamEvents(prevTeam, newTeam) {
+  const events = [];
+  if (!prevTeam || !newTeam || !Array.isArray(newTeam.racers)) return events;
+  const prevByUser = {};
+  prevTeam.racers.forEach(r => { prevByUser[r.username] = r; });
+  for (const r of newTeam.racers) {
+    const prev = prevByUser[r.username];
+    if (!prev) {
+      events.push({ key: `new-member:${r.username}`, type: "new-member", text: `${r.displayName || r.username} joined the team.`, meta: { username: r.username } });
+      continue;
+    }
+    const prevRaces = prev.allTimeRaces || 0;
+    const newRaces = r.allTimeRaces || 0;
+    for (const m of MILESTONES) {
+      if (prevRaces < m && newRaces >= m) {
+        events.push({ key: `milestone:${r.username}:${m}`, type: "milestone", text: `${r.displayName || r.username} crossed ${m.toLocaleString()} lifetime races!`, meta: { username: r.username, milestone: m } });
+      }
+    }
+  }
+  return events;
+}
+
+function detectCompEvents(prevComps, newComps) {
+  const events = [];
+  if (!prevComps || !newComps || !Array.isArray(newComps.events)) return events;
+  const prevById = {};
+  prevComps.events.forEach(e => { prevById[e.id] = e; });
+  const isLiveStatus = s => /active|live|ongoing|open/i.test(s || "");
+  for (const c of newComps.events) {
+    if (!c.id) continue;
+    const prev = prevById[c.id];
+    if (isLiveStatus(c.status) && !isLiveStatus(prev && prev.status)) {
+      events.push({ key: `comp-live:${c.id}`, type: "comp-live", text: `Cash comp "${c.title || c.id}" is now live!`, meta: { eventId: c.id } });
+    }
+  }
+  return events;
+}
+
+function detectTournamentEvents(prevTour, newTour, teamTag) {
+  const events = [];
+  if (!prevTour || !newTour || !Array.isArray(newTour.rounds)) return events;
+  const prevDecided = new Set();
+  (prevTour.rounds || []).forEach(round => (round.matches || []).forEach(m => {
+    if (m.id && m.winner != null) prevDecided.add(m.id);
+  }));
+  newTour.rounds.forEach(round => {
+    (round.matches || []).forEach(m => {
+      if (!m.id || m.winner == null || prevDecided.has(m.id)) return;
+      const players = m.players || [];
+      const winnerP = players[m.winner];
+      const loserP = players[1 - m.winner];
+      if (winnerP && !winnerP.placeholder && winnerP.teamTag === teamTag) {
+        events.push({ key: `tour-win:${m.id}`, type: "tournament-win", text: `${winnerP.racer} won their ${round.label} match${loserP && loserP.racer && !loserP.placeholder ? ` vs ${loserP.racer}` : ""}.`, meta: { matchId: m.id, username: winnerP.racer } });
+      } else if (loserP && !loserP.placeholder && loserP.teamTag === teamTag) {
+        events.push({ key: `tour-loss:${m.id}`, type: "tournament-loss", text: `${loserP.racer} was eliminated in the ${round.label}.`, meta: { matchId: m.id, username: loserP.racer } });
+      }
+    });
+  });
+  return events;
+}
+
+function buildNotifications(prevNotifications, freshEvents) {
+  const existingKeys = new Set(((prevNotifications && prevNotifications.items) || []).map(i => i.key));
+  const now = Date.now();
+  const added = freshEvents.filter(e => e.key && !existingKeys.has(e.key)).map(e => ({ ...e, createdAt: now }));
+  const merged = [...added, ...((prevNotifications && prevNotifications.items) || [])];
+  merged.sort((a, b) => b.createdAt - a.createdAt);
+  return { items: merged.slice(0, MAX_NOTIFICATIONS), _syncedAt: now };
+}
+
 // ---- main ----
 async function main() {
   const started = Date.now();
@@ -583,6 +668,13 @@ async function main() {
     try { const r = await fn(); results.ok.push(label); return r; }
     catch (e) { results.failed.push(`${label}: ${e.message}`); console.error(`FAIL ${label}:`, e.message); return null; }
   };
+
+  // Snapshot the previous run's data before anything below overwrites it —
+  // the notifications feed is built by diffing against these.
+  const prevTeam = await readPrevJSON("team.json");
+  const prevComps = await readPrevJSON("comps.json");
+  const prevTournament = await readPrevJSON("tournament.json");
+  const prevNotifications = await readPrevJSON("notifications.json");
 
   // Team (NT)
   const team = await safe("team", () => fetchTeamAPI(context, TEAM_TAG));
@@ -638,6 +730,16 @@ async function main() {
     await writeJSON("tournament.json", tournament);
   }
 
+  // Notifications feed (new members, race milestones, comps going live,
+  // tournament match results) — diffed against the pre-write snapshots above.
+  const notifEvents = [
+    ...detectTeamEvents(prevTeam, team),
+    ...detectCompEvents(prevComps, comps),
+    ...detectTournamentEvents(prevTournament, tournament, TEAM_TAG),
+  ];
+  const notifications = buildNotifications(prevNotifications, notifEvents);
+  await writeJSON("notifications.json", notifications);
+
   // Comp leaderboards for active comps
   if (comps && comps.events) {
     const active = comps.events.filter(e => /active|live|ongoing|open/i.test(e.status || ""));
@@ -685,6 +787,7 @@ async function main() {
     tournament: tournament ? tournament._syncedAt : null,
     roster: roster ? roster._syncedAt : null,
     activity: activity ? activity._syncedAt : null,
+    notifications: notifications ? notifications._syncedAt : null,
     allies: Object.keys(allyTeams),
     took: Date.now() - started,
     ok: results.ok,

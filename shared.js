@@ -30,6 +30,7 @@
     competitions: "competitions.html",
     tournament: "tournament.html",
     allies: "allies.html",
+    notifications: "notifications.html",
     info: "info.html",
   };
   const LABELS = {
@@ -40,6 +41,7 @@
     competitions: "Competitions",
     tournament: "Tournament",
     allies: "Allies",
+    notifications: "Notifications",
     info: "Info",
   };
 
@@ -60,6 +62,7 @@
     daily: null,           // per-racer 24h stats (Startrack)
     roster: null,          // squad/tier/role + thresholds (Startrack roster API)
     activity: null,        // hourly races per racer, last ~24h (Startrack)
+    notifications: null,   // team event feed (new members, milestones, comps, tournament results)
     notes: {},             // notes/<username> → { text, updatedAt }
     pinnedNotice: null,    // settings/pinnedNotice doc
     history: [],           // history/YYYY-MM-DD list for charts
@@ -210,7 +213,7 @@
 
   async function loadFromGitHub() {
     try {
-      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned, tournament, roster, activity] = await Promise.all([
+      const [team, startrack, comps, seasons, weekly, daily, allies, allySeason, compLBs, history, index, info, pinned, tournament, roster, activity, notifications] = await Promise.all([
         fetchGH("team.json"),
         fetchGH("startrack.json"),
         fetchGH("comps.json"),
@@ -227,6 +230,7 @@
         fetchGH("tournament.json"),
         fetchGH("roster.json"),
         fetchGH("activity.json"),
+        fetchGH("notifications.json"),
       ]);
       if (team) { state.team = team; state.lastSync = team._syncedAt || state.lastSync; }
       if (startrack) state.startrack = startrack;
@@ -250,6 +254,7 @@
       if (tournament) state.tournament = tournament;
       if (roster) state.roster = roster;
       if (activity) state.activity = activity;
+      if (notifications) state.notifications = notifications;
       if (allies && typeof allies === "object") state.allies = Object.keys(allies);
       state.syncIndex = index || null;
       if (!team && !startrack && !comps) {
@@ -1251,10 +1256,12 @@
       else if (p === "competitions") view.innerHTML = staleBanner() + renderCompetitions();
       else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
+      else if (p === "notifications") view.innerHTML = staleBanner() + renderNotifications();
       else if (p === "info") view.innerHTML = renderInfo();
       else if (p === "racer") view.innerHTML = staleBanner() + renderRacerProfile();
       else view.innerHTML = `<div class="empty"><h3>Unknown page</h3><p>Open <a href="${PAGES.home}">Home</a>.</p></div>`;
       wireHandlers();
+      updateNotifDot();
     } catch(e) {
       console.error("render", e);
       view.innerHTML = `<div class="empty"><h3>Something broke rendering this page</h3><p>${esc(e.message)}</p></div>`;
@@ -1516,6 +1523,20 @@
       </div>`;
   }
 
+  // Role resolution: roster.json (from Startrack) distinguishes captain from
+  // officer; team.json (from Nitro Type's own API) only has officer/member.
+  // Prefer roster.json when it's loaded, fall back to team.json's role.
+  function resolveRole(username, fallbackRole) {
+    const ro = state.roster && Array.isArray(state.roster.racers) ? state.roster.racers.find(r => r.username === username) : null;
+    if (ro && ro.role) return ro.role;
+    return fallbackRole || "member";
+  }
+  function rolePill(role) {
+    if (role === "captain") return `<span class="pill pill-role-captain">👑 Captain</span>`;
+    if (role === "officer") return `<span class="pill pill-role-officer">★ Officer</span>`;
+    return "";
+  }
+
   // ----- RACERS -----
   function renderRacers() {
     const t = state.team;
@@ -1600,7 +1621,7 @@
             <div class="podium-badge">${i+1}</div>
             <div class="podium-position">${positions[i]}</div>
             <div class="podium-name"><a href="racer.html?u=${encodeURIComponent(r.username)}" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
-            <div class="podium-handle">@${esc(r.username)}</div>
+            <div class="podium-handle">@${esc(r.username)} ${rolePill(resolveRole(r.username, r.role))}</div>
             <div class="podium-stats">
               <div><div class="podium-stat-k">Avg WPM</div><div class="podium-stat-v">${fmt(extract.wpm(r))}</div></div>
               <div><div class="podium-stat-k">Top WPM</div><div class="podium-stat-v">${fmt(extract.highestWPM(r))}</div></div>
@@ -1648,7 +1669,7 @@
           <td class="name">
             <a href="${NT_RACER_URL(r.username)}" target="_blank" rel="noopener">${esc(r.displayName || r.username)}</a>
             ${isNew ? '<span class="pill pill-gold" style="margin-left:6px;">New</span>' : ''}
-            <div class="name-sub">@${esc(r.username)}${r.role && r.role !== "member" ? ` · ${esc(r.role)}` : ""} ${activePill}</div>
+            <div class="name-sub">@${esc(r.username)} ${rolePill(resolveRole(r.username, r.role))} ${activePill}</div>
             <a class="profile-link" href="racer.html?u=${encodeURIComponent(r.username)}">View profile →</a>
             ${note && note.text ? `<div class="racer-note">💬 ${esc(note.text)}</div>` : ""}
             ${state.isAdmin ? `<button class="note-edit-btn" data-note-user="${esc(r.username)}">${note && note.text ? "Edit note" : "+ Add note"}</button>` : ""}
@@ -1682,7 +1703,7 @@
             return `
               <div class="compare-card">
                 <div class="compare-name"><a href="racer.html?u=${encodeURIComponent(r.username)}" style="color:inherit;">${esc(r.displayName || r.username)}</a></div>
-                <div class="compare-handle">@${esc(r.username)} ${ro && ro.squad ? `<span class="squad-pill" style="margin-left:4px;">${esc(ro.squad)}</span>` : ""} ${ro && ro.tier ? `<span class="pill pill-tier-${ro.tier.toLowerCase()}" style="margin-left:4px;">Tier ${esc(ro.tier)}</span>` : ""}</div>
+                <div class="compare-handle">@${esc(r.username)} ${rolePill(resolveRole(r.username, r.role))} ${ro && ro.squad ? `<span class="squad-pill" style="margin-left:4px;">${esc(ro.squad)}</span>` : ""} ${ro && ro.tier ? `<span class="pill pill-tier-${ro.tier.toLowerCase()}" style="margin-left:4px;">Tier ${esc(ro.tier)}</span>` : ""}</div>
                 <div class="compare-stats">
                   <div><div class="compare-k">Avg WPM</div><div class="compare-v">${fmt(r.wpm)}</div></div>
                   <div><div class="compare-k">Top WPM</div><div class="compare-v">${fmt(r.highestWPM)}</div></div>
@@ -1898,7 +1919,7 @@
         <div>
           <div class="page-eyebrow"><a href="${PAGES.racers}">← Racers</a></div>
           <h1 class="page-title">${esc(racer.displayName || racer.username)}</h1>
-          <p class="page-sub">@${esc(racer.username)}${racer.role && racer.role !== "member" ? ` · ${esc(racer.role)}` : ""} ${activePill} · Joined ${esc(joinedTxt)} · <a href="${NT_RACER_URL(racer.username)}" target="_blank" rel="noopener">View on Nitro Type →</a></p>
+          <p class="page-sub">@${esc(racer.username)} ${rolePill(resolveRole(racer.username, racer.role))} ${activePill} · Joined ${esc(joinedTxt)} · <a href="${NT_RACER_URL(racer.username)}" target="_blank" rel="noopener">View on Nitro Type →</a></p>
           ${rosterEntry && (rosterEntry.squad || rosterEntry.tier) ? `<p style="margin:8px 0 0;">${rosterEntry.squad ? `<span class="squad-pill">${esc(rosterEntry.squad)}</span>` : ""} ${rosterEntry.tier ? `<span class="pill pill-tier-${rosterEntry.tier.toLowerCase()}" style="margin-left:6px;">Tier ${esc(rosterEntry.tier)}</span>` : ""}</p>` : ""}
         </div>
       </div>
@@ -2027,6 +2048,82 @@
             <tbody>${rows}</tbody>
           </table>
         </div>
+      </div>
+    `;
+  }
+
+  // ----- NOTIFICATIONS -----
+  const NOTIF_ICONS = {
+    "new-member": "🆕",
+    "milestone": "🏁",
+    "comp-live": "💰",
+    "tournament-win": "🏆",
+    "tournament-loss": "💔",
+  };
+
+  function unreadNotifCount() {
+    if (!state.notifications || !Array.isArray(state.notifications.items)) return 0;
+    let lastSeen = 0;
+    try { lastSeen = Number(localStorage.getItem("imt-notif-last-seen")) || 0; } catch (_) {}
+    return state.notifications.items.filter(n => n.createdAt > lastSeen).length;
+  }
+
+  function updateNotifDot() {
+    const tab = document.querySelector('nav.tabs a[data-tab="notifications"]');
+    if (!tab) return;
+    const existing = tab.querySelector(".nav-tab-dot");
+    const count = unreadNotifCount();
+    if (count > 0 && !existing) {
+      const dot = document.createElement("span");
+      dot.className = "nav-tab-dot";
+      tab.appendChild(dot);
+    } else if (count === 0 && existing) {
+      existing.remove();
+    }
+  }
+
+  function renderNotifications() {
+    const items = (state.notifications && Array.isArray(state.notifications.items)) ? state.notifications.items : [];
+    // Mark as read as soon as the page is viewed.
+    try { localStorage.setItem("imt-notif-last-seen", String(Date.now())); } catch (_) {}
+
+    if (!items.length) return emptyState("No notifications yet", "New members, race milestones, live comps, and tournament results will show up here as they happen.");
+
+    // Resolve a username for a profile link: team-sourced events already carry
+    // the real username in meta.username; tournament events carry a display
+    // name instead, so fall back to resolving it the same way Activity does.
+    const byDisplay = {};
+    const rosterRacers = (state.roster && Array.isArray(state.roster.racers)) ? state.roster.racers : [];
+    rosterRacers.forEach(r => { if (r.displayName) byDisplay[r.displayName] = r.username; });
+    if (state.team && Array.isArray(state.team.racers)) {
+      state.team.racers.forEach(r => { if (r.displayName && !byDisplay[r.displayName]) byDisplay[r.displayName] = r.username; });
+    }
+    const allUsernames = new Set();
+    if (state.team && Array.isArray(state.team.racers)) state.team.racers.forEach(r => allUsernames.add(r.username));
+
+    const rows = items.map(n => {
+      const icon = NOTIF_ICONS[n.type] || "🔔";
+      const metaUser = n.meta && n.meta.username;
+      const uname = metaUser && allUsernames.has(metaUser) ? metaUser : (metaUser && byDisplay[metaUser]) || null;
+      const text = esc(n.text);
+      return `
+        <div class="notif-item">
+          <div class="notif-icon">${icon}</div>
+          <div class="notif-body">
+            <div class="notif-text">${uname ? `<a href="racer.html?u=${encodeURIComponent(uname)}">${text}</a>` : text}</div>
+            <div class="notif-time">${esc(timeAgo(n.createdAt))}</div>
+          </div>
+        </div>`;
+    }).join("");
+
+    return `
+      <div class="page-head"><div>
+        <div class="page-eyebrow">${esc(TEAM_TAG)} · Feed</div>
+        <h1 class="page-title">Notifications</h1>
+        <p class="page-sub">New members, race milestones, live comps, and tournament results, detected automatically every sync.</p>
+      </div></div>
+      <div class="card">
+        <div class="notif-list">${rows}</div>
       </div>
     `;
   }

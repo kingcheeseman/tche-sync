@@ -177,6 +177,7 @@ nav.tabs {
 }
 nav.tabs::-webkit-scrollbar { display: none; }
 nav.tabs a {
+  position: relative;
   padding: 9px 16px;
   border-radius: 999px;
   font-family: var(--font-display);
@@ -187,6 +188,16 @@ nav.tabs a {
   white-space: nowrap;
   text-decoration: none;
   transition: color 150ms, background 150ms;
+}
+.nav-tab-dot {
+  position: absolute;
+  top: 5px;
+  right: 7px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #EF4444;
+  border: 1.5px solid var(--surface);
 }
 nav.tabs a:hover { color: var(--text); background: var(--surface-2); text-decoration: none; }
 nav.tabs a.active {
@@ -1099,6 +1110,10 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
   font-weight: 600;
   cursor: pointer;
 }
+.pill-role-captain { background: linear-gradient(145deg, var(--yellow), var(--gold)); color: var(--black); }
+.pill-role-officer { background: color-mix(in oklab, #3B82F6 20%, transparent); color: #1D4ED8; }
+:root[data-theme="dark"] .pill-role-officer,
+:root:not([data-theme="light"]) .pill-role-officer { color: #93C5FD; }
 .squad-pill {
   display: inline-block;
   padding: 2px 9px;
@@ -1110,6 +1125,31 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
   border: 1px solid var(--border);
   white-space: nowrap;
 }
+
+/* NOTIFICATIONS */
+.notif-list { display: flex; flex-direction: column; gap: 2px; }
+.notif-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 12px 4px;
+  border-bottom: 1px solid var(--border);
+}
+.notif-item:last-child { border-bottom: none; }
+.notif-icon {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  background: var(--surface-2);
+}
+.notif-body { min-width: 0; flex: 1; }
+.notif-text { font-size: 13.5px; color: var(--text); line-height: 1.4; }
+.notif-time { font-size: 11.5px; color: var(--text-muted); margin-top: 2px; }
 
 /* ACTIVITY CHART */
 .activity-chart-wrap { overflow-x: auto; padding-bottom: 6px; }
