@@ -258,7 +258,7 @@
       "acc": 96.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1792517235
+      "lastLogin": 1792523485
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -559,14 +559,14 @@
       "displayName": "reteyrhyj",
       "role": "member",
       "joinStamp": 1792448692,
-      "allTimeRaces": 5297,
-      "wpm": 85,
+      "allTimeRaces": 5304,
+      "wpm": 83,
       "highestWPM": 103,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 6,
+      "acc": 90.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1792446503
+      "lastLogin": 1792524729
     },
     {
       "username": "me_likey_typey",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55027,
+      "races": 55033,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 44
     },
     "daily": {
-      "races": 977,
-      "avgWPM": 79,
-      "avgAcc": 94.45,
+      "races": 944,
+      "avgWPM": 80,
+      "avgAcc": 94.62,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792523125842
+  "_syncedAt": 1792525225974
 }
