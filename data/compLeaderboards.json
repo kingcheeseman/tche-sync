@@ -74,11 +74,11 @@
         "displayName": "Natuski",
         "nickname": "I Love Cats",
         "squad": "Investor 1k ;)",
-        "races": 136,
-        "wpm": 63.2,
-        "accuracy": 88.45,
-        "points": 15833,
-        "tier": "A"
+        "races": 141,
+        "wpm": 63.3,
+        "accuracy": 88.49,
+        "points": 16424,
+        "tier": "B"
       },
       {
         "rank": 7,
@@ -965,6 +965,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792495162103
+    "_syncedAt": 1792497420389
   }
 }
