@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!",
-  "profileViews": 1966,
+  "profileViews": 1967,
   "leagueTier": 11,
   "racers": [
     {
@@ -153,14 +153,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 773,
-      "wpm": 65,
+      "allTimeRaces": 774,
+      "wpm": 67,
       "highestWPM": 84,
-      "teamRaces": 272,
-      "acc": 94.62,
+      "teamRaces": 273,
+      "acc": 94.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1792186515
+      "lastLogin": 1792521746
     },
     {
       "username": "ilovepokedigers",
@@ -293,14 +293,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2705,
-      "wpm": 79,
+      "allTimeRaces": 2709,
+      "wpm": 78,
       "highestWPM": 102,
-      "teamRaces": 86,
-      "acc": 95.3,
+      "teamRaces": 90,
+      "acc": 95.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1792159193
+      "lastLogin": 1792521552
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1250,
+      "allTimeRaces": 1251,
       "wpm": 90,
       "highestWPM": 119,
-      "teamRaces": 903,
+      "teamRaces": 904,
       "acc": 94.47,
       "season": null,
       "status": "active",
-      "lastLogin": 1792504864
+      "lastLogin": 1792522643
     },
     {
       "username": "imenishat",
@@ -573,14 +573,14 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9110,
-      "wpm": 59,
+      "allTimeRaces": 9123,
+      "wpm": 56,
       "highestWPM": 82,
-      "teamRaces": 1066,
-      "acc": 80.08,
+      "teamRaces": 1079,
+      "acc": 80.1,
       "season": null,
       "status": "active",
-      "lastLogin": 1792513622
+      "lastLogin": 1792520321
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55008,
+      "races": 55027,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 44
     },
     "daily": {
-      "races": 1036,
+      "races": 977,
       "avgWPM": 79,
-      "avgAcc": 93.97,
+      "avgAcc": 94.45,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792520290283
+  "_syncedAt": 1792523125842
 }
