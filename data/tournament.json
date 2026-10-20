@@ -23,7 +23,7 @@
   ],
   "rounds": [
     {
-      "label": "Round of 64 *",
+      "label": "Round of 64 ✓",
       "prize": null,
       "matches": [
         {
@@ -65,7 +65,7 @@
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": 1340
+              "score": 4503
             }
           ],
           "winner": 0
@@ -101,7 +101,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 21197
+              "score": 22134
             },
             {
               "seed": "48",
@@ -153,10 +153,10 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": null
+              "score": 1179
             }
           ],
-          "winner": null
+          "winner": 0
         },
         {
           "id": "Match 2275",
@@ -329,7 +329,7 @@
               "teamTag": "IMT",
               "gold": false,
               "placeholder": false,
-              "score": 4658
+              "score": 4930
             }
           ],
           "winner": null
@@ -347,11 +347,11 @@
             },
             {
               "seed": "53",
-              "racer": "RALSEI",
+              "racer": "weak kingsley",
               "teamTag": "KEYCAT",
               "gold": false,
               "placeholder": false,
-              "score": 868
+              "score": 1200
             }
           ],
           "winner": 0
@@ -373,7 +373,7 @@
               "teamTag": "SVC",
               "gold": false,
               "placeholder": false,
-              "score": 2734
+              "score": 3109
             }
           ],
           "winner": 0
@@ -453,7 +453,7 @@
               "teamTag": "THB0S",
               "gold": false,
               "placeholder": false,
-              "score": 8633
+              "score": 10302
             },
             {
               "seed": "47",
@@ -607,7 +607,7 @@
               "teamTag": "KEYCAT",
               "gold": true,
               "placeholder": false,
-              "score": 7957
+              "score": 8487
             },
             {
               "seed": "51",
@@ -1446,7 +1446,7 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792501948051,
+  "_syncedAt": 1792504158910,
   "seeding": {
     "racers": [
       {
@@ -2347,6 +2347,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792501952177
+    "_syncedAt": 1792504163305
   }
 }

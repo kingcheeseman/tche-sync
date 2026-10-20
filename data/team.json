@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1217,
-      "wpm": 90,
+      "allTimeRaces": 1219,
+      "wpm": 89,
       "highestWPM": 119,
-      "teamRaces": 870,
-      "acc": 94.47,
+      "teamRaces": 872,
+      "acc": 94.48,
       "season": null,
       "status": "active",
-      "lastLogin": 1792438756
+      "lastLogin": 1792502700
     },
     {
       "username": "imenishat",
@@ -627,13 +627,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54750,
+      "races": 54752,
       "avgWPM": 76,
       "avgAcc": 95.04,
       "members": 44
     },
     "daily": {
-      "races": 1057,
+      "races": 1059,
       "avgWPM": 80,
       "avgAcc": 94.51,
       "members": 44
@@ -641,5 +641,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792501878752
+  "_syncedAt": 1792504090500
 }
