@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨Top 35 team✨15 races/join✨20 races/day✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!",
-  "profileViews": 1960,
+  "profileViews": 1963,
   "leagueTier": 11,
   "racers": [
     {
@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6886,
+      "allTimeRaces": 6889,
       "wpm": 103,
       "highestWPM": 132,
-      "teamRaces": 148,
+      "teamRaces": 151,
       "acc": 95.89,
       "season": null,
       "status": "active",
-      "lastLogin": 1792420817
+      "lastLogin": 1792512510
     },
     {
       "username": "tre1typer",
@@ -90,7 +90,7 @@
       "acc": 93.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1792425677
+      "lastLogin": 1792512255
     },
     {
       "username": "mweid2",
@@ -251,14 +251,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3748,
-      "wpm": 100,
+      "allTimeRaces": 3749,
+      "wpm": 101,
       "highestWPM": 120,
-      "teamRaces": 99,
-      "acc": 96.83,
+      "teamRaces": 100,
+      "acc": 96.84,
       "season": null,
       "status": "active",
-      "lastLogin": 1792510385
+      "lastLogin": 1792512668
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54901,
+      "races": 54905,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 44
     },
     "daily": {
-      "races": 1087,
+      "races": 1061,
       "avgWPM": 79,
-      "avgAcc": 94.21,
+      "avgAcc": 94.22,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792511896199
+  "_syncedAt": 1792513497251
 }

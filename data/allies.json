@@ -6,7 +6,7 @@
     "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2901,
+    "profileViews": 2902,
     "leagueTier": 11,
     "racers": [
       {
@@ -28,14 +28,14 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2710,
-        "wpm": 61,
+        "allTimeRaces": 2711,
+        "wpm": 62,
         "highestWPM": 88,
         "teamRaces": 333,
         "acc": 91.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792501471
+        "lastLogin": 1792513422
       },
       {
         "username": "slushy_da_goat",
@@ -84,14 +84,14 @@
         "displayName": "prismaticbeam",
         "role": "member",
         "joinStamp": 1789581515,
-        "allTimeRaces": 529,
-        "wpm": 77,
+        "allTimeRaces": 533,
+        "wpm": 78,
         "highestWPM": 96,
-        "teamRaces": 78,
-        "acc": 93.72,
+        "teamRaces": 82,
+        "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1792426474
+        "lastLogin": 1792511998
       },
       {
         "username": "c8819cadbfe243837c5545b372cb3cd1",
@@ -196,10 +196,10 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2151,
-        "wpm": 72,
+        "allTimeRaces": 2152,
+        "wpm": 71,
         "highestWPM": 90,
-        "teamRaces": 1106,
+        "teamRaces": 1107,
         "acc": 90.3,
         "season": null,
         "status": "active",
@@ -516,13 +516,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77451,
+        "races": 77456,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 36
       },
       "daily": {
-        "races": 474,
+        "races": 478,
         "avgWPM": 71,
         "avgAcc": 92.85,
         "members": 36
@@ -530,7 +530,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792511973618
+    "_syncedAt": 1792513576838
   },
   "SVC": {
     "tag": "SVC",
@@ -539,7 +539,7 @@
     "activePercent": 51,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2011,
+    "profileViews": 2012,
     "leagueTier": 11,
     "racers": [
       {
@@ -841,14 +841,14 @@
         "displayName": "BabyDudeSued",
         "role": "member",
         "joinStamp": 1788876402,
-        "allTimeRaces": 635,
-        "wpm": 85,
+        "allTimeRaces": 642,
+        "wpm": 91,
         "highestWPM": 109,
-        "teamRaces": 91,
-        "acc": 93.71,
+        "teamRaces": 98,
+        "acc": 93.62,
         "season": null,
         "status": "active",
-        "lastLogin": 1792094104
+        "lastLogin": 1792512315
       },
       {
         "username": "walb253",
@@ -956,7 +956,7 @@
         "allTimeRaces": 1337,
         "wpm": 61,
         "highestWPM": 81,
-        "teamRaces": 962,
+        "teamRaces": 967,
         "acc": 93.73,
         "season": null,
         "status": "active",
@@ -1175,21 +1175,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40034,
+        "races": 40046,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 45
       },
       "daily": {
-        "races": 119,
+        "races": 123,
         "avgWPM": 76,
-        "avgAcc": 94.19,
+        "avgAcc": 93.91,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792511992450
+    "_syncedAt": 1792513595706
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1227,7 +1227,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792512012657
+    "_syncedAt": 1792513614473
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1398,11 +1398,11 @@
         "displayName": "type for huzz",
         "role": "member",
         "joinStamp": 1790801009,
-        "allTimeRaces": 2311,
-        "wpm": 115,
+        "allTimeRaces": 2326,
+        "wpm": 109,
         "highestWPM": 143,
-        "teamRaces": 370,
-        "acc": 93.73,
+        "teamRaces": 379,
+        "acc": 93.69,
         "season": null,
         "status": "active",
         "lastLogin": 1792512081
@@ -1426,11 +1426,11 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4635,
-        "wpm": 47,
+        "allTimeRaces": 4636,
+        "wpm": 48,
         "highestWPM": 121,
-        "teamRaces": 1218,
-        "acc": 87.62,
+        "teamRaces": 1222,
+        "acc": 87.6,
         "season": null,
         "status": "active",
         "lastLogin": 1792509902
@@ -1552,11 +1552,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792505481,
-        "allTimeRaces": 7682,
-        "wpm": 61,
+        "allTimeRaces": 7694,
+        "wpm": 59,
         "highestWPM": 73,
-        "teamRaces": 1,
-        "acc": 96.67,
+        "teamRaces": 16,
+        "acc": 95.33,
         "season": null,
         "status": "active",
         "lastLogin": 1792511905
@@ -1900,20 +1900,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118453,
+        "races": 118481,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 549,
+        "races": 555,
         "avgWPM": 72,
-        "avgAcc": 94.48,
+        "avgAcc": 94.33,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792512182037
+    "_syncedAt": 1792513783869
   }
 }
