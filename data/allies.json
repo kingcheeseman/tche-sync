@@ -196,10 +196,10 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2155,
-        "wpm": 71,
+        "allTimeRaces": 2156,
+        "wpm": 72,
         "highestWPM": 94,
-        "teamRaces": 1110,
+        "teamRaces": 1111,
         "acc": 90.3,
         "season": null,
         "status": "active",
@@ -518,11 +518,11 @@
         "displayName": "macawgamer88yt",
         "role": "member",
         "joinStamp": 1792516459,
-        "allTimeRaces": 158,
-        "wpm": 36,
+        "allTimeRaces": 161,
+        "wpm": 35,
         "highestWPM": 156,
-        "teamRaces": 19,
-        "acc": 93.16,
+        "teamRaces": 22,
+        "acc": 93.05,
         "season": null,
         "status": "active",
         "lastLogin": 1792512169
@@ -530,21 +530,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77524,
+        "races": 77528,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 37
       },
       "daily": {
-        "races": 505,
-        "avgWPM": 71,
-        "avgAcc": 92.78,
+        "races": 487,
+        "avgWPM": 72,
+        "avgAcc": 92.82,
         "members": 37
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792518928490
+    "_syncedAt": 1792520364266
   },
   "SVC": {
     "tag": "SVC",
@@ -553,7 +553,7 @@
     "activePercent": 51,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2012,
+    "profileViews": 2013,
     "leagueTier": 11,
     "racers": [
       {
@@ -904,7 +904,7 @@
         "acc": 96.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1792430765
+        "lastLogin": 1792519038
       },
       {
         "username": "d8cb8a992726bab43a1bc59c2d886bf8",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792518947345
+    "_syncedAt": 1792520383326
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792518965989
+    "_syncedAt": 1792520402063
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1447,7 +1447,7 @@
         "acc": 87.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792509902
+        "lastLogin": 1792519208
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1888,14 +1888,14 @@
         "displayName": "Patrick Jane",
         "role": "member",
         "joinStamp": 1792449531,
-        "allTimeRaces": 3903,
-        "wpm": 88,
+        "allTimeRaces": 3906,
+        "wpm": 83,
         "highestWPM": 115,
-        "teamRaces": 18,
-        "acc": 91.9,
+        "teamRaces": 21,
+        "acc": 92.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792514493
+        "lastLogin": 1792519622
       },
       {
         "username": "malott12",
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118567,
+        "races": 118570,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 579,
+        "races": 575,
         "avgWPM": 75,
-        "avgAcc": 94.41,
+        "avgAcc": 94.46,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792519135048
+    "_syncedAt": 1792520571349
   }
 }
