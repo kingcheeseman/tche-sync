@@ -48,7 +48,7 @@
       "acc": 94.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1792452462
+      "lastLogin": 1792508661
     },
     {
       "username": "tbnr_andy",
@@ -184,8 +184,8 @@
       "allTimeRaces": 1355,
       "wpm": 84,
       "highestWPM": 103,
-      "teamRaces": 24,
-      "acc": 92.76,
+      "teamRaces": 25,
+      "acc": 92.74,
       "season": null,
       "status": "active",
       "lastLogin": 1792507340
@@ -209,11 +209,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5197,
-      "wpm": 68,
+      "allTimeRaces": 5223,
+      "wpm": 84,
       "highestWPM": 111,
-      "teamRaces": 166,
-      "acc": 94.4,
+      "teamRaces": 187,
+      "acc": 94.47,
       "season": null,
       "status": "active",
       "lastLogin": 1792508181
@@ -450,7 +450,7 @@
       "allTimeRaces": 4687,
       "wpm": 86,
       "highestWPM": 120,
-      "teamRaces": 2259,
+      "teamRaces": 2262,
       "acc": 92.52,
       "season": null,
       "status": "active",
@@ -576,8 +576,8 @@
       "allTimeRaces": 9090,
       "wpm": 55,
       "highestWPM": 82,
-      "teamRaces": 1039,
-      "acc": 80.09,
+      "teamRaces": 1046,
+      "acc": 80.06,
       "season": null,
       "status": "active",
       "lastLogin": 1792505515
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 54845,
+      "races": 54877,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 44
     },
     "daily": {
-      "races": 1088,
+      "races": 1101,
       "avgWPM": 79,
-      "avgAcc": 94.25,
+      "avgAcc": 94.12,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792508382468
+  "_syncedAt": 1792509968742
 }
