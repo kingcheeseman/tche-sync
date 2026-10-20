@@ -296,14 +296,14 @@
           "rank": 130,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 239,
+          "races": 241,
           "accuracy": 96.78,
           "wpm": 89.1,
-          "points": 33438,
+          "points": 33713,
           "ppr": 140
         },
         {
-          "rank": 188,
+          "rank": 189,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 175,
@@ -313,7 +313,7 @@
           "ppr": 128
         },
         {
-          "rank": 223,
+          "rank": 224,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 136,
@@ -343,7 +343,7 @@
           "ppr": 95
         },
         {
-          "rank": 416,
+          "rank": 417,
           "username": "cash4087",
           "displayName": "WindMaker",
           "races": 56,
@@ -403,7 +403,7 @@
           "ppr": 142
         },
         {
-          "rank": 797,
+          "rank": 798,
           "username": "470256",
           "displayName": "Torque_Demon",
           "races": 20,
@@ -413,7 +413,7 @@
           "ppr": 140
         },
         {
-          "rank": 894,
+          "rank": 896,
           "username": "2ee8114b79a8dbe9aa406f885f04362c",
           "displayName": "Bobby Junior",
           "races": 16,
@@ -423,7 +423,7 @@
           "ppr": 131
         },
         {
-          "rank": 997,
+          "rank": 998,
           "username": "10712a0152fd25105448b6ef1298504b",
           "displayName": "RationalGoldApe",
           "races": 11,
@@ -493,7 +493,7 @@
           "ppr": 129
         },
         {
-          "rank": 1330,
+          "rank": 1331,
           "username": "mweid2",
           "displayName": "cheese",
           "races": 1,
@@ -504,7 +504,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792493759933
+      "_syncedAt": 1792495119598
     }
   },
   "order": [
@@ -512,5 +512,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792493759933
+  "_syncedAt": 1792495119598
 }
