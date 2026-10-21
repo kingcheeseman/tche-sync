@@ -148,7 +148,7 @@
       "avgWPM": 89,
       "topWPM": 119,
       "lifetimeRaces": 1275,
-      "teamRaces": 926,
+      "teamRaces": 928,
       "joined": "08/31/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 69,
+      "avgWPM": 75,
       "topWPM": 90,
-      "lifetimeRaces": 2321,
-      "teamRaces": 426,
+      "lifetimeRaces": 2333,
+      "teamRaces": 438,
       "joined": "10/05/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Epic Nitro User",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 74,
-      "topWPM": 98,
-      "lifetimeRaces": 1426,
-      "teamRaces": 10,
+      "tier": "B",
+      "avgWPM": 83,
+      "topWPM": 100,
+      "lifetimeRaces": 1435,
+      "teamRaces": 19,
       "joined": "10/06/26"
     },
     {
@@ -587,13 +587,13 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 88,
       "topWPM": 128,
-      "lifetimeRaces": 5100,
-      "teamRaces": 80,
+      "lifetimeRaces": 5108,
+      "teamRaces": 96,
       "joined": "10/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792586867546
+  "_syncedAt": 1792589428630
 }

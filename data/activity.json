@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 12:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 22
-    },
-    {
-      "hour": "2026-10-20 12:00:00",
-      "racer": "Void Racer",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-20 13:00:00",
-      "racer": "Sile314",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-20 13:00:00",
-      "racer": "Namedisplayed",
-      "races": 2
-    },
-    {
       "hour": "2026-10-20 14:00:00",
       "racer": "Namedisplayed",
       "races": 31
@@ -283,14 +263,39 @@
     {
       "hour": "2026-10-21 12:00:00",
       "racer": "Nathan",
-      "races": 42
+      "races": 58
     },
     {
       "hour": "2026-10-21 12:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 5
+    },
+    {
+      "hour": "2026-10-21 12:00:00",
+      "racer": "The Queen",
+      "races": 4
+    },
+    {
+      "hour": "2026-10-21 12:00:00",
+      "racer": "Namedisplayed",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-21 12:00:00",
+      "racer": "disgratedboy191",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-21 13:00:00",
+      "racer": "disgratedboy191",
+      "races": 10
+    },
+    {
+      "hour": "2026-10-21 13:00:00",
+      "racer": "The Queen",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792586867547
+  "_syncedAt": 1792589428634
 }

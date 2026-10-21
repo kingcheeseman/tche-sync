@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1987,
+  "profileViews": 1989,
   "leagueTier": 11,
   "racers": [
     {
@@ -41,11 +41,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5101,
-      "wpm": 92,
+      "allTimeRaces": 5108,
+      "wpm": 88,
       "highestWPM": 128,
-      "teamRaces": 80,
-      "acc": 94.94,
+      "teamRaces": 96,
+      "acc": 94.86,
       "season": null,
       "status": "active",
       "lastLogin": 1792584287
@@ -286,7 +286,7 @@
       "acc": 90.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792586400
+      "lastLogin": 1792589221
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -363,11 +363,11 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2321,
-      "wpm": 69,
+      "allTimeRaces": 2333,
+      "wpm": 75,
       "highestWPM": 90,
-      "teamRaces": 426,
-      "acc": 93.74,
+      "teamRaces": 438,
+      "acc": 93.78,
       "season": null,
       "status": "active",
       "lastLogin": 1792586311
@@ -380,7 +380,7 @@
       "allTimeRaces": 1275,
       "wpm": 89,
       "highestWPM": 119,
-      "teamRaces": 926,
+      "teamRaces": 928,
       "acc": 94.46,
       "season": null,
       "status": "active",
@@ -447,14 +447,14 @@
       "displayName": "The Queen",
       "role": "member",
       "joinStamp": 1791299966,
-      "allTimeRaces": 1426,
-      "wpm": 74,
-      "highestWPM": 98,
-      "teamRaces": 10,
-      "acc": 96.26,
+      "allTimeRaces": 1435,
+      "wpm": 83,
+      "highestWPM": 100,
+      "teamRaces": 19,
+      "acc": 96.32,
       "season": null,
       "status": "active",
-      "lastLogin": 1792442518
+      "lastLogin": 1792587071
     },
     {
       "username": "taylorja32",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55655,
+      "races": 55694,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 45
     },
     "daily": {
-      "races": 948,
+      "races": 944,
       "avgWPM": 79,
-      "avgAcc": 94.36,
+      "avgAcc": 94.44,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792586812645
+  "_syncedAt": 1792589374426
 }
