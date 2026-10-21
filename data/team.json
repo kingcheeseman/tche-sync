@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1994,
+  "profileViews": 1996,
   "leagueTier": 11,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4784,
-      "wpm": 91,
+      "allTimeRaces": 4801,
+      "wpm": 95,
       "highestWPM": 110,
-      "teamRaces": 604,
-      "acc": 94.82,
+      "teamRaces": 614,
+      "acc": 94.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1792534369
+      "lastLogin": 1792602093
     },
     {
       "username": "tbnr_andy",
@@ -251,14 +251,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6425,
-      "wpm": 77,
+      "allTimeRaces": 6440,
+      "wpm": 81,
       "highestWPM": 102,
-      "teamRaces": 400,
-      "acc": 93.31,
+      "teamRaces": 407,
+      "acc": 93.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1792589519
+      "lastLogin": 1792602285
     },
     {
       "username": "cash4087",
@@ -587,11 +587,11 @@
       "displayName": "me_likey_typey",
       "role": "officer",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9198,
-      "wpm": 65,
+      "allTimeRaces": 9205,
+      "wpm": 61,
       "highestWPM": 82,
-      "teamRaces": 1147,
-      "acc": 79.97,
+      "teamRaces": 1160,
+      "acc": 79.93,
       "season": null,
       "status": "active",
       "lastLogin": 1792599409
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55890,
+      "races": 55920,
       "avgWPM": 76,
-      "avgAcc": 95.02,
+      "avgAcc": 95.01,
       "members": 45
     },
     "daily": {
-      "races": 973,
+      "races": 962,
       "avgWPM": 81,
-      "avgAcc": 94.45,
+      "avgAcc": 94.26,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792601088166
+  "_syncedAt": 1792602911296
 }

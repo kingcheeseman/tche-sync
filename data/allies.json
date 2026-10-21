@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2917,
+    "profileViews": 2919,
     "leagueTier": 11,
     "racers": [
       {
@@ -182,14 +182,14 @@
         "displayName": "CATS R GR8",
         "role": "member",
         "joinStamp": 1778433764,
-        "allTimeRaces": 5695,
-        "wpm": 72,
+        "allTimeRaces": 5712,
+        "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 852,
-        "acc": 94.74,
+        "teamRaces": 869,
+        "acc": 94.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1792589183
+        "lastLogin": 1792601423
       },
       {
         "username": "fresh_shrimpy",
@@ -238,14 +238,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 835,
+        "allTimeRaces": 839,
         "wpm": 53,
         "highestWPM": 66,
         "teamRaces": 28,
         "acc": 95.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1792579927
+        "lastLogin": 1792602738
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -364,14 +364,14 @@
         "displayName": "Green, Grassy Cat",
         "role": "member",
         "joinStamp": 1775584352,
-        "allTimeRaces": 1319,
-        "wpm": 74,
+        "allTimeRaces": 1333,
+        "wpm": 79,
         "highestWPM": 99,
-        "teamRaces": 1064,
+        "teamRaces": 1068,
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1792528218
+        "lastLogin": 1792602350
       },
       {
         "username": "soap2x",
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77835,
+        "races": 77856,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 365,
-        "avgWPM": 62,
-        "avgAcc": 92.24,
+        "races": 370,
+        "avgWPM": 63,
+        "avgAcc": 92.49,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792601170356
+    "_syncedAt": 1792602994717
   },
   "SVC": {
     "tag": "SVC",
@@ -704,7 +704,7 @@
         "allTimeRaces": 1804,
         "wpm": 85,
         "highestWPM": 114,
-        "teamRaces": 407,
+        "teamRaces": 412,
         "acc": 94.48,
         "season": null,
         "status": "active",
@@ -1065,10 +1065,10 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 810,
-        "wpm": 81,
+        "allTimeRaces": 811,
+        "wpm": 82,
         "highestWPM": 107,
-        "teamRaces": 388,
+        "teamRaces": 395,
         "acc": 93.67,
         "season": null,
         "status": "active",
@@ -1273,21 +1273,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40154,
+        "races": 40166,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 46
       },
       "daily": {
-        "races": 91,
-        "avgWPM": 76,
-        "avgAcc": 93.41,
+        "races": 103,
+        "avgWPM": 77,
+        "avgAcc": 93.48,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792601189470
+    "_syncedAt": 1792603014008
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1325,7 +1325,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792601208283
+    "_syncedAt": 1792603032996
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1471,8 +1471,8 @@
         "allTimeRaces": 2894,
         "wpm": 65,
         "highestWPM": 80,
-        "teamRaces": 1186,
-        "acc": 96.43,
+        "teamRaces": 1189,
+        "acc": 96.42,
         "season": null,
         "status": "active",
         "lastLogin": 1792601258
@@ -1496,14 +1496,14 @@
         "displayName": "type for huzz",
         "role": "member",
         "joinStamp": 1790801009,
-        "allTimeRaces": 2389,
+        "allTimeRaces": 2393,
         "wpm": 111,
         "highestWPM": 143,
         "teamRaces": 448,
         "acc": 93.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1792599445
+        "lastLogin": 1792603043
       },
       {
         "username": "2e29e6b624c2ea07f714c2b7b0875007",
@@ -2012,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119272,
+        "races": 119275,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 785,
+        "races": 751,
         "avgWPM": 78,
-        "avgAcc": 93.52,
+        "avgAcc": 93.55,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792601377722
+    "_syncedAt": 1792603202498
   }
 }

@@ -3,7 +3,7 @@
     "minRaces": 500,
     "minWPM": 50,
     "tierA": 87,
-    "tierB": 76,
+    "tierB": 77,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -118,7 +118,7 @@
       "nickname": "I Hate Words",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 76,
       "topWPM": 105,
       "lifetimeRaces": 1560,
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Nitro Drift",
+      "nickname": "Not So Koi",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 58,
+      "avgWPM": 61,
       "topWPM": 82,
-      "lifetimeRaces": 9187,
-      "teamRaces": 1141,
+      "lifetimeRaces": 9205,
+      "teamRaces": 1160,
       "joined": "09/09/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 95,
       "topWPM": 110,
-      "lifetimeRaces": 4784,
-      "teamRaces": 604,
+      "lifetimeRaces": 4802,
+      "teamRaces": 614,
       "joined": "10/06/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 77,
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 6425,
-      "teamRaces": 400,
+      "lifetimeRaces": 6441,
+      "teamRaces": 407,
       "joined": "10/15/26"
     },
     {
@@ -573,7 +573,7 @@
       "nickname": "Catty Wampus",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 76,
       "topWPM": 228,
       "lifetimeRaces": 1151,
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792601147026
+  "_syncedAt": 1792602972251
 }
