@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 21:00:00",
-      "racer": "reteyrhyj",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-20 21:00:00",
-      "racer": "Void Racer",
-      "races": 5
-    },
-    {
       "hour": "2026-10-20 22:00:00",
       "racer": "insta _trewatkins",
       "races": 47
@@ -18,7 +8,7 @@
     {
       "hour": "2026-10-20 22:00:00",
       "racer": "Void Racer",
-      "races": 25
+      "races": 15
     },
     {
       "hour": "2026-10-20 23:00:00",
@@ -307,15 +297,15 @@
     },
     {
       "hour": "2026-10-21 21:00:00",
-      "racer": "RationalGoldApe",
-      "races": 6
+      "racer": "reteyrhyj",
+      "races": 7
     },
     {
       "hour": "2026-10-21 21:00:00",
-      "racer": "reteyrhyj",
-      "races": 1
+      "racer": "RationalGoldApe",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792619878822
+  "_syncedAt": 1792621152319
 }

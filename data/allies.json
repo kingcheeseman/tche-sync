@@ -406,14 +406,14 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2510,
-        "wpm": 68,
+        "allTimeRaces": 2517,
+        "wpm": 67,
         "highestWPM": 83,
         "teamRaces": 26,
         "acc": 95.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792527764
+        "lastLogin": 1792620846
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792619922016
+    "_syncedAt": 1792621199296
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792619941709
+    "_syncedAt": 1792621223685
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792619960646
+    "_syncedAt": 1792621242366
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1496,11 +1496,11 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 2901,
-        "wpm": 65,
+        "allTimeRaces": 2923,
+        "wpm": 64,
         "highestWPM": 80,
-        "teamRaces": 1196,
-        "acc": 96.43,
+        "teamRaces": 1214,
+        "acc": 96.45,
         "season": null,
         "status": "active",
         "lastLogin": 1792616716
@@ -1804,11 +1804,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3433,
-        "wpm": 41,
+        "allTimeRaces": 3453,
+        "wpm": 42,
         "highestWPM": 60,
-        "teamRaces": 1892,
-        "acc": 92.17,
+        "teamRaces": 1911,
+        "acc": 92.16,
         "season": null,
         "status": "active",
         "lastLogin": 1792617502
@@ -1888,11 +1888,11 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5866,
-        "wpm": 83,
+        "allTimeRaces": 5868,
+        "wpm": 86,
         "highestWPM": 109,
-        "teamRaces": 256,
-        "acc": 94.85,
+        "teamRaces": 261,
+        "acc": 94.84,
         "season": null,
         "status": "active",
         "lastLogin": 1792619289
@@ -2012,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119638,
+        "races": 119680,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 967,
-        "avgWPM": 76,
-        "avgAcc": 93.54,
+        "races": 1009,
+        "avgWPM": 75,
+        "avgAcc": 93.57,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792620130024
+    "_syncedAt": 1792621416099
   }
 }

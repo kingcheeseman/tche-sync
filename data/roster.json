@@ -303,7 +303,7 @@
       "tier": "A",
       "avgWPM": 91,
       "topWPM": 105,
-      "lifetimeRaces": 1294,
+      "lifetimeRaces": 1295,
       "teamRaces": 66,
       "joined": "09/29/26"
     },
@@ -564,7 +564,7 @@
       "avgWPM": 84,
       "topWPM": 103,
       "lifetimeRaces": 5321,
-      "teamRaces": 18,
+      "teamRaces": 24,
       "joined": "10/19/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792619878821
+  "_syncedAt": 1792621152318
 }

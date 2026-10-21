@@ -83,14 +83,14 @@
       "displayName": "Torque_Demon",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1294,
-      "wpm": 91,
+      "allTimeRaces": 1296,
+      "wpm": 92,
       "highestWPM": 105,
       "teamRaces": 66,
       "acc": 97.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1792604836
+      "lastLogin": 1792620882
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -482,7 +482,7 @@
       "acc": 92.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792617015
+      "lastLogin": 1792620205
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -590,8 +590,8 @@
       "allTimeRaces": 5321,
       "wpm": 84,
       "highestWPM": 103,
-      "teamRaces": 18,
-      "acc": 90.5,
+      "teamRaces": 24,
+      "acc": 90.38,
       "season": null,
       "status": "active",
       "lastLogin": 1792619318
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56243,
+      "races": 56249,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 1073,
+      "races": 1056,
       "avgWPM": 84,
-      "avgAcc": 94.44,
+      "avgAcc": 94.45,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792619822776
+  "_syncedAt": 1792621099207
 }
