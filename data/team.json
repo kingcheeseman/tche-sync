@@ -237,14 +237,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 8851,
-      "wpm": 89,
+      "allTimeRaces": 8907,
+      "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 8041,
+      "teamRaces": 8092,
       "acc": 97.09,
       "season": null,
       "status": "active",
-      "lastLogin": 1792493822
+      "lastLogin": 1792564286
     },
     {
       "username": "kirbydelta",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55408,
+      "races": 55459,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 45
     },
     "daily": {
-      "races": 748,
+      "races": 773,
       "avgWPM": 77,
-      "avgAcc": 93.77,
+      "avgAcc": 93.88,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792563526789
+  "_syncedAt": 1792566861968
 }

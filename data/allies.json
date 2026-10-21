@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 38,
+    "members": 39,
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2909,
+    "profileViews": 2911,
     "leagueTier": 11,
     "racers": [
       {
@@ -176,6 +176,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792529204
+      },
+      {
+        "username": "fresh_shrimpy",
+        "displayName": "that guy",
+        "role": "member",
+        "joinStamp": 1792566237,
+        "allTimeRaces": 843,
+        "wpm": 57,
+        "highestWPM": 75,
+        "teamRaces": 7,
+        "acc": 92.06,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792566167
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -544,21 +558,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77679,
+        "races": 77686,
         "avgWPM": 55,
         "avgAcc": 93.54,
-        "members": 38
+        "members": 39
       },
       "daily": {
-        "races": 402,
+        "races": 409,
         "avgWPM": 61,
-        "avgAcc": 93.14,
-        "members": 38
+        "avgAcc": 93.12,
+        "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792563604143
+    "_syncedAt": 1792566936809
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1245,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792563623782
+    "_syncedAt": 1792566955681
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792563642896
+    "_syncedAt": 1792566974499
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1956,6 +1970,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792563812813
+    "_syncedAt": 1792567143965
   }
 }
