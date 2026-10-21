@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1991,
+  "profileViews": 1992,
   "leagueTier": 11,
   "racers": [
     {
@@ -265,14 +265,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3769,
-      "wpm": 97,
+      "allTimeRaces": 3771,
+      "wpm": 96,
       "highestWPM": 120,
-      "teamRaces": 120,
-      "acc": 96.8,
+      "teamRaces": 121,
+      "acc": 96.79,
       "season": null,
       "status": "active",
-      "lastLogin": 1792591488
+      "lastLogin": 1792593516
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -377,14 +377,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1275,
-      "wpm": 89,
+      "allTimeRaces": 1307,
+      "wpm": 94,
       "highestWPM": 119,
-      "teamRaces": 928,
-      "acc": 94.46,
+      "teamRaces": 960,
+      "acc": 94.47,
       "season": null,
       "status": "active",
-      "lastLogin": 1792586536
+      "lastLogin": 1792591679
     },
     {
       "username": "imenishat",
@@ -587,14 +587,14 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9154,
-      "wpm": 57,
+      "allTimeRaces": 9169,
+      "wpm": 62,
       "highestWPM": 82,
-      "teamRaces": 1110,
-      "acc": 80.02,
+      "teamRaces": 1125,
+      "acc": 80,
       "season": null,
       "status": "active",
-      "lastLogin": 1792537557
+      "lastLogin": 1792592521
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55719,
+      "races": 55767,
       "avgWPM": 76,
-      "avgAcc": 95.03,
+      "avgAcc": 95.02,
       "members": 45
     },
     "daily": {
-      "races": 967,
+      "races": 948,
       "avgWPM": 79,
-      "avgAcc": 94.42,
+      "avgAcc": 94.32,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792591578064
+  "_syncedAt": 1792593652883
 }

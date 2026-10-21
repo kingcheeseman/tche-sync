@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 89,
+      "avgWPM": 94,
       "topWPM": 119,
-      "lifetimeRaces": 1275,
-      "teamRaces": 928,
+      "lifetimeRaces": 1307,
+      "teamRaces": 955,
       "joined": "08/31/26"
     },
     {
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "The Winter Myth",
+      "nickname": "Insert Coin to Continue",
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 57,
+      "avgWPM": 62,
       "topWPM": 82,
-      "lifetimeRaces": 9154,
-      "teamRaces": 1110,
+      "lifetimeRaces": 9168,
+      "teamRaces": 1117,
       "joined": "09/09/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792591633384
+  "_syncedAt": 1792593708416
 }
