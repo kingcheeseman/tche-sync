@@ -379,10 +379,10 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 51,
+      "avgWPM": 39,
       "topWPM": 96,
-      "lifetimeRaces": 501,
-      "teamRaces": 253,
+      "lifetimeRaces": 516,
+      "teamRaces": 263,
       "joined": "10/07/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792581154237
+  "_syncedAt": 1792582866275
 }

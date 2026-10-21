@@ -132,12 +132,12 @@
     },
     {
       "hour": "2026-10-20 18:00:00",
-      "racer": "Namedisplayed",
+      "racer": "StefanO",
       "races": 1
     },
     {
       "hour": "2026-10-20 18:00:00",
-      "racer": "StefanO",
+      "racer": "Namedisplayed",
       "races": 1
     },
     {
@@ -274,8 +274,13 @@
       "hour": "2026-10-21 09:00:00",
       "racer": "rorok09",
       "races": 25
+    },
+    {
+      "hour": "2026-10-21 11:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792581154238
+  "_syncedAt": 1792582866276
 }

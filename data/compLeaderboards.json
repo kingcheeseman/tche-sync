@@ -148,6 +148,19 @@
       {
         "rank": 12,
         "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Side Hustler 100",
+        "races": 52,
+        "wpm": 45.7,
+        "accuracy": 91.7,
+        "points": 5857,
+        "tier": "C"
+      },
+      {
+        "rank": 13,
+        "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -172,7 +185,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "SUPER_PIGGLE",
         "displayName": "SUPER_PIGGLE",
@@ -183,19 +196,6 @@
         "accuracy": 96.08,
         "points": 4828,
         "tier": "B"
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "I_Am_So_Cheesy",
-        "displayName": "I_Am_So_Cheesy",
-        "nickname": "Spring Speedster",
-        "squad": "Side Hustler 100",
-        "races": 42,
-        "wpm": 47,
-        "accuracy": 91.44,
-        "points": 4742,
-        "tier": "C"
       },
       {
         "rank": 16,
@@ -281,7 +281,7 @@
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
         "nickname": "Original Gangster",
-        "squad": null,
+        "squad": "Starter!!",
         "races": 28,
         "wpm": 52.6,
         "accuracy": 94.98,
@@ -372,7 +372,7 @@
         "username": "macawgamer88yt",
         "displayName": "macawgamer88yt",
         "nickname": "Catty Wampus",
-        "squad": null,
+        "squad": "Starter!!",
         "races": 22,
         "wpm": 37.1,
         "accuracy": 92.54,
@@ -486,10 +486,23 @@
       {
         "rank": 38,
         "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Investor 1k ;)",
+        "races": 17,
+        "wpm": 69.3,
+        "accuracy": 89.81,
+        "points": 2056,
+        "tier": "B"
+      },
+      {
+        "rank": 39,
+        "tag": "KEYCAT",
         "username": "that guy",
         "displayName": "that guy",
         "nickname": "Champion Chaser",
-        "squad": null,
+        "squad": "Starter!!",
         "races": 17,
         "wpm": 57.2,
         "accuracy": 92.38,
@@ -497,7 +510,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -507,19 +520,6 @@
         "wpm": 53.5,
         "accuracy": 92,
         "points": 1982,
-        "tier": "B"
-      },
-      {
-        "rank": 40,
-        "tag": "KEYCAT",
-        "username": "Natuski",
-        "displayName": "Natuski",
-        "nickname": "I Love Cats",
-        "squad": "Investor 1k ;)",
-        "races": 16,
-        "wpm": 69.7,
-        "accuracy": 89.94,
-        "points": 1941,
         "tier": "B"
       },
       {
@@ -900,6 +900,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792581175530
+    "_syncedAt": 1792582888103
   }
 }
