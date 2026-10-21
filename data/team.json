@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1980,
+  "profileViews": 1982,
   "leagueTier": 11,
   "racers": [
     {
@@ -41,11 +41,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5021,
-      "wpm": 97,
+      "allTimeRaces": 5028,
+      "wpm": 91,
       "highestWPM": 128,
-      "teamRaces": 5,
-      "acc": 95.2,
+      "teamRaces": 16,
+      "acc": 94.77,
       "season": null,
       "status": "active",
       "lastLogin": 1792542373
@@ -468,7 +468,7 @@
       "acc": 92.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1792539845
+      "lastLogin": 1792545735
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55308,
+      "races": 55319,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 45
     },
     "daily": {
-      "races": 891,
+      "races": 874,
       "avgWPM": 80,
-      "avgAcc": 94.2,
+      "avgAcc": 94.11,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792543660617
+  "_syncedAt": 1792545967434
 }
