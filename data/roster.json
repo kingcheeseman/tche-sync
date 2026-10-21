@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Sheriff of the Classroom",
+      "nickname": "Nitro Drift",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 61,
+      "avgWPM": 58,
       "topWPM": 82,
-      "lifetimeRaces": 9182,
-      "teamRaces": 1137,
+      "lifetimeRaces": 9187,
+      "teamRaces": 1141,
       "joined": "09/09/26"
     },
     {
@@ -405,10 +405,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 80,
       "topWPM": 127,
-      "lifetimeRaces": 20590,
-      "teamRaces": 237,
+      "lifetimeRaces": 20596,
+      "teamRaces": 244,
       "joined": "10/07/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792599335680
+  "_syncedAt": 1792601147026
 }
