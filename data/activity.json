@@ -287,6 +287,11 @@
     },
     {
       "hour": "2026-10-21 13:00:00",
+      "racer": "KirbyDelta",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-21 13:00:00",
       "racer": "disgratedboy191",
       "races": 10
     },
@@ -297,5 +302,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792589428634
+  "_syncedAt": 1792591633385
 }

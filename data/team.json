@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1989,
+  "profileViews": 1991,
   "leagueTier": 11,
   "racers": [
     {
@@ -251,14 +251,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6400,
-      "wpm": 73,
+      "allTimeRaces": 6425,
+      "wpm": 77,
       "highestWPM": 102,
-      "teamRaces": 375,
-      "acc": 93.27,
+      "teamRaces": 400,
+      "acc": 93.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1792435397
+      "lastLogin": 1792589519
     },
     {
       "username": "cash4087",
@@ -272,7 +272,7 @@
       "acc": 96.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1792535764
+      "lastLogin": 1792591488
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55694,
+      "races": 55719,
       "avgWPM": 76,
       "avgAcc": 95.03,
       "members": 45
     },
     "daily": {
-      "races": 944,
+      "races": 967,
       "avgWPM": 79,
-      "avgAcc": 94.44,
+      "avgAcc": 94.42,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792589374426
+  "_syncedAt": 1792591578064
 }

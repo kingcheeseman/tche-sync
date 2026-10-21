@@ -495,11 +495,11 @@
       "nickname": "Not So Koi",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 73,
+      "tier": "B",
+      "avgWPM": 77,
       "topWPM": 102,
-      "lifetimeRaces": 6400,
-      "teamRaces": 375,
+      "lifetimeRaces": 6425,
+      "teamRaces": 400,
       "joined": "10/15/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792589428630
+  "_syncedAt": 1792591633384
 }
