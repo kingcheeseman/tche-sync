@@ -40,11 +40,11 @@
       "nickname": "Grim Reaper",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
-      "avgWPM": 77,
+      "tier": "C",
+      "avgWPM": 72,
       "topWPM": 96,
-      "lifetimeRaces": 964,
-      "teamRaces": 951,
+      "lifetimeRaces": 971,
+      "teamRaces": 954,
       "joined": "06/26/26"
     },
     {
@@ -303,8 +303,8 @@
       "tier": "A",
       "avgWPM": 91,
       "topWPM": 105,
-      "lifetimeRaces": 1292,
-      "teamRaces": 64,
+      "lifetimeRaces": 1294,
+      "teamRaces": 66,
       "joined": "09/29/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 87,
       "topWPM": 110,
-      "lifetimeRaces": 4825,
-      "teamRaces": 637,
+      "lifetimeRaces": 4828,
+      "teamRaces": 648,
       "joined": "10/06/26"
     },
     {
@@ -524,8 +524,8 @@
       "tier": "A",
       "avgWPM": 100,
       "topWPM": 120,
-      "lifetimeRaces": 3785,
-      "teamRaces": 130,
+      "lifetimeRaces": 3802,
+      "teamRaces": 153,
       "joined": "10/16/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792604627061
+  "_syncedAt": 1792606264501
 }
