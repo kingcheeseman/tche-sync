@@ -224,11 +224,11 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2190,
-        "wpm": 63,
+        "allTimeRaces": 2195,
+        "wpm": 62,
         "highestWPM": 94,
-        "teamRaces": 1144,
-        "acc": 90.29,
+        "teamRaces": 1150,
+        "acc": 90.28,
         "season": null,
         "status": "active",
         "lastLogin": 1792592070
@@ -294,11 +294,11 @@
         "displayName": "weak kingsley",
         "role": "member",
         "joinStamp": 1792163292,
-        "allTimeRaces": 1053,
-        "wpm": 49,
+        "allTimeRaces": 1056,
+        "wpm": 53,
         "highestWPM": 102,
-        "teamRaces": 50,
-        "acc": 92.32,
+        "teamRaces": 54,
+        "acc": 92.21,
         "season": null,
         "status": "active",
         "lastLogin": 1792593629
@@ -572,21 +572,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77814,
+        "races": 77824,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 40
       },
       "daily": {
-        "races": 393,
-        "avgWPM": 64,
-        "avgAcc": 92.5,
+        "races": 385,
+        "avgWPM": 63,
+        "avgAcc": 92.34,
         "members": 40
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792593730508
+    "_syncedAt": 1792595598045
   },
   "SVC": {
     "tag": "SVC",
@@ -595,7 +595,7 @@
     "activePercent": 56,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2016,
+    "profileViews": 2017,
     "leagueTier": 11,
     "racers": [
       {
@@ -855,14 +855,14 @@
         "displayName": "Aiden2fast",
         "role": "member",
         "joinStamp": 1789571426,
-        "allTimeRaces": 2545,
-        "wpm": 76,
+        "allTimeRaces": 2546,
+        "wpm": 73,
         "highestWPM": 99,
-        "teamRaces": 613,
-        "acc": 87.51,
+        "teamRaces": 614,
+        "acc": 87.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792073714
+        "lastLogin": 1792595179
       },
       {
         "username": "inamejefff",
@@ -1023,14 +1023,14 @@
         "displayName": "Im not warmed up",
         "role": "member",
         "joinStamp": 1789050495,
-        "allTimeRaces": 1348,
+        "allTimeRaces": 1350,
         "wpm": 63,
         "highestWPM": 81,
-        "teamRaces": 978,
+        "teamRaces": 980,
         "acc": 93.72,
         "season": null,
         "status": "active",
-        "lastLogin": 1792592499
+        "lastLogin": 1792595202
       },
       {
         "username": "ea2c44cef3b7037b529bda73ac275bde",
@@ -1245,21 +1245,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40117,
+        "races": 40120,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 46
       },
       "daily": {
-        "races": 106,
+        "races": 109,
         "avgWPM": 82,
-        "avgAcc": 94.3,
+        "avgAcc": 94.14,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792593749679
+    "_syncedAt": 1792595617839
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1297,7 +1297,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792593768711
+    "_syncedAt": 1792595636903
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1306,7 +1306,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4303,
+    "profileViews": 4306,
     "leagueTier": 11,
     "racers": [
       {
@@ -1370,14 +1370,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 11983,
-        "wpm": 90,
+        "allTimeRaces": 11984,
+        "wpm": 88,
         "highestWPM": 116,
         "teamRaces": 5022,
         "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792591394
+        "lastLogin": 1792595613
       },
       {
         "username": "frareynolds",
@@ -1468,11 +1468,11 @@
         "displayName": "type for huzz",
         "role": "member",
         "joinStamp": 1790801009,
-        "allTimeRaces": 2353,
-        "wpm": 112,
+        "allTimeRaces": 2356,
+        "wpm": 111,
         "highestWPM": 143,
-        "teamRaces": 405,
-        "acc": 93.63,
+        "teamRaces": 414,
+        "acc": 93.64,
         "season": null,
         "status": "active",
         "lastLogin": 1792593651
@@ -1748,11 +1748,11 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14127,
-        "wpm": 78,
+        "allTimeRaces": 14130,
+        "wpm": 81,
         "highestWPM": 99,
-        "teamRaces": 838,
-        "acc": 95.96,
+        "teamRaces": 841,
+        "acc": 95.97,
         "season": null,
         "status": "active",
         "lastLogin": 1792592428
@@ -1944,11 +1944,11 @@
         "displayName": "NitroLegends",
         "role": "officer",
         "joinStamp": 1792035997,
-        "allTimeRaces": 2970,
-        "wpm": 53,
+        "allTimeRaces": 2981,
+        "wpm": 51,
         "highestWPM": 74,
-        "teamRaces": 780,
-        "acc": 93.74,
+        "teamRaces": 791,
+        "acc": 93.72,
         "season": null,
         "status": "active",
         "lastLogin": 1792591045
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119120,
+        "races": 119143,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 775,
-        "avgWPM": 78,
-        "avgAcc": 93.61,
+        "races": 781,
+        "avgWPM": 79,
+        "avgAcc": 93.53,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792593938152
+    "_syncedAt": 1792595806637
   }
 }

@@ -148,7 +148,7 @@
       "avgWPM": 94,
       "topWPM": 119,
       "lifetimeRaces": 1307,
-      "teamRaces": 955,
+      "teamRaces": 960,
       "joined": "08/31/26"
     },
     {
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Insert Coin to Continue",
-      "role": "member",
+      "nickname": "Sheriff of the Classroom",
+      "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 62,
+      "avgWPM": 61,
       "topWPM": 82,
-      "lifetimeRaces": 9168,
-      "teamRaces": 1117,
+      "lifetimeRaces": 9182,
+      "teamRaces": 1137,
       "joined": "09/09/26"
     },
     {
@@ -376,7 +376,7 @@
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "nickname": "Spring Speedster",
-      "role": "officer",
+      "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
       "avgWPM": 56,
@@ -482,11 +482,11 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 67,
+      "tier": "B",
+      "avgWPM": 77,
       "topWPM": 111,
-      "lifetimeRaces": 5245,
-      "teamRaces": 216,
+      "lifetimeRaces": 5252,
+      "teamRaces": 217,
       "joined": "10/15/26"
     },
     {
@@ -522,10 +522,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 100,
       "topWPM": 120,
-      "lifetimeRaces": 3769,
-      "teamRaces": 120,
+      "lifetimeRaces": 3778,
+      "teamRaces": 129,
       "joined": "10/16/26"
     },
     {
@@ -585,15 +585,15 @@
       "displayName": "Nathan",
       "nickname": "No Nitros Needed",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 100,
       "topWPM": 128,
-      "lifetimeRaces": 5108,
-      "teamRaces": 96,
+      "lifetimeRaces": 5124,
+      "teamRaces": 112,
       "joined": "10/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792593708416
+  "_syncedAt": 1792595575474
 }
