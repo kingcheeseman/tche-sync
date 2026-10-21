@@ -294,14 +294,14 @@
         "displayName": "vertur",
         "role": "member",
         "joinStamp": 1792431116,
-        "allTimeRaces": 1346,
+        "allTimeRaces": 1349,
         "wpm": 57,
         "highestWPM": 65,
         "teamRaces": 35,
         "acc": 92.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792457668
+        "lastLogin": 1792549004
       },
       {
         "username": "cats_4_eva",
@@ -558,7 +558,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792547974815
+    "_syncedAt": 1792549358925
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792547993694
+    "_syncedAt": 1792549378493
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792548015860
+    "_syncedAt": 1792549397667
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1349,7 +1349,7 @@
         "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792544798
+        "lastLogin": 1792549139
       },
       {
         "username": "frareynolds",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18712,
+        "allTimeRaces": 18713,
         "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18252,
+        "teamRaces": 18253,
         "acc": 93.96,
         "season": null,
         "status": "active",
@@ -1942,13 +1942,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118881,
+        "races": 118882,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 682,
+        "races": 683,
         "avgWPM": 75,
         "avgAcc": 93.44,
         "members": 47
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792548185562
+    "_syncedAt": 1792549567535
   }
 }

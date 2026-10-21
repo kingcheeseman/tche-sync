@@ -22,10 +22,10 @@
         "displayName": "Mwhit4",
         "nickname": "Titan",
         "squad": "Newbies!",
-        "races": 76,
-        "wpm": 61.7,
-        "accuracy": 94.21,
-        "points": 9370,
+        "races": 78,
+        "wpm": 61.8,
+        "accuracy": 94.16,
+        "points": 9613,
         "tier": "C"
       },
       {
@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 42,
+        "wpm": 86.4,
+        "accuracy": 95.26,
+        "points": 5729,
+        "tier": "A"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
@@ -117,19 +130,6 @@
         "wpm": 92,
         "accuracy": 94.5,
         "points": 5243,
-        "tier": "A"
-      },
-      {
-        "rank": 10,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 37,
-        "wpm": 86.1,
-        "accuracy": 95.33,
-        "points": 5045,
         "tier": "A"
       },
       {
@@ -809,6 +809,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792547974656
+    "_syncedAt": 1792549358704
   }
 }
