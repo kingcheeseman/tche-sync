@@ -2,13 +2,8 @@
   "hours": [
     {
       "hour": "2026-10-20 00:00:00",
-      "racer": "-HyperTyper-",
-      "races": 51
-    },
-    {
-      "hour": "2026-10-20 00:00:00",
       "racer": "Bobby Junior",
-      "races": 16
+      "races": 8
     },
     {
       "hour": "2026-10-20 01:00:00",
@@ -274,8 +269,18 @@
       "hour": "2026-10-20 23:00:00",
       "racer": "me_likey_typey",
       "races": 31
+    },
+    {
+      "hour": "2026-10-21 00:00:00",
+      "racer": "Void Racer",
+      "races": 17
+    },
+    {
+      "hour": "2026-10-21 00:00:00",
+      "racer": "Nathan",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792540917171
+  "_syncedAt": 1792543715109
 }

@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 97,
       "topWPM": 120,
-      "lifetimeRaces": 4735,
-      "teamRaces": 2310,
+      "lifetimeRaces": 4752,
+      "teamRaces": 2327,
       "joined": "06/10/26"
     },
     {
@@ -579,8 +579,21 @@
       "lifetimeRaces": 1151,
       "teamRaces": 16,
       "joined": "10/20/26"
+    },
+    {
+      "username": "nathanmduncan",
+      "displayName": "Nathan",
+      "nickname": "No Nitros Needed",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 97,
+      "topWPM": 128,
+      "lifetimeRaces": 5021,
+      "teamRaces": 5,
+      "joined": "10/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792540917170
+  "_syncedAt": 1792543715107
 }

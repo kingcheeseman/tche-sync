@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 44,
+  "members": 45,
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 1976,
+  "profileViews": 1980,
   "leagueTier": 11,
   "racers": [
     {
@@ -35,6 +35,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792512510
+    },
+    {
+      "username": "nathanmduncan",
+      "displayName": "Nathan",
+      "role": "member",
+      "joinStamp": 1792542738,
+      "allTimeRaces": 5021,
+      "wpm": 97,
+      "highestWPM": 128,
+      "teamRaces": 5,
+      "acc": 95.2,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792542373
     },
     {
       "username": "tre1typer",
@@ -447,10 +461,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4735,
-      "wpm": 96,
+      "allTimeRaces": 4752,
+      "wpm": 97,
       "highestWPM": 120,
-      "teamRaces": 2310,
+      "teamRaces": 2327,
       "acc": 92.54,
       "season": null,
       "status": "active",
@@ -627,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55286,
+      "races": 55308,
       "avgWPM": 76,
       "avgAcc": 95.01,
-      "members": 44
+      "members": 45
     },
     "daily": {
-      "races": 928,
-      "avgWPM": 79,
-      "avgAcc": 94.45,
-      "members": 44
+      "races": 891,
+      "avgWPM": 80,
+      "avgAcc": 94.2,
+      "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792540861465
+  "_syncedAt": 1792543660617
 }

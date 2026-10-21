@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:nathanmduncan",
+      "type": "new-member",
+      "text": "Nathan joined the team.",
+      "meta": {
+        "username": "nathanmduncan"
+      },
+      "createdAt": 1792543733790
+    },
+    {
       "key": "tour-win:Match 2269",
       "type": "tournament-win",
       "text": "me_likey_typey won their Round of 64 ✓ match vs -BOSS PLZ PROMOTE-.",
@@ -221,5 +230,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792540937629
+  "_syncedAt": 1792543733790
 }

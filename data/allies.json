@@ -210,14 +210,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 830,
-        "wpm": 54,
+        "allTimeRaces": 835,
+        "wpm": 53,
         "highestWPM": 66,
-        "teamRaces": 23,
-        "acc": 94.95,
+        "teamRaces": 28,
+        "acc": 95.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1792537774
+        "lastLogin": 1792541118
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -544,21 +544,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77656,
+        "races": 77661,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 38
       },
       "daily": {
-        "races": 397,
+        "races": 402,
         "avgWPM": 61,
-        "avgAcc": 93.11,
+        "avgAcc": 93.15,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792540942581
+    "_syncedAt": 1792543738008
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792540961830
+    "_syncedAt": 1792543756860
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792540980955
+    "_syncedAt": 1792543775793
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4287,
+    "profileViews": 4288,
     "leagueTier": 11,
     "racers": [
       {
@@ -1349,21 +1349,21 @@
         "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792528563
+        "lastLogin": 1792541284
       },
       {
         "username": "frareynolds",
         "displayName": "FireworkLauncher",
         "role": "member",
         "joinStamp": 1785290295,
-        "allTimeRaces": 6911,
-        "wpm": 69,
+        "allTimeRaces": 6913,
+        "wpm": 68,
         "highestWPM": 90,
         "teamRaces": 3016,
         "acc": 91.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792285667
+        "lastLogin": 1792543722
       },
       {
         "username": "joe772",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18687,
-        "wpm": 84,
+        "allTimeRaces": 18691,
+        "wpm": 86,
         "highestWPM": 123,
-        "teamRaces": 18227,
+        "teamRaces": 18231,
         "acc": 93.96,
         "season": null,
         "status": "active",
@@ -1900,7 +1900,7 @@
       {
         "username": "500big",
         "displayName": "NitroLegends",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1792035997,
         "allTimeRaces": 2934,
         "wpm": 49,
@@ -1909,21 +1909,21 @@
         "acc": 93.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792518250
+        "lastLogin": 1792541983
       },
       {
         "username": "mediumrareribeye",
         "displayName": "Patrick Jane",
         "role": "member",
         "joinStamp": 1792449531,
-        "allTimeRaces": 3917,
+        "allTimeRaces": 3919,
         "wpm": 85,
         "highestWPM": 115,
-        "teamRaces": 32,
-        "acc": 92.28,
+        "teamRaces": 34,
+        "acc": 92.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792540769
+        "lastLogin": 1792542660
       },
       {
         "username": "malott12",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118737,
+        "races": 118743,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 573,
+        "races": 570,
         "avgWPM": 70,
-        "avgAcc": 93.88,
+        "avgAcc": 93.92,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792541150752
+    "_syncedAt": 1792543945205
   }
 }
