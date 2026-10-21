@@ -479,7 +479,7 @@
         "allTimeRaces": 5101,
         "wpm": 92,
         "highestWPM": 112,
-        "teamRaces": 654,
+        "teamRaces": 665,
         "acc": 94.86,
         "season": null,
         "status": "active",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78059,
+        "races": 78070,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 421,
+        "races": 432,
         "avgWPM": 65,
-        "avgAcc": 92.15,
+        "avgAcc": 92.24,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792617589025
+    "_syncedAt": 1792619922016
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792617607910
+    "_syncedAt": 1792619941709
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,16 +1353,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792617626677
+    "_syncedAt": 1792619960646
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
+    "members": 46,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4316,
+    "profileViews": 4318,
     "leagueTier": 11,
     "racers": [
       {
@@ -1475,7 +1475,7 @@
         "acc": 93.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792555986
+        "lastLogin": 1792618429
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1660,20 +1660,6 @@
         "lastLogin": 1792446927
       },
       {
-        "username": "mwhit4",
-        "displayName": "Mwhit4",
-        "role": "member",
-        "joinStamp": 1792505481,
-        "allTimeRaces": 7813,
-        "wpm": 65,
-        "highestWPM": 75,
-        "teamRaces": 135,
-        "acc": 94.09,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792614243
-      },
-      {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
@@ -1818,10 +1804,10 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3414,
+        "allTimeRaces": 3433,
         "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1875,
+        "teamRaces": 1892,
         "acc": 92.17,
         "season": null,
         "status": "active",
@@ -1902,14 +1888,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5852,
-        "wpm": 78,
+        "allTimeRaces": 5866,
+        "wpm": 83,
         "highestWPM": 109,
-        "teamRaces": 245,
-        "acc": 94.77,
+        "teamRaces": 256,
+        "acc": 94.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1792556925
+        "lastLogin": 1792619289
       },
       {
         "username": "nev444ehh",
@@ -2026,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119605,
+        "races": 119638,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 47
+        "members": 46
       },
       "daily": {
-        "races": 942,
-        "avgWPM": 77,
-        "avgAcc": 93.5,
-        "members": 47
+        "races": 967,
+        "avgWPM": 76,
+        "avgAcc": 93.54,
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792617795841
+    "_syncedAt": 1792620130024
   }
 }
