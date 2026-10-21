@@ -3,22 +3,12 @@
     {
       "hour": "2026-10-20 19:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-20 19:00:00",
-      "racer": "reteyrhyj",
-      "races": 9
+      "races": 6
     },
     {
       "hour": "2026-10-20 19:00:00",
       "racer": "sterling757",
       "races": 2
-    },
-    {
-      "hour": "2026-10-20 19:00:00",
-      "racer": "YellowBronzeCoral",
-      "races": 1
     },
     {
       "hour": "2026-10-20 20:00:00",
@@ -293,14 +283,24 @@
     {
       "hour": "2026-10-21 19:00:00",
       "racer": "Namedisplayed",
-      "races": 7
+      "races": 30
     },
     {
       "hour": "2026-10-21 19:00:00",
       "racer": "WindMaker",
       "races": 6
+    },
+    {
+      "hour": "2026-10-21 19:00:00",
+      "racer": "Void Racer",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-21 19:00:00",
+      "racer": "The Queen",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792610334982
+  "_syncedAt": 1792612619501
 }

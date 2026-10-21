@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 97,
-      "topWPM": 120,
-      "lifetimeRaces": 4752,
-      "teamRaces": 2327,
+      "avgWPM": 102,
+      "topWPM": 123,
+      "lifetimeRaces": 4764,
+      "teamRaces": 2333,
       "joined": "06/10/26"
     },
     {
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 92,
       "topWPM": 119,
-      "lifetimeRaces": 1317,
-      "teamRaces": 967,
+      "lifetimeRaces": 1342,
+      "teamRaces": 990,
       "joined": "08/31/26"
     },
     {
@@ -349,14 +349,14 @@
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
       "displayName": "The Queen",
-      "nickname": "Epic Nitro User",
+      "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 86,
       "topWPM": 100,
-      "lifetimeRaces": 1439,
-      "teamRaces": 23,
+      "lifetimeRaces": 1441,
+      "teamRaces": 25,
       "joined": "10/06/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792610334980
+  "_syncedAt": 1792612619500
 }
