@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-20 12:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 34
+      "races": 22
     },
     {
       "hour": "2026-10-20 12:00:00",
@@ -279,8 +279,18 @@
       "hour": "2026-10-21 11:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 15
+    },
+    {
+      "hour": "2026-10-21 12:00:00",
+      "racer": "Nathan",
+      "races": 42
+    },
+    {
+      "hour": "2026-10-21 12:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792584671787
+  "_syncedAt": 1792586867547
 }

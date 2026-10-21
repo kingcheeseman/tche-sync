@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2913,
+    "profileViews": 2914,
     "leagueTier": 11,
     "racers": [
       {
@@ -210,14 +210,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2159,
+        "allTimeRaces": 2169,
         "wpm": 67,
         "highestWPM": 94,
-        "teamRaces": 1114,
-        "acc": 90.3,
+        "teamRaces": 1124,
+        "acc": 90.31,
         "season": null,
         "status": "active",
-        "lastLogin": 1792581875
+        "lastLogin": 1792585322
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -322,11 +322,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13812,
-        "wpm": 81,
+        "allTimeRaces": 13849,
+        "wpm": 82,
         "highestWPM": 111,
-        "teamRaces": 11604,
-        "acc": 93.28,
+        "teamRaces": 11635,
+        "acc": 93.26,
         "season": null,
         "status": "active",
         "lastLogin": 1792582697
@@ -558,21 +558,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77714,
+        "races": 77755,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 39
       },
       "daily": {
-        "races": 400,
-        "avgWPM": 61,
-        "avgAcc": 93.09,
+        "races": 431,
+        "avgWPM": 63,
+        "avgAcc": 92.76,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792584693415
+    "_syncedAt": 1792586889517
   },
   "SVC": {
     "tag": "SVC",
@@ -1023,14 +1023,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 798,
-        "wpm": 76,
+        "allTimeRaces": 803,
+        "wpm": 79,
         "highestWPM": 107,
-        "teamRaces": 382,
+        "teamRaces": 387,
         "acc": 93.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1792498906
+        "lastLogin": 1792585863
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1231,21 +1231,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40100,
+        "races": 40105,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 46
       },
       "daily": {
-        "races": 126,
+        "races": 127,
         "avgWPM": 80,
-        "avgAcc": 94.05,
+        "avgAcc": 94.09,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792584712168
+    "_syncedAt": 1792586908997
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,12 +1283,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792584731461
+    "_syncedAt": 1792586927954
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
+    "members": 48,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
@@ -1489,7 +1489,7 @@
         "acc": 87.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792519208
+        "lastLogin": 1792585531
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1758,6 +1758,20 @@
         "lastLogin": 1792551929
       },
       {
+        "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
+        "displayName": "Spy on teams",
+        "role": "member",
+        "joinStamp": 1792586115,
+        "allTimeRaces": 3413,
+        "wpm": 51,
+        "highestWPM": 60,
+        "teamRaces": 1875,
+        "acc": 92.17,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792584235
+      },
+      {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
@@ -1769,7 +1783,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792538967
+        "lastLogin": 1792586103
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1930,14 +1944,14 @@
         "displayName": "Patrick Jane",
         "role": "member",
         "joinStamp": 1792449531,
-        "allTimeRaces": 3929,
-        "wpm": 81,
+        "allTimeRaces": 3930,
+        "wpm": 79,
         "highestWPM": 115,
-        "teamRaces": 37,
-        "acc": 92.16,
+        "teamRaces": 45,
+        "acc": 91.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792584197
+        "lastLogin": 1792586783
       },
       {
         "username": "malott12",
@@ -1951,25 +1965,25 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1791461415
+        "lastLogin": 1792585512
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 119010,
+        "races": 119018,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 47
+        "members": 48
       },
       "daily": {
-        "races": 747,
+        "races": 751,
         "avgWPM": 76,
-        "avgAcc": 93.5,
-        "members": 47
+        "avgAcc": 93.49,
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792584900801
+    "_syncedAt": 1792587097566
   }
 }
