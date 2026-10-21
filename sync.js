@@ -313,33 +313,53 @@ async function fetchSeasonRacers(context, timeframeLabel) {
   } finally { await page.close(); }
 }
 
-async function fetchTournament(context, tag) {
+// Discover every tournament the team has participated in. The team
+// selector repopulates the tournament dropdown asynchronously, so we poll
+// for it rather than a single fixed sleep (observed to take anywhere from
+// ~2s to ~8s in practice).
+async function discoverTournamentIds(context, tag) {
   const page = await context.newPage();
   try {
     await page.goto("https://ntstartrack.org/tournaments", { waitUntil: "networkidle", timeout: 60000 });
-    await sleep(2000);
-    const meta = await page.evaluate(async (TAG) => {
+    await sleep(1500);
+    const list = await page.evaluate(async (TAG) => {
       const sleepIn = ms => new Promise(r => setTimeout(r, ms));
       const teamSel = document.querySelector("select.side-pane__select");
-      if (teamSel) {
-        teamSel.value = TAG;
-        teamSel.dispatchEvent(new Event("change", { bubbles: true }));
-        await sleepIn(2000);
+      if (!teamSel) return [];
+      teamSel.value = TAG;
+      teamSel.dispatchEvent(new Event("input", { bubbles: true }));
+      teamSel.dispatchEvent(new Event("change", { bubbles: true }));
+      let tourSel = null;
+      for (let i = 0; i < 12; i++) {
+        await sleepIn(1000);
+        tourSel = document.querySelector("select.event-dropdown");
+        if (tourSel && tourSel.options.length > 1) break;
       }
-      const tourSel = document.querySelector("select.event-dropdown");
-      if (!tourSel) return null;
-      if (!tourSel.value || tourSel.selectedIndex === 0) {
-        if (tourSel.options.length > 1) {
-          tourSel.value = tourSel.options[1].value;
-          tourSel.dispatchEvent(new Event("change", { bubbles: true }));
-          await sleepIn(1500);
-        }
-      }
-      const allTournaments = [...tourSel.options].slice(1).map(o => {
+      if (!tourSel) return [];
+      return [...tourSel.options].slice(1).map(o => {
         const m = o.textContent.match(/^(.*)\s\((\w+)\)$/);
         return { id: o.value, name: m ? m[1].trim() : o.textContent.trim(), status: m ? m[2] : null };
       });
-      const selectedId = tourSel.value || null;
+    }, tag);
+    return list || [];
+  } finally {
+    await page.close();
+  }
+}
+
+// Fetch one tournament's full header + bracket, by navigating straight to
+// its URL (?tag=X&tournament=ID) rather than driving the dropdowns — this
+// pre-selects both the team and the tournament before the page settles, so
+// the whole header/round scrape below is unchanged from the single-tournament
+// version other than running once per discovered id.
+async function fetchTournamentById(context, tag, id) {
+  const page = await context.newPage();
+  try {
+    await page.goto(`https://ntstartrack.org/tournaments?tag=${encodeURIComponent(tag)}&tournament=${encodeURIComponent(id)}`, { waitUntil: "networkidle", timeout: 60000 });
+    await sleep(2500);
+    const meta = await page.evaluate(async () => {
+      const tourSel = document.querySelector("select.event-dropdown");
+      const selectedId = tourSel ? (tourSel.value || null) : null;
 
       const h2 = [...document.querySelectorAll("h2")][0];
       const name = h2 ? h2.textContent.trim() : null;
@@ -380,10 +400,10 @@ async function fetchTournament(context, tag) {
         const m = t.match(/^(.*?)(?:\s*\(\$([\d,]+)\))?$/);
         rounds.push({ label: (m && m[1] ? m[1].trim() : t), prize: (m && m[2]) ? Number(m[2].replace(/,/g, "")) : null, btnText: t });
       }
-      return { selectedId, name, status, seedingHref, description, start, end, teams, formatLine, allTournaments, rounds };
-    }, tag);
+      return { selectedId, name, status, seedingHref, description, start, end, teams, formatLine, rounds };
+    });
 
-    if (!meta) return null;
+    if (!meta || !meta.name) return null;
 
     // Scrape each round's bracket from the stable `.m-bracket` markup
     // (same markup regardless of viewport; the desktop canvas view uses
@@ -422,7 +442,7 @@ async function fetchTournament(context, tag) {
     }
 
     return {
-      id: meta.selectedId,
+      id: meta.selectedId || id,
       name: meta.name,
       status: meta.status,
       description: meta.description,
@@ -431,14 +451,31 @@ async function fetchTournament(context, tag) {
       teams: meta.teams,
       format: meta.formatLine,
       seedingHref: meta.seedingHref,
-      allTournaments: meta.allTournaments,
       rounds: roundsOut,
-      source: "ntstartrack.org",
-      _syncedAt: Date.now(),
     };
   } finally {
     await page.close();
   }
+}
+
+// Fetch every tournament the team has (or has had) a bracket in. Each one
+// gets its own full header + bracket + seeding, so the frontend can offer a
+// dropdown to switch between them instead of only ever showing one.
+async function fetchAllTournaments(context, tag) {
+  const list = await discoverTournamentIds(context, tag);
+  if (!list.length) return null;
+  const tournaments = [];
+  for (const t of list) {
+    const full = await fetchTournamentById(context, tag, t.id);
+    if (!full) continue;
+    if (full.seedingHref) {
+      const seeding = await fetchTournamentSeeding(context, full.seedingHref).catch(() => null);
+      if (seeding) full.seeding = seeding;
+    }
+    tournaments.push(full);
+  }
+  if (!tournaments.length) return null;
+  return { tournaments, source: "ntstartrack.org", _syncedAt: Date.now() };
 }
 
 // Shared scraper for Startrack's /eventviewer "Racers" table (used by both
@@ -621,24 +658,32 @@ function detectCompEvents(prevComps, newComps) {
 
 function detectTournamentEvents(prevTour, newTour, teamTag) {
   const events = [];
-  if (!prevTour || !newTour || !Array.isArray(newTour.rounds)) return events;
-  const prevDecided = new Set();
-  (prevTour.rounds || []).forEach(round => (round.matches || []).forEach(m => {
-    if (m.id && m.winner != null) prevDecided.add(m.id);
-  }));
-  newTour.rounds.forEach(round => {
-    (round.matches || []).forEach(m => {
-      if (!m.id || m.winner == null || prevDecided.has(m.id)) return;
-      const players = m.players || [];
-      const winnerP = players[m.winner];
-      const loserP = players[1 - m.winner];
-      if (winnerP && !winnerP.placeholder && winnerP.teamTag === teamTag) {
-        events.push({ key: `tour-win:${m.id}`, type: "tournament-win", text: `${winnerP.racer} won their ${round.label} match${loserP && loserP.racer && !loserP.placeholder ? ` vs ${loserP.racer}` : ""}.`, meta: { matchId: m.id, username: winnerP.racer } });
-      } else if (loserP && !loserP.placeholder && loserP.teamTag === teamTag) {
-        events.push({ key: `tour-loss:${m.id}`, type: "tournament-loss", text: `${loserP.racer} was eliminated in the ${round.label}.`, meta: { matchId: m.id, username: loserP.racer } });
-      }
+  const prevList = (prevTour && Array.isArray(prevTour.tournaments)) ? prevTour.tournaments : [];
+  const newList = (newTour && Array.isArray(newTour.tournaments)) ? newTour.tournaments : [];
+  if (!prevList.length || !newList.length) return events;
+  const prevById = {};
+  prevList.forEach(t => { if (t.id) prevById[t.id] = t; });
+  for (const tour of newList) {
+    if (!tour.id || !Array.isArray(tour.rounds)) continue;
+    const prevTourObj = prevById[tour.id];
+    const prevDecided = new Set();
+    ((prevTourObj && prevTourObj.rounds) || []).forEach(round => (round.matches || []).forEach(m => {
+      if (m.id && m.winner != null) prevDecided.add(m.id);
+    }));
+    tour.rounds.forEach(round => {
+      (round.matches || []).forEach(m => {
+        if (!m.id || m.winner == null || prevDecided.has(m.id)) return;
+        const players = m.players || [];
+        const winnerP = players[m.winner];
+        const loserP = players[1 - m.winner];
+        if (winnerP && !winnerP.placeholder && winnerP.teamTag === teamTag) {
+          events.push({ key: `tour-win:${tour.id}:${m.id}`, type: "tournament-win", text: `${winnerP.racer} won their ${round.label} match${loserP && loserP.racer && !loserP.placeholder ? ` vs ${loserP.racer}` : ""} in ${tour.name || "the tournament"}.`, meta: { matchId: m.id, username: winnerP.racer, tournamentId: tour.id } });
+        } else if (loserP && !loserP.placeholder && loserP.teamTag === teamTag) {
+          events.push({ key: `tour-loss:${tour.id}:${m.id}`, type: "tournament-loss", text: `${loserP.racer} was eliminated in the ${round.label} of ${tour.name || "the tournament"}.`, meta: { matchId: m.id, username: loserP.racer, tournamentId: tour.id } });
+        }
+      });
     });
-  });
+  }
   return events;
 }
 
@@ -720,15 +765,10 @@ async function main() {
   const activity = startrackExtras ? buildActivity(startrackExtras) : null;
   if (activity) await writeJSON("activity.json", activity);
 
-  // Tournament bracket (whatever tournament is current/featured for TEAM_TAG)
-  const tournament = await safe("tournament", () => fetchTournament(context, TEAM_TAG));
-  if (tournament) {
-    if (tournament.seedingHref) {
-      const seeding = await safe("tournament-seeding", () => fetchTournamentSeeding(context, tournament.seedingHref));
-      if (seeding) tournament.seeding = seeding;
-    }
-    await writeJSON("tournament.json", tournament);
-  }
+  // Tournament brackets — every tournament the team has a bracket in, so the
+  // frontend can offer a picker instead of only ever showing one.
+  const tournament = await safe("tournament", () => fetchAllTournaments(context, TEAM_TAG));
+  if (tournament) await writeJSON("tournament.json", tournament);
 
   // Notifications feed (new members, race milestones, comps going live,
   // tournament match results) — diffed against the pre-write snapshots above.

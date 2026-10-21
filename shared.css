@@ -1126,6 +1126,16 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
   white-space: nowrap;
 }
 
+/* JUMP-TO-EVENT highlight (Competitions page "jump to event" picker) */
+.jump-highlight {
+  animation: jumpHighlight 1.6s ease-out;
+  border-radius: 14px;
+}
+@keyframes jumpHighlight {
+  0% { box-shadow: 0 0 0 3px var(--gold-strong, #e0a526); }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
 /* NOTIFICATIONS */
 .notif-list { display: flex; flex-direction: column; gap: 2px; }
 .notif-item {

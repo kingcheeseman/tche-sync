@@ -30,6 +30,7 @@
     competitions: "competitions.html",
     tournament: "tournament.html",
     allies: "allies.html",
+    showdown: "showdown.html",
     notifications: "notifications.html",
     info: "info.html",
   };
@@ -41,6 +42,7 @@
     competitions: "Competitions",
     tournament: "Tournament",
     allies: "Allies",
+    showdown: "Showdown",
     notifications: "Notifications",
     info: "Info",
   };
@@ -56,13 +58,15 @@
     comps: null,
     seasons: null,
     selectedSeason: null,
-    tournament: null,
+    tournament: null,       // { tournaments: [...], _syncedAt } — every tournament the team has a bracket in
+    selectedTournamentId: null,
     tournamentRoundIdx: null,
     weekly: null,          // per-racer weekly stats (Startrack)
     daily: null,           // per-racer 24h stats (Startrack)
     roster: null,          // squad/tier/role + thresholds (Startrack roster API)
     activity: null,        // hourly races per racer, last ~24h (Startrack)
     notifications: null,   // team event feed (new members, milestones, comps, tournament results)
+    selectedRivalTag: null, // Showdown page: which ally tag is the current head-to-head opponent
     notes: {},             // notes/<username> → { text, updatedAt }
     pinnedNotice: null,    // settings/pinnedNotice doc
     history: [],           // history/YYYY-MM-DD list for charts
@@ -1256,6 +1260,7 @@
       else if (p === "competitions") view.innerHTML = staleBanner() + renderCompetitions();
       else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
+      else if (p === "showdown") view.innerHTML = staleBanner() + renderShowdown();
       else if (p === "notifications") view.innerHTML = staleBanner() + renderNotifications();
       else if (p === "info") view.innerHTML = renderInfo();
       else if (p === "racer") view.innerHTML = staleBanner() + renderRacerProfile();
@@ -1873,10 +1878,11 @@
         </div>
       </div>` : "";
 
-    // Tournament match history
-    const tour = state.tournament;
+    // Tournament match history — across every tournament on file, not just one.
+    const allTournaments = (state.tournament && Array.isArray(state.tournament.tournaments)) ? state.tournament.tournaments : [];
     const tourMatches = [];
-    if (tour && Array.isArray(tour.rounds)) {
+    allTournaments.forEach(tour => {
+      if (!Array.isArray(tour.rounds)) return;
       tour.rounds.forEach(round => {
         (round.matches || []).forEach(m => {
           const players = m.players || [];
@@ -1884,18 +1890,19 @@
           if (myIdx === -1) return;
           const opp = players[1 - myIdx];
           const decided = players.length === 2 && players.every(p => p && !p.placeholder);
-          tourMatches.push({ round: round.label, me: players[myIdx], opp, won: decided && m.winner === myIdx, decided });
+          tourMatches.push({ tournament: tour.name, round: round.label, me: players[myIdx], opp, won: decided && m.winner === myIdx, decided });
         });
       });
-    }
+    });
     const tourSection = tourMatches.length ? `
       <div class="card">
-        <div class="card-head"><h3 class="card-title">Tournament · ${esc((tour && tour.name) || "")}</h3></div>
+        <div class="card-head"><h3 class="card-title">Tournament history</h3></div>
         <div class="table-wrap">
           <table class="racers">
-            <thead><tr><th>Round</th><th>Opponent</th><th style="text-align:right;">Score</th><th style="text-align:right;">Opp. score</th><th>Result</th></tr></thead>
+            <thead><tr><th>Tournament</th><th>Round</th><th>Opponent</th><th style="text-align:right;">Score</th><th style="text-align:right;">Opp. score</th><th>Result</th></tr></thead>
             <tbody>${tourMatches.map(tm => `
               <tr>
+                <td>${esc(tm.tournament || "")}</td>
                 <td>${esc(tm.round)}</td>
                 <td>${tm.opp && !tm.opp.placeholder ? esc(tm.opp.racer) + (tm.opp.teamTag ? ` <span class="text-muted" style="font-size:11px;">[${esc(tm.opp.teamTag)}]</span>` : "") : "TBD"}</td>
                 <td class="num">${fmt(tm.me.score)}</td>
@@ -2269,7 +2276,7 @@
       const lb = state.compLeaderboards[c.id];
       const racers = (lb && Array.isArray(lb.racers)) ? lb.racers.slice().sort((a, b) => (b.points || 0) - (a.points || 0)) : [];
       return `
-        <div class="card" style="margin-top:24px;">
+        <div class="card" id="comp-card-${esc(c.id || "")}" style="margin-top:24px;">
           <div class="card-head">
             <div style="min-width:0;">
               <h3 class="card-title">🔴 Live now · ${esc(c.title || "Event")}</h3>
@@ -2324,7 +2331,7 @@
       const leaderboard = showLeaderboard ? state.compLeaderboards[c.id] : null;
       const hasLb = leaderboard && Array.isArray(leaderboard.racers) && leaderboard.racers.length;
       return `
-        <div class="comp-card ${pillCls}">
+        <div class="comp-card ${pillCls}" id="comp-card-${esc(c.id || "")}">
           <div class="comp-head">
             <span class="comp-status ${pillCls}">${esc(c.status || "")}</span>
             <a href="https://ntstartrack.org/eventviewer?tag=${esc(TEAM_TAG)}&event=${esc(c.id || "")}" target="_blank" rel="noopener" class="comp-id">#${esc(c.id || "")}</a>
@@ -2352,11 +2359,20 @@
         </div>`;
     };
 
+    const eventJumper = sortedComps.length > 1 ? `
+      <select id="event-jumper" class="input-select">
+        <option value="">Jump to event…</option>
+        ${sortedComps.map(c => `<option value="${esc(c.id || "")}">${esc(c.title || "Untitled comp")}${c.status ? ` · ${esc(c.status)}` : ""}</option>`).join("")}
+      </select>` : "";
+
     const compsSection = `
       <div class="card" style="margin-top:24px;">
         <div class="card-head">
-          <h3 class="card-title">Cash comps</h3>
-          <span class="text-muted" style="font-size:11px;">Via Startrack · ${state.comps && state.comps._syncedAt ? "updated " + timeAgo(state.comps._syncedAt) : "not synced"}</span>
+          <div style="min-width:0;">
+            <h3 class="card-title">Cash comps</h3>
+            <span class="text-muted" style="font-size:11px;">Via Startrack · ${state.comps && state.comps._syncedAt ? "updated " + timeAgo(state.comps._syncedAt) : "not synced"}</span>
+          </div>
+          ${eventJumper}
         </div>
         ${activeOrUpcoming.length ? `
           <h4 class="section-head" style="font-size:12px; letter-spacing: 1px; text-transform: uppercase; color: var(--gold-strong); margin-bottom: 10px;">Active & upcoming</h4>
@@ -2397,8 +2413,19 @@
 
   // ----- TOURNAMENT -----
   function renderTournament() {
-    const tour = state.tournament;
-    if (!tour) return emptyState("No tournament data yet", "Create a tournament on Startrack and it'll show up here within 15 minutes of the next sync.");
+    const allTours = (state.tournament && Array.isArray(state.tournament.tournaments)) ? state.tournament.tournaments : [];
+    if (!allTours.length) return emptyState("No tournament data yet", "Create a tournament on Startrack and it'll show up here within 15 minutes of the next sync.");
+
+    if (state.selectedTournamentId == null || !allTours.some(t => t.id === state.selectedTournamentId)) {
+      const active = allTours.find(t => /active/i.test(t.status || ""));
+      state.selectedTournamentId = (active || allTours[0]).id;
+    }
+    const tour = allTours.find(t => t.id === state.selectedTournamentId) || allTours[0];
+
+    const tournamentSwitcher = allTours.length > 1 ? `
+      <select id="tournament-switcher" class="input-select">
+        ${allTours.map(t => `<option value="${esc(t.id)}" ${t.id === tour.id ? "selected" : ""}>${esc(t.name || "Tournament " + t.id)}${t.status ? ` · ${esc(t.status)}` : ""}</option>`).join("")}
+      </select>` : "";
 
     const statusCls = /active/i.test(tour.status || "") ? "status-live" : /pending/i.test(tour.status || "") ? "status-upcoming" : "";
 
@@ -2512,11 +2539,14 @@
       </div>` : "");
 
     return `
-      <div class="page-head"><div>
-        <div class="page-eyebrow">Bracket</div>
-        <h1 class="page-title">Tournament</h1>
-        <p class="page-sub">Live bracket for ${esc(tour.name || "the current tournament")}, mirrored from ntstartrack.org.</p>
-      </div></div>
+      <div class="page-head">
+        <div>
+          <div class="page-eyebrow">Bracket</div>
+          <h1 class="page-title">Tournament</h1>
+          <p class="page-sub">Live bracket for ${esc(tour.name || "the current tournament")}, mirrored from ntstartrack.org.${allTours.length > 1 ? ` ${allTours.length} tournaments on file.` : ""}</p>
+        </div>
+        ${tournamentSwitcher}
+      </div>
       ${header}
       ${bracketSection}
       ${seedingSection}
@@ -2677,6 +2707,139 @@
       ${addForm}
       ${comparisonTable}
       ${state.allies.length ? `<div class="ally-grid">${cards}</div>` : emptyState("No allies yet", state.isAdmin ? "Add a team tag above to start tracking an ally." : "No allies have been added yet.")}
+    `;
+  }
+
+  // ----- SHOWDOWN (team vs. team head-to-head) -----
+  const SHOWDOWN_TIMEFRAMES = [
+    { key: "24h", label: "Last 24h" },
+    { key: "week", label: "Last 7 days" },
+    { key: "weekly", label: "Weekly" },
+    { key: "season", label: "Season" },
+    { key: "alltime", label: "All-time" },
+  ];
+  function renderShowdown() {
+    const tags = state.allies.filter(tag => state.allyData[tag] && !state.allyData[tag].error);
+    if (!tags.length) return emptyState("No rival to show down with yet", "Add an ally team on the Allies page — Showdown compares TCHE head-to-head against any of your tracked teams.");
+
+    if (state.selectedRivalTag == null || !tags.includes(state.selectedRivalTag)) {
+      state.selectedRivalTag = tags[0];
+    }
+    const rival = state.selectedRivalTag;
+    const rivalData = state.allyData[rival];
+    const rivalSeason = state.allySeason[rival] || {};
+    const rivalTf = rivalSeason.timeframes || {};
+    const meTf = (state.startrack && state.startrack.timeframes) || {};
+
+    const rivalSwitcher = tags.length > 1 ? `
+      <select id="rival-switcher" class="input-select">
+        ${tags.map(t => `<option value="${esc(t)}" ${t === rival ? "selected" : ""}>vs ${esc(t)}</option>`).join("")}
+      </select>` : "";
+
+    // Duel score for the "Weekly" timeframe — 1 point to whichever team leads
+    // in each of races / WPM / accuracy / points; ties score nobody.
+    const weeklyMe = meTf.weekly || {};
+    const weeklyRival = rivalTf.weekly || {};
+    const duelMetrics = ["races", "wpm", "accuracy", "points"];
+    let meScore = 0, rivalScore = 0;
+    duelMetrics.forEach(k => {
+      const a = weeklyMe[k], b = weeklyRival[k];
+      if (a == null || b == null || a === b) return;
+      if (a > b) meScore++; else rivalScore++;
+    });
+    const meLeading = meScore > rivalScore, rivalLeading = rivalScore > meScore;
+
+    const duelHeader = `
+      <div class="card" style="margin-bottom:24px; text-align:center;">
+        <div class="text-muted" style="font-size:12px; letter-spacing:1px; text-transform:uppercase; margin-bottom:4px;">🏆 Weekly showdown</div>
+        <div class="text-dim" style="font-size:12.5px; margin-bottom:18px;">Who's leading this week, scored 1 point per category: races, WPM, accuracy, points.</div>
+        <div class="flex-between" style="align-items:center; gap:18px; max-width:480px; margin:0 auto;">
+          <div style="flex:1; min-width:0;">
+            <div style="font-family:var(--font-display); font-weight:700; font-size:15px; color:${meLeading ? "var(--gold-strong)" : "var(--text)"};">[${esc(TEAM_TAG)}]</div>
+            <div class="text-muted" style="font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${esc((state.team && state.team.name) || "")}</div>
+          </div>
+          <div style="display:flex; align-items:baseline; gap:10px; font-family:var(--font-display); font-weight:800; font-size:40px;">
+            <span style="color:${meLeading ? "var(--gold-strong)" : "var(--text-dim)"};">${meScore}</span>
+            <span class="text-muted" style="font-size:18px;">–</span>
+            <span style="color:${rivalLeading ? "var(--gold-strong)" : "var(--text-dim)"};">${rivalScore}</span>
+          </div>
+          <div style="flex:1; min-width:0;">
+            <div style="font-family:var(--font-display); font-weight:700; font-size:15px; color:${rivalLeading ? "var(--gold-strong)" : "var(--text)"};">[${esc(rival)}]</div>
+            <div class="text-muted" style="font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${esc((rivalData && rivalData.name) || "")}</div>
+          </div>
+        </div>
+        ${meScore === rivalScore ? `<div class="text-muted" style="font-size:12px; margin-top:16px;">Dead even this week.</div>` : `<div class="text-muted" style="font-size:12px; margin-top:16px;">${meLeading ? `[${esc(TEAM_TAG)}]` : `[${esc(rival)}]`} leads ${Math.max(meScore, rivalScore)}–${Math.min(meScore, rivalScore)} this week.</div>`}
+      </div>`;
+
+    const metricRow = (label, a, b, fmtFn, unit, lowerIsBetter) => {
+      if (a == null && b == null) return "";
+      const better = (x, y) => lowerIsBetter ? x < y : x > y;
+      const aWins = a != null && b != null && better(a, b);
+      const bWins = a != null && b != null && better(b, a);
+      return `
+        <tr>
+          <td class="text-dim">${esc(label)}</td>
+          <td class="num ${aWins ? "num-primary" : ""}" style="${aWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${a != null ? fmtFn(a) + (unit || "") : "—"}</td>
+          <td class="num ${bWins ? "num-primary" : ""}" style="${bWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${b != null ? fmtFn(b) + (unit || "") : "—"}</td>
+        </tr>`;
+    };
+
+    const tfBreakdown = `
+      <div class="card" style="margin-bottom:24px;">
+        <div class="card-head">
+          <h3 class="card-title">Timeframe breakdown</h3>
+          ${rivalSwitcher}
+        </div>
+        <div class="table-wrap" style="box-shadow:none; border:0;">
+          <table class="racers">
+            <thead>
+              <tr><th></th><th style="text-align:right;">[${esc(TEAM_TAG)}]</th><th style="text-align:right;">[${esc(rival)}]</th></tr>
+            </thead>
+            <tbody>
+              ${SHOWDOWN_TIMEFRAMES.map(({ key, label }) => {
+                const a = meTf[key], b = rivalTf[key];
+                if (!a && !b) return "";
+                return `
+                  <tr style="background: var(--surface-2);"><td colspan="3" style="font-weight:700; font-size:12px; letter-spacing:0.5px; text-transform:uppercase; padding-top:14px;">${esc(label)}</td></tr>
+                  ${metricRow("Rank", a && a.rank, b && b.rank, v => "#" + fmt(v), "", true)}
+                  ${metricRow("Races", a && a.races, b && b.races, fmt)}
+                  ${metricRow("WPM", a && a.wpm, b && b.wpm, fmt)}
+                  ${metricRow("Accuracy", a && a.accuracy, b && b.accuracy, fmt, "%")}
+                  ${metricRow("Points", a && a.points, b && b.points, fmt)}
+                `;
+              }).join("")}
+            </tbody>
+          </table>
+        </div>
+      </div>`;
+
+    const meAgg = (state.team && state.team.aggregates && state.team.aggregates.alltime) || {};
+    const rivalAgg = (rivalData && rivalData.aggregates && rivalData.aggregates.alltime) || {};
+    const teamTotals = `
+      <div class="card">
+        <div class="card-head"><h3 class="card-title">Team totals</h3></div>
+        <div class="table-wrap" style="box-shadow:none; border:0;">
+          <table class="racers">
+            <thead><tr><th></th><th style="text-align:right;">[${esc(TEAM_TAG)}]</th><th style="text-align:right;">[${esc(rival)}]</th></tr></thead>
+            <tbody>
+              ${metricRow("Members", state.team && state.team.members, rivalData && rivalData.members, fmt)}
+              ${metricRow("All-time races", meAgg.races, rivalAgg.races, fmt)}
+              ${metricRow("Avg WPM", meAgg.avgWPM, rivalAgg.avgWPM, fmt)}
+              ${metricRow("Avg accuracy", meAgg.avgAcc, rivalAgg.avgAcc, fmt, "%")}
+            </tbody>
+          </table>
+        </div>
+      </div>`;
+
+    return `
+      <div class="page-head"><div>
+        <div class="page-eyebrow">Showdown</div>
+        <h1 class="page-title">Head-to-Head</h1>
+        <p class="page-sub">A weekly, duel-style matchup between ${esc(TEAM_TAG)} and whichever ally you pick.</p>
+      </div></div>
+      ${duelHeader}
+      ${tfBreakdown}
+      ${teamTotals}
     `;
   }
 
@@ -2875,6 +3038,32 @@
     // Tournament round switcher
     document.querySelectorAll("[data-tour-round]").forEach(btn => {
       btn.addEventListener("click", () => { state.tournamentRoundIdx = Number(btn.dataset.tourRound); render(); });
+    });
+
+    // Jump to a specific cash comp event
+    const jumper = document.getElementById("event-jumper");
+    if (jumper) jumper.addEventListener("change", (e) => {
+      const id = e.target.value;
+      if (!id) return;
+      const target = document.getElementById(`comp-card-${id}`);
+      if (target) {
+        if (typeof target.scrollIntoView === "function") target.scrollIntoView({ behavior: "smooth", block: "center" });
+        target.classList.add("jump-highlight");
+        setTimeout(() => target.classList.remove("jump-highlight"), 1600);
+      }
+      jumper.value = "";
+    });
+
+    // Showdown rival switcher
+    const rivalSw = document.getElementById("rival-switcher");
+    if (rivalSw) rivalSw.addEventListener("change", (e) => { state.selectedRivalTag = e.target.value; render(); });
+
+    // Tournament switcher (pick which tournament to view)
+    const tourSw = document.getElementById("tournament-switcher");
+    if (tourSw) tourSw.addEventListener("change", (e) => {
+      state.selectedTournamentId = e.target.value;
+      state.tournamentRoundIdx = null; // recompute default round for the newly selected tournament
+      render();
     });
 
     // Racer sort
