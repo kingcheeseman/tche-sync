@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:7e2ebd57815c8b20f963c1e4b569628c",
+      "type": "new-member",
+      "text": "Joe and Uh joined the team.",
+      "meta": {
+        "username": "7e2ebd57815c8b20f963c1e4b569628c"
+      },
+      "createdAt": 1792613840003
+    },
+    {
       "key": "new-member:nathanmduncan",
       "type": "new-member",
       "text": "Nathan joined the team.",
@@ -230,5 +239,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792612636564
+  "_syncedAt": 1792613840003
 }

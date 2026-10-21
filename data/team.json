@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 45,
+  "members": 46,
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2009,
+  "profileViews": 2010,
   "leagueTier": 11,
   "racers": [
     {
@@ -219,6 +219,20 @@
       "lastLogin": 1792292108
     },
     {
+      "username": "7e2ebd57815c8b20f963c1e4b569628c",
+      "displayName": "Joe and Uh",
+      "role": "member",
+      "joinStamp": 1792613122,
+      "allTimeRaces": 1185,
+      "wpm": 88,
+      "highestWPM": 109,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792611789
+    },
+    {
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "role": "member",
@@ -307,14 +321,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2711,
-      "wpm": 79,
+      "allTimeRaces": 2714,
+      "wpm": 84,
       "highestWPM": 102,
-      "teamRaces": 92,
-      "acc": 95.26,
+      "teamRaces": 95,
+      "acc": 95.27,
       "season": null,
       "status": "active",
-      "lastLogin": 1792526251
+      "lastLogin": 1792612626
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -380,7 +394,7 @@
       "allTimeRaces": 1342,
       "wpm": 92,
       "highestWPM": 119,
-      "teamRaces": 990,
+      "teamRaces": 995,
       "acc": 94.46,
       "season": null,
       "status": "active",
@@ -461,11 +475,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4764,
-      "wpm": 102,
+      "allTimeRaces": 4783,
+      "wpm": 99,
       "highestWPM": 123,
-      "teamRaces": 2333,
-      "acc": 92.55,
+      "teamRaces": 2350,
+      "acc": 92.56,
       "season": null,
       "status": "active",
       "lastLogin": 1792611801
@@ -641,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56099,
+      "races": 56124,
       "avgWPM": 76,
       "avgAcc": 95.01,
-      "members": 45
+      "members": 46
     },
     "daily": {
-      "races": 1056,
-      "avgWPM": 83,
+      "races": 1063,
+      "avgWPM": 84,
       "avgAcc": 94.5,
-      "members": 45
+      "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792612564559
+  "_syncedAt": 1792613744579
 }

@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 19:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-20 19:00:00",
-      "racer": "sterling757",
-      "races": 2
-    },
-    {
       "hour": "2026-10-20 20:00:00",
       "racer": "Namedisplayed",
-      "races": 22
+      "races": 14
     },
     {
       "hour": "2026-10-20 20:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 14
+      "races": 12
     },
     {
       "hour": "2026-10-20 20:00:00",
@@ -283,7 +273,12 @@
     {
       "hour": "2026-10-21 19:00:00",
       "racer": "Namedisplayed",
-      "races": 30
+      "races": 35
+    },
+    {
+      "hour": "2026-10-21 19:00:00",
+      "racer": "Void Racer",
+      "races": 14
     },
     {
       "hour": "2026-10-21 19:00:00",
@@ -292,15 +287,30 @@
     },
     {
       "hour": "2026-10-21 19:00:00",
-      "racer": "Void Racer",
-      "races": 6
+      "racer": "The Queen",
+      "races": 2
     },
     {
       "hour": "2026-10-21 19:00:00",
-      "racer": "The Queen",
+      "racer": "sterling757",
       "races": 2
+    },
+    {
+      "hour": "2026-10-21 19:00:00",
+      "racer": "Joe and Uh",
+      "races": 0
+    },
+    {
+      "hour": "2026-10-21 20:00:00",
+      "racer": "Void Racer",
+      "races": 9
+    },
+    {
+      "hour": "2026-10-21 20:00:00",
+      "racer": "sterling757",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792612619501
+  "_syncedAt": 1792613800540
 }
