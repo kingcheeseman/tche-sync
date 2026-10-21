@@ -558,7 +558,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792546034463
+    "_syncedAt": 1792547974815
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792546053326
+    "_syncedAt": 1792547993694
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,12 +1269,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792546072171
+    "_syncedAt": 1792548015860
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 48,
+    "members": 47,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
@@ -1406,20 +1406,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792424605
-      },
-      {
-        "username": "b2ab7d4e911aca3de52f4279fb0e1cb9",
-        "displayName": "-Tag_Typ3r-",
-        "role": "member",
-        "joinStamp": 1792544016,
-        "allTimeRaces": 18411,
-        "wpm": 112,
-        "highestWPM": 150,
-        "teamRaces": 44,
-        "acc": 91.34,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792536851
       },
       {
         "username": "pigglepigglepiggle",
@@ -1594,14 +1580,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792505481,
-        "allTimeRaces": 7752,
-        "wpm": 62,
+        "allTimeRaces": 7756,
+        "wpm": 61,
         "highestWPM": 75,
-        "teamRaces": 74,
-        "acc": 94.47,
+        "teamRaces": 78,
+        "acc": 94.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1792540584
+        "lastLogin": 1792546342
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1762,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18697,
-        "wpm": 85,
+        "allTimeRaces": 18712,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18236,
+        "teamRaces": 18252,
         "acc": 93.96,
         "season": null,
         "status": "active",
@@ -1874,14 +1860,14 @@
         "displayName": "BRADYDARACER",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2298,
-        "wpm": 93,
+        "allTimeRaces": 2300,
+        "wpm": 94,
         "highestWPM": 117,
-        "teamRaces": 2284,
+        "teamRaces": 2286,
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792533710
+        "lastLogin": 1792546947
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1956,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118830,
+        "races": 118881,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 48
+        "members": 47
       },
       "daily": {
-        "races": 653,
-        "avgWPM": 73,
-        "avgAcc": 93.55,
-        "members": 48
+        "races": 682,
+        "avgWPM": 75,
+        "avgAcc": 93.44,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792546241392
+    "_syncedAt": 1792548185562
   }
 }

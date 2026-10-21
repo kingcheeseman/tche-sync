@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 01:00:00",
-      "racer": "-HyperTyper-",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-20 01:00:00",
-      "racer": "Void Racer",
-      "races": 1
-    },
-    {
       "hour": "2026-10-20 03:00:00",
       "racer": "rorok09",
       "races": 39
@@ -278,9 +268,9 @@
     {
       "hour": "2026-10-21 01:00:00",
       "racer": "Nathan",
-      "races": 7
+      "races": 29
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792546022675
+  "_syncedAt": 1792547953653
 }

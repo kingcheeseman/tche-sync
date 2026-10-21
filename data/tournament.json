@@ -1,21 +1,1458 @@
 {
-  "id": "57",
-  "name": null,
-  "status": null,
-  "description": null,
-  "start": null,
-  "end": null,
-  "teams": [],
-  "format": null,
-  "seedingHref": null,
+  "id": "60",
+  "name": "Nitro Christmas ❄️",
+  "status": "Pending",
+  "description": "Welcome to the Nitro Christmas tournament, hosted to celebrate the holiday season and the arrival of winter. Created to highlight outstanding Nitro Type teams and bring racers together, this competition features a total prize pool of 10M to 20M NT Cash distributed among the top finishers. Prepare your team, sharpen your typing skills, and join us for an exciting winter celebration.",
+  "start": "December 1, 2026 at 4:00 PM",
+  "end": "December 29, 2026 at 4:00 PM",
+  "teams": [
+    "IMT",
+    "KEYCAT",
+    "BN8",
+    "THB0S"
+  ],
+  "format": "64 players  ·  Scored by Races  ·  Min 10 races in each round to qualify",
+  "seedingHref": "/eventviewer?event=1398&tag=IMT",
   "allTournaments": [
+    {
+      "id": "60",
+      "name": "Nitro Christmas ❄️",
+      "status": "Pending"
+    },
     {
       "id": "57",
       "name": "IMT Ally Celebration Tournament",
       "status": "Active"
     }
   ],
-  "rounds": [],
+  "rounds": [
+    {
+      "label": "Round of 64",
+      "prize": null,
+      "matches": [
+        {
+          "id": "Match 2458",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2459",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2460",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2461",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2462",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2463",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2464",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2465",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2466",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2467",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2468",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2469",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2470",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2471",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2472",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2473",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2474",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2475",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2476",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2477",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2478",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2479",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2480",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2481",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2482",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2483",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2484",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2485",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2486",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2487",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2488",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2489",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    },
+    {
+      "label": "Round of 32",
+      "prize": null,
+      "matches": [
+        {
+          "id": "Match 2490",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2491",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2492",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2493",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2494",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2495",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2496",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2497",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2498",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2499",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2500",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2501",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2502",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2503",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2504",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2505",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    },
+    {
+      "label": "Sweet 16",
+      "prize": 100000,
+      "matches": [
+        {
+          "id": "Match 2506",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2507",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2508",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2509",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2510",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2511",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2512",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2513",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    },
+    {
+      "label": "Elite 8",
+      "prize": 500000,
+      "matches": [
+        {
+          "id": "Match 2514",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2515",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2516",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2517",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    },
+    {
+      "label": "Final 4",
+      "prize": 1000000,
+      "matches": [
+        {
+          "id": "Match 2518",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        },
+        {
+          "id": "Match 2519",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    },
+    {
+      "label": "Championship",
+      "prize": 5000000,
+      "matches": [
+        {
+          "id": "Match 2520",
+          "players": [
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            },
+            {
+              "seed": "–",
+              "racer": "BYE",
+              "teamTag": null,
+              "gold": false,
+              "placeholder": true,
+              "score": null
+            }
+          ],
+          "winner": null
+        }
+      ]
+    }
+  ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792546030144
+  "_syncedAt": 1792547966774,
+  "seeding": {
+    "racers": [],
+    "_syncedAt": 1792547970506
+  }
 }
