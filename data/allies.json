@@ -70,14 +70,14 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3976,
+        "allTimeRaces": 3977,
         "wpm": 80,
         "highestWPM": 97,
-        "teamRaces": 3175,
+        "teamRaces": 3176,
         "acc": 95.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792529101
+        "lastLogin": 1792552003
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -544,21 +544,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77678,
+        "races": 77679,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 38
       },
       "daily": {
-        "races": 401,
+        "races": 402,
         "avgWPM": 61,
-        "avgAcc": 93.13,
+        "avgAcc": 93.14,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792551470646
+    "_syncedAt": 1792552890601
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792551489458
+    "_syncedAt": 1792552909781
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792551508375
+    "_syncedAt": 1792552928684
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1734,14 +1734,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1437,
-        "wpm": 99,
+        "allTimeRaces": 1465,
+        "wpm": 98,
         "highestWPM": 121,
-        "teamRaces": 986,
-        "acc": 96.34,
+        "teamRaces": 1007,
+        "acc": 96.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792459601
+        "lastLogin": 1792551929
       },
       {
         "username": "sara0010",
@@ -1774,7 +1774,7 @@
       {
         "username": "clpz200",
         "displayName": "-BOSS PLZ PROMOTE-",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1789680203,
         "allTimeRaces": 4357,
         "wpm": 45,
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118919,
+        "races": 118940,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 688,
-        "avgWPM": 75,
-        "avgAcc": 93.37,
+        "races": 709,
+        "avgWPM": 76,
+        "avgAcc": 93.46,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792551677893
+    "_syncedAt": 1792553098166
   }
 }
