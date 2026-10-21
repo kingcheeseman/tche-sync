@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 86,
+    "tierA": 87,
     "tierB": 76,
     "weeklyReq": 100
   },
@@ -131,7 +131,7 @@
       "nickname": "I Have Fans!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 86,
       "topWPM": 125,
       "lifetimeRaces": 4441,
@@ -443,11 +443,11 @@
       "nickname": "Yo",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "A",
-      "avgWPM": 116,
+      "tier": "C",
+      "avgWPM": 45,
       "topWPM": 129,
-      "lifetimeRaces": 18354,
-      "teamRaces": 588,
+      "lifetimeRaces": 18363,
+      "teamRaces": 599,
       "joined": "10/13/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792558709310
+  "_syncedAt": 1792560123879
 }

@@ -181,11 +181,11 @@
       "displayName": "Ep_1K PFP VIEWS_Ep",
       "role": "member",
       "joinStamp": 1791866672,
-      "allTimeRaces": 18356,
-      "wpm": 93,
+      "allTimeRaces": 18363,
+      "wpm": 45,
       "highestWPM": 129,
-      "teamRaces": 588,
-      "acc": 98.24,
+      "teamRaces": 599,
+      "acc": 98.28,
       "season": null,
       "status": "active",
       "lastLogin": 1792558337
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55379,
+      "races": 55390,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 45
     },
     "daily": {
-      "races": 814,
-      "avgWPM": 80,
-      "avgAcc": 94.01,
+      "races": 783,
+      "avgWPM": 79,
+      "avgAcc": 93.94,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792558653398
+  "_syncedAt": 1792560070175
 }
