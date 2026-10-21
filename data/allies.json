@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 43,
+    "members": 44,
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2924,
+    "profileViews": 2925,
     "leagueTier": 11,
     "racers": [
       {
@@ -70,14 +70,14 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 573,
-        "wpm": 52,
+        "allTimeRaces": 581,
+        "wpm": 45,
         "highestWPM": 105,
-        "teamRaces": 268,
-        "acc": 93.03,
+        "teamRaces": 276,
+        "acc": 93.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792603334
+        "lastLogin": 1792613971
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -245,7 +245,7 @@
         "acc": 95.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1792602738
+        "lastLogin": 1792614161
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -372,6 +372,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792510532
+      },
+      {
+        "username": "123d920ba28e9959c2eb402ab64f351b",
+        "displayName": "Glitter_Girl_18",
+        "role": "member",
+        "joinStamp": 1792614323,
+        "allTimeRaces": 292,
+        "wpm": 39,
+        "highestWPM": 51,
+        "teamRaces": 5,
+        "acc": 98.2,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792611928
       },
       {
         "username": "quickbrownpony",
@@ -511,7 +525,7 @@
         "acc": 93.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792539795
+        "lastLogin": 1792614739
       },
       {
         "username": "happygoluckygirl07",
@@ -614,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78043,
+        "races": 78056,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 43
+        "members": 44
       },
       "daily": {
-        "races": 478,
-        "avgWPM": 67,
-        "avgAcc": 92.71,
-        "members": 43
+        "races": 432,
+        "avgWPM": 65,
+        "avgAcc": 92.3,
+        "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792613845065
+    "_syncedAt": 1792616265189
   },
   "SVC": {
     "tag": "SVC",
@@ -1301,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792613868137
+    "_syncedAt": 1792616284336
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1339,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792613887157
+    "_syncedAt": 1792616303272
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1650,14 +1664,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792505481,
-        "allTimeRaces": 7789,
-        "wpm": 63,
+        "allTimeRaces": 7801,
+        "wpm": 51,
         "highestWPM": 75,
-        "teamRaces": 111,
-        "acc": 94.42,
+        "teamRaces": 123,
+        "acc": 94.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1792609822
+        "lastLogin": 1792614243
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1790,14 +1804,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1490,
-        "wpm": 96,
+        "allTimeRaces": 1501,
+        "wpm": 109,
         "highestWPM": 121,
-        "teamRaces": 1039,
-        "acc": 96.29,
+        "teamRaces": 1048,
+        "acc": 96.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792551929
+        "lastLogin": 1792615815
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1825,7 +1839,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792586103
+        "lastLogin": 1792616247
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -2012,20 +2026,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119545,
+        "races": 119566,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 925,
-        "avgWPM": 77,
-        "avgAcc": 93.24,
+        "races": 911,
+        "avgWPM": 76,
+        "avgAcc": 93.38,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792614057157
+    "_syncedAt": 1792616472998
   }
 }

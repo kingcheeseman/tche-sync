@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 99,
+      "avgWPM": 92,
       "topWPM": 123,
-      "lifetimeRaces": 4783,
-      "teamRaces": 2350,
+      "lifetimeRaces": 4800,
+      "teamRaces": 2372,
       "joined": "06/10/26"
     },
     {
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 91,
       "topWPM": 119,
-      "lifetimeRaces": 1342,
-      "teamRaces": 995,
+      "lifetimeRaces": 1346,
+      "teamRaces": 999,
       "joined": "08/31/26"
     },
     {
@@ -598,7 +598,7 @@
       "displayName": "Joe and Uh",
       "nickname": "Epic Nitro User",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 88,
       "topWPM": 109,
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792613800538
+  "_syncedAt": 1792616221642
 }
