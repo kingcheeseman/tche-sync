@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20177,
-      "wpm": 88,
+      "allTimeRaces": 20182,
+      "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 2534,
+      "teamRaces": 2543,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -97,11 +97,11 @@
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20571,
-      "wpm": 71,
+      "allTimeRaces": 20595,
+      "wpm": 80,
       "highestWPM": 127,
-      "teamRaces": 217,
-      "acc": 94,
+      "teamRaces": 241,
+      "acc": 94.05,
       "season": null,
       "status": "active",
       "lastLogin": 1792597231
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55844,
+      "races": 55877,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 45
     },
     "daily": {
-      "races": 951,
+      "races": 974,
       "avgWPM": 81,
-      "avgAcc": 94.45,
+      "avgAcc": 94.46,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792597347667
+  "_syncedAt": 1792599280885
 }

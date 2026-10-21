@@ -30,8 +30,8 @@
       "tier": "A",
       "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20169,
-      "teamRaces": 2523,
+      "lifetimeRaces": 20182,
+      "teamRaces": 2543,
       "joined": "06/24/26"
     },
     {
@@ -404,11 +404,11 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 73,
+      "tier": "B",
+      "avgWPM": 85,
       "topWPM": 127,
-      "lifetimeRaces": 20569,
-      "teamRaces": 217,
+      "lifetimeRaces": 20590,
+      "teamRaces": 237,
       "joined": "10/07/26"
     },
     {
@@ -460,7 +460,7 @@
       "avgWPM": 115,
       "topWPM": 129,
       "lifetimeRaces": 1272,
-      "teamRaces": 133,
+      "teamRaces": 136,
       "joined": "10/13/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792597402364
+  "_syncedAt": 1792599335680
 }
