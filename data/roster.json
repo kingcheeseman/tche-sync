@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 97,
       "topWPM": 123,
-      "lifetimeRaces": 4800,
-      "teamRaces": 2372,
+      "lifetimeRaces": 4813,
+      "teamRaces": 2387,
       "joined": "06/10/26"
     },
     {
@@ -277,8 +277,8 @@
       "tier": "C",
       "avgWPM": 71,
       "topWPM": 124,
-      "lifetimeRaces": 2864,
-      "teamRaces": 3285,
+      "lifetimeRaces": 2883,
+      "teamRaces": 3310,
       "joined": "09/26/26"
     },
     {
@@ -548,10 +548,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 84,
+      "avgWPM": 85,
       "topWPM": 100,
-      "lifetimeRaces": 1361,
-      "teamRaces": 12,
+      "lifetimeRaces": 1369,
+      "teamRaces": 19,
       "joined": "10/19/26"
     },
     {
@@ -605,8 +605,21 @@
       "lifetimeRaces": 1185,
       "teamRaces": 0,
       "joined": "10/21/26"
+    },
+    {
+      "username": "4dc1f8092f9f1af881693b2dbb4efed1",
+      "displayName": "_KYZEN_",
+      "nickname": "Oops!",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 70,
+      "topWPM": 89,
+      "lifetimeRaces": 1816,
+      "teamRaces": 0,
+      "joined": "10/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792616221642
+  "_syncedAt": 1792617547319
 }

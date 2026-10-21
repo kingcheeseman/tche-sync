@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 9
-    },
-    {
       "hour": "2026-10-20 21:00:00",
       "racer": "-HyperTyper-",
-      "races": 42
+      "races": 28
     },
     {
       "hour": "2026-10-20 21:00:00",
@@ -23,12 +18,7 @@
     {
       "hour": "2026-10-20 21:00:00",
       "racer": "The Big Yahu",
-      "races": 7
-    },
-    {
-      "hour": "2026-10-20 21:00:00",
-      "racer": "StefanO",
-      "races": 3
+      "races": 2
     },
     {
       "hour": "2026-10-20 21:00:00",
@@ -288,7 +278,12 @@
     {
       "hour": "2026-10-21 20:00:00",
       "racer": "Void Racer",
-      "races": 31
+      "races": 34
+    },
+    {
+      "hour": "2026-10-21 20:00:00",
+      "racer": "-HyperTyper-",
+      "races": 7
     },
     {
       "hour": "2026-10-21 20:00:00",
@@ -297,10 +292,35 @@
     },
     {
       "hour": "2026-10-21 20:00:00",
+      "racer": "RationalGoldApe",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-21 20:00:00",
       "racer": "sterling757",
       "races": 1
+    },
+    {
+      "hour": "2026-10-21 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 18
+    },
+    {
+      "hour": "2026-10-21 21:00:00",
+      "racer": "Void Racer",
+      "races": 12
+    },
+    {
+      "hour": "2026-10-21 21:00:00",
+      "racer": "RationalGoldApe",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-21 21:00:00",
+      "racer": "_KYZEN_",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792616221643
+  "_syncedAt": 1792617547321
 }

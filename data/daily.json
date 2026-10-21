@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 72,
+      "rank": 73,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 185,
@@ -9,6 +9,16 @@
       "wpm": 86.8,
       "points": 25697,
       "ppr": 139
+    },
+    {
+      "rank": 108,
+      "username": "taylorja32",
+      "displayName": "Void Racer",
+      "races": 125,
+      "accuracy": 92.7,
+      "wpm": 95.8,
+      "points": 17140,
+      "ppr": 137
     },
     {
       "rank": 126,
@@ -21,17 +31,7 @@
       "ppr": 139
     },
     {
-      "rank": 130,
-      "username": "taylorja32",
-      "displayName": "Void Racer",
-      "races": 110,
-      "accuracy": 92.71,
-      "wpm": 95.9,
-      "points": 15087,
-      "ppr": 137
-    },
-    {
-      "rank": 170,
+      "rank": 172,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 91,
@@ -41,7 +41,7 @@
       "ppr": 138
     },
     {
-      "rank": 224,
+      "rank": 226,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "races": 73,
@@ -51,7 +51,7 @@
       "ppr": 138
     },
     {
-      "rank": 232,
+      "rank": 233,
       "username": "cash4087",
       "displayName": "WindMaker",
       "races": 68,
@@ -61,7 +61,7 @@
       "ppr": 144
     },
     {
-      "rank": 280,
+      "rank": 279,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 87,
@@ -81,17 +81,17 @@
       "ppr": 130
     },
     {
-      "rank": 482,
+      "rank": 527,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
-      "races": 34,
-      "accuracy": 94.18,
-      "wpm": 79,
-      "points": 4467,
-      "ppr": 131
+      "races": 29,
+      "accuracy": 94.21,
+      "wpm": 81.3,
+      "points": 3844,
+      "ppr": 133
     },
     {
-      "rank": 578,
+      "rank": 576,
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "races": 22,
@@ -121,7 +121,7 @@
       "ppr": 113
     },
     {
-      "rank": 774,
+      "rank": 777,
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
       "displayName": "The Queen",
       "races": 15,
@@ -131,7 +131,7 @@
       "ppr": 137
     },
     {
-      "rank": 858,
+      "rank": 856,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "disgratedboy191",
       "races": 12,
@@ -141,7 +141,7 @@
       "ppr": 130
     },
     {
-      "rank": 878,
+      "rank": 880,
       "username": "33e83773380949c7f2fd34d850d93d34",
       "displayName": "KippKat",
       "races": 11,
@@ -161,7 +161,7 @@
       "ppr": 140
     },
     {
-      "rank": 962,
+      "rank": 964,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 8,
@@ -171,7 +171,7 @@
       "ppr": 131
     },
     {
-      "rank": 967,
+      "rank": 969,
       "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
       "displayName": "reteyrhyj",
       "races": 8,
@@ -181,7 +181,17 @@
       "ppr": 128
     },
     {
-      "rank": 1135,
+      "rank": 983,
+      "username": "10712a0152fd25105448b6ef1298504b",
+      "displayName": "RationalGoldApe",
+      "races": 7,
+      "accuracy": 97.05,
+      "wpm": 86.4,
+      "points": 973,
+      "ppr": 139
+    },
+    {
+      "rank": 1141,
       "username": "sterling757",
       "displayName": "sterling757",
       "races": 3,
@@ -191,17 +201,7 @@
       "ppr": 140
     },
     {
-      "rank": 1155,
-      "username": "1ea0b919208e21b376a29ac0befb794c",
-      "displayName": "StefanO",
-      "races": 3,
-      "accuracy": 93.04,
-      "wpm": 63.1,
-      "points": 367,
-      "ppr": 122
-    },
-    {
-      "rank": 1180,
+      "rank": 1184,
       "username": "470256",
       "displayName": "Torque_Demon",
       "races": 2,
@@ -211,7 +211,7 @@
       "ppr": 141
     },
     {
-      "rank": 1244,
+      "rank": 1248,
       "username": "crxy99",
       "displayName": "Amaterasu",
       "races": 1,
@@ -221,5 +221,5 @@
       "ppr": 140
     }
   ],
-  "_syncedAt": 1792616217909
+  "_syncedAt": 1792617543987
 }

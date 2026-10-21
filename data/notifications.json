@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:4dc1f8092f9f1af881693b2dbb4efed1",
+      "type": "new-member",
+      "text": "_KYZEN_ joined the team.",
+      "meta": {
+        "username": "4dc1f8092f9f1af881693b2dbb4efed1"
+      },
+      "createdAt": 1792617584650
+    },
+    {
       "key": "new-member:7e2ebd57815c8b20f963c1e4b569628c",
       "type": "new-member",
       "text": "Joe and Uh joined the team.",
@@ -239,5 +248,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792616260544
+  "_syncedAt": 1792617584650
 }
