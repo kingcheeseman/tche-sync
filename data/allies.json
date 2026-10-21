@@ -350,14 +350,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13874,
-        "wpm": 84,
+        "allTimeRaces": 13878,
+        "wpm": 83,
         "highestWPM": 111,
-        "teamRaces": 11666,
+        "teamRaces": 11669,
         "acc": 93.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1792603266
+        "lastLogin": 1792622269
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -406,11 +406,11 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2517,
-        "wpm": 67,
+        "allTimeRaces": 2530,
+        "wpm": 55,
         "highestWPM": 83,
-        "teamRaces": 26,
-        "acc": 95.7,
+        "teamRaces": 46,
+        "acc": 95.72,
         "season": null,
         "status": "active",
         "lastLogin": 1792620846
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78070,
+        "races": 78093,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 432,
+        "races": 455,
         "avgWPM": 65,
-        "avgAcc": 92.24,
+        "avgAcc": 92.36,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792621199296
+    "_syncedAt": 1792623335232
   },
   "SVC": {
     "tag": "SVC",
@@ -1135,14 +1135,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3347,
-        "wpm": 68,
+        "allTimeRaces": 3351,
+        "wpm": 70,
         "highestWPM": 101,
-        "teamRaces": 70,
-        "acc": 91.38,
+        "teamRaces": 74,
+        "acc": 91.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1792520959
+        "lastLogin": 1792622695
       },
       {
         "username": "naussica",
@@ -1301,21 +1301,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40195,
+        "races": 40199,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 95,
-        "avgWPM": 86,
-        "avgAcc": 95.25,
+        "races": 99,
+        "avgWPM": 85,
+        "avgAcc": 95.16,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792621223685
+    "_syncedAt": 1792623354421
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792621242366
+    "_syncedAt": 1792623373170
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1496,10 +1496,10 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 2923,
-        "wpm": 64,
+        "allTimeRaces": 2925,
+        "wpm": 65,
         "highestWPM": 80,
-        "teamRaces": 1214,
+        "teamRaces": 1219,
         "acc": 96.45,
         "season": null,
         "status": "active",
@@ -1804,11 +1804,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3453,
-        "wpm": 42,
+        "allTimeRaces": 3455,
+        "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1911,
-        "acc": 92.16,
+        "teamRaces": 1917,
+        "acc": 92.15,
         "season": null,
         "status": "active",
         "lastLogin": 1792617502
@@ -1937,7 +1937,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792611811
+        "lastLogin": 1792622116
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -2012,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119680,
+        "races": 119691,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 1009,
+        "races": 992,
         "avgWPM": 75,
-        "avgAcc": 93.57,
+        "avgAcc": 93.54,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792621416099
+    "_syncedAt": 1792623542573
   }
 }
