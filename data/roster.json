@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 93,
       "topWPM": 119,
-      "lifetimeRaces": 1307,
-      "teamRaces": 960,
+      "lifetimeRaces": 1317,
+      "teamRaces": 967,
       "joined": "08/31/26"
     },
     {
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Not So Koi",
+      "nickname": "Olde School",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 61,
+      "avgWPM": 60,
       "topWPM": 82,
-      "lifetimeRaces": 9205,
-      "teamRaces": 1160,
+      "lifetimeRaces": 9211,
+      "teamRaces": 1166,
       "joined": "09/09/26"
     },
     {
@@ -353,10 +353,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 83,
+      "avgWPM": 85,
       "topWPM": 100,
-      "lifetimeRaces": 1435,
-      "teamRaces": 19,
+      "lifetimeRaces": 1439,
+      "teamRaces": 23,
       "joined": "10/06/26"
     },
     {
@@ -524,8 +524,8 @@
       "tier": "A",
       "avgWPM": 97,
       "topWPM": 120,
-      "lifetimeRaces": 3805,
-      "teamRaces": 153,
+      "lifetimeRaces": 3837,
+      "teamRaces": 188,
       "joined": "10/16/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792608224895
+  "_syncedAt": 1792610334980
 }

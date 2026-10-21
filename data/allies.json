@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2923,
+    "profileViews": 2924,
     "leagueTier": 11,
     "racers": [
       {
@@ -28,11 +28,11 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2762,
-        "wpm": 67,
+        "allTimeRaces": 2776,
+        "wpm": 65,
         "highestWPM": 88,
-        "teamRaces": 380,
-        "acc": 91.42,
+        "teamRaces": 399,
+        "acc": 91.38,
         "season": null,
         "status": "active",
         "lastLogin": 1792607572
@@ -462,28 +462,28 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5052,
-        "wpm": 81,
+        "allTimeRaces": 5061,
+        "wpm": 69,
         "highestWPM": 112,
-        "teamRaces": 616,
-        "acc": 94.9,
+        "teamRaces": 620,
+        "acc": 94.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1792606285
+        "lastLogin": 1792609029
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1440,
-        "wpm": 60,
+        "allTimeRaces": 1443,
+        "wpm": 59,
         "highestWPM": 78,
         "teamRaces": 111,
         "acc": 92.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1792310285
+        "lastLogin": 1792609887
       },
       {
         "username": "watermelonsupreme",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 77942,
+        "races": 77965,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 413,
+        "races": 425,
         "avgWPM": 66,
-        "avgAcc": 92.66,
+        "avgAcc": 92.6,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792608246264
+    "_syncedAt": 1792610357309
   },
   "SVC": {
     "tag": "SVC",
@@ -715,14 +715,14 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1804,
-        "wpm": 85,
+        "allTimeRaces": 1805,
+        "wpm": 87,
         "highestWPM": 114,
         "teamRaces": 412,
         "acc": 94.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1792597275
+        "lastLogin": 1792610305
       },
       {
         "username": "longeater",
@@ -1293,15 +1293,15 @@
         "members": 46
       },
       "daily": {
-        "races": 98,
+        "races": 91,
         "avgWPM": 76,
-        "avgAcc": 93.48,
+        "avgAcc": 93.61,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792608265041
+    "_syncedAt": 1792610376301
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1339,7 +1339,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792608283887
+    "_syncedAt": 1792610395110
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1348,7 +1348,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4309,
+    "profileViews": 4311,
     "leagueTier": 11,
     "racers": [
       {
@@ -1650,25 +1650,25 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792505481,
-        "allTimeRaces": 7761,
-        "wpm": 61,
+        "allTimeRaces": 7778,
+        "wpm": 63,
         "highestWPM": 75,
-        "teamRaces": 83,
-        "acc": 94.44,
+        "teamRaces": 96,
+        "acc": 94.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1792605300
+        "lastLogin": 1792609822
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2359,
-        "wpm": 45,
+        "allTimeRaces": 2379,
+        "wpm": 47,
         "highestWPM": 85,
-        "teamRaces": 932,
-        "acc": 89.72,
+        "teamRaces": 961,
+        "acc": 89.74,
         "season": null,
         "status": "active",
         "lastLogin": 1792604817
@@ -1790,10 +1790,10 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14167,
-        "wpm": 81,
+        "allTimeRaces": 14176,
+        "wpm": 79,
         "highestWPM": 100,
-        "teamRaces": 872,
+        "teamRaces": 887,
         "acc": 95.95,
         "season": null,
         "status": "active",
@@ -2021,25 +2021,25 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1792589005
+        "lastLogin": 1792609542
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 119423,
+        "races": 119480,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 849,
-        "avgWPM": 77,
-        "avgAcc": 93.4,
+        "races": 894,
+        "avgWPM": 76,
+        "avgAcc": 93.38,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792608453239
+    "_syncedAt": 1792610564478
   }
 }
