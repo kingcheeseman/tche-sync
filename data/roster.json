@@ -443,11 +443,11 @@
       "nickname": "Yo",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "A",
-      "avgWPM": 111,
+      "tier": "C",
+      "avgWPM": 53,
       "topWPM": 129,
-      "lifetimeRaces": 18317,
-      "teamRaces": 550,
+      "lifetimeRaces": 18331,
+      "teamRaces": 556,
       "joined": "10/13/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792552868677
+  "_syncedAt": 1792555172239
 }

@@ -558,7 +558,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792552890601
+    "_syncedAt": 1792555194564
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792552909781
+    "_syncedAt": 1792555217210
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792552928684
+    "_syncedAt": 1792555236109
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4295,
+    "profileViews": 4297,
     "leagueTier": 11,
     "racers": [
       {
@@ -1552,14 +1552,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8538,
-        "wpm": 72,
+        "allTimeRaces": 8559,
+        "wpm": 63,
         "highestWPM": 95,
-        "teamRaces": 991,
-        "acc": 97.37,
+        "teamRaces": 1011,
+        "acc": 97.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792466952
+        "lastLogin": 1792553967
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1734,11 +1734,11 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1465,
-        "wpm": 98,
+        "allTimeRaces": 1490,
+        "wpm": 96,
         "highestWPM": 121,
-        "teamRaces": 1007,
-        "acc": 96.33,
+        "teamRaces": 1039,
+        "acc": 96.29,
         "season": null,
         "status": "active",
         "lastLogin": 1792551929
@@ -1825,7 +1825,7 @@
         "acc": 94.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1792471048
+        "lastLogin": 1792554541
       },
       {
         "username": "nev444ehh",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118940,
+        "races": 118992,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 709,
-        "avgWPM": 76,
-        "avgAcc": 93.46,
+        "races": 746,
+        "avgWPM": 77,
+        "avgAcc": 93.55,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792553098166
+    "_syncedAt": 1792555405531
   }
 }
