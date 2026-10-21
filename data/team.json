@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20162,
-      "wpm": 91,
+      "allTimeRaces": 20177,
+      "wpm": 88,
       "highestWPM": 110,
-      "teamRaces": 2523,
+      "teamRaces": 2534,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792514501
+      "lastLogin": 1792596559
     },
     {
       "username": "jonathan711111",
@@ -97,14 +97,14 @@
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20569,
-      "wpm": 73,
+      "allTimeRaces": 20571,
+      "wpm": 71,
       "highestWPM": 127,
       "teamRaces": 217,
       "acc": 94,
       "season": null,
       "status": "active",
-      "lastLogin": 1792529310
+      "lastLogin": 1792597231
     },
     {
       "username": "mweid2",
@@ -321,14 +321,14 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1250,
-      "wpm": 101,
+      "allTimeRaces": 1272,
+      "wpm": 115,
       "highestWPM": 129,
-      "teamRaces": 114,
-      "acc": 96.56,
+      "teamRaces": 136,
+      "acc": 96.44,
       "season": null,
       "status": "active",
-      "lastLogin": 1792501096
+      "lastLogin": 1792595655
     },
     {
       "username": "wsoccerboy0929",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 55811,
+      "races": 55844,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 45
     },
     "daily": {
-      "races": 940,
-      "avgWPM": 80,
-      "avgAcc": 94.41,
+      "races": 951,
+      "avgWPM": 81,
+      "avgAcc": 94.45,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792595515595
+  "_syncedAt": 1792597347667
 }

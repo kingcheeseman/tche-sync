@@ -28,9 +28,9 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20162,
+      "lifetimeRaces": 20169,
       "teamRaces": 2523,
       "joined": "06/24/26"
     },
@@ -457,10 +457,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 101,
+      "avgWPM": 115,
       "topWPM": 129,
-      "lifetimeRaces": 1250,
-      "teamRaces": 114,
+      "lifetimeRaces": 1272,
+      "teamRaces": 133,
       "joined": "10/13/26"
     },
     {
@@ -485,8 +485,8 @@
       "tier": "B",
       "avgWPM": 77,
       "topWPM": 111,
-      "lifetimeRaces": 5252,
-      "teamRaces": 217,
+      "lifetimeRaces": 5253,
+      "teamRaces": 224,
       "joined": "10/15/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792595575474
+  "_syncedAt": 1792597402364
 }
