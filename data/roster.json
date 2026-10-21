@@ -41,10 +41,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 72,
+      "avgWPM": 73,
       "topWPM": 96,
-      "lifetimeRaces": 971,
-      "teamRaces": 954,
+      "lifetimeRaces": 973,
+      "teamRaces": 960,
       "joined": "06/26/26"
     },
     {
@@ -522,9 +522,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 97,
       "topWPM": 120,
-      "lifetimeRaces": 3802,
+      "lifetimeRaces": 3805,
       "teamRaces": 153,
       "joined": "10/16/26"
     },
@@ -534,11 +534,11 @@
       "nickname": "Ghoul's Gold",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 82,
+      "tier": "A",
+      "avgWPM": 88,
       "topWPM": 120,
-      "lifetimeRaces": 1064,
-      "teamRaces": 2,
+      "lifetimeRaces": 1072,
+      "teamRaces": 10,
       "joined": "10/18/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792606264501
+  "_syncedAt": 1792608224895
 }
