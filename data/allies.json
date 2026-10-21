@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2911,
+    "profileViews": 2912,
     "leagueTier": 11,
     "racers": [
       {
@@ -231,7 +231,7 @@
         "acc": 95.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1792541118
+        "lastLogin": 1792579927
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -564,15 +564,15 @@
         "members": 39
       },
       "daily": {
-        "races": 407,
+        "races": 402,
         "avgWPM": 61,
-        "avgAcc": 93.2,
+        "avgAcc": 93.15,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792579348530
+    "_syncedAt": 1792581175774
   },
   "SVC": {
     "tag": "SVC",
@@ -1245,7 +1245,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792579367328
+    "_syncedAt": 1792581194764
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792579386154
+    "_syncedAt": 1792581213674
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1970,6 +1970,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792579555473
+    "_syncedAt": 1792581383285
   }
 }
