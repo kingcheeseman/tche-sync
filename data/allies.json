@@ -572,7 +572,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792571062607
+    "_syncedAt": 1792573370058
   },
   "SVC": {
     "tag": "SVC",
@@ -1245,7 +1245,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792571081479
+    "_syncedAt": 1792573389021
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792571100220
+    "_syncedAt": 1792573407808
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4298,
+    "profileViews": 4300,
     "leagueTier": 11,
     "racers": [
       {
@@ -1902,14 +1902,14 @@
         "displayName": "Lachlan676767676767",
         "role": "member",
         "joinStamp": 1792116747,
-        "allTimeRaces": 1213,
-        "wpm": 52,
+        "allTimeRaces": 1226,
+        "wpm": 54,
         "highestWPM": 86,
-        "teamRaces": 67,
-        "acc": 91.82,
+        "teamRaces": 80,
+        "acc": 92.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1792463555
+        "lastLogin": 1792571622
       },
       {
         "username": "500big",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 118993,
+        "races": 119006,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 730,
-        "avgWPM": 77,
+        "races": 743,
+        "avgWPM": 76,
         "avgAcc": 93.51,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792571269721
+    "_syncedAt": 1792573577284
   }
 }
