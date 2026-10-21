@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2926,
+    "profileViews": 2927,
     "leagueTier": 11,
     "racers": [
       {
@@ -336,14 +336,14 @@
         "displayName": "vertur",
         "role": "member",
         "joinStamp": 1792431116,
-        "allTimeRaces": 1383,
-        "wpm": 54,
+        "allTimeRaces": 1401,
+        "wpm": 55,
         "highestWPM": 65,
-        "teamRaces": 72,
-        "acc": 93.02,
+        "teamRaces": 86,
+        "acc": 92.8,
         "season": null,
         "status": "active",
-        "lastLogin": 1792611128
+        "lastLogin": 1792623537
       },
       {
         "username": "cats_4_eva",
@@ -353,7 +353,7 @@
         "allTimeRaces": 13878,
         "wpm": 83,
         "highestWPM": 111,
-        "teamRaces": 11669,
+        "teamRaces": 11670,
         "acc": 93.24,
         "season": null,
         "status": "active",
@@ -525,7 +525,7 @@
         "acc": 93.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792614739
+        "lastLogin": 1792624525
       },
       {
         "username": "happygoluckygirl07",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78093,
+        "races": 78108,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 455,
+        "races": 470,
         "avgWPM": 65,
-        "avgAcc": 92.36,
+        "avgAcc": 92.34,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792623335232
+    "_syncedAt": 1792624544102
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792623354421
+    "_syncedAt": 1792624563510
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792623373170
+    "_syncedAt": 1792624583278
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1499,7 +1499,7 @@
         "allTimeRaces": 2925,
         "wpm": 65,
         "highestWPM": 80,
-        "teamRaces": 1219,
+        "teamRaces": 1220,
         "acc": 96.45,
         "season": null,
         "status": "active",
@@ -1643,7 +1643,7 @@
         "acc": 97.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1792553967
+        "lastLogin": 1792623687
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -2012,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119691,
+        "races": 119692,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 992,
-        "avgWPM": 75,
-        "avgAcc": 93.54,
+        "races": 975,
+        "avgWPM": 76,
+        "avgAcc": 93.51,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792623542573
+    "_syncedAt": 1792624752849
   }
 }
