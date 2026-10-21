@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 88,
       "topWPM": 110,
-      "lifetimeRaces": 4802,
-      "teamRaces": 614,
+      "lifetimeRaces": 4825,
+      "teamRaces": 637,
       "joined": "10/06/26"
     },
     {
@@ -431,10 +431,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 83,
+      "avgWPM": 84,
       "topWPM": 165,
-      "lifetimeRaces": 6629,
-      "teamRaces": 6,
+      "lifetimeRaces": 6630,
+      "teamRaces": 7,
       "joined": "10/09/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 79,
+      "avgWPM": 77,
       "topWPM": 102,
-      "lifetimeRaces": 6441,
-      "teamRaces": 407,
+      "lifetimeRaces": 6450,
+      "teamRaces": 425,
       "joined": "10/15/26"
     },
     {
@@ -524,8 +524,8 @@
       "tier": "A",
       "avgWPM": 100,
       "topWPM": 120,
-      "lifetimeRaces": 3778,
-      "teamRaces": 129,
+      "lifetimeRaces": 3785,
+      "teamRaces": 130,
       "joined": "10/16/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792602972251
+  "_syncedAt": 1792604627061
 }
