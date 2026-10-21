@@ -486,6 +486,19 @@
       {
         "rank": 38,
         "tag": "KEYCAT",
+        "username": "that guy",
+        "displayName": "that guy",
+        "nickname": "Champion Chaser",
+        "squad": null,
+        "races": 17,
+        "wpm": 57.2,
+        "accuracy": 92.38,
+        "points": 2020,
+        "tier": "B"
+      },
+      {
+        "rank": 39,
+        "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
         "nickname": "Pumpkin Peddler",
@@ -497,7 +510,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -510,7 +523,7 @@
         "tier": "B"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "THB0S",
         "username": "davidfast1234",
         "displayName": "davidfast1234",
@@ -523,7 +536,7 @@
         "tier": "A"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "tag": "SVC",
         "username": "NotFastEnough",
         "displayName": "NotFastEnough",
@@ -536,7 +549,7 @@
         "tier": "B"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -546,19 +559,6 @@
         "wpm": 66.8,
         "accuracy": 95.6,
         "points": 1658,
-        "tier": "B"
-      },
-      {
-        "rank": 43,
-        "tag": "KEYCAT",
-        "username": "that guy",
-        "displayName": "that guy",
-        "nickname": "Champion Chaser",
-        "squad": null,
-        "races": 14,
-        "wpm": 56.7,
-        "accuracy": 92.18,
-        "points": 1656,
         "tier": "B"
       },
       {
@@ -900,6 +900,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792575618404
+    "_syncedAt": 1792577614754
   }
 }
