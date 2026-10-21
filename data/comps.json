@@ -73,6 +73,14 @@
       "end": "12/03/2026, 08:00 PM"
     },
     {
+      "id": "1408",
+      "status": "Pending",
+      "title": "Thanksgiving Event ⭐",
+      "desc": "Celebrate Thanksgiving on the track with our holiday Nitro Type event! Join the community to showcase your speed and compete for top rewards, featuring 1,000,000 NT Cash for first place, 500,000 NT Cash for second place, and 100,000 NT Cash for third place. Sharpen your typing skills, claim your spot on the podium, and celebrate with a victory!",
+      "start": "11/25/2026, 03:30 PM",
+      "end": "11/27/2026, 08:00 PM"
+    },
+    {
       "id": "1347",
       "status": "Pending",
       "title": "IMT Ally Celebration Tournament - Championship",
@@ -162,5 +170,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792624468197
+  "_syncedAt": 1792626055380
 }

@@ -339,8 +339,8 @@
         "allTimeRaces": 1401,
         "wpm": 55,
         "highestWPM": 65,
-        "teamRaces": 86,
-        "acc": 92.8,
+        "teamRaces": 90,
+        "acc": 92.68,
         "season": null,
         "status": "active",
         "lastLogin": 1792623537
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78108,
+        "races": 78112,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 470,
+        "races": 456,
         "avgWPM": 65,
-        "avgAcc": 92.34,
+        "avgAcc": 92.26,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792624544102
+    "_syncedAt": 1792626128188
   },
   "SVC": {
     "tag": "SVC",
@@ -1135,14 +1135,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3351,
+        "allTimeRaces": 3353,
         "wpm": 70,
         "highestWPM": 101,
-        "teamRaces": 74,
-        "acc": 91.46,
+        "teamRaces": 76,
+        "acc": 91.5,
         "season": null,
         "status": "active",
-        "lastLogin": 1792622695
+        "lastLogin": 1792625426
       },
       {
         "username": "naussica",
@@ -1301,32 +1301,46 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40199,
+        "races": 40201,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 99,
-        "avgWPM": 85,
-        "avgAcc": 95.16,
+        "races": 101,
+        "avgWPM": 84,
+        "avgAcc": 95.12,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792624563510
+    "_syncedAt": 1792626147371
   },
   "IMTR": {
     "tag": "IMTR",
     "name": "IMT Retired Racers",
-    "members": 1,
+    "members": 2,
     "activePercent": 0,
     "createdStamp": 1791146859,
-    "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, RTQ & THBOS",
+    "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
     "profileViews": 14,
     "leagueTier": 2,
     "racers": [
+      {
+        "username": "king_cheeseman",
+        "displayName": "PracticalTealBug",
+        "role": "officer",
+        "joinStamp": 1792624586,
+        "allTimeRaces": 16151,
+        "wpm": 85,
+        "highestWPM": 118,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792624556
+      },
       {
         "username": "the_only_winner123",
         "displayName": "the_only_winner123",
@@ -1339,7 +1353,7 @@
         "acc": 93.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792084609
+        "lastLogin": 1792624604
       }
     ],
     "aggregates": {
@@ -1347,13 +1361,13 @@
         "races": 9,
         "avgWPM": 97,
         "avgAcc": 93.49,
-        "members": 1
+        "members": 2
       },
       "daily": null,
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792624583278
+    "_syncedAt": 1792626166204
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1475,7 +1489,7 @@
         "acc": 93.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792618429
+        "lastLogin": 1792626255
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -2018,14 +2032,14 @@
         "members": 46
       },
       "daily": {
-        "races": 975,
+        "races": 956,
         "avgWPM": 76,
-        "avgAcc": 93.51,
+        "avgAcc": 93.48,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792624752849
+    "_syncedAt": 1792626335707
   }
 }

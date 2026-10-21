@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 95,
       "topWPM": 123,
-      "lifetimeRaces": 4813,
-      "teamRaces": 2388,
+      "lifetimeRaces": 4815,
+      "teamRaces": 2390,
       "joined": "06/10/26"
     },
     {
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Rookie Racer",
+      "nickname": "(Has a good gaming chair)",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 60,
+      "avgWPM": 65,
       "topWPM": 82,
-      "lifetimeRaces": 9218,
-      "teamRaces": 1173,
+      "lifetimeRaces": 9228,
+      "teamRaces": 1183,
       "joined": "09/09/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 87,
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 4828,
-      "teamRaces": 648,
+      "lifetimeRaces": 4847,
+      "teamRaces": 660,
       "joined": "10/06/26"
     },
     {
@@ -379,10 +379,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 56,
+      "avgWPM": 52,
       "topWPM": 96,
-      "lifetimeRaces": 521,
-      "teamRaces": 273,
+      "lifetimeRaces": 545,
+      "teamRaces": 297,
       "joined": "10/07/26"
     },
     {
@@ -577,7 +577,7 @@
       "avgWPM": 75,
       "topWPM": 228,
       "lifetimeRaces": 1156,
-      "teamRaces": 17,
+      "teamRaces": 21,
       "joined": "10/20/26"
     },
     {
@@ -611,7 +611,7 @@
       "displayName": "_KYZEN_",
       "nickname": "Oops!",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 70,
       "topWPM": 89,
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792624500605
+  "_syncedAt": 1792626087060
 }
