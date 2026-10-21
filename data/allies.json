@@ -564,15 +564,15 @@
         "members": 39
       },
       "daily": {
-        "races": 410,
+        "races": 407,
         "avgWPM": 61,
-        "avgAcc": 93.21,
+        "avgAcc": 93.2,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792577615073
+    "_syncedAt": 1792579348530
   },
   "SVC": {
     "tag": "SVC",
@@ -1245,7 +1245,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792577634566
+    "_syncedAt": 1792579367328
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792577653300
+    "_syncedAt": 1792579386154
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4301,
+    "profileViews": 4302,
     "leagueTier": 11,
     "racers": [
       {
@@ -1970,6 +1970,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792577822784
+    "_syncedAt": 1792579555473
   }
 }
