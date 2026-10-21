@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-20 03:00:00",
-      "racer": "rorok09",
-      "races": 15
-    },
-    {
       "hour": "2026-10-20 04:00:00",
       "racer": "rorok09",
-      "races": 86
+      "races": 60
     },
     {
       "hour": "2026-10-20 05:00:00",
@@ -273,9 +268,9 @@
     {
       "hour": "2026-10-21 03:00:00",
       "racer": "Ep_1K PFP VIEWS_Ep",
-      "races": 6
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792555172240
+  "_syncedAt": 1792556696056
 }

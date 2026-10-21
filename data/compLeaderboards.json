@@ -342,6 +342,19 @@
       },
       {
         "rank": 27,
+        "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 21,
+        "wpm": 61.7,
+        "accuracy": 96.48,
+        "points": 2652,
+        "tier": "B"
+      },
+      {
+        "rank": 28,
         "tag": "KEYCAT",
         "username": "macawgamer88yt",
         "displayName": "macawgamer88yt",
@@ -354,7 +367,7 @@
         "tier": "C"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -367,7 +380,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "Patrick Jane",
         "displayName": "Patrick Jane",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "GOATFLOAT",
         "displayName": "GOATFLOAT",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -406,7 +419,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "KEYCAT",
         "username": "TheDoctor225181",
         "displayName": "TheDoctor225181",
@@ -419,7 +432,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
@@ -432,7 +445,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "IMT",
         "username": "reteyrhyj",
         "displayName": "reteyrhyj",
@@ -445,7 +458,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -458,7 +471,7 @@
         "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -471,7 +484,7 @@
         "tier": "B"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -484,7 +497,7 @@
         "tier": "B"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "THB0S",
         "username": "davidfast1234",
         "displayName": "davidfast1234",
@@ -495,19 +508,6 @@
         "accuracy": 99.27,
         "points": 1818,
         "tier": "A"
-      },
-      {
-        "rank": 39,
-        "tag": "THB0S",
-        "username": "Speedster-1",
-        "displayName": "Speedster-1",
-        "nickname": "Pro Gamer Move",
-        "squad": null,
-        "races": 14,
-        "wpm": 60.8,
-        "accuracy": 96.33,
-        "points": 1759,
-        "tier": "B"
       },
       {
         "rank": 40,
@@ -861,6 +861,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792555194407
+    "_syncedAt": 1792556717205
   }
 }
