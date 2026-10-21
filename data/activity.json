@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-19 23:00:00",
-      "racer": "insta _trewatkins",
-      "races": 37
-    },
-    {
-      "hour": "2026-10-19 23:00:00",
-      "racer": "me_likey_typey",
-      "races": 13
-    },
-    {
       "hour": "2026-10-20 00:00:00",
       "racer": "-HyperTyper-",
       "races": 51
@@ -283,9 +273,9 @@
     {
       "hour": "2026-10-20 23:00:00",
       "racer": "me_likey_typey",
-      "races": 16
+      "races": 31
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792539307642
+  "_syncedAt": 1792540917171
 }
