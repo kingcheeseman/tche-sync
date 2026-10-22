@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 11:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 14
-    },
-    {
       "hour": "2026-10-21 12:00:00",
       "racer": "Nathan",
       "races": 58
@@ -22,12 +17,12 @@
     },
     {
       "hour": "2026-10-21 12:00:00",
-      "racer": "Namedisplayed",
+      "racer": "disgratedboy191",
       "races": 2
     },
     {
       "hour": "2026-10-21 12:00:00",
-      "racer": "disgratedboy191",
+      "racer": "Namedisplayed",
       "races": 2
     },
     {
@@ -77,12 +72,12 @@
     },
     {
       "hour": "2026-10-21 15:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "The Big Yahu",
       "races": 20
     },
     {
       "hour": "2026-10-21 15:00:00",
-      "racer": "The Big Yahu",
+      "racer": "PootsyWafflebiscuits",
       "races": 20
     },
     {
@@ -142,12 +137,12 @@
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "me_likey_typey",
+      "racer": "KippKat",
       "races": 6
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "KippKat",
+      "racer": "me_likey_typey",
       "races": 6
     },
     {
@@ -294,8 +289,13 @@
       "hour": "2026-10-22 06:00:00",
       "racer": "Ep_1K PFP VIEWS_Ep",
       "races": 23
+    },
+    {
+      "hour": "2026-10-22 11:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 21
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792668338228
+  "_syncedAt": 1792670565533
 }

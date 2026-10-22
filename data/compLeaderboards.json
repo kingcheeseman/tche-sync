@@ -134,6 +134,19 @@
       },
       {
         "rank": 11,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Side Hustler 100",
+        "races": 107,
+        "wpm": 47.3,
+        "accuracy": 92.62,
+        "points": 12253,
+        "tier": "C"
+      },
+      {
+        "rank": 12,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -146,7 +159,7 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "THB0S",
         "username": "SUPER_PIGGLE",
         "displayName": "SUPER_PIGGLE",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -172,7 +185,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
@@ -185,7 +198,7 @@
         "tier": "C"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -196,19 +209,6 @@
         "accuracy": 87.8,
         "points": 10118,
         "tier": "A"
-      },
-      {
-        "rank": 16,
-        "tag": "IMT",
-        "username": "I_Am_So_Cheesy",
-        "displayName": "I_Am_So_Cheesy",
-        "nickname": "Spring Speedster",
-        "squad": "Side Hustler 100",
-        "races": 86,
-        "wpm": 47.5,
-        "accuracy": 92.07,
-        "points": 9798,
-        "tier": "C"
       },
       {
         "rank": 17,
@@ -264,6 +264,19 @@
       },
       {
         "rank": 21,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 73,
+        "wpm": 40.5,
+        "accuracy": 90.24,
+        "points": 7921,
+        "tier": "C"
+      },
+      {
+        "rank": 22,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -276,7 +289,7 @@
         "tier": "B"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -287,19 +300,6 @@
         "accuracy": 97.57,
         "points": 7510,
         "tier": "A"
-      },
-      {
-        "rank": 23,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 64,
-        "wpm": 40.7,
-        "accuracy": 90.64,
-        "points": 6980,
-        "tier": "C"
       },
       {
         "rank": 24,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792668379826
+    "_syncedAt": 1792670607434
   }
 }

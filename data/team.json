@@ -153,14 +153,14 @@
       "displayName": "LeoRuna",
       "role": "member",
       "joinStamp": 1783524162,
-      "allTimeRaces": 7960,
-      "wpm": 75,
+      "allTimeRaces": 7970,
+      "wpm": 74,
       "highestWPM": 107,
-      "teamRaces": 480,
-      "acc": 97.55,
+      "teamRaces": 488,
+      "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792427868
+      "lastLogin": 1792669905
     },
     {
       "username": "1ea0b919208e21b376a29ac0befb794c",
@@ -482,7 +482,7 @@
       "acc": 92.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792638380
+      "lastLogin": 1792668363
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 545,
-      "wpm": 52,
+      "allTimeRaces": 566,
+      "wpm": 48,
       "highestWPM": 96,
-      "teamRaces": 297,
-      "acc": 92.32,
+      "teamRaces": 318,
+      "acc": 92.5,
       "season": null,
       "status": "active",
       "lastLogin": 1792668165
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56470,
+      "races": 56499,
       "avgWPM": 76,
       "avgAcc": 95.02,
       "members": 46
     },
     "daily": {
-      "races": 876,
+      "races": 891,
       "avgWPM": 79,
-      "avgAcc": 94.53,
+      "avgAcc": 94.57,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792668278837
+  "_syncedAt": 1792670496857
 }

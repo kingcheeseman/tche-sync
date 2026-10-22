@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 44,
+    "members": 41,
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -50,20 +50,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792521365
-      },
-      {
-        "username": "abefbcaa697c6884c80e2331bdd1c6b1",
-        "displayName": "babykaron2",
-        "role": "member",
-        "joinStamp": 1792592838,
-        "allTimeRaces": 1487,
-        "wpm": 69,
-        "highestWPM": 69,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792592600
       },
       {
         "username": "adde0f9a93c81f15800f19720c04f793",
@@ -224,14 +210,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2208,
+        "allTimeRaces": 2209,
         "wpm": 66,
         "highestWPM": 94,
-        "teamRaces": 1163,
+        "teamRaces": 1164,
         "acc": 90.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792665018
+        "lastLogin": 1792669884
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -260,20 +246,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792248181
-      },
-      {
-        "username": "98a376beb20b07ad7f48ca35ff49405d",
-        "displayName": "Matrat2011",
-        "role": "member",
-        "joinStamp": 1792606520,
-        "allTimeRaces": 699,
-        "wpm": 53,
-        "highestWPM": 71,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792606394
       },
       {
         "username": "ahhh2014",
@@ -357,7 +329,7 @@
         "acc": 93.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1792622269
+        "lastLogin": 1792670540
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -428,20 +400,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792605748
-      },
-      {
-        "username": "5577b0210501436d295cedd9cb82c4ca",
-        "displayName": "XtraTurboBro",
-        "role": "member",
-        "joinStamp": 1792600036,
-        "allTimeRaces": 933,
-        "wpm": 26,
-        "highestWPM": 67,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792599497
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
@@ -628,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78185,
+        "races": 78186,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 44
+        "members": 41
       },
       "daily": {
-        "races": 489,
+        "races": 480,
         "avgWPM": 66,
-        "avgAcc": 92.53,
-        "members": 44
+        "avgAcc": 92.56,
+        "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792668380102
+    "_syncedAt": 1792670607902
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1273,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792668401384
+    "_syncedAt": 1792670627021
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1325,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792668420097
+    "_syncedAt": 1792670645982
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1376,7 +1334,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4329,
+    "profileViews": 4330,
     "leagueTier": 12,
     "racers": [
       {
@@ -1832,11 +1790,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3471,
-        "wpm": 43,
+        "allTimeRaces": 3480,
+        "wpm": 40,
         "highestWPM": 60,
-        "teamRaces": 1933,
-        "acc": 92.13,
+        "teamRaces": 1942,
+        "acc": 92.12,
         "season": null,
         "status": "active",
         "lastLogin": 1792666579
@@ -1853,7 +1811,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792632001
+        "lastLogin": 1792670718
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -2021,7 +1979,7 @@
         "acc": 91.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1792628035
+        "lastLogin": 1792670736
       },
       {
         "username": "malott12",
@@ -2040,20 +1998,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119800,
+        "races": 119809,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 794,
+        "races": 802,
         "avgWPM": 70,
-        "avgAcc": 93.66,
+        "avgAcc": 93.63,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792668589335
+    "_syncedAt": 1792670815486
   }
 }
