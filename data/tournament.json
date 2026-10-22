@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792692449636
+        "_syncedAt": 1792694999685
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1998,7 +1998,7 @@
               "players": [
                 {
                   "seed": "3",
-                  "racer": "Hot chocolate",
+                  "racer": "Hot Chocolate",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": null
                 }
@@ -2258,7 +2258,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 27811
+                  "score": 28501
                 }
               ],
               "winner": 1
@@ -2426,7 +2426,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 2764
+                  "score": 2916
                 },
                 {
                   "seed": "42",
@@ -2444,7 +2444,7 @@
               "players": [
                 {
                   "seed": "3",
-                  "racer": "Hot chocolate",
+                  "racer": "Hot Chocolate",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2470,7 +2470,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 15411
+                  "score": 17269
                 },
                 {
                   "seed": "19",
@@ -2478,10 +2478,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 13408
+                  "score": 17459
                 }
               ],
-              "winner": 0
+              "winner": 1
             },
             {
               "id": "Match 2315",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792692466360
+        "_syncedAt": 1792695017707
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792692466362
+  "_syncedAt": 1792695017710
 }

@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6905,
-      "wpm": 103,
+      "allTimeRaces": 6906,
+      "wpm": 105,
       "highestWPM": 132,
-      "teamRaces": 167,
-      "acc": 95.96,
+      "teamRaces": 168,
+      "acc": 95.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1792684837
+      "lastLogin": 1792693247
     },
     {
       "username": "vlambjr",
@@ -279,11 +279,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3839,
-      "wpm": 96,
+      "allTimeRaces": 3867,
+      "wpm": 94,
       "highestWPM": 120,
-      "teamRaces": 189,
-      "acc": 96.63,
+      "teamRaces": 217,
+      "acc": 96.65,
       "season": null,
       "status": "active",
       "lastLogin": 1792692271
@@ -321,11 +321,11 @@
       "displayName": "LedByHim",
       "role": "member",
       "joinStamp": 1792690569,
-      "allTimeRaces": 4102,
-      "wpm": 93,
+      "allTimeRaces": 4115,
+      "wpm": 98,
       "highestWPM": 110,
-      "teamRaces": 17,
-      "acc": 95.35,
+      "teamRaces": 36,
+      "acc": 95.88,
       "season": null,
       "status": "active",
       "lastLogin": 1792689506
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4886,
-      "wpm": 94,
+      "allTimeRaces": 4889,
+      "wpm": 95,
       "highestWPM": 127,
-      "teamRaces": 2459,
+      "teamRaces": 2464,
       "acc": 92.57,
       "season": null,
       "status": "active",
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 625,
-      "wpm": 54,
+      "allTimeRaces": 628,
+      "wpm": 50,
       "highestWPM": 108,
-      "teamRaces": 377,
-      "acc": 92.29,
+      "teamRaces": 380,
+      "acc": 92.26,
       "season": null,
       "status": "active",
       "lastLogin": 1792690692
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57040,
+      "races": 57096,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1038,
-      "avgWPM": 80,
-      "avgAcc": 94.81,
+      "races": 1070,
+      "avgWPM": 81,
+      "avgAcc": 94.86,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792692374883
+  "_syncedAt": 1792694924378
 }

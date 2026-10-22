@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 95,
       "topWPM": 127,
-      "lifetimeRaces": 4886,
-      "teamRaces": 2459,
+      "lifetimeRaces": 4889,
+      "teamRaces": 2464,
       "joined": "06/10/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 54,
+      "avgWPM": 50,
       "topWPM": 108,
-      "lifetimeRaces": 625,
-      "teamRaces": 377,
+      "lifetimeRaces": 628,
+      "teamRaces": 380,
       "joined": "10/07/26"
     },
     {
@@ -457,10 +457,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 105,
       "topWPM": 132,
-      "lifetimeRaces": 6905,
-      "teamRaces": 167,
+      "lifetimeRaces": 6906,
+      "teamRaces": 168,
       "joined": "10/14/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 94,
       "topWPM": 120,
-      "lifetimeRaces": 3839,
-      "teamRaces": 189,
+      "lifetimeRaces": 3867,
+      "teamRaces": 217,
       "joined": "10/16/26"
     },
     {
@@ -626,13 +626,13 @@
       "role": "member",
       "squad": null,
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 98,
       "topWPM": 110,
-      "lifetimeRaces": 4102,
-      "teamRaces": 17,
+      "lifetimeRaces": 4115,
+      "teamRaces": 36,
       "joined": "10/22/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792692429269
+  "_syncedAt": 1792694979263
 }
