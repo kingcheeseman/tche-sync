@@ -84,14 +84,14 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3977,
-        "wpm": 80,
+        "allTimeRaces": 3991,
+        "wpm": 83,
         "highestWPM": 97,
-        "teamRaces": 3176,
+        "teamRaces": 3190,
         "acc": 95.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792552003
+        "lastLogin": 1792638128
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78127,
+        "races": 78141,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 449,
-        "avgWPM": 65,
-        "avgAcc": 92.29,
+        "races": 462,
+        "avgWPM": 66,
+        "avgAcc": 92.39,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792638030009
+    "_syncedAt": 1792639365194
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792638049986
+    "_syncedAt": 1792639384030
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792638068701
+    "_syncedAt": 1792639403367
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1375,7 +1375,7 @@
     "members": 47,
     "activePercent": 97,
     "createdStamp": 1763145613,
-    "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
+    "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
     "profileViews": 4324,
     "leagueTier": 12,
     "racers": [
@@ -1552,11 +1552,11 @@
         "displayName": "longreux",
         "role": "member",
         "joinStamp": 1792637620,
-        "allTimeRaces": 1254,
-        "wpm": 87,
+        "allTimeRaces": 1263,
+        "wpm": 93,
         "highestWPM": 107,
-        "teamRaces": 130,
-        "acc": 95.72,
+        "teamRaces": 143,
+        "acc": 95.57,
         "season": null,
         "status": "active",
         "lastLogin": 1792637604
@@ -1706,14 +1706,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3061,
-        "wpm": 94,
+        "allTimeRaces": 3063,
+        "wpm": 93,
         "highestWPM": 109,
-        "teamRaces": 1100,
+        "teamRaces": 1102,
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792589703
+        "lastLogin": 1792638737
       },
       {
         "username": "b1ff71ca0563f007c521386dded6fe19",
@@ -1965,7 +1965,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792631797
+        "lastLogin": 1792639366
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119722,
+        "races": 119737,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 803,
+        "races": 797,
         "avgWPM": 72,
-        "avgAcc": 93.74,
+        "avgAcc": 93.68,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792638238167
+    "_syncedAt": 1792639572930
   }
 }

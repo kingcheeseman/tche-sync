@@ -243,10 +243,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 60,
-        "wpm": 88.2,
-        "accuracy": 95.31,
-        "points": 8240,
+        "races": 63,
+        "wpm": 88.5,
+        "accuracy": 95.29,
+        "points": 8659,
         "tier": "A"
       },
       {
@@ -524,6 +524,19 @@
       },
       {
         "rank": 41,
+        "tag": "KEYCAT",
+        "username": "TheDoctor225181",
+        "displayName": "TheDoctor225181",
+        "nickname": "Astronaut",
+        "squad": "Elite 3k :)",
+        "races": 25,
+        "wpm": 81.7,
+        "accuracy": 95.48,
+        "points": 3363,
+        "tier": "A"
+      },
+      {
+        "rank": 42,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -536,7 +549,7 @@
         "tier": "A"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "IMT",
         "username": "reteyrhyj",
         "displayName": "reteyrhyj",
@@ -549,7 +562,7 @@
         "tier": "B"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "tag": "KEYCAT",
         "username": "Barcelona",
         "displayName": "Barcelona",
@@ -562,7 +575,7 @@
         "tier": "C"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -575,7 +588,7 @@
         "tier": "C"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -588,7 +601,7 @@
         "tier": "A"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "tag": "IMT",
         "username": "KippKat",
         "displayName": "KippKat",
@@ -601,7 +614,7 @@
         "tier": "C"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "tag": "SVC",
         "username": "pantheon",
         "displayName": "pantheon",
@@ -614,7 +627,7 @@
         "tier": "A"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -627,7 +640,20 @@
         "tier": "B"
       },
       {
-        "rank": 49,
+        "rank": 50,
+        "tag": "THB0S",
+        "username": "longreux",
+        "displayName": "longreux",
+        "nickname": "Filthy Rich",
+        "squad": "Newbies!",
+        "races": 18,
+        "wpm": 88.8,
+        "accuracy": 93.28,
+        "points": 2424,
+        "tier": "A"
+      },
+      {
+        "rank": 51,
         "tag": "KEYCAT",
         "username": "macawgamer88yt",
         "displayName": "macawgamer88yt",
@@ -640,7 +666,7 @@
         "tier": "C"
       },
       {
-        "rank": 50,
+        "rank": 52,
         "tag": "KEYCAT",
         "username": "weak kingsley",
         "displayName": "weak kingsley",
@@ -653,7 +679,7 @@
         "tier": "B"
       },
       {
-        "rank": 51,
+        "rank": 53,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -666,7 +692,7 @@
         "tier": "C"
       },
       {
-        "rank": 52,
+        "rank": 54,
         "tag": "THB0S",
         "username": "The Ghost",
         "displayName": "The Ghost",
@@ -679,20 +705,7 @@
         "tier": "A"
       },
       {
-        "rank": 53,
-        "tag": "KEYCAT",
-        "username": "TheDoctor225181",
-        "displayName": "TheDoctor225181",
-        "nickname": "Astronaut",
-        "squad": "Elite 3k :)",
-        "races": 16,
-        "wpm": 82.4,
-        "accuracy": 95.28,
-        "points": 2153,
-        "tier": "A"
-      },
-      {
-        "rank": 54,
+        "rank": 55,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -705,7 +718,7 @@
         "tier": "A"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "tag": "KEYCAT",
         "username": "prismaticbeam",
         "displayName": "prismaticbeam",
@@ -718,7 +731,7 @@
         "tier": "A"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -731,7 +744,7 @@
         "tier": "B"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "KEYCAT",
         "username": "that guy",
         "displayName": "that guy",
@@ -744,7 +757,7 @@
         "tier": "B"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "tag": "THB0S",
         "username": "davidfast1234",
         "displayName": "davidfast1234",
@@ -757,7 +770,7 @@
         "tier": "A"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -770,7 +783,7 @@
         "tier": "B"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "tag": "SVC",
         "username": "NotFastEnough",
         "displayName": "NotFastEnough",
@@ -783,7 +796,7 @@
         "tier": "B"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -796,7 +809,7 @@
         "tier": "C"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "tag": "THB0S",
         "username": "ben the fem",
         "displayName": "ben the fem",
@@ -809,7 +822,7 @@
         "tier": "B"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "tag": "IMT",
         "username": "disgratedboy191",
         "displayName": "disgratedboy191",
@@ -822,7 +835,7 @@
         "tier": "C"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -835,7 +848,7 @@
         "tier": "B"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "tag": "THB0S",
         "username": "Lachlan676767676767",
         "displayName": "Lachlan676767676767",
@@ -848,7 +861,7 @@
         "tier": "C"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "tag": "THB0S",
         "username": "-Rocky-",
         "displayName": "-Rocky-",
@@ -861,7 +874,7 @@
         "tier": "B"
       },
       {
-        "rank": 67,
+        "rank": 68,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -874,7 +887,7 @@
         "tier": "B"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -887,7 +900,7 @@
         "tier": "B"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "tag": "IMT",
         "username": "12 loyal",
         "displayName": "12 loyal",
@@ -900,7 +913,7 @@
         "tier": "A"
       },
       {
-        "rank": 70,
+        "rank": 71,
         "tag": "THB0S",
         "username": "stew2k",
         "displayName": "stew2k",
@@ -913,7 +926,7 @@
         "tier": "B"
       },
       {
-        "rank": 71,
+        "rank": 72,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -926,7 +939,7 @@
         "tier": "A"
       },
       {
-        "rank": 72,
+        "rank": 73,
         "tag": "KEYCAT",
         "username": "ECLIPS - MARIO CART",
         "displayName": "ECLIPS - MARIO CART",
@@ -939,7 +952,7 @@
         "tier": "C"
       },
       {
-        "rank": 73,
+        "rank": 74,
         "tag": "KEYCAT",
         "username": "12345b",
         "displayName": "12345b",
@@ -952,7 +965,7 @@
         "tier": "B"
       },
       {
-        "rank": 74,
+        "rank": 75,
         "tag": "IMT",
         "username": "Bobby Junior",
         "displayName": "Bobby Junior",
@@ -965,7 +978,7 @@
         "tier": "C"
       },
       {
-        "rank": 75,
+        "rank": 76,
         "tag": "SVC",
         "username": "moooon",
         "displayName": "moooon",
@@ -978,7 +991,7 @@
         "tier": "B"
       },
       {
-        "rank": 76,
+        "rank": 77,
         "tag": "KEYCAT",
         "username": "expelliarmus",
         "displayName": "expelliarmus",
@@ -991,7 +1004,7 @@
         "tier": "B"
       },
       {
-        "rank": 77,
+        "rank": 78,
         "tag": "SVC",
         "username": "la balright",
         "displayName": "la balright",
@@ -1004,7 +1017,7 @@
         "tier": "C"
       },
       {
-        "rank": 78,
+        "rank": 79,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -1017,7 +1030,7 @@
         "tier": "C"
       },
       {
-        "rank": 79,
+        "rank": 80,
         "tag": "IMT",
         "username": "Torque_Demon",
         "displayName": "Torque_Demon",
@@ -1030,7 +1043,7 @@
         "tier": "A"
       },
       {
-        "rank": 80,
+        "rank": 81,
         "tag": "KEYCAT",
         "username": "Katseye",
         "displayName": "Katseye",
@@ -1043,7 +1056,7 @@
         "tier": "C"
       },
       {
-        "rank": 81,
+        "rank": 82,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -1056,7 +1069,7 @@
         "tier": "C"
       },
       {
-        "rank": 82,
+        "rank": 83,
         "tag": "SVC",
         "username": "LovelyJadeWombat",
         "displayName": "LovelyJadeWombat",
@@ -1069,7 +1082,7 @@
         "tier": "A"
       },
       {
-        "rank": 83,
+        "rank": 84,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -1082,7 +1095,7 @@
         "tier": "A"
       },
       {
-        "rank": 84,
+        "rank": 85,
         "tag": "THB0S",
         "username": "BRADYDARACER",
         "displayName": "BRADYDARACER",
@@ -1095,7 +1108,7 @@
         "tier": "A"
       },
       {
-        "rank": 85,
+        "rank": 86,
         "tag": "KEYCAT",
         "username": "IM A FOODIE",
         "displayName": "IM A FOODIE",
@@ -1108,7 +1121,7 @@
         "tier": "B"
       },
       {
-        "rank": 86,
+        "rank": 87,
         "tag": "KEYCAT",
         "username": "TerrificPurpleSalamander",
         "displayName": "TerrificPurpleSalamander",
@@ -1121,7 +1134,7 @@
         "tier": "B"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "tag": "IMT",
         "username": "Shane and Eury",
         "displayName": "Shane and Eury",
@@ -1134,7 +1147,7 @@
         "tier": "B"
       },
       {
-        "rank": 88,
+        "rank": 89,
         "tag": "IMT",
         "username": "Amaterasu",
         "displayName": "Amaterasu",
@@ -1147,7 +1160,7 @@
         "tier": "B"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "tag": "SVC",
         "username": "WhimsicalAmberDolphin",
         "displayName": "WhimsicalAmberDolphin",
@@ -1160,7 +1173,7 @@
         "tier": "C"
       },
       {
-        "rank": 90,
+        "rank": 91,
         "tag": "KEYCAT",
         "username": "How_Random",
         "displayName": "How_Random",
@@ -1173,7 +1186,7 @@
         "tier": "A"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -1186,7 +1199,7 @@
         "tier": "C"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "tag": "IMT",
         "username": "YellowBronzeCoral",
         "displayName": "YellowBronzeCoral",
@@ -1199,7 +1212,7 @@
         "tier": "B"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "tag": "THB0S",
         "username": "Luke B",
         "displayName": "Luke B",
@@ -1212,7 +1225,7 @@
         "tier": "C"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "tag": "SVC",
         "username": "Aiden2fast",
         "displayName": "Aiden2fast",
@@ -1225,7 +1238,7 @@
         "tier": "C"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "tag": "KEYCAT",
         "username": "babykaron2",
         "displayName": "babykaron2",
@@ -1238,7 +1251,7 @@
         "tier": "B"
       },
       {
-        "rank": 96,
+        "rank": 97,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -1251,7 +1264,7 @@
         "tier": "A"
       },
       {
-        "rank": 97,
+        "rank": 98,
         "tag": "KEYCAT",
         "username": "Matrat2011",
         "displayName": "Matrat2011",
@@ -1264,7 +1277,7 @@
         "tier": "B"
       },
       {
-        "rank": 98,
+        "rank": 99,
         "tag": "THB0S",
         "username": "Tanjiro Kamado",
         "displayName": "Tanjiro Kamado",
@@ -1277,7 +1290,7 @@
         "tier": "C"
       },
       {
-        "rank": 99,
+        "rank": 100,
         "tag": "KEYCAT",
         "username": "XtraTurboBro",
         "displayName": "XtraTurboBro",
@@ -1290,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792638029875
+    "_syncedAt": 1792639365038
   }
 }
