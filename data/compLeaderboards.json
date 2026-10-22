@@ -330,6 +330,19 @@
       {
         "rank": 26,
         "tag": "KEYCAT",
+        "username": "TheDoctor225181",
+        "displayName": "TheDoctor225181",
+        "nickname": "Astronaut",
+        "squad": "Elite 3k :)",
+        "races": 46,
+        "wpm": 80.8,
+        "accuracy": 95.17,
+        "points": 6147,
+        "tier": "A"
+      },
+      {
+        "rank": 27,
+        "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
         "nickname": "Nitro Drift",
@@ -339,19 +352,6 @@
         "accuracy": 94.98,
         "points": 5872,
         "tier": "B"
-      },
-      {
-        "rank": 27,
-        "tag": "KEYCAT",
-        "username": "TheDoctor225181",
-        "displayName": "TheDoctor225181",
-        "nickname": "Astronaut",
-        "squad": "Elite 3k :)",
-        "races": 43,
-        "wpm": 81.2,
-        "accuracy": 95.13,
-        "points": 5752,
-        "tier": "A"
       },
       {
         "rank": 28,
@@ -720,6 +720,19 @@
       {
         "rank": 56,
         "tag": "KEYCAT",
+        "username": "that guy",
+        "displayName": "that guy",
+        "nickname": "Champion Chaser",
+        "squad": "Starter!!",
+        "races": 18,
+        "wpm": 57.4,
+        "accuracy": 92.4,
+        "points": 2141,
+        "tier": "B"
+      },
+      {
+        "rank": 57,
+        "tag": "KEYCAT",
         "username": "prismaticbeam",
         "displayName": "prismaticbeam",
         "nickname": "Where's the remote?",
@@ -731,7 +744,7 @@
         "tier": "A"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -741,19 +754,6 @@
         "wpm": 85.6,
         "accuracy": 95.81,
         "points": 2052,
-        "tier": "B"
-      },
-      {
-        "rank": 58,
-        "tag": "KEYCAT",
-        "username": "that guy",
-        "displayName": "that guy",
-        "nickname": "Champion Chaser",
-        "squad": "Starter!!",
-        "races": 17,
-        "wpm": 57.2,
-        "accuracy": 92.38,
-        "points": 2020,
         "tier": "B"
       },
       {
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792656474253
+    "_syncedAt": 1792658799622
   }
 }
