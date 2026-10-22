@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2929,
+    "profileViews": 2931,
     "leagueTier": 12,
     "racers": [
       {
@@ -238,11 +238,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 841,
-        "wpm": 53,
+        "allTimeRaces": 856,
+        "wpm": 50,
         "highestWPM": 66,
-        "teamRaces": 34,
-        "acc": 95.16,
+        "teamRaces": 49,
+        "acc": 95.22,
         "season": null,
         "status": "active",
         "lastLogin": 1792630134
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78112,
+        "races": 78127,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 451,
+        "races": 466,
         "avgWPM": 65,
-        "avgAcc": 92.22,
+        "avgAcc": 92.3,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792630207380
+    "_syncedAt": 1792632404863
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792630226956
+    "_syncedAt": 1792632423896
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792630245797
+    "_syncedAt": 1792632442821
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1839,7 +1839,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792626930
+        "lastLogin": 1792632001
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1951,7 +1951,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792622116
+        "lastLogin": 1792631797
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1993,7 +1993,7 @@
         "acc": 93.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792627072
+        "lastLogin": 1792630774
       },
       {
         "username": "mediumrareribeye",
@@ -2032,14 +2032,14 @@
         "members": 46
       },
       "daily": {
-        "races": 950,
-        "avgWPM": 76,
-        "avgAcc": 93.47,
+        "races": 863,
+        "avgWPM": 74,
+        "avgAcc": 93.68,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792630415279
+    "_syncedAt": 1792632612443
   }
 }
