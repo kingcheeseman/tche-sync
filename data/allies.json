@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2927,
+    "profileViews": 2928,
     "leagueTier": 11,
     "racers": [
       {
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792626128188
+    "_syncedAt": 1792627426748
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792626147371
+    "_syncedAt": 1792627446052
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792626166204
+    "_syncedAt": 1792627464895
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1376,8 +1376,8 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 235M+ Cash & 15+ Gold Given | Weekly Cash Comp | Gold Comp | Active Daily=$$$ | Searching for grinders | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4318,
-    "leagueTier": 11,
+    "profileViews": 4319,
+    "leagueTier": 12,
     "racers": [
       {
         "username": "joepellicc_gold",
@@ -1482,10 +1482,10 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1598,
+        "allTimeRaces": 1599,
         "wpm": 60,
         "highestWPM": 87,
-        "teamRaces": 1292,
+        "teamRaces": 1293,
         "acc": 93.69,
         "season": null,
         "status": "active",
@@ -1825,7 +1825,7 @@
         "acc": 92.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1792617502
+        "lastLogin": 1792626404
       },
       {
         "username": "sara0010",
@@ -1839,7 +1839,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792616247
+        "lastLogin": 1792626930
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1993,7 +1993,7 @@
         "acc": 93.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792603628
+        "lastLogin": 1792627072
       },
       {
         "username": "mediumrareribeye",
@@ -2026,7 +2026,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119692,
+        "races": 119693,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
@@ -2040,6 +2040,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792626335707
+    "_syncedAt": 1792627634326
   }
 }

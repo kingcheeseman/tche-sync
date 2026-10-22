@@ -5,8 +5,8 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2019,
-  "leagueTier": 11,
+  "profileViews": 2020,
+  "leagueTier": 12,
   "racers": [
     {
       "username": "sidoh",
@@ -55,10 +55,10 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4850,
-      "wpm": 90,
+      "allTimeRaces": 4863,
+      "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 670,
+      "teamRaces": 683,
       "acc": 94.84,
       "season": null,
       "status": "active",
@@ -664,24 +664,24 @@
       "acc": 94.24,
       "season": null,
       "status": "active",
-      "lastLogin": 1792614400
+      "lastLogin": 1792626897
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 56314,
+      "races": 56327,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 1028,
-      "avgWPM": 83,
-      "avgAcc": 94.75,
+      "races": 1041,
+      "avgWPM": 84,
+      "avgAcc": 94.74,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792626031903
+  "_syncedAt": 1792627303109
 }
