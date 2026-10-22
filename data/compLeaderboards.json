@@ -382,6 +382,19 @@
       {
         "rank": 30,
         "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 50,
+        "wpm": 40.5,
+        "accuracy": 90.99,
+        "points": 5472,
+        "tier": "C"
+      },
+      {
+        "rank": 31,
+        "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
         "nickname": "Champion Chaser",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -404,19 +417,6 @@
         "accuracy": 93.89,
         "points": 5401,
         "tier": "A"
-      },
-      {
-        "rank": 32,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 48,
-        "wpm": 40.7,
-        "accuracy": 90.94,
-        "points": 5254,
-        "tier": "C"
       },
       {
         "rank": 33,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792660696296
+    "_syncedAt": 1792663292795
   }
 }

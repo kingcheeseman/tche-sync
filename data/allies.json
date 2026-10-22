@@ -634,15 +634,15 @@
         "members": 44
       },
       "daily": {
-        "races": 480,
+        "races": 477,
         "avgWPM": 66,
-        "avgAcc": 92.59,
+        "avgAcc": 92.58,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792660696424
+    "_syncedAt": 1792663292940
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792660715299
+    "_syncedAt": 1792663311782
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792660734099
+    "_syncedAt": 1792663330670
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1832,14 +1832,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3455,
+        "allTimeRaces": 3457,
         "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1917,
+        "teamRaces": 1919,
         "acc": 92.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1792626404
+        "lastLogin": 1792662346
       },
       {
         "username": "sara0010",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119784,
+        "races": 119786,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 778,
+        "races": 780,
         "avgWPM": 71,
-        "avgAcc": 93.7,
+        "avgAcc": 93.69,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792660903622
+    "_syncedAt": 1792663500140
   }
 }
