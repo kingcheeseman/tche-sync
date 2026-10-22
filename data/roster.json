@@ -444,10 +444,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 33,
+      "avgWPM": 66,
       "topWPM": 129,
-      "lifetimeRaces": 18374,
-      "teamRaces": 617,
+      "lifetimeRaces": 18385,
+      "teamRaces": 635,
       "joined": "10/13/26"
     },
     {
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792639323563
+  "_syncedAt": 1792641640916
 }

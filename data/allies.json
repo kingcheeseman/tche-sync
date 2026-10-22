@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2933,
+    "profileViews": 2934,
     "leagueTier": 12,
     "racers": [
       {
@@ -84,11 +84,11 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 3991,
-        "wpm": 83,
+        "allTimeRaces": 4004,
+        "wpm": 79,
         "highestWPM": 97,
-        "teamRaces": 3190,
-        "acc": 95.49,
+        "teamRaces": 3203,
+        "acc": 95.48,
         "season": null,
         "status": "active",
         "lastLogin": 1792638128
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78141,
+        "races": 78154,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 462,
+        "races": 475,
         "avgWPM": 66,
-        "avgAcc": 92.39,
+        "avgAcc": 92.48,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792639365194
+    "_syncedAt": 1792641684188
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792639384030
+    "_syncedAt": 1792641710352
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792639403367
+    "_syncedAt": 1792641729497
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1664,14 +1664,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8559,
-        "wpm": 63,
+        "allTimeRaces": 8577,
+        "wpm": 65,
         "highestWPM": 95,
-        "teamRaces": 1012,
-        "acc": 97.36,
+        "teamRaces": 1030,
+        "acc": 97.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792623687
+        "lastLogin": 1792640319
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119737,
+        "races": 119755,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 797,
-        "avgWPM": 72,
-        "avgAcc": 93.68,
+        "races": 763,
+        "avgWPM": 70,
+        "avgAcc": 93.6,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792639572930
+    "_syncedAt": 1792641899317
   }
 }
