@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2042,
+  "profileViews": 2044,
   "leagueTier": 12,
   "racers": [
     {
@@ -496,7 +496,7 @@
       "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792702173
+      "lastLogin": 1792712422
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -531,14 +531,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 647,
-      "wpm": 49,
+      "allTimeRaces": 684,
+      "wpm": 53,
       "highestWPM": 108,
-      "teamRaces": 399,
-      "acc": 92.28,
+      "teamRaces": 421,
+      "acc": 92.32,
       "season": null,
       "status": "active",
-      "lastLogin": 1792700324
+      "lastLogin": 1792711377
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57368,
+      "races": 57390,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1108,
+      "races": 1076,
       "avgWPM": 81,
-      "avgAcc": 94.85,
+      "avgAcc": 94.96,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792711002638
+  "_syncedAt": 1792712998777
 }

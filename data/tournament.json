@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792711086832
+        "_syncedAt": 1792713076227
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": null
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792711104096
+        "_syncedAt": 1792713093760
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792711104102
+  "_syncedAt": 1792713093763
 }

@@ -224,14 +224,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 885,
-        "wpm": 56,
+        "allTimeRaces": 900,
+        "wpm": 59,
         "highestWPM": 66,
-        "teamRaces": 78,
-        "acc": 95.06,
+        "teamRaces": 93,
+        "acc": 95.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792708070
+        "lastLogin": 1792711431
       },
       {
         "username": "294028",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78367,
+        "races": 78382,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 43
       },
       "daily": {
-        "races": 259,
+        "races": 270,
         "avgWPM": 64,
-        "avgAcc": 94.76,
+        "avgAcc": 94.85,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792711109052
+    "_syncedAt": 1792713098454
   },
   "SVC": {
     "tag": "SVC",
@@ -637,7 +637,7 @@
     "activePercent": 56,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2029,
+    "profileViews": 2030,
     "leagueTier": 10,
     "racers": [
       {
@@ -932,7 +932,7 @@
         "acc": 95.1,
         "season": null,
         "status": "active",
-        "lastLogin": 1792699794
+        "lastLogin": 1792712193
       },
       {
         "username": "a4e652621b363ffb1a8d9976fb3cbddc",
@@ -1293,15 +1293,15 @@
         "members": 46
       },
       "daily": {
-        "races": 231,
+        "races": 229,
         "avgWPM": 86,
-        "avgAcc": 95.06,
+        "avgAcc": 95.08,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792711128505
+    "_syncedAt": 1792713117406
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792711147645
+    "_syncedAt": 1792713136259
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1362,7 +1362,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4383,
+    "profileViews": 4385,
     "leagueTier": 12,
     "racers": [
       {
@@ -1384,11 +1384,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9473,
-        "wpm": 108,
+        "allTimeRaces": 9478,
+        "wpm": 102,
         "highestWPM": 135,
-        "teamRaces": 42,
-        "acc": 98.18,
+        "teamRaces": 50,
+        "acc": 97.88,
         "season": null,
         "status": "active",
         "lastLogin": 1792703060
@@ -1447,7 +1447,7 @@
         "acc": 92.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792707892
+        "lastLogin": 1792712584
       },
       {
         "username": "frareynolds",
@@ -1482,14 +1482,14 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1599,
-        "wpm": 60,
+        "allTimeRaces": 1600,
+        "wpm": 61,
         "highestWPM": 87,
         "teamRaces": 1293,
         "acc": 93.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1792709841
+        "lastLogin": 1792713010
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1944,14 +1944,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5898,
+        "allTimeRaces": 5900,
         "wpm": 82,
         "highestWPM": 109,
-        "teamRaces": 291,
-        "acc": 94.99,
+        "teamRaces": 293,
+        "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792706166
+        "lastLogin": 1792712543
       },
       {
         "username": "nev444ehh",
@@ -2068,20 +2068,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120860,
+        "races": 120870,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 1168,
+        "races": 1177,
         "avgWPM": 69,
-        "avgAcc": 94.22,
+        "avgAcc": 94.24,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792711317587
+    "_syncedAt": 1792713305831
   }
 }
