@@ -592,15 +592,15 @@
         "members": 41
       },
       "daily": {
-        "races": 480,
+        "races": 463,
         "avgWPM": 66,
-        "avgAcc": 92.56,
+        "avgAcc": 92.67,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792670607902
+    "_syncedAt": 1792671939761
   },
   "SVC": {
     "tag": "SVC",
@@ -1051,14 +1051,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 811,
-        "wpm": 82,
+        "allTimeRaces": 815,
+        "wpm": 80,
         "highestWPM": 107,
         "teamRaces": 395,
         "acc": 93.67,
         "season": null,
         "status": "active",
-        "lastLogin": 1792600829
+        "lastLogin": 1792671750
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1273,7 +1273,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792670627021
+    "_syncedAt": 1792671959006
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1325,7 +1325,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792670645982
+    "_syncedAt": 1792671977885
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1334,7 +1334,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4330,
+    "profileViews": 4332,
     "leagueTier": 12,
     "racers": [
       {
@@ -1538,14 +1538,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4654,
-        "wpm": 51,
+        "allTimeRaces": 4657,
+        "wpm": 52,
         "highestWPM": 121,
         "teamRaces": 1240,
         "acc": 87.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1792595852
+        "lastLogin": 1792671969
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -2004,14 +2004,14 @@
         "members": 47
       },
       "daily": {
-        "races": 802,
+        "races": 791,
         "avgWPM": 70,
-        "avgAcc": 93.63,
+        "avgAcc": 93.67,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792670815486
+    "_syncedAt": 1792672147463
   }
 }
