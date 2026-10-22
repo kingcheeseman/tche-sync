@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792666856868
+    "_syncedAt": 1792668380102
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792666875967
+    "_syncedAt": 1792668401384
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792666894953
+    "_syncedAt": 1792668420097
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1832,11 +1832,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3463,
-        "wpm": 38,
+        "allTimeRaces": 3471,
+        "wpm": 43,
         "highestWPM": 60,
-        "teamRaces": 1923,
-        "acc": 92.15,
+        "teamRaces": 1933,
+        "acc": 92.13,
         "season": null,
         "status": "active",
         "lastLogin": 1792666579
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119790,
+        "races": 119800,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 784,
-        "avgWPM": 71,
-        "avgAcc": 93.69,
+        "races": 794,
+        "avgWPM": 70,
+        "avgAcc": 93.66,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792667064606
+    "_syncedAt": 1792668589335
   }
 }
