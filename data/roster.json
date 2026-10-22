@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 110,
-      "lifetimeRaces": 20182,
-      "teamRaces": 2543,
+      "lifetimeRaces": 20198,
+      "teamRaces": 2559,
       "joined": "06/24/26"
     },
     {
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 95,
       "topWPM": 119,
-      "lifetimeRaces": 1346,
-      "teamRaces": 999,
+      "lifetimeRaces": 1365,
+      "teamRaces": 1010,
       "joined": "08/31/26"
     },
     {
@@ -431,10 +431,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 82,
+      "avgWPM": 81,
       "topWPM": 165,
-      "lifetimeRaces": 6641,
-      "teamRaces": 13,
+      "lifetimeRaces": 6647,
+      "teamRaces": 24,
       "joined": "10/09/26"
     },
     {
@@ -599,11 +599,11 @@
       "nickname": "Epic Nitro User",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 88,
+      "tier": "B",
+      "avgWPM": 86,
       "topWPM": 109,
-      "lifetimeRaces": 1185,
-      "teamRaces": 0,
+      "lifetimeRaces": 1190,
+      "teamRaces": 5,
       "joined": "10/21/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792677172252
+  "_syncedAt": 1792679069083
 }

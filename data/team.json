@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2024,
+  "profileViews": 2027,
   "leagueTier": 12,
   "racers": [
     {
@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20183,
-      "wpm": 90,
+      "allTimeRaces": 20198,
+      "wpm": 87,
       "highestWPM": 110,
-      "teamRaces": 2543,
+      "teamRaces": 2559,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -142,8 +142,8 @@
       "allTimeRaces": 6647,
       "wpm": 81,
       "highestWPM": 165,
-      "teamRaces": 23,
-      "acc": 93.43,
+      "teamRaces": 24,
+      "acc": 93.44,
       "season": null,
       "status": "active",
       "lastLogin": 1792675958
@@ -223,11 +223,11 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1189,
-      "wpm": 87,
+      "allTimeRaces": 1190,
+      "wpm": 86,
       "highestWPM": 109,
-      "teamRaces": 2,
-      "acc": 96.29,
+      "teamRaces": 5,
+      "acc": 96.39,
       "season": null,
       "status": "active",
       "lastLogin": 1792676856
@@ -286,7 +286,7 @@
       "acc": 96.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1792607524
+      "lastLogin": 1792677843
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -384,21 +384,21 @@
       "acc": 93.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1792586311
+      "lastLogin": 1792678753
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1346,
+      "allTimeRaces": 1372,
       "wpm": 91,
       "highestWPM": 119,
-      "teamRaces": 999,
-      "acc": 94.45,
+      "teamRaces": 1021,
+      "acc": 94.46,
       "season": null,
       "status": "active",
-      "lastLogin": 1792615604
+      "lastLogin": 1792677568
     },
     {
       "username": "imenishat",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56607,
+      "races": 56649,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 888,
+      "races": 915,
       "avgWPM": 78,
-      "avgAcc": 94.23,
+      "avgAcc": 94.31,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792677114808
+  "_syncedAt": 1792679014495
 }
