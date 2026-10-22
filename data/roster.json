@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 89,
+      "avgWPM": 91,
       "topWPM": 119,
-      "lifetimeRaces": 1386,
-      "teamRaces": 1039,
+      "lifetimeRaces": 1387,
+      "teamRaces": 1040,
       "joined": "08/31/26"
     },
     {
@@ -205,15 +205,15 @@
     },
     {
       "username": "imenishat",
-      "displayName": "Not_Ime",
+      "displayName": "IMIME_IMIME",
       "nickname": "Yeah, Buoy!",
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 72,
+      "avgWPM": 66,
       "topWPM": 85,
-      "lifetimeRaces": 2244,
-      "teamRaces": 70,
+      "lifetimeRaces": 2254,
+      "teamRaces": 80,
       "joined": "09/17/26"
     },
     {
@@ -483,23 +483,23 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 92,
       "topWPM": 111,
-      "lifetimeRaces": 5277,
-      "teamRaces": 241,
+      "lifetimeRaces": 5280,
+      "teamRaces": 251,
       "joined": "10/15/26"
     },
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "nickname": "Not So Koi",
+      "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 77,
+      "avgWPM": 81,
       "topWPM": 102,
-      "lifetimeRaces": 6450,
-      "teamRaces": 425,
+      "lifetimeRaces": 6471,
+      "teamRaces": 438,
       "joined": "10/15/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792686556937
+  "_syncedAt": 1792688547981
 }

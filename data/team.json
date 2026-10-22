@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2032,
+  "profileViews": 2033,
   "leagueTier": 12,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5124,
-      "wpm": 100,
+      "allTimeRaces": 5128,
+      "wpm": 101,
       "highestWPM": 128,
-      "teamRaces": 112,
-      "acc": 94.91,
+      "teamRaces": 114,
+      "acc": 94.95,
       "season": null,
       "status": "active",
-      "lastLogin": 1792593705
+      "lastLogin": 1792688235
     },
     {
       "username": "tre1typer",
@@ -251,11 +251,11 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5279,
-      "wpm": 93,
+      "allTimeRaces": 5280,
+      "wpm": 92,
       "highestWPM": 111,
-      "teamRaces": 241,
-      "acc": 94.77,
+      "teamRaces": 251,
+      "acc": 94.83,
       "season": null,
       "status": "active",
       "lastLogin": 1792684277
@@ -279,14 +279,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6450,
-      "wpm": 77,
+      "allTimeRaces": 6477,
+      "wpm": 82,
       "highestWPM": 102,
-      "teamRaces": 425,
-      "acc": 93.34,
+      "teamRaces": 450,
+      "acc": 93.46,
       "season": null,
       "status": "active",
-      "lastLogin": 1792602285
+      "lastLogin": 1792687173
     },
     {
       "username": "cash4087",
@@ -405,28 +405,28 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1386,
-      "wpm": 89,
+      "allTimeRaces": 1387,
+      "wpm": 91,
       "highestWPM": 119,
-      "teamRaces": 1039,
+      "teamRaces": 1040,
       "acc": 94.44,
       "season": null,
       "status": "active",
-      "lastLogin": 1792677568
+      "lastLogin": 1792686623
     },
     {
       "username": "imenishat",
-      "displayName": "Not_Ime",
+      "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2244,
-      "wpm": 72,
+      "allTimeRaces": 2254,
+      "wpm": 66,
       "highestWPM": 85,
-      "teamRaces": 70,
-      "acc": 91.19,
+      "teamRaces": 80,
+      "acc": 91.3,
       "season": null,
       "status": "active",
-      "lastLogin": 1792686488
+      "lastLogin": 1792686656
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56802,
+      "races": 56850,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 49
     },
     "daily": {
-      "races": 922,
-      "avgWPM": 78,
-      "avgAcc": 94.55,
+      "races": 947,
+      "avgWPM": 79,
+      "avgAcc": 94.93,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792686502867
+  "_syncedAt": 1792688488382
 }
