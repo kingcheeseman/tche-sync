@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 05:00:00",
-      "racer": "Ep_1K PFP VIEWS_Ep",
-      "races": 18
-    },
-    {
       "hour": "2026-10-21 06:00:00",
       "racer": "rorok09",
       "races": 39
@@ -47,12 +42,12 @@
     },
     {
       "hour": "2026-10-21 12:00:00",
-      "racer": "disgratedboy191",
+      "racer": "Namedisplayed",
       "races": 2
     },
     {
       "hour": "2026-10-21 12:00:00",
-      "racer": "Namedisplayed",
+      "racer": "disgratedboy191",
       "races": 2
     },
     {
@@ -167,12 +162,12 @@
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "me_likey_typey",
+      "racer": "KippKat",
       "races": 6
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "KippKat",
+      "racer": "me_likey_typey",
       "races": 6
     },
     {
@@ -309,8 +304,13 @@
       "hour": "2026-10-22 04:00:00",
       "racer": "Ep_1K PFP VIEWS_Ep",
       "races": 48
+    },
+    {
+      "hour": "2026-10-22 05:00:00",
+      "racer": "Ep_1K PFP VIEWS_Ep",
+      "races": 33
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792646764937
+  "_syncedAt": 1792648608683
 }
