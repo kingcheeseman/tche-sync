@@ -30,8 +30,8 @@
       "allTimeRaces": 6894,
       "wpm": 100,
       "highestWPM": 132,
-      "teamRaces": 151,
-      "acc": 95.89,
+      "teamRaces": 156,
+      "acc": 95.9,
       "season": null,
       "status": "active",
       "lastLogin": 1792680570
@@ -41,11 +41,11 @@
       "displayName": "certified",
       "role": "member",
       "joinStamp": 1792679740,
-      "allTimeRaces": 13919,
-      "wpm": 82,
+      "allTimeRaces": 13922,
+      "wpm": 83,
       "highestWPM": 117,
-      "teamRaces": 10,
-      "acc": 91.15,
+      "teamRaces": 25,
+      "acc": 91.25,
       "season": null,
       "status": "active",
       "lastLogin": 1792678262
@@ -69,14 +69,14 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 4863,
+      "allTimeRaces": 4865,
       "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 683,
+      "teamRaces": 684,
       "acc": 94.84,
       "season": null,
       "status": "active",
-      "lastLogin": 1792676884
+      "lastLogin": 1792681328
     },
     {
       "username": "tbnr_andy",
@@ -349,14 +349,14 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1272,
-      "wpm": 115,
+      "allTimeRaces": 1279,
+      "wpm": 111,
       "highestWPM": 129,
-      "teamRaces": 136,
-      "acc": 96.44,
+      "teamRaces": 143,
+      "acc": 96.4,
       "season": null,
       "status": "active",
-      "lastLogin": 1792674130
+      "lastLogin": 1792681966
     },
     {
       "username": "wsoccerboy0929",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56708,
+      "races": 56736,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 49
     },
     "daily": {
-      "races": 915,
+      "races": 919,
       "avgWPM": 78,
-      "avgAcc": 94.47,
+      "avgAcc": 94.49,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792681142643
+  "_syncedAt": 1792682850344
 }
