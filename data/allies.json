@@ -224,14 +224,14 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2196,
-        "wpm": 62,
+        "allTimeRaces": 2208,
+        "wpm": 66,
         "highestWPM": 94,
-        "teamRaces": 1151,
+        "teamRaces": 1163,
         "acc": 90.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792597891
+        "lastLogin": 1792665018
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78173,
+        "races": 78185,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 477,
+        "races": 489,
         "avgWPM": 66,
-        "avgAcc": 92.58,
+        "avgAcc": 92.53,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792664962584
+    "_syncedAt": 1792666856868
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792664981373
+    "_syncedAt": 1792666875967
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792665000156
+    "_syncedAt": 1792666894953
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1832,14 +1832,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3457,
-        "wpm": 41,
+        "allTimeRaces": 3463,
+        "wpm": 38,
         "highestWPM": 60,
-        "teamRaces": 1919,
+        "teamRaces": 1923,
         "acc": 92.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1792662346
+        "lastLogin": 1792666579
       },
       {
         "username": "sara0010",
@@ -2040,13 +2040,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119786,
+        "races": 119790,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 780,
+        "races": 784,
         "avgWPM": 71,
         "avgAcc": 93.69,
         "members": 47
@@ -2054,6 +2054,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792665169660
+    "_syncedAt": 1792667064606
   }
 }

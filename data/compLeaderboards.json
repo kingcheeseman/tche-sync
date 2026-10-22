@@ -251,6 +251,19 @@
       },
       {
         "rank": 20,
+        "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Investor 1k ;)",
+        "races": 67,
+        "wpm": 66.1,
+        "accuracy": 89,
+        "points": 7935,
+        "tier": "B"
+      },
+      {
+        "rank": 21,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -263,7 +276,7 @@
         "tier": "B"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "Green, Grassy Cat",
         "displayName": "Green, Grassy Cat",
@@ -287,19 +300,6 @@
         "accuracy": 95.51,
         "points": 6610,
         "tier": "A"
-      },
-      {
-        "rank": 23,
-        "tag": "KEYCAT",
-        "username": "Natuski",
-        "displayName": "Natuski",
-        "nickname": "I Love Cats",
-        "squad": "Investor 1k ;)",
-        "races": 55,
-        "wpm": 66.3,
-        "accuracy": 88.88,
-        "points": 6510,
-        "tier": "B"
       },
       {
         "rank": 24,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792664962450
+    "_syncedAt": 1792666856685
   }
 }
