@@ -538,7 +538,7 @@
       "avgWPM": 64,
       "topWPM": 103,
       "lifetimeRaces": 5353,
-      "teamRaces": 48,
+      "teamRaces": 56,
       "joined": "10/19/26"
     },
     {
@@ -561,10 +561,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 104,
       "topWPM": 128,
-      "lifetimeRaces": 5200,
-      "teamRaces": 180,
+      "lifetimeRaces": 5228,
+      "teamRaces": 207,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792706194773
+  "_syncedAt": 1792707492824
 }

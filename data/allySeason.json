@@ -49,12 +49,12 @@
     "points": 187727,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792706257629
+    "_syncedAt": 1792707552130
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 51,
+        "rank": 50,
         "races": 235,
         "accuracy": 94.77,
         "wpm": 85.3,
@@ -101,7 +101,7 @@
     "points": 74175,
     "ppr": 134,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792706276788
+    "_syncedAt": 1792707570984
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792706446644
+    "_syncedAt": 1792707740457
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 21,
-        "races": 1063,
-        "accuracy": 93.45,
-        "wpm": 66.2,
-        "points": 132211,
-        "ppr": 124
+        "races": 1047,
+        "accuracy": 93.53,
+        "wpm": 67.3,
+        "points": 130874,
+        "ppr": 125
       },
       "season": {
         "rank": 27,
-        "races": 3618,
-        "accuracy": 93.28,
-        "wpm": 70.1,
-        "points": 455768,
+        "races": 3644,
+        "accuracy": 93.31,
+        "wpm": 70.3,
+        "points": 459500,
         "ppr": 126
       },
       "week": {
         "rank": 21,
-        "races": 6494,
-        "accuracy": 93.18,
-        "wpm": 68,
-        "points": 810761,
+        "races": 6519,
+        "accuracy": 93.2,
+        "wpm": 68.1,
+        "points": 814359,
         "ppr": 125
       },
       "weekly": {
-        "rank": 27,
-        "races": 3767,
-        "accuracy": 93.25,
-        "wpm": 69.4,
-        "points": 473226,
+        "rank": 28,
+        "races": 3793,
+        "accuracy": 93.28,
+        "wpm": 69.6,
+        "points": 476959,
         "ppr": 126
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 27,
-    "races": 3618,
-    "accuracy": 93.28,
-    "wpm": 70.1,
-    "points": 455768,
+    "races": 3644,
+    "accuracy": 93.31,
+    "wpm": 70.3,
+    "points": 459500,
     "ppr": 126,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792706465988
+    "_syncedAt": 1792707763434
   }
 }
