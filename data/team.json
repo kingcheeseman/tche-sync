@@ -405,14 +405,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1391,
-      "wpm": 89,
+      "allTimeRaces": 1396,
+      "wpm": 88,
       "highestWPM": 119,
-      "teamRaces": 1044,
-      "acc": 94.44,
+      "teamRaces": 1049,
+      "acc": 94.43,
       "season": null,
       "status": "active",
-      "lastLogin": 1792696233
+      "lastLogin": 1792699042
     },
     {
       "username": "imenishat",
@@ -475,11 +475,11 @@
       "displayName": "The Queen",
       "role": "member",
       "joinStamp": 1791299966,
-      "allTimeRaces": 1458,
-      "wpm": 84,
-      "highestWPM": 100,
-      "teamRaces": 41,
-      "acc": 96.11,
+      "allTimeRaces": 1465,
+      "wpm": 89,
+      "highestWPM": 104,
+      "teamRaces": 49,
+      "acc": 96.28,
       "season": null,
       "status": "active",
       "lastLogin": 1792698951
@@ -538,7 +538,7 @@
       "acc": 92.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1792690692
+      "lastLogin": 1792700324
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -552,7 +552,7 @@
       "acc": 96.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1792679974
+      "lastLogin": 1792699315
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -671,10 +671,10 @@
       "displayName": "KippKat",
       "role": "member",
       "joinStamp": 1782491687,
-      "allTimeRaces": 973,
+      "allTimeRaces": 975,
       "wpm": 73,
       "highestWPM": 96,
-      "teamRaces": 960,
+      "teamRaces": 962,
       "acc": 96.39,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57133,
+      "races": 57148,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1034,
-      "avgWPM": 80,
-      "avgAcc": 94.74,
+      "races": 1024,
+      "avgWPM": 79,
+      "avgAcc": 94.78,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792699012600
+  "_syncedAt": 1792700339179
 }

@@ -1,29 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 19:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-21 19:00:00",
-      "racer": "Namedisplayed",
-      "races": 5
-    },
-    {
-      "hour": "2026-10-21 19:00:00",
-      "racer": "sterling757",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-21 19:00:00",
-      "racer": "Joe and Uh",
-      "races": 0
-    },
-    {
       "hour": "2026-10-21 20:00:00",
       "racer": "Void Racer",
-      "races": 34
+      "races": 25
     },
     {
       "hour": "2026-10-21 20:00:00",
@@ -39,11 +19,6 @@
       "hour": "2026-10-21 20:00:00",
       "racer": "RationalGoldApe",
       "races": 2
-    },
-    {
-      "hour": "2026-10-21 20:00:00",
-      "racer": "sterling757",
-      "races": 1
     },
     {
       "hour": "2026-10-21 21:00:00",
@@ -162,12 +137,12 @@
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "Amaterasu",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "loganim12btw",
+      "racer": "Amaterasu",
       "races": 1
     },
     {
@@ -222,12 +197,12 @@
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "Unknown",
+      "racer": "PootsyWafflebiscuits",
       "races": 5
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "Unknown",
       "races": 5
     },
     {
@@ -297,12 +272,12 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "Namedisplayed",
+      "racer": "WindMaker",
       "races": 1
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "WindMaker",
+      "racer": "Namedisplayed",
       "races": 1
     },
     {
@@ -357,12 +332,12 @@
     },
     {
       "hour": "2026-10-22 18:00:00",
-      "racer": "Unknown",
+      "racer": "sterling757",
       "races": 1
     },
     {
       "hour": "2026-10-22 18:00:00",
-      "racer": "sterling757",
+      "racer": "Unknown",
       "races": 1
     },
     {
@@ -372,20 +347,40 @@
     },
     {
       "hour": "2026-10-22 19:00:00",
+      "racer": "Namedisplayed",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-22 19:00:00",
       "racer": "sterling757",
       "races": 6
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "Namedisplayed",
+      "racer": "The Queen",
       "races": 4
     },
     {
       "hour": "2026-10-22 19:00:00",
       "racer": "Void Racer",
       "races": 2
+    },
+    {
+      "hour": "2026-10-22 19:00:00",
+      "racer": "KippKat",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "The Queen",
+      "races": 4
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792699068365
+  "_syncedAt": 1792700397817
 }
