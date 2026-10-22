@@ -475,14 +475,14 @@
       "displayName": "The Queen",
       "role": "member",
       "joinStamp": 1791299966,
-      "allTimeRaces": 1457,
-      "wpm": 83,
+      "allTimeRaces": 1458,
+      "wpm": 84,
       "highestWPM": 100,
       "teamRaces": 41,
       "acc": 96.11,
       "season": null,
       "status": "active",
-      "lastLogin": 1792683160
+      "lastLogin": 1792698951
     },
     {
       "username": "taylorja32",
@@ -496,7 +496,7 @@
       "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792691568
+      "lastLogin": 1792698445
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -601,11 +601,11 @@
       "displayName": "reteyrhyj",
       "role": "member",
       "joinStamp": 1792448692,
-      "allTimeRaces": 5325,
-      "wpm": 78,
+      "allTimeRaces": 5344,
+      "wpm": 77,
       "highestWPM": 103,
-      "teamRaces": 24,
-      "acc": 90.38,
+      "teamRaces": 47,
+      "acc": 89.7,
       "season": null,
       "status": "active",
       "lastLogin": 1792696911
@@ -678,24 +678,24 @@
       "acc": 96.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1792605336
+      "lastLogin": 1792698896
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 57110,
+      "races": 57133,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1039,
+      "races": 1034,
       "avgWPM": 80,
-      "avgAcc": 94.87,
+      "avgAcc": 94.74,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792697139365
+  "_syncedAt": 1792699012600
 }

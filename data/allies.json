@@ -378,11 +378,11 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 292,
-        "wpm": 39,
+        "allTimeRaces": 307,
+        "wpm": 40,
         "highestWPM": 51,
-        "teamRaces": 5,
-        "acc": 98.2,
+        "teamRaces": 20,
+        "acc": 97.14,
         "season": null,
         "status": "active",
         "lastLogin": 1792696817
@@ -462,10 +462,10 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5164,
-        "wpm": 81,
+        "allTimeRaces": 5165,
+        "wpm": 80,
         "highestWPM": 112,
-        "teamRaces": 725,
+        "teamRaces": 729,
         "acc": 94.91,
         "season": null,
         "status": "active",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78315,
+        "races": 78334,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 341,
+        "races": 316,
         "avgWPM": 64,
-        "avgAcc": 94.39,
+        "avgAcc": 94.56,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792697244867
+    "_syncedAt": 1792699109096
   },
   "SVC": {
     "tag": "SVC",
@@ -1293,15 +1293,15 @@
         "members": 46
       },
       "daily": {
-        "races": 229,
+        "races": 214,
         "avgWPM": 88,
-        "avgAcc": 95.42,
+        "avgAcc": 95.38,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792697263978
+    "_syncedAt": 1792699128025
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792697282848
+    "_syncedAt": 1792699149582
   },
   "THB0S": {
     "tag": "THB0S",
@@ -2046,14 +2046,14 @@
         "members": 48
       },
       "daily": {
-        "races": 1100,
+        "races": 1070,
         "avgWPM": 67,
-        "avgAcc": 93.62,
+        "avgAcc": 93.72,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792697452278
+    "_syncedAt": 1792699319142
   }
 }

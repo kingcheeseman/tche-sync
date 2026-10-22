@@ -143,7 +143,7 @@
       "displayName": "sterling757",
       "nickname": "The Caped Crusader",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 82,
       "topWPM": 102,
@@ -537,8 +537,8 @@
       "tier": "C",
       "avgWPM": 77,
       "topWPM": 103,
-      "lifetimeRaces": 5326,
-      "teamRaces": 24,
+      "lifetimeRaces": 5344,
+      "teamRaces": 47,
       "joined": "10/19/26"
     },
     {
@@ -624,7 +624,7 @@
       "displayName": "LedByHim",
       "nickname": "Leafed on Read",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 98,
       "topWPM": 110,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792697203157
+  "_syncedAt": 1792699068364
 }
