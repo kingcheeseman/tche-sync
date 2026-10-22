@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 95,
       "topWPM": 127,
-      "lifetimeRaces": 4889,
-      "teamRaces": 2464,
+      "lifetimeRaces": 4891,
+      "teamRaces": 2466,
       "joined": "06/10/26"
     },
     {
@@ -132,10 +132,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 119,
-      "lifetimeRaces": 1387,
-      "teamRaces": 1040,
+      "lifetimeRaces": 1391,
+      "teamRaces": 1044,
       "joined": "08/31/26"
     },
     {
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 84,
+      "avgWPM": 82,
       "topWPM": 102,
-      "lifetimeRaces": 2714,
-      "teamRaces": 95,
+      "lifetimeRaces": 2721,
+      "teamRaces": 102,
       "joined": "09/08/26"
     },
     {
@@ -499,7 +499,7 @@
       "avgWPM": 94,
       "topWPM": 120,
       "lifetimeRaces": 3867,
-      "teamRaces": 217,
+      "teamRaces": 218,
       "joined": "10/16/26"
     },
     {
@@ -534,10 +534,10 @@
       "nickname": "Spartan",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 84,
+      "tier": "C",
+      "avgWPM": 77,
       "topWPM": 103,
-      "lifetimeRaces": 5321,
+      "lifetimeRaces": 5326,
       "teamRaces": 24,
       "joined": "10/19/26"
     },
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792694979263
+  "_syncedAt": 1792697203157
 }

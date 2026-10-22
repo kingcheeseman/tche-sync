@@ -28,10 +28,10 @@
         "displayName": "JaysonG",
         "role": "member",
         "joinStamp": 1791230620,
-        "allTimeRaces": 2796,
-        "wpm": 64,
+        "allTimeRaces": 2801,
+        "wpm": 62,
         "highestWPM": 88,
-        "teamRaces": 419,
+        "teamRaces": 424,
         "acc": 91.38,
         "season": null,
         "status": "active",
@@ -385,7 +385,7 @@
         "acc": 98.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792611928
+        "lastLogin": 1792696817
       },
       {
         "username": "quickbrownpony",
@@ -434,14 +434,14 @@
         "displayName": "Barcelona",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 509,
-        "wpm": 25,
+        "allTimeRaces": 525,
+        "wpm": 24,
         "highestWPM": 46,
-        "teamRaces": 70,
-        "acc": 95.01,
+        "teamRaces": 86,
+        "acc": 95.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1792611595
+        "lastLogin": 1792695596
       },
       {
         "username": "lillie1432",
@@ -462,14 +462,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5152,
-        "wpm": 80,
+        "allTimeRaces": 5164,
+        "wpm": 81,
         "highestWPM": 112,
-        "teamRaces": 716,
-        "acc": 94.9,
+        "teamRaces": 725,
+        "acc": 94.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792692537
+        "lastLogin": 1792696036
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78285,
+        "races": 78315,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 330,
-        "avgWPM": 65,
-        "avgAcc": 94.26,
+        "races": 341,
+        "avgWPM": 64,
+        "avgAcc": 94.39,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792695022549
+    "_syncedAt": 1792697244867
   },
   "SVC": {
     "tag": "SVC",
@@ -1293,15 +1293,15 @@
         "members": 46
       },
       "daily": {
-        "races": 230,
+        "races": 229,
         "avgWPM": 88,
-        "avgAcc": 95.43,
+        "avgAcc": 95.42,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792695042006
+    "_syncedAt": 1792697263978
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792695060873
+    "_syncedAt": 1792697282848
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1362,7 +1362,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4355,
+    "profileViews": 4359,
     "leagueTier": 12,
     "racers": [
       {
@@ -1552,28 +1552,28 @@
         "displayName": "God First",
         "role": "member",
         "joinStamp": 1792168455,
-        "allTimeRaces": 5679,
+        "allTimeRaces": 5694,
         "wpm": 60,
         "highestWPM": 85,
-        "teamRaces": 671,
-        "acc": 91.9,
+        "teamRaces": 686,
+        "acc": 91.81,
         "season": null,
         "status": "active",
-        "lastLogin": 1792691573
+        "lastLogin": 1792695261
       },
       {
         "username": "98091b4920cc5d8b1fb143b375a8c028",
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4710,
-        "wpm": 47,
+        "allTimeRaces": 4716,
+        "wpm": 48,
         "highestWPM": 121,
-        "teamRaces": 1296,
-        "acc": 87.67,
+        "teamRaces": 1302,
+        "acc": 87.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1792677018
+        "lastLogin": 1792695436
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1811,7 +1811,7 @@
         "acc": 95.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1792690865
+        "lastLogin": 1792696013
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120569,
+        "races": 120590,
         "avgWPM": 67,
         "avgAcc": 93.96,
         "members": 48
       },
       "daily": {
-        "races": 1123,
+        "races": 1100,
         "avgWPM": 67,
-        "avgAcc": 93.7,
+        "avgAcc": 93.62,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792695230497
+    "_syncedAt": 1792697452278
   }
 }
