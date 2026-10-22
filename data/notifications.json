@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "new-member:vlambjr",
+      "type": "new-member",
+      "text": "certified joined the team.",
+      "meta": {
+        "username": "vlambjr"
+      },
+      "createdAt": 1792681237985
+    },
+    {
+      "key": "new-member:bc6469247e9ac57a0a45c6c345d4bb57",
+      "type": "new-member",
+      "text": "kdjkldglkdghklfghfkg joined the team.",
+      "meta": {
+        "username": "bc6469247e9ac57a0a45c6c345d4bb57"
+      },
+      "createdAt": 1792681237985
+    },
+    {
       "key": "new-member:53f35d28a54dfa99bfab7ecbf663428e",
       "type": "new-member",
       "text": "loganim12btw joined the team.",
@@ -268,5 +286,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792679107386
+  "_syncedAt": 1792681237985
 }

@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 96,
       "topWPM": 127,
-      "lifetimeRaces": 4837,
-      "teamRaces": 2412,
+      "lifetimeRaces": 4845,
+      "teamRaces": 2420,
       "joined": "06/10/26"
     },
     {
@@ -143,12 +143,12 @@
       "displayName": "Namedisplayed",
       "nickname": "Original Gangster",
       "role": "member",
-      "squad": "Entrepreneur 500",
+      "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 89,
       "topWPM": 119,
-      "lifetimeRaces": 1365,
-      "teamRaces": 1010,
+      "lifetimeRaces": 1386,
+      "teamRaces": 1039,
       "joined": "08/31/26"
     },
     {
@@ -180,14 +180,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "(Has a good gaming chair)",
+      "nickname": "Honorary Deputy",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 65,
       "topWPM": 82,
-      "lifetimeRaces": 9228,
-      "teamRaces": 1183,
+      "lifetimeRaces": 9231,
+      "teamRaces": 1186,
       "joined": "09/09/26"
     },
     {
@@ -378,11 +378,11 @@
       "nickname": "Spring Speedster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 95,
+      "tier": "C",
+      "avgWPM": 54,
       "topWPM": 108,
-      "lifetimeRaces": 605,
-      "teamRaces": 357,
+      "lifetimeRaces": 619,
+      "teamRaces": 371,
       "joined": "10/07/26"
     },
     {
@@ -470,9 +470,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 100,
       "topWPM": 132,
-      "lifetimeRaces": 6889,
+      "lifetimeRaces": 6894,
       "teamRaces": 151,
       "joined": "10/14/26"
     },
@@ -550,8 +550,8 @@
       "tier": "B",
       "avgWPM": 85,
       "topWPM": 100,
-      "lifetimeRaces": 1369,
-      "teamRaces": 20,
+      "lifetimeRaces": 1375,
+      "teamRaces": 26,
       "joined": "10/19/26"
     },
     {
@@ -611,15 +611,41 @@
       "displayName": "loganim12btw",
       "nickname": "WPM Wonderkid",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 91,
       "topWPM": 215,
       "lifetimeRaces": 802,
       "teamRaces": 22,
       "joined": "10/22/26"
+    },
+    {
+      "username": "bc6469247e9ac57a0a45c6c345d4bb57",
+      "displayName": "kdjkldglkdghklfghfkg",
+      "nickname": "Nitro Drift",
+      "role": "member",
+      "squad": "Starter Fund",
+      "tier": "C",
+      "avgWPM": 56,
+      "topWPM": 78,
+      "lifetimeRaces": 1368,
+      "teamRaces": 99,
+      "joined": "10/22/26"
+    },
+    {
+      "username": "vlambjr",
+      "displayName": "certified",
+      "nickname": "Olde School",
+      "role": "member",
+      "squad": "Starter Fund",
+      "tier": "B",
+      "avgWPM": 82,
+      "topWPM": 117,
+      "lifetimeRaces": 13915,
+      "teamRaces": 10,
+      "joined": "10/22/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792679069083
+  "_syncedAt": 1792681196136
 }
