@@ -6,11 +6,6 @@
       "races": 23
     },
     {
-      "hour": "2026-10-21 16:00:00",
-      "racer": "The Big Yahu",
-      "races": 7
-    },
-    {
       "hour": "2026-10-21 17:00:00",
       "racer": "insta _trewatkins",
       "races": 44
@@ -344,8 +339,23 @@
       "hour": "2026-10-22 15:00:00",
       "racer": "certified",
       "races": 2
+    },
+    {
+      "hour": "2026-10-22 16:00:00",
+      "racer": "Unknown",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-22 16:00:00",
+      "racer": "t_unknown",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-22 16:00:00",
+      "racer": "WindMaker",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792685308824
+  "_syncedAt": 1792686556939
 }
