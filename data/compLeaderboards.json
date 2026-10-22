@@ -759,6 +759,19 @@
       {
         "rank": 59,
         "tag": "THB0S",
+        "username": "Lachlan676767676767",
+        "displayName": "Lachlan676767676767",
+        "nickname": "Epic Nitro User",
+        "squad": null,
+        "races": 17,
+        "wpm": 52.1,
+        "accuracy": 92.36,
+        "points": 1979,
+        "tier": "C"
+      },
+      {
+        "rank": 60,
+        "tag": "THB0S",
         "username": "davidfast1234",
         "displayName": "davidfast1234",
         "nickname": "Yeah, Buoy!",
@@ -770,7 +783,7 @@
         "tier": "A"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -783,7 +796,7 @@
         "tier": "B"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "tag": "SVC",
         "username": "NotFastEnough",
         "displayName": "NotFastEnough",
@@ -794,19 +807,6 @@
         "accuracy": 93.9,
         "points": 1700,
         "tier": "B"
-      },
-      {
-        "rank": 62,
-        "tag": "THB0S",
-        "username": "Lachlan676767676767",
-        "displayName": "Lachlan676767676767",
-        "nickname": "Epic Nitro User",
-        "squad": null,
-        "races": 14,
-        "wpm": 53.6,
-        "accuracy": 92.36,
-        "points": 1639,
-        "tier": "C"
       },
       {
         "rank": 63,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792653741852
+    "_syncedAt": 1792656474253
   }
 }
