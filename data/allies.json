@@ -592,15 +592,15 @@
         "members": 41
       },
       "daily": {
-        "races": 463,
-        "avgWPM": 66,
-        "avgAcc": 92.67,
+        "races": 403,
+        "avgWPM": 64,
+        "avgAcc": 93.4,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792671939761
+    "_syncedAt": 1792674894761
   },
   "SVC": {
     "tag": "SVC",
@@ -680,7 +680,7 @@
         "acc": 95.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1791573884
+        "lastLogin": 1792674836
       },
       {
         "username": "08024f51d600a72c2b2b75363c4c3277",
@@ -799,14 +799,14 @@
         "displayName": "p800000",
         "role": "member",
         "joinStamp": 1788971993,
-        "allTimeRaces": 5077,
-        "wpm": 78,
+        "allTimeRaces": 5079,
+        "wpm": 77,
         "highestWPM": 95,
-        "teamRaces": 58,
+        "teamRaces": 60,
         "acc": 94.51,
         "season": null,
         "status": "active",
-        "lastLogin": 1791477532
+        "lastLogin": 1792673130
       },
       {
         "username": "mitt11",
@@ -1051,11 +1051,11 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 815,
-        "wpm": 80,
+        "allTimeRaces": 825,
+        "wpm": 78,
         "highestWPM": 107,
-        "teamRaces": 395,
-        "acc": 93.67,
+        "teamRaces": 409,
+        "acc": 93.65,
         "season": null,
         "status": "active",
         "lastLogin": 1792671750
@@ -1259,21 +1259,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40201,
+        "races": 40217,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 101,
-        "avgWPM": 84,
-        "avgAcc": 95.12,
+        "races": 112,
+        "avgWPM": 83,
+        "avgAcc": 94.93,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792671959006
+    "_syncedAt": 1792674917926
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1325,16 +1325,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792671977885
+    "_syncedAt": 1792674936779
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
+    "members": 48,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4332,
+    "profileViews": 4334,
     "leagueTier": 12,
     "racers": [
       {
@@ -1482,14 +1482,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1370,
-        "wpm": 53,
+        "allTimeRaces": 1378,
+        "wpm": 52,
         "highestWPM": 84,
-        "teamRaces": 595,
-        "acc": 91.62,
+        "teamRaces": 603,
+        "acc": 91.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1792605240
+        "lastLogin": 1792673804
       },
       {
         "username": "baglepet000",
@@ -1538,14 +1538,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4657,
-        "wpm": 52,
+        "allTimeRaces": 4666,
+        "wpm": 50,
         "highestWPM": 121,
-        "teamRaces": 1240,
-        "acc": 87.63,
+        "teamRaces": 1252,
+        "acc": 87.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1792671969
+        "lastLogin": 1792674080
       },
       {
         "username": "00973d9bbf98af4eea02921a6082cb41",
@@ -1646,6 +1646,20 @@
         "lastLogin": 1792446927
       },
       {
+        "username": "mwhit4",
+        "displayName": "Mwhit4",
+        "role": "member",
+        "joinStamp": 1792672639,
+        "allTimeRaces": 7827,
+        "wpm": 61,
+        "highestWPM": 75,
+        "teamRaces": 141,
+        "acc": 94.12,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792671576
+      },
+      {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
@@ -1664,14 +1678,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3063,
-        "wpm": 93,
+        "allTimeRaces": 3101,
+        "wpm": 85,
         "highestWPM": 109,
-        "teamRaces": 1102,
-        "acc": 93.98,
+        "teamRaces": 1129,
+        "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1792638737
+        "lastLogin": 1792673265
       },
       {
         "username": "b1ff71ca0563f007c521386dded6fe19",
@@ -1762,14 +1776,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14176,
-        "wpm": 79,
+        "allTimeRaces": 14181,
+        "wpm": 78,
         "highestWPM": 100,
         "teamRaces": 887,
         "acc": 95.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1792608358
+        "lastLogin": 1792674517
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1923,7 +1937,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792639366
+        "lastLogin": 1792672631
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1998,20 +2012,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119809,
+        "races": 119857,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 47
+        "members": 48
       },
       "daily": {
-        "races": 791,
+        "races": 836,
         "avgWPM": 70,
         "avgAcc": 93.67,
-        "members": 47
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792672147463
+    "_syncedAt": 1792675106429
   }
 }

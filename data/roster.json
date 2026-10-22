@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 95,
-      "topWPM": 123,
-      "lifetimeRaces": 4815,
-      "teamRaces": 2390,
+      "avgWPM": 92,
+      "topWPM": 127,
+      "lifetimeRaces": 4837,
+      "teamRaces": 2412,
       "joined": "06/10/26"
     },
     {
@@ -353,10 +353,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 86,
+      "avgWPM": 81,
       "topWPM": 100,
-      "lifetimeRaces": 1441,
-      "teamRaces": 25,
+      "lifetimeRaces": 1444,
+      "teamRaces": 28,
       "joined": "10/06/26"
     },
     {
@@ -378,11 +378,11 @@
       "nickname": "Spring Speedster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 48,
-      "topWPM": 96,
-      "lifetimeRaces": 566,
-      "teamRaces": 318,
+      "tier": "A",
+      "avgWPM": 95,
+      "topWPM": 108,
+      "lifetimeRaces": 605,
+      "teamRaces": 357,
       "joined": "10/07/26"
     },
     {
@@ -433,8 +433,8 @@
       "tier": "B",
       "avgWPM": 84,
       "topWPM": 165,
-      "lifetimeRaces": 6630,
-      "teamRaces": 7,
+      "lifetimeRaces": 6631,
+      "teamRaces": 8,
       "joined": "10/09/26"
     },
     {
@@ -605,8 +605,21 @@
       "lifetimeRaces": 1185,
       "teamRaces": 0,
       "joined": "10/21/26"
+    },
+    {
+      "username": "53f35d28a54dfa99bfab7ecbf663428e",
+      "displayName": "loganim12btw",
+      "nickname": "WPM Wonderkid",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 91,
+      "topWPM": 215,
+      "lifetimeRaces": 784,
+      "teamRaces": 4,
+      "joined": "10/22/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792671897461
+  "_syncedAt": 1792674852351
 }
