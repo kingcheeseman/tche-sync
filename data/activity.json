@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 01:00:00",
-      "racer": "Nathan",
-      "races": 22
-    },
-    {
       "hour": "2026-10-21 03:00:00",
       "racer": "Ep_1K PFP VIEWS_Ep",
       "races": 14
@@ -317,5 +312,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792632360657
+  "_syncedAt": 1792634277971
 }

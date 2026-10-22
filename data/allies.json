@@ -6,7 +6,7 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2931,
+    "profileViews": 2933,
     "leagueTier": 12,
     "racers": [
       {
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792632404863
+    "_syncedAt": 1792634322589
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792632423896
+    "_syncedAt": 1792634341901
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792632442821
+    "_syncedAt": 1792634361084
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1496,14 +1496,14 @@
         "displayName": "ben the fem",
         "role": "member",
         "joinStamp": 1787588225,
-        "allTimeRaces": 3230,
-        "wpm": 66,
+        "allTimeRaces": 3231,
+        "wpm": 68,
         "highestWPM": 105,
-        "teamRaces": 1166,
+        "teamRaces": 1167,
         "acc": 93.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1792604495
+        "lastLogin": 1792633095
       },
       {
         "username": "pigglepigglepiggle",
@@ -1944,10 +1944,10 @@
         "displayName": "BRADYDARACER",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2300,
-        "wpm": 94,
+        "allTimeRaces": 2301,
+        "wpm": 91,
         "highestWPM": 117,
-        "teamRaces": 2286,
+        "teamRaces": 2287,
         "acc": 95.55,
         "season": null,
         "status": "active",
@@ -2026,20 +2026,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119693,
+        "races": 119695,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 46
       },
       "daily": {
-        "races": 863,
-        "avgWPM": 74,
-        "avgAcc": 93.68,
+        "races": 814,
+        "avgWPM": 72,
+        "avgAcc": 93.74,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792632612443
+    "_syncedAt": 1792634530717
   }
 }
