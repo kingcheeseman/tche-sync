@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 22:00:00",
-      "racer": "Bobby Junior",
-      "races": 1
-    },
-    {
       "hour": "2026-10-21 23:00:00",
       "racer": "insta _trewatkins",
       "races": 35
@@ -13,17 +8,12 @@
     {
       "hour": "2026-10-21 23:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 24
+      "races": 21
     },
     {
       "hour": "2026-10-21 23:00:00",
       "racer": "me_likey_typey",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-21 23:00:00",
-      "racer": "Bobby Junior",
-      "races": 4
+      "races": 9
     },
     {
       "hour": "2026-10-21 23:00:00",
@@ -82,12 +72,12 @@
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "loganim12btw",
+      "racer": "Amaterasu",
       "races": 1
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "Amaterasu",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -217,12 +207,12 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "Namedisplayed",
+      "racer": "WindMaker",
       "races": 1
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "WindMaker",
+      "racer": "Namedisplayed",
       "races": 1
     },
     {
@@ -397,5 +387,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792709717687
+  "_syncedAt": 1792711065707
 }

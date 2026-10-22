@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 274,
-        "avgWPM": 63,
-        "avgAcc": 94.61,
+        "races": 259,
+        "avgWPM": 64,
+        "avgAcc": 94.76,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792709760003
+    "_syncedAt": 1792711109052
   },
   "SVC": {
     "tag": "SVC",
@@ -1301,7 +1301,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792709779170
+    "_syncedAt": 1792711128505
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792709798179
+    "_syncedAt": 1792711147645
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1362,7 +1362,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4382,
+    "profileViews": 4383,
     "leagueTier": 12,
     "racers": [
       {
@@ -1384,11 +1384,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9450,
+        "allTimeRaces": 9473,
         "wpm": 108,
         "highestWPM": 135,
-        "teamRaces": 12,
-        "acc": 98.29,
+        "teamRaces": 42,
+        "acc": 98.18,
         "season": null,
         "status": "active",
         "lastLogin": 1792703060
@@ -1510,11 +1510,11 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 3027,
-        "wpm": 66,
+        "allTimeRaces": 3037,
+        "wpm": 65,
         "highestWPM": 80,
-        "teamRaces": 1316,
-        "acc": 96.47,
+        "teamRaces": 1332,
+        "acc": 96.46,
         "season": null,
         "status": "active",
         "lastLogin": 1792703128
@@ -1706,11 +1706,11 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2630,
-        "wpm": 45,
+        "allTimeRaces": 2635,
+        "wpm": 47,
         "highestWPM": 85,
-        "teamRaces": 1205,
-        "acc": 89.82,
+        "teamRaces": 1218,
+        "acc": 89.81,
         "season": null,
         "status": "active",
         "lastLogin": 1792707388
@@ -1860,14 +1860,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3482,
+        "allTimeRaces": 3483,
         "wpm": 39,
         "highestWPM": 60,
-        "teamRaces": 1944,
+        "teamRaces": 1945,
         "acc": 92.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1792705436
+        "lastLogin": 1792710480
       },
       {
         "username": "sara0010",
@@ -2068,20 +2068,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120800,
+        "races": 120860,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 1109,
-        "avgWPM": 68,
-        "avgAcc": 94.07,
+        "races": 1168,
+        "avgWPM": 69,
+        "avgAcc": 94.22,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792709967695
+    "_syncedAt": 1792711317587
   }
 }
