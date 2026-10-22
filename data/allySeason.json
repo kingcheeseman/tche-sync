@@ -2,11 +2,11 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 39,
-        "races": 456,
-        "accuracy": 91.61,
-        "wpm": 65.3,
-        "points": 55416,
+        "rank": 40,
+        "races": 451,
+        "accuracy": 91.57,
+        "wpm": 65.5,
+        "points": 54813,
         "ppr": 122
       },
       "season": {
@@ -49,12 +49,12 @@
     "points": 155901,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792627445730
+    "_syncedAt": 1792630226808
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 66,
+        "rank": 67,
         "races": 101,
         "accuracy": 94.87,
         "wpm": 84.5,
@@ -70,7 +70,7 @@
         "ppr": 133
       },
       "week": {
-        "rank": 66,
+        "rank": 65,
         "races": 739,
         "accuracy": 94.42,
         "wpm": 79.5,
@@ -101,7 +101,7 @@
     "points": 43143,
     "ppr": 133,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792627464739
+    "_syncedAt": 1792630245655
   },
   "IMTR": {
     "timeframes": {
@@ -118,16 +118,16 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792627634076
+    "_syncedAt": 1792630415088
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 25,
-        "races": 931,
-        "accuracy": 93.04,
-        "wpm": 74.8,
-        "points": 119001,
+        "races": 925,
+        "accuracy": 93.03,
+        "wpm": 74.7,
+        "points": 118181,
         "ppr": 128
       },
       "season": {
@@ -139,11 +139,11 @@
         "ppr": 126
       },
       "week": {
-        "rank": 22,
-        "races": 6584,
-        "accuracy": 92.92,
+        "rank": 23,
+        "races": 6494,
+        "accuracy": 92.94,
         "wpm": 66.6,
-        "points": 815448,
+        "points": 804521,
         "ppr": 124
       },
       "weekly": {
@@ -170,6 +170,6 @@
     "points": 330164,
     "ppr": 126,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792627656386
+    "_syncedAt": 1792630434024
   }
 }

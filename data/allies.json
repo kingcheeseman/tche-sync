@@ -6,8 +6,8 @@
     "activePercent": 94,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2928,
-    "leagueTier": 11,
+    "profileViews": 2929,
+    "leagueTier": 12,
     "racers": [
       {
         "username": "7786738cc9ba530c1191612ac17ae92d",
@@ -245,7 +245,7 @@
         "acc": 95.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1792614161
+        "lastLogin": 1792630134
       },
       {
         "username": "6fbd67f9d84f6c8b513276ecce2b0bd2",
@@ -634,15 +634,15 @@
         "members": 44
       },
       "daily": {
-        "races": 456,
+        "races": 451,
         "avgWPM": 65,
-        "avgAcc": 92.26,
+        "avgAcc": 92.22,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792627426748
+    "_syncedAt": 1792630207380
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792627446052
+    "_syncedAt": 1792630226956
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792627464895
+    "_syncedAt": 1792630245797
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1447,7 +1447,7 @@
         "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792595613
+        "lastLogin": 1792629164
       },
       {
         "username": "frareynolds",
@@ -2007,7 +2007,7 @@
         "acc": 91.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1792603970
+        "lastLogin": 1792628035
       },
       {
         "username": "malott12",
@@ -2032,14 +2032,14 @@
         "members": 46
       },
       "daily": {
-        "races": 956,
+        "races": 950,
         "avgWPM": 76,
-        "avgAcc": 93.48,
+        "avgAcc": 93.47,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792627634326
+    "_syncedAt": 1792630415279
   }
 }

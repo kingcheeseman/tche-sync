@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 47,
+  "members": 46,
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
@@ -651,37 +651,23 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792605336
-    },
-    {
-      "username": "4dc1f8092f9f1af881693b2dbb4efed1",
-      "displayName": "_KYZEN_",
-      "role": "member",
-      "joinStamp": 1792616971,
-      "allTimeRaces": 1818,
-      "wpm": 70,
-      "highestWPM": 89,
-      "teamRaces": 10,
-      "acc": 94.24,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792626897
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 56327,
+      "races": 56328,
       "avgWPM": 76,
       "avgAcc": 95.01,
-      "members": 47
+      "members": 46
     },
     "daily": {
-      "races": 1041,
-      "avgWPM": 84,
-      "avgAcc": 94.74,
-      "members": 47
+      "races": 1020,
+      "avgWPM": 83,
+      "avgAcc": 94.78,
+      "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792627303109
+  "_syncedAt": 1792630109549
 }
