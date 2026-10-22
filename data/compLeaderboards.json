@@ -221,7 +221,7 @@
         "wpm": 66.4,
         "accuracy": 90.37,
         "points": 9029,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 18,
@@ -364,10 +364,23 @@
         "wpm": 48.8,
         "accuracy": 91.87,
         "points": 5599,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 29,
+        "tag": "THB0S",
+        "username": "The Ghost",
+        "displayName": "The Ghost",
+        "nickname": "RIP",
+        "squad": "Active!",
+        "races": 41,
+        "wpm": 81.9,
+        "accuracy": 96.1,
+        "points": 5553,
+        "tier": "A"
+      },
+      {
+        "rank": 30,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -380,7 +393,7 @@
         "tier": "C"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -406,7 +419,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -417,19 +430,6 @@
         "accuracy": 96.37,
         "points": 4932,
         "tier": "B"
-      },
-      {
-        "rank": 33,
-        "tag": "THB0S",
-        "username": "The Ghost",
-        "displayName": "The Ghost",
-        "nickname": "RIP",
-        "squad": "Active!",
-        "races": 36,
-        "wpm": 82.1,
-        "accuracy": 96.32,
-        "points": 4891,
-        "tier": "A"
       },
       {
         "rank": 34,
@@ -949,7 +949,7 @@
         "wpm": 45.3,
         "accuracy": 95.75,
         "points": 822,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 74,
@@ -1196,7 +1196,7 @@
         "wpm": 60,
         "accuracy": 92.8,
         "points": 121,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 93,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792645281700
+    "_syncedAt": 1792646807867
   }
 }

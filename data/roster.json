@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 87,
+    "tierA": 88,
     "tierB": 77,
     "weeklyReq": 100
   },
@@ -196,7 +196,7 @@
       "nickname": "May The 4th Be With You",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 87,
       "topWPM": 100,
       "lifetimeRaces": 4132,
@@ -447,7 +447,7 @@
       "avgWPM": 55,
       "topWPM": 129,
       "lifetimeRaces": 18416,
-      "teamRaces": 678,
+      "teamRaces": 687,
       "joined": "10/13/26"
     },
     {
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792645239364
+  "_syncedAt": 1792646764936
 }
