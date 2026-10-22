@@ -238,6 +238,19 @@
       },
       {
         "rank": 19,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 60,
+        "wpm": 88.2,
+        "accuracy": 95.31,
+        "points": 8240,
+        "tier": "A"
+      },
+      {
+        "rank": 20,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -250,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "KEYCAT",
         "username": "Green, Grassy Cat",
         "displayName": "Green, Grassy Cat",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -289,7 +302,7 @@
         "tier": "B"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -302,7 +315,7 @@
         "tier": "B"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -315,7 +328,7 @@
         "tier": "B"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -326,19 +339,6 @@
         "accuracy": 94.98,
         "points": 5872,
         "tier": "B"
-      },
-      {
-        "rank": 26,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 43,
-        "wpm": 86.4,
-        "accuracy": 95.27,
-        "points": 5867,
-        "tier": "A"
       },
       {
         "rank": 27,
@@ -385,7 +385,7 @@
         "username": "Spy on teams",
         "displayName": "Spy on teams",
         "nickname": "Epic Nitro User",
-        "squad": "Officer",
+        "squad": "Active!",
         "races": 48,
         "wpm": 40.7,
         "accuracy": 90.94,
@@ -1290,6 +1290,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792634322355
+    "_syncedAt": 1792638029875
   }
 }
