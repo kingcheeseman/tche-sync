@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:linmauelmiranda",
+      "type": "new-member",
+      "text": "LedByHim joined the team.",
+      "meta": {
+        "username": "linmauelmiranda"
+      },
+      "createdAt": 1792691299686
+    },
+    {
       "key": "new-member:vlambjr",
       "type": "new-member",
       "text": "certified joined the team.",
@@ -286,5 +295,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792688588043
+  "_syncedAt": 1792691299686
 }

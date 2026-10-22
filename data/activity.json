@@ -2,18 +2,8 @@
   "hours": [
     {
       "hour": "2026-10-21 17:00:00",
-      "racer": "insta _trewatkins",
-      "races": 44
-    },
-    {
-      "hour": "2026-10-21 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-10-21 17:00:00",
       "racer": "WindMaker",
-      "races": 24
+      "races": 12
     },
     {
       "hour": "2026-10-21 17:00:00",
@@ -24,11 +14,6 @@
       "hour": "2026-10-21 17:00:00",
       "racer": "Torque_Demon",
       "races": 2
-    },
-    {
-      "hour": "2026-10-21 17:00:00",
-      "racer": "Amaterasu",
-      "races": 1
     },
     {
       "hour": "2026-10-21 18:00:00",
@@ -337,13 +322,13 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "t_unknown",
-      "races": 21
+      "racer": "KirbyDelta",
+      "races": 25
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "KirbyDelta",
-      "races": 13
+      "racer": "t_unknown",
+      "races": 21
     },
     {
       "hour": "2026-10-22 16:00:00",
@@ -357,15 +342,45 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "WindMaker",
-      "races": 1
+      "racer": "Nathan",
+      "races": 2
     },
     {
       "hour": "2026-10-22 16:00:00",
       "racer": "Namedisplayed",
       "races": 1
+    },
+    {
+      "hour": "2026-10-22 16:00:00",
+      "racer": "WindMaker",
+      "races": 1
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "Nathan",
+      "races": 43
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "insta _trewatkins",
+      "races": 39
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "KirbyDelta",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "Void Racer",
+      "races": 23
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "LedByHim",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792688547982
+  "_syncedAt": 1792691262041
 }

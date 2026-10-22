@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 88,
-    "tierB": 77,
+    "tierA": 87,
+    "tierB": 80,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 99,
       "topWPM": 127,
-      "lifetimeRaces": 4845,
-      "teamRaces": 2420,
+      "lifetimeRaces": 4873,
+      "teamRaces": 2443,
       "joined": "06/10/26"
     },
     {
@@ -27,7 +27,7 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 87,
       "topWPM": 110,
       "lifetimeRaces": 20201,
@@ -85,19 +85,6 @@
       "lifetimeRaces": 3092,
       "teamRaces": 55,
       "joined": "07/22/26"
-    },
-    {
-      "username": "tbnr_andy",
-      "displayName": "tbnr_andy",
-      "nickname": "Redline Ronin",
-      "role": "member",
-      "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 111,
-      "topWPM": 127,
-      "lifetimeRaces": 9224,
-      "teamRaces": 1009,
-      "joined": "07/29/26"
     },
     {
       "username": "e15c66b54114e594bdd4281610664507",
@@ -196,7 +183,7 @@
       "nickname": "May The 4th Be With You",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 87,
       "topWPM": 100,
       "lifetimeRaces": 4132,
@@ -366,10 +353,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 90,
+      "avgWPM": 91,
       "topWPM": 110,
-      "lifetimeRaces": 4885,
-      "teamRaces": 705,
+      "lifetimeRaces": 4930,
+      "teamRaces": 744,
       "joined": "10/06/26"
     },
     {
@@ -498,21 +485,8 @@
       "tier": "B",
       "avgWPM": 81,
       "topWPM": 102,
-      "lifetimeRaces": 6471,
-      "teamRaces": 438,
-      "joined": "10/15/26"
-    },
-    {
-      "username": "b50f63a92c838739469a2a0319696872",
-      "displayName": "ULT1M4TE",
-      "nickname": "Endurance Racer",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 67,
-      "topWPM": 84,
-      "lifetimeRaces": 1393,
-      "teamRaces": 10,
+      "lifetimeRaces": 6500,
+      "teamRaces": 475,
       "joined": "10/15/26"
     },
     {
@@ -587,10 +561,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 99,
       "topWPM": 128,
-      "lifetimeRaces": 5124,
-      "teamRaces": 112,
+      "lifetimeRaces": 5175,
+      "teamRaces": 157,
       "joined": "10/21/26"
     },
     {
@@ -644,8 +618,21 @@
       "lifetimeRaces": 13922,
       "teamRaces": 25,
       "joined": "10/22/26"
+    },
+    {
+      "username": "linmauelmiranda",
+      "displayName": "LedByHim",
+      "nickname": "Leafed on Read",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 95,
+      "topWPM": 110,
+      "lifetimeRaces": 4091,
+      "teamRaces": 4,
+      "joined": "10/22/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792688547981
+  "_syncedAt": 1792691262040
 }
