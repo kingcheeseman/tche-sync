@@ -2,11 +2,6 @@
   "hours": [
     {
       "hour": "2026-10-21 22:00:00",
-      "racer": "Torque_Demon",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-21 22:00:00",
       "racer": "Bobby Junior",
       "races": 1
     },
@@ -147,12 +142,12 @@
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "Unknown",
+      "racer": "PootsyWafflebiscuits",
       "races": 5
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "Unknown",
       "races": 5
     },
     {
@@ -393,9 +388,14 @@
     {
       "hour": "2026-10-22 22:00:00",
       "racer": "Nathan",
-      "races": 13
+      "races": 30
+    },
+    {
+      "hour": "2026-10-22 22:00:00",
+      "racer": "Torque_Demon",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792707492825
+  "_syncedAt": 1792709717687
 }
