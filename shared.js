@@ -111,6 +111,10 @@
     header.className = "topbar";
     header.innerHTML = `
       <div class="wrap topbar-inner">
+        <button class="nav-toggle" id="nav-toggle" aria-label="Open menu" aria-expanded="false">
+          <span class="nav-toggle-bars"><span></span><span></span><span></span></span>
+          <span class="nav-toggle-label">Menu</span>
+        </button>
         <nav class="tabs" id="nav">
           ${Object.entries(LABELS).map(([k,v])=>`<a href="${PAGES[k]}" data-tab="${k}" ${k===state.page?'class="active"':''}>${v}</a>`).join("")}
         </nav>
@@ -122,8 +126,29 @@
           <button class="btn primary btn-sm" id="sync-btn">Sync now</button>
           <span id="admin-slot"></span>
         </div>
-      </div>`;
+      </div>
+      <div class="nav-scrim" id="nav-scrim"></div>`;
     body.insertBefore(header, body.firstChild);
+
+    // Nav drawer (mobile/narrow): toggle open/closed, close on link click or
+    // outside click, so every page is always reachable — nothing hidden
+    // behind a scrollable strip.
+    const navToggle = document.getElementById("nav-toggle");
+    const navScrim = document.getElementById("nav-scrim");
+    const closeNav = () => {
+      document.body.classList.remove("nav-open");
+      navToggle.setAttribute("aria-expanded", "false");
+    };
+    navToggle.addEventListener("click", () => {
+      const open = document.body.classList.toggle("nav-open");
+      navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    navScrim.addEventListener("click", closeNav);
+    document.getElementById("nav").addEventListener("click", (e) => {
+      if (e.target.closest("a")) closeNav();
+    });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeNav(); });
+    window.addEventListener("resize", () => { if (window.innerWidth > 860) closeNav(); });
 
     // Main container (root becomes main)
     const root = document.getElementById("root");
@@ -1667,11 +1692,11 @@
         : `<span class="pill pill-gray">${Math.floor(lastSeenMs/DAY_MS)}d away</span>`;
       return `
         <tr${isCompared ? ' class="row-compared"' : ''}>
-          <td class="rank-cell ${rankCls}">${i+1}</td>
-          <td>
+          <td class="rank-cell ${rankCls}" data-label="Rank">${i+1}</td>
+          <td data-label="Compare">
             <input type="checkbox" class="compare-check" data-compare="${esc(r.username)}" ${isCompared ? "checked" : ""} aria-label="Compare ${esc(r.displayName || r.username)}">
           </td>
-          <td class="name">
+          <td class="name" data-label="Racer">
             <a href="${NT_RACER_URL(r.username)}" target="_blank" rel="noopener">${esc(r.displayName || r.username)}</a>
             ${isNew ? '<span class="pill pill-gold" style="margin-left:6px;">New</span>' : ''}
             <div class="name-sub">@${esc(r.username)} ${rolePill(resolveRole(r.username, r.role))} ${activePill}</div>
@@ -1679,16 +1704,16 @@
             ${note && note.text ? `<div class="racer-note">💬 ${esc(note.text)}</div>` : ""}
             ${state.isAdmin ? `<button class="note-edit-btn" data-note-user="${esc(r.username)}">${note && note.text ? "Edit note" : "+ Add note"}</button>` : ""}
           </td>
-          <td>${hasRosterData ? squadPill(squadOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
-          <td>${hasRosterData ? tierPill(tierOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
-          <td class="num num-primary">${fmt(extract.wpm(r))}</td>
-          <td class="num">${fmt(extract.highestWPM(r))}</td>
-          <td class="num">${fmt(extract.acc(r))}%</td>
-          <td class="num">${fmt(extract.alltime(r))}</td>
-          <td class="num">${fmt(extract.teamRaces(r))}</td>
-          <td class="num">${hasDailyData ? dailyBar(dailyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
-          <td class="num">${hasWeeklyData ? weeklyBar(weeklyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
-          <td class="num">${fmt(extract.season(r))}</td>
+          <td data-label="Squad">${hasRosterData ? squadPill(squadOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
+          <td data-label="Tier">${hasRosterData ? tierPill(tierOf(r.username)) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
+          <td class="num num-primary" data-label="Avg WPM">${fmt(extract.wpm(r))}</td>
+          <td class="num" data-label="Top WPM">${fmt(extract.highestWPM(r))}</td>
+          <td class="num" data-label="Accuracy">${fmt(extract.acc(r))}%</td>
+          <td class="num" data-label="Total races">${fmt(extract.alltime(r))}</td>
+          <td class="num" data-label="Team races">${fmt(extract.teamRaces(r))}</td>
+          <td class="num" data-label="Daily goal">${hasDailyData ? dailyBar(dailyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
+          <td class="num" data-label="Weekly goal">${hasWeeklyData ? weeklyBar(weeklyRaces) : `<span class="text-muted" style="font-size:11px;">—</span>`}</td>
+          <td class="num" data-label="Season">${fmt(extract.season(r))}</td>
         </tr>`;
     }).join("");
 
@@ -1866,13 +1891,13 @@
             <thead><tr><th>Event</th><th style="text-align:right;">Rank</th><th style="text-align:right;">Races</th><th style="text-align:right;">WPM</th><th style="text-align:right;">Accuracy</th><th style="text-align:right;">Points</th><th>Tier</th></tr></thead>
             <tbody>${compRows.map(r => `
               <tr>
-                <td>${esc(r.title)}${r.status ? ` <span class="text-muted" style="font-size:11px;">(${esc(r.status)})</span>` : ""}</td>
-                <td class="num rank-cell">${fmt(r.rank)}</td>
-                <td class="num">${fmt(r.races)}</td>
-                <td class="num">${fmt(r.wpm)}</td>
-                <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
-                <td class="num num-primary">${fmt(r.points)}</td>
-                <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
+                <td data-label="Event">${esc(r.title)}${r.status ? ` <span class="text-muted" style="font-size:11px;">(${esc(r.status)})</span>` : ""}</td>
+                <td class="num rank-cell" data-label="Rank">${fmt(r.rank)}</td>
+                <td class="num" data-label="Races">${fmt(r.races)}</td>
+                <td class="num" data-label="WPM">${fmt(r.wpm)}</td>
+                <td class="num" data-label="Accuracy">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                <td class="num num-primary" data-label="Points">${fmt(r.points)}</td>
+                <td data-label="Tier">${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
               </tr>`).join("")}</tbody>
           </table>
         </div>
@@ -1902,12 +1927,12 @@
             <thead><tr><th>Tournament</th><th>Round</th><th>Opponent</th><th style="text-align:right;">Score</th><th style="text-align:right;">Opp. score</th><th>Result</th></tr></thead>
             <tbody>${tourMatches.map(tm => `
               <tr>
-                <td>${esc(tm.tournament || "")}</td>
-                <td>${esc(tm.round)}</td>
-                <td>${tm.opp && !tm.opp.placeholder ? esc(tm.opp.racer) + (tm.opp.teamTag ? ` <span class="text-muted" style="font-size:11px;">[${esc(tm.opp.teamTag)}]</span>` : "") : "TBD"}</td>
-                <td class="num">${fmt(tm.me.score)}</td>
-                <td class="num">${tm.opp ? fmt(tm.opp.score) : "—"}</td>
-                <td>${!tm.decided ? `<span class="pill pill-gray">Pending</span>` : tm.won ? `<span class="pill pill-green">Won</span>` : `<span class="pill pill-yellow">Lost</span>`}</td>
+                <td data-label="Tournament">${esc(tm.tournament || "")}</td>
+                <td data-label="Round">${esc(tm.round)}</td>
+                <td data-label="Opponent">${tm.opp && !tm.opp.placeholder ? esc(tm.opp.racer) + (tm.opp.teamTag ? ` <span class="text-muted" style="font-size:11px;">[${esc(tm.opp.teamTag)}]</span>` : "") : "TBD"}</td>
+                <td class="num" data-label="Score">${fmt(tm.me.score)}</td>
+                <td class="num" data-label="Opp. score">${tm.opp ? fmt(tm.opp.score) : "—"}</td>
+                <td data-label="Result">${!tm.decided ? `<span class="pill pill-gray">Pending</span>` : tm.won ? `<span class="pill pill-green">Won</span>` : `<span class="pill pill-yellow">Lost</span>`}</td>
               </tr>`).join("")}</tbody>
           </table>
         </div>
@@ -2021,10 +2046,10 @@
       const pct = totalRaces ? ((races / totalRaces) * 100).toFixed(1) : "0.0";
       return `
         <tr>
-          <td class="rank-cell">${i + 1}</td>
-          <td class="name">${uname ? `<a href="racer.html?u=${encodeURIComponent(uname)}">${esc(name)}</a>` : esc(name)}</td>
-          <td class="num num-primary">${fmt(races)}</td>
-          <td class="num">${pct}%</td>
+          <td class="rank-cell" data-label="#">${i + 1}</td>
+          <td class="name" data-label="Racer">${uname ? `<a href="racer.html?u=${encodeURIComponent(uname)}">${esc(name)}</a>` : esc(name)}</td>
+          <td class="num num-primary" data-label="Races">${fmt(races)}</td>
+          <td class="num" data-label="Share">${pct}%</td>
         </tr>`;
     }).join("");
 
@@ -2239,16 +2264,16 @@
               const rankCls = i === 0 ? "top1" : i === 1 ? "top2" : i === 2 ? "top3" : "";
               return `
                 <tr>
-                  <td class="rank-cell ${rankCls}">${i+1}</td>
-                  <td class="name">
+                  <td class="rank-cell ${rankCls}" data-label="#">${i+1}</td>
+                  <td class="name" data-label="Racer">
                     <a href="${NT_RACER_URL(r.username)}" target="_blank" rel="noopener">${esc(r.displayName || r.username || "")}</a>
                     ${r.rank ? `<div class="name-sub">Startrack #${fmt(r.rank)}</div>` : ""}
                   </td>
-                  <td class="num num-primary">${fmt(r.races)}</td>
-                  <td class="num">${fmt(r.wpm)}</td>
-                  <td class="num">${fmt(r.accuracy)}%</td>
-                  <td class="num">${fmt(r.points)}</td>
-                  <td class="num">${fmt(r.ppr)}</td>
+                  <td class="num num-primary" data-label="Races">${fmt(r.races)}</td>
+                  <td class="num" data-label="WPM">${fmt(r.wpm)}</td>
+                  <td class="num" data-label="Accuracy">${fmt(r.accuracy)}%</td>
+                  <td class="num" data-label="Points">${fmt(r.points)}</td>
+                  <td class="num" data-label="PPR">${fmt(r.ppr)}</td>
                 </tr>`;
             }).join("")}
           </tbody>
@@ -2307,17 +2332,17 @@
                     const rankCls = i === 0 ? "top1" : i === 1 ? "top2" : i === 2 ? "top3" : "";
                     return `
                     <tr>
-                      <td class="rank-cell ${rankCls}">${r.rank || i + 1}</td>
-                      <td class="name">
+                      <td class="rank-cell ${rankCls}" data-label="#">${r.rank || i + 1}</td>
+                      <td class="name" data-label="Racer">
                         ${esc(r.displayName || r.username || "")}${r.tag ? ` <span class="text-muted" style="font-weight:500; font-size:11px;">[${esc(r.tag)}]</span>` : ""}
                         ${r.nickname ? `<div class="name-sub">"${esc(r.nickname)}"</div>` : ""}
                       </td>
-                      <td class="text-dim">${esc(r.squad || "—")}</td>
-                      <td class="num num-primary">${fmt(r.races)}</td>
-                      <td class="num">${fmt(r.wpm)}</td>
-                      <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
-                      <td class="num">${fmt(r.points)}</td>
-                      <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
+                      <td class="text-dim" data-label="Squad">${esc(r.squad || "—")}</td>
+                      <td class="num num-primary" data-label="Races">${fmt(r.races)}</td>
+                      <td class="num" data-label="WPM">${fmt(r.wpm)}</td>
+                      <td class="num" data-label="Accuracy">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                      <td class="num" data-label="Points">${fmt(r.points)}</td>
+                      <td data-label="Tier">${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
                     </tr>`;
                   }).join("")}
                 </tbody>
@@ -2517,17 +2542,17 @@
             <tbody>
               ${seeding.map((r, i) => `
                 <tr>
-                  <td class="rank-cell">${r.rank || i + 1}</td>
-                  <td class="name">
+                  <td class="rank-cell" data-label="#">${r.rank || i + 1}</td>
+                  <td class="name" data-label="Racer">
                     ${esc(r.displayName || r.username || r.racer || "")}${r.tag ? ` <span class="text-muted" style="font-weight:500; font-size:11px;">[${esc(r.tag)}]</span>` : ""}
                     ${r.nickname ? `<div class="name-sub">"${esc(r.nickname)}"</div>` : ""}
                   </td>
-                  <td class="text-dim">${esc(r.squad || "—")}</td>
-                  <td class="num">${fmt(r.races)}</td>
-                  <td class="num">${fmt(r.wpm)}</td>
-                  <td class="num">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
-                  <td class="num num-primary">${fmt(r.points)}</td>
-                  <td>${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
+                  <td class="text-dim" data-label="Squad">${esc(r.squad || "—")}</td>
+                  <td class="num" data-label="Races">${fmt(r.races)}</td>
+                  <td class="num" data-label="WPM">${fmt(r.wpm)}</td>
+                  <td class="num" data-label="Accuracy">${r.accuracy != null ? fmt(r.accuracy) + "%" : "—"}</td>
+                  <td class="num num-primary" data-label="Points">${fmt(r.points)}</td>
+                  <td data-label="Tier">${r.tier ? `<span class="pill pill-gray">${esc(r.tier)}</span>` : "—"}</td>
                 </tr>`).join("")}
             </tbody>
           </table>
@@ -2578,13 +2603,13 @@
       const tf = season && season.timeframes;
       const tfRow = (label, data) => data ? `
         <tr>
-          <td class="ally-tf-label">${esc(label)}</td>
-          <td class="num">${data.rank ? "#" + fmt(data.rank) : "—"}</td>
-          <td class="num">${fmt(data.races)}</td>
-          <td class="num">${fmt(data.wpm)}</td>
-          <td class="num">${fmt(data.accuracy)}%</td>
-          <td class="num num-primary">${fmt(data.points)}</td>
-          <td class="num">${fmt(data.ppr)}</td>
+          <td class="ally-tf-label" data-label="Timeframe">${esc(label)}</td>
+          <td class="num" data-label="Rank">${data.rank ? "#" + fmt(data.rank) : "—"}</td>
+          <td class="num" data-label="Races">${fmt(data.races)}</td>
+          <td class="num" data-label="WPM">${fmt(data.wpm)}</td>
+          <td class="num" data-label="Acc">${fmt(data.accuracy)}%</td>
+          <td class="num num-primary" data-label="Points">${fmt(data.points)}</td>
+          <td class="num" data-label="PPR">${fmt(data.ppr)}</td>
         </tr>` : "";
       return `
         <div class="ally ally-rich">
@@ -2669,28 +2694,28 @@
             </thead>
             <tbody>
               <tr style="background: var(--yellow-wash);">
-                <td class="name"><strong>[TCHE]</strong> ${esc(state.team.name || "")}</td>
-                <td class="num num-primary">${fmt(state.team.members || 0)}</td>
-                <td class="num">${fmt(tcheData.races || 0)}</td>
-                <td class="num">${fmt(tcheData.avgWPM || 0)}</td>
-                <td class="num">${fmt(tcheData.avgAcc || 0)}%</td>
-                <td class="num">${tcheSeason ? "#" + fmt(tcheSeason.rank) : "—"}</td>
-                <td class="num">${tcheSeason ? fmt(tcheSeason.points) : "—"}</td>
+                <td class="name" data-label="Team"><strong>[TCHE]</strong> ${esc(state.team.name || "")}</td>
+                <td class="num num-primary" data-label="Members">${fmt(state.team.members || 0)}</td>
+                <td class="num" data-label="Alltime races">${fmt(tcheData.races || 0)}</td>
+                <td class="num" data-label="Avg WPM">${fmt(tcheData.avgWPM || 0)}</td>
+                <td class="num" data-label="Avg acc">${fmt(tcheData.avgAcc || 0)}%</td>
+                <td class="num" data-label="Season rank">${tcheSeason ? "#" + fmt(tcheSeason.rank) : "—"}</td>
+                <td class="num" data-label="Season pts">${tcheSeason ? fmt(tcheSeason.points) : "—"}</td>
               </tr>
               ${state.allies.map(tag => {
                 const d = state.allyData[tag];
                 const season = state.allySeason[tag];
-                if (!d) return `<tr><td class="name">[${esc(tag)}]</td><td colspan="6" class="num text-muted">Not synced</td></tr>`;
+                if (!d) return `<tr><td class="name" data-label="Team">[${esc(tag)}]</td><td colspan="6" class="num text-muted" data-label="Status">Not synced</td></tr>`;
                 const a = (d.aggregates && d.aggregates.alltime) || {};
                 return `
                   <tr>
-                    <td class="name"><strong>[${esc(tag)}]</strong> ${esc(d.name || "")}</td>
-                    <td class="num">${fmt(d.members || 0)}</td>
-                    <td class="num">${fmt(a.races || 0)}</td>
-                    <td class="num">${fmt(a.avgWPM || 0)}</td>
-                    <td class="num">${fmt(a.avgAcc || 0)}%</td>
-                    <td class="num">${season ? "#" + fmt(season.rank) : "—"}</td>
-                    <td class="num">${season ? fmt(season.points) : "—"}</td>
+                    <td class="name" data-label="Team"><strong>[${esc(tag)}]</strong> ${esc(d.name || "")}</td>
+                    <td class="num" data-label="Members">${fmt(d.members || 0)}</td>
+                    <td class="num" data-label="Alltime races">${fmt(a.races || 0)}</td>
+                    <td class="num" data-label="Avg WPM">${fmt(a.avgWPM || 0)}</td>
+                    <td class="num" data-label="Avg acc">${fmt(a.avgAcc || 0)}%</td>
+                    <td class="num" data-label="Season rank">${season ? "#" + fmt(season.rank) : "—"}</td>
+                    <td class="num" data-label="Season pts">${season ? fmt(season.points) : "—"}</td>
                   </tr>`;
               }).join("")}
             </tbody>
@@ -2778,9 +2803,9 @@
       const bWins = a != null && b != null && better(b, a);
       return `
         <tr>
-          <td class="text-dim">${esc(label)}</td>
-          <td class="num ${aWins ? "num-primary" : ""}" style="${aWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${a != null ? fmtFn(a) + (unit || "") : "—"}</td>
-          <td class="num ${bWins ? "num-primary" : ""}" style="${bWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${b != null ? fmtFn(b) + (unit || "") : "—"}</td>
+          <td class="text-dim" data-label="Metric">${esc(label)}</td>
+          <td class="num ${aWins ? "num-primary" : ""}" data-label="[${esc(TEAM_TAG)}]" style="${aWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${a != null ? fmtFn(a) + (unit || "") : "—"}</td>
+          <td class="num ${bWins ? "num-primary" : ""}" data-label="[${esc(rival)}]" style="${bWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${b != null ? fmtFn(b) + (unit || "") : "—"}</td>
         </tr>`;
     };
 

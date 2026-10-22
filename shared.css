@@ -167,15 +167,17 @@ header.topbar {
 }
 .brand-sub { font-size: 11px; color: var(--text-muted); font-weight: 500; letter-spacing: 0.3px; }
 
+/* Nav: every page is always reachable — wraps onto extra rows on desktop
+   (never clipped behind a hidden-scrollbar strip) and becomes a full
+   dropdown drawer on narrow screens (see .nav-toggle / body.nav-open below)
+   instead of something you have to scroll sideways to discover. */
 nav.tabs {
   display: flex;
+  flex-wrap: wrap;
   gap: 4px;
-  overflow-x: auto;
-  scrollbar-width: none;
   flex: 1;
   min-width: 0;
 }
-nav.tabs::-webkit-scrollbar { display: none; }
 nav.tabs a {
   position: relative;
   padding: 9px 16px;
@@ -188,6 +190,64 @@ nav.tabs a {
   white-space: nowrap;
   text-decoration: none;
   transition: color 150ms, background 150ms;
+}
+
+/* Hamburger toggle — hidden on wide screens where the wrapped tab row has
+   room to show everything at once. */
+.nav-toggle {
+  display: none;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+}
+.nav-toggle-bars { display: flex; flex-direction: column; gap: 3px; width: 16px; }
+.nav-toggle-bars span { display: block; height: 2px; border-radius: 2px; background: var(--text); }
+.nav-scrim {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 10, 26, 0.45);
+  z-index: 55;
+}
+
+@media (max-width: 860px) {
+  .nav-toggle { display: inline-flex; }
+  nav.tabs {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    max-height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 2px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow-lg);
+    padding: 10px calc(16px + env(safe-area-inset-left, 0px)) calc(16px + env(safe-area-inset-bottom, 0px));
+  }
+  body.nav-open nav.tabs { display: flex; }
+  body.nav-open .nav-scrim { display: block; }
+  nav.tabs a {
+    width: 100%;
+    padding: 13px 16px;
+    border-radius: 12px;
+    font-size: 14.5px;
+  }
+  nav.tabs a.active { box-shadow: none; }
 }
 .nav-tab-dot {
   position: absolute;
@@ -512,6 +572,78 @@ table.racers .name a { color: var(--text); }
 .name-sub { color: var(--text-muted); font-size: 12px; font-weight: 500; margin-top: 2px; }
 table.racers .num { text-align: right; font-weight: 500; font-size: 14px; }
 table.racers .num-primary { font-weight: 700; color: var(--text); font-family: var(--font-display); letter-spacing: -0.2px; }
+
+/* Below this width, data tables (table.racers and .ally-tf-table) stop
+   being something you scroll sideways to read — each row becomes its own
+   full-width card instead, stacked top to bottom, every column still
+   labeled and visible without any horizontal movement. */
+@media (max-width: 760px) {
+  .table-wrap {
+    overflow-x: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  table.racers, .ally-tf-table {
+    min-width: 0;
+    width: 100%;
+    display: block;
+  }
+  table.racers thead, .ally-tf-table thead { display: none; }
+  table.racers tbody, .ally-tf-table tbody { display: block; }
+  table.racers tbody tr, .ally-tf-table tbody tr {
+    display: block;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 12px;
+    overflow: hidden;
+  }
+  table.racers tbody tr:last-child, .ally-tf-table tbody tr:last-child { margin-bottom: 0; }
+  table.racers tbody tr:hover, .ally-tf-table tbody tr:hover { background: var(--surface); }
+  table.racers tbody td, .ally-tf-table tbody td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+    width: auto;
+    text-align: right;
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  table.racers tbody tr td:last-child, .ally-tf-table tbody tr td:last-child { border-bottom: 0; }
+  table.racers tbody td[data-label]::before, .ally-tf-table tbody td[data-label]::before {
+    content: attr(data-label);
+    flex-shrink: 0;
+    text-align: left;
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 10.5px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+  /* The "Racer"/name cell carries a rich multi-line block (link, badges,
+     sub-line, note button) — reads better as the card's own header than
+     squeezed into a label/value row. */
+  table.racers tbody td.name {
+    display: block;
+    text-align: left;
+    background: var(--surface-2);
+    font-size: 16px;
+  }
+  table.racers tbody td.name::before { content: none; }
+  /* Full-width status rows (colspan — empty states, "Not synced", section
+     dividers) stay simple blocks rather than label/value rows. */
+  table.racers tbody td[colspan], .ally-tf-table tbody td[colspan] {
+    display: block;
+    text-align: center;
+  }
+  table.racers tbody td[colspan]::before, .ally-tf-table tbody td[colspan]::before { content: none; }
+  table.racers .rank-cell { width: auto; font-size: 14px; }
+}
 
 /* HOME HERO */
 .hero {
@@ -1207,6 +1339,19 @@ table.racers .num-primary { font-weight: 700; color: var(--text); font-family: v
   font-weight: 700;
   margin-bottom: 2px;
 }
+/* The hourly chart genuinely needs more width than 24 columns can shrink
+   to and still stay readable, so on narrow screens let it bleed out to the
+   true screen edges (like a native app's horizontal carousel) instead of
+   scrolling sideways inside a cramped, inset card. */
+@media (max-width: 760px) {
+  .activity-chart-wrap {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding: 10px 20px 10px;
+  }
+}
+
 .activity-legend { display: flex; flex-wrap: wrap; gap: 10px 16px; margin-top: 16px; }
 .activity-legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-dim); }
 .activity-legend-swatch { width: 10px; height: 10px; border-radius: 3px; flex-shrink: 0; }
