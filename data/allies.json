@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 44,
-    "activePercent": 94,
+    "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2934,
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792641684188
+    "_syncedAt": 1792643289677
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792641710352
+    "_syncedAt": 1792643308974
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,16 +1367,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792641729497
+    "_syncedAt": 1792643328018
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 47,
-    "activePercent": 97,
+    "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4324,
+    "profileViews": 4325,
     "leagueTier": 12,
     "racers": [
       {
@@ -1916,14 +1916,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5868,
-        "wpm": 86,
+        "allTimeRaces": 5874,
+        "wpm": 84,
         "highestWPM": 109,
-        "teamRaces": 261,
-        "acc": 94.84,
+        "teamRaces": 266,
+        "acc": 94.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1792619289
+        "lastLogin": 1792643122
       },
       {
         "username": "nev444ehh",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119755,
+        "races": 119760,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 763,
-        "avgWPM": 70,
-        "avgAcc": 93.6,
+        "races": 767,
+        "avgWPM": 71,
+        "avgAcc": 93.62,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792641899317
+    "_syncedAt": 1792643497681
   }
 }

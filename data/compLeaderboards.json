@@ -408,6 +408,19 @@
       {
         "rank": 32,
         "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 39,
+        "wpm": 62.5,
+        "accuracy": 96.37,
+        "points": 4932,
+        "tier": "B"
+      },
+      {
+        "rank": 33,
+        "tag": "THB0S",
         "username": "Myst_ry",
         "displayName": "Myst_ry",
         "nickname": "Solid Gold",
@@ -419,7 +432,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "The Big Yahu",
         "displayName": "The Big Yahu",
@@ -432,7 +445,7 @@
         "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "SVC",
         "username": "Im not warmed up",
         "displayName": "Im not warmed up",
@@ -445,7 +458,7 @@
         "tier": "C"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "THB0S",
         "username": "Patrick Jane",
         "displayName": "Patrick Jane",
@@ -458,7 +471,7 @@
         "tier": "A"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -471,7 +484,7 @@
         "tier": "A"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "THB0S",
         "username": "GOATFLOAT",
         "displayName": "GOATFLOAT",
@@ -484,7 +497,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -497,7 +510,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -507,19 +520,6 @@
         "wpm": 68.8,
         "accuracy": 82.04,
         "points": 4079,
-        "tier": "B"
-      },
-      {
-        "rank": 40,
-        "tag": "THB0S",
-        "username": "Speedster-1",
-        "displayName": "Speedster-1",
-        "nickname": "Pro Gamer Move",
-        "squad": null,
-        "races": 32,
-        "wpm": 62,
-        "accuracy": 96.44,
-        "points": 4043,
         "tier": "B"
       },
       {
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792641683968
+    "_syncedAt": 1792643289458
   }
 }

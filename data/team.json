@@ -2,7 +2,7 @@
   "tag": "IMT",
   "name": "Immortal Legends",
   "members": 46,
-  "activePercent": 95,
+  "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
   "profileViews": 2021,
@@ -181,14 +181,14 @@
       "displayName": "Ep_1K PFP VIEWS_Ep",
       "role": "member",
       "joinStamp": 1791866672,
-      "allTimeRaces": 18387,
-      "wpm": 65,
+      "allTimeRaces": 18400,
+      "wpm": 59,
       "highestWPM": 129,
-      "teamRaces": 635,
-      "acc": 98.35,
+      "teamRaces": 657,
+      "acc": 98.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1792640035
+      "lastLogin": 1792642875
     },
     {
       "username": "6f89f1bde5b8c5cc3b94c3286fb614dc",
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 56346,
+      "races": 56368,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 46
     },
     "daily": {
-      "races": 999,
-      "avgWPM": 83,
-      "avgAcc": 94.82,
+      "races": 996,
+      "avgWPM": 82,
+      "avgAcc": 94.78,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792641584594
+  "_syncedAt": 1792643190805
 }
