@@ -2,18 +2,13 @@
   "hours": [
     {
       "hour": "2026-10-21 20:00:00",
-      "racer": "Void Racer",
-      "races": 25
-    },
-    {
-      "hour": "2026-10-21 20:00:00",
       "racer": "-HyperTyper-",
       "races": 7
     },
     {
       "hour": "2026-10-21 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 4
+      "racer": "Void Racer",
+      "races": 3
     },
     {
       "hour": "2026-10-21 20:00:00",
@@ -272,12 +267,12 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "WindMaker",
+      "racer": "Namedisplayed",
       "races": 1
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "Namedisplayed",
+      "racer": "WindMaker",
       "races": 1
     },
     {
@@ -332,12 +327,12 @@
     },
     {
       "hour": "2026-10-22 18:00:00",
-      "racer": "sterling757",
+      "racer": "Unknown",
       "races": 1
     },
     {
       "hour": "2026-10-22 18:00:00",
-      "racer": "Unknown",
+      "racer": "sterling757",
       "races": 1
     },
     {
@@ -372,15 +367,45 @@
     },
     {
       "hour": "2026-10-22 20:00:00",
+      "racer": "LedByHim",
+      "races": 15
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 10
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "insta _trewatkins",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "-HyperTyper-",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
       "racer": "The Queen",
       "races": 4
     },
     {
       "hour": "2026-10-22 20:00:00",
+      "racer": "KippKat",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
       "racer": "Namedisplayed",
       "races": 2
+    },
+    {
+      "hour": "2026-10-22 20:00:00",
+      "racer": "newkeyboard512",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792700397817
+  "_syncedAt": 1792702669096
 }
