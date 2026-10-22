@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:tre1typer:5000",
+      "type": "milestone",
+      "text": "insta _trewatkins crossed 5,000 lifetime races!",
+      "meta": {
+        "username": "tre1typer",
+        "milestone": 5000
+      },
+      "createdAt": 1792706233208
+    },
+    {
       "key": "new-member:linmauelmiranda",
       "type": "new-member",
       "text": "LedByHim joined the team.",
@@ -295,5 +305,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792704144487
+  "_syncedAt": 1792706233208
 }
