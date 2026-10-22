@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 15:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 20
-    },
-    {
-      "hour": "2026-10-21 15:00:00",
-      "racer": "The Big Yahu",
-      "races": 20
-    },
-    {
-      "hour": "2026-10-21 15:00:00",
-      "racer": "Sile314",
-      "races": 16
-    },
-    {
       "hour": "2026-10-21 16:00:00",
       "racer": "me_likey_typey",
       "races": 23
@@ -97,12 +82,12 @@
     },
     {
       "hour": "2026-10-21 19:00:00",
-      "racer": "The Queen",
+      "racer": "sterling757",
       "races": 2
     },
     {
       "hour": "2026-10-21 19:00:00",
-      "racer": "sterling757",
+      "racer": "The Queen",
       "races": 2
     },
     {
@@ -332,20 +317,35 @@
     },
     {
       "hour": "2026-10-22 15:00:00",
+      "racer": "insta _trewatkins",
+      "races": 22
+    },
+    {
+      "hour": "2026-10-22 15:00:00",
+      "racer": "The Queen",
+      "races": 13
+    },
+    {
+      "hour": "2026-10-22 15:00:00",
       "racer": "Sile314",
       "races": 7
     },
     {
       "hour": "2026-10-22 15:00:00",
-      "racer": "certified",
-      "races": 2
+      "racer": "t_unknown",
+      "races": 6
     },
     {
       "hour": "2026-10-22 15:00:00",
-      "racer": "insta _trewatkins",
-      "races": 1
+      "racer": "PootsyWafflebiscuits",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-22 15:00:00",
+      "racer": "certified",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792682912477
+  "_syncedAt": 1792685308824
 }
