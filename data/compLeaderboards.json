@@ -797,6 +797,19 @@
       },
       {
         "rank": 62,
+        "tag": "THB0S",
+        "username": "Lachlan676767676767",
+        "displayName": "Lachlan676767676767",
+        "nickname": "Epic Nitro User",
+        "squad": null,
+        "races": 14,
+        "wpm": 53.6,
+        "accuracy": 92.36,
+        "points": 1639,
+        "tier": "C"
+      },
+      {
+        "rank": 63,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -809,7 +822,7 @@
         "tier": "C"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "tag": "THB0S",
         "username": "ben the fem",
         "displayName": "ben the fem",
@@ -822,7 +835,7 @@
         "tier": "B"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "tag": "IMT",
         "username": "disgratedboy191",
         "displayName": "disgratedboy191",
@@ -835,7 +848,7 @@
         "tier": "C"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -846,19 +859,6 @@
         "accuracy": 92.05,
         "points": 1551,
         "tier": "B"
-      },
-      {
-        "rank": 66,
-        "tag": "THB0S",
-        "username": "Lachlan676767676767",
-        "displayName": "Lachlan676767676767",
-        "nickname": "Epic Nitro User",
-        "squad": null,
-        "races": 13,
-        "wpm": 54.3,
-        "accuracy": 92.98,
-        "points": 1537,
-        "tier": "C"
       },
       {
         "rank": 67,
@@ -1303,6 +1303,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792650141746
+    "_syncedAt": 1792653741852
   }
 }

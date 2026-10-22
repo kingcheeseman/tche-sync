@@ -634,7 +634,7 @@
         "members": 44
       },
       "daily": {
-        "races": 475,
+        "races": 461,
         "avgWPM": 66,
         "avgAcc": 92.48,
         "members": 44
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792650141894
+    "_syncedAt": 1792653742079
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792650160749
+    "_syncedAt": 1792653761230
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792650179471
+    "_syncedAt": 1792653780111
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1671,7 +1671,7 @@
         "acc": 97.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792640319
+        "lastLogin": 1792652929
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1986,14 +1986,14 @@
         "displayName": "Lachlan676767676767",
         "role": "member",
         "joinStamp": 1792116747,
-        "allTimeRaces": 1226,
-        "wpm": 54,
+        "allTimeRaces": 1230,
+        "wpm": 50,
         "highestWPM": 86,
-        "teamRaces": 80,
-        "acc": 92.09,
+        "teamRaces": 84,
+        "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792571622
+        "lastLogin": 1792652812
       },
       {
         "username": "500big",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 119780,
+        "races": 119784,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 47
       },
       "daily": {
-        "races": 787,
+        "races": 791,
         "avgWPM": 71,
-        "avgAcc": 93.7,
+        "avgAcc": 93.69,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792650348659
+    "_syncedAt": 1792653949763
   }
 }

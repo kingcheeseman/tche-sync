@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-21 06:00:00",
-      "racer": "rorok09",
-      "races": 39
-    },
-    {
       "hour": "2026-10-21 07:00:00",
       "racer": "rorok09",
-      "races": 53
+      "races": 28
     },
     {
       "hour": "2026-10-21 08:00:00",
@@ -162,12 +157,12 @@
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "KippKat",
+      "racer": "me_likey_typey",
       "races": 6
     },
     {
       "hour": "2026-10-21 18:00:00",
-      "racer": "me_likey_typey",
+      "racer": "KippKat",
       "races": 6
     },
     {
@@ -313,9 +308,9 @@
     {
       "hour": "2026-10-22 06:00:00",
       "racer": "Ep_1K PFP VIEWS_Ep",
-      "races": 9
+      "races": 23
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792650101614
+  "_syncedAt": 1792653700756
 }
