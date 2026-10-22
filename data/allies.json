@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2934,
+    "profileViews": 2935,
     "leagueTier": 12,
     "racers": [
       {
@@ -196,11 +196,11 @@
         "displayName": "that guy",
         "role": "member",
         "joinStamp": 1792566237,
-        "allTimeRaces": 854,
-        "wpm": 58,
+        "allTimeRaces": 862,
+        "wpm": 59,
         "highestWPM": 75,
-        "teamRaces": 25,
-        "acc": 93.66,
+        "teamRaces": 33,
+        "acc": 94.17,
         "season": null,
         "status": "active",
         "lastLogin": 1792657694
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78165,
+        "races": 78173,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 472,
+        "races": 480,
         "avgWPM": 66,
-        "avgAcc": 92.54,
+        "avgAcc": 92.59,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792658799797
+    "_syncedAt": 1792660696424
   },
   "SVC": {
     "tag": "SVC",
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792658818587
+    "_syncedAt": 1792660715299
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792658837388
+    "_syncedAt": 1792660734099
   },
   "THB0S": {
     "tag": "THB0S",
@@ -2054,6 +2054,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792659006797
+    "_syncedAt": 1792660903622
   }
 }
