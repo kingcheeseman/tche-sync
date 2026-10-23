@@ -27,11 +27,11 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6913,
-      "wpm": 108,
+      "allTimeRaces": 6922,
+      "wpm": 101,
       "highestWPM": 132,
-      "teamRaces": 173,
-      "acc": 95.98,
+      "teamRaces": 184,
+      "acc": 95.94,
       "season": null,
       "status": "active",
       "lastLogin": 1792778641
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5365,
-      "wpm": 99,
+      "allTimeRaces": 5370,
+      "wpm": 103,
       "highestWPM": 128,
-      "teamRaces": 353,
-      "acc": 95.38,
+      "teamRaces": 357,
+      "acc": 95.37,
       "season": null,
       "status": "active",
-      "lastLogin": 1792767840
+      "lastLogin": 1792781189
     },
     {
       "username": "tre1typer",
@@ -279,14 +279,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3907,
-      "wpm": 97,
+      "allTimeRaces": 3926,
+      "wpm": 103,
       "highestWPM": 120,
-      "teamRaces": 258,
+      "teamRaces": 276,
       "acc": 96.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1792776770
+      "lastLogin": 1792780512
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -300,7 +300,7 @@
       "acc": 90.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792769802
+      "lastLogin": 1792780656
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -419,14 +419,14 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2269,
-      "wpm": 71,
+      "allTimeRaces": 2277,
+      "wpm": 70,
       "highestWPM": 85,
-      "teamRaces": 95,
-      "acc": 91.57,
+      "teamRaces": 102,
+      "acc": 91.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1792777151
+      "lastLogin": 1792780635
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58045,
+      "races": 58085,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 984,
+      "races": 988,
       "avgWPM": 83,
-      "avgAcc": 94.36,
+      "avgAcc": 94.35,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792779272635
+  "_syncedAt": 1792781452336
 }
