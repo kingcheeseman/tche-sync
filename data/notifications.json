@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:newkeyboard512",
+      "type": "new-member",
+      "text": "-HyperTyper- joined the team.",
+      "meta": {
+        "username": "newkeyboard512"
+      },
+      "createdAt": 1792788287145
+    },
+    {
       "key": "new-member:aa4cdca9a5dfd9b967fe0c0efe24d5ed",
       "type": "new-member",
       "text": "Kingzillao9 joined the team.",
@@ -336,5 +345,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792786546117
+  "_syncedAt": 1792788287145
 }

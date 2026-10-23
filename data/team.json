@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2061,
+  "profileViews": 2062,
   "leagueTier": 12,
   "racers": [
     {
@@ -167,11 +167,11 @@
       "displayName": "Kingzillao9",
       "role": "member",
       "joinStamp": 1792784226,
-      "allTimeRaces": 1104,
-      "wpm": 63,
-      "highestWPM": 101,
-      "teamRaces": 2,
-      "acc": 95.22,
+      "allTimeRaces": 1113,
+      "wpm": 66,
+      "highestWPM": 109,
+      "teamRaces": 12,
+      "acc": 95.07,
       "season": null,
       "status": "active",
       "lastLogin": 1792785932
@@ -279,14 +279,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6550,
-      "wpm": 80,
+      "allTimeRaces": 6551,
+      "wpm": 81,
       "highestWPM": 102,
       "teamRaces": 525,
       "acc": 93.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1792771056
+      "lastLogin": 1792788098
     },
     {
       "username": "cash4087",
@@ -419,14 +419,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1449,
-      "wpm": 94,
+      "allTimeRaces": 1456,
+      "wpm": 99,
       "highestWPM": 119,
-      "teamRaces": 1102,
+      "teamRaces": 1105,
       "acc": 94.42,
       "season": null,
       "status": "active",
-      "lastLogin": 1792784793
+      "lastLogin": 1792787869
     },
     {
       "username": "imenishat",
@@ -503,10 +503,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4974,
-      "wpm": 91,
+      "allTimeRaces": 4983,
+      "wpm": 92,
       "highestWPM": 127,
-      "teamRaces": 2548,
+      "teamRaces": 2558,
       "acc": 92.57,
       "season": null,
       "status": "active",
@@ -581,20 +581,6 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792162866
-    },
-    {
-      "username": "accwithlegthighspeed",
-      "displayName": "-HyperTyper-",
-      "role": "officer",
-      "joinStamp": 1790451240,
-      "allTimeRaces": 2897,
-      "wpm": 47,
-      "highestWPM": 124,
-      "teamRaces": 3342,
-      "acc": 98.95,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792754577
     },
     {
       "username": "53f35d28a54dfa99bfab7ecbf663428e",
@@ -693,23 +679,37 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792782803
+    },
+    {
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "role": "officer",
+      "joinStamp": 1792787085,
+      "allTimeRaces": 258,
+      "wpm": 91,
+      "highestWPM": 111,
+      "teamRaces": 15,
+      "acc": 91.34,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792786730
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 58218,
+      "races": 58249,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 49
     },
     "daily": {
-      "races": 1070,
+      "races": 1073,
       "avgWPM": 84,
-      "avgAcc": 94.51,
+      "avgAcc": 94.47,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792786431330
+  "_syncedAt": 1792788195262
 }

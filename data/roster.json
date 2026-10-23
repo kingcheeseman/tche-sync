@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 88,
       "topWPM": 127,
-      "lifetimeRaces": 4970,
-      "teamRaces": 2538,
+      "lifetimeRaces": 4979,
+      "teamRaces": 2552,
       "joined": "06/10/26"
     },
     {
@@ -253,19 +253,6 @@
       "topWPM": 104,
       "lifetimeRaces": 2011,
       "teamRaces": 556,
-      "joined": "09/26/26"
-    },
-    {
-      "username": "accwithlegthighspeed",
-      "displayName": "-HyperTyper-",
-      "nickname": "Nitro Drift",
-      "role": "officer",
-      "squad": "Dominator 2.5k",
-      "tier": "C",
-      "avgWPM": 47,
-      "topWPM": 124,
-      "lifetimeRaces": 2897,
-      "teamRaces": 3342,
       "joined": "09/26/26"
     },
     {
@@ -563,8 +550,8 @@
       "tier": "A",
       "avgWPM": 100,
       "topWPM": 128,
-      "lifetimeRaces": 5406,
-      "teamRaces": 389,
+      "lifetimeRaces": 5411,
+      "teamRaces": 399,
       "joined": "10/21/26"
     },
     {
@@ -637,15 +624,28 @@
       "displayName": "Kingzillao9",
       "nickname": "Dvorak Destroyer",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 63,
-      "topWPM": 101,
-      "lifetimeRaces": 1101,
-      "teamRaces": 0,
+      "avgWPM": 66,
+      "topWPM": 109,
+      "lifetimeRaces": 1113,
+      "teamRaces": 12,
+      "joined": "10/23/26"
+    },
+    {
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "nickname": "Crazy About Typing",
+      "role": "officer",
+      "squad": "Starter Fund",
+      "tier": "A",
+      "avgWPM": 91,
+      "topWPM": 111,
+      "lifetimeRaces": 258,
+      "teamRaces": 11,
       "joined": "10/23/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792786506843
+  "_syncedAt": 1792788250449
 }
