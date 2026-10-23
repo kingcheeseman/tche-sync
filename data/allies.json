@@ -462,11 +462,11 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5171,
+        "allTimeRaces": 5174,
         "wpm": 81,
         "highestWPM": 112,
-        "teamRaces": 735,
-        "acc": 94.92,
+        "teamRaces": 738,
+        "acc": 94.91,
         "season": null,
         "status": "active",
         "lastLogin": 1792753272
@@ -504,14 +504,14 @@
         "displayName": "Void Racer alt",
         "role": "officer",
         "joinStamp": 1791232953,
-        "allTimeRaces": 304,
+        "allTimeRaces": 305,
         "wpm": 74,
         "highestWPM": 113,
         "teamRaces": 60,
         "acc": 93.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1792715973
+        "lastLogin": 1792757078
       },
       {
         "username": "happygoluckygirl07",
@@ -605,8 +605,8 @@
         "allTimeRaces": 483,
         "wpm": 61,
         "highestWPM": 77,
-        "teamRaces": 8,
-        "acc": 95.59,
+        "teamRaces": 10,
+        "acc": 95.57,
         "season": null,
         "status": "active",
         "lastLogin": 1792754364
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78411,
+        "races": 78416,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 44
       },
       "daily": {
-        "races": 226,
+        "races": 230,
         "avgWPM": 64,
-        "avgAcc": 94.83,
+        "avgAcc": 94.86,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792755769126
+    "_syncedAt": 1792757329639
   },
   "SVC": {
     "tag": "SVC",
@@ -651,7 +651,7 @@
     "activePercent": 56,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2032,
+    "profileViews": 2033,
     "leagueTier": 10,
     "racers": [
       {
@@ -1315,7 +1315,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792755788320
+    "_syncedAt": 1792757348933
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1367,7 +1367,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792755807431
+    "_syncedAt": 1792757367827
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1849,7 +1849,7 @@
         "allTimeRaces": 3512,
         "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 1973,
+        "teamRaces": 1974,
         "acc": 92.11,
         "season": null,
         "status": "active",
@@ -1867,7 +1867,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792723007
+        "lastLogin": 1792757260
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -2035,7 +2035,7 @@
         "acc": 92.74,
         "season": null,
         "status": "active",
-        "lastLogin": 1792753778
+        "lastLogin": 1792757507
       },
       {
         "username": "malott12",
@@ -2054,13 +2054,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121038,
+        "races": 121039,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1229,
+        "races": 1230,
         "avgWPM": 68,
         "avgAcc": 94.12,
         "members": 48
@@ -2068,6 +2068,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792755976965
+    "_syncedAt": 1792757537914
   }
 }
