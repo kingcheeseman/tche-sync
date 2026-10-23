@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792767461742
+        "_syncedAt": 1792768703576
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Natuski",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2210,11 +2210,11 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Natuski",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 11080
+                  "score": 11916
                 }
               ],
               "winner": null
@@ -2258,7 +2258,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 34755
+                  "score": 37292
                 }
               ],
               "winner": 1
@@ -2412,7 +2412,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 1755
+                  "score": 1871
                 }
               ],
               "winner": 1
@@ -2514,7 +2514,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 4481
+                  "score": 5915
                 },
                 {
                   "seed": "43",
@@ -2525,7 +2525,7 @@
                   "score": 5274
                 }
               ],
-              "winner": 1
+              "winner": 0
             }
           ]
         },
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792767478847
+        "_syncedAt": 1792768720277
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792767478851
+  "_syncedAt": 1792768720280
 }

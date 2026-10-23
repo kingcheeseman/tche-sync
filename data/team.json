@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5354,
-      "wpm": 101,
+      "allTimeRaces": 5355,
+      "wpm": 100,
       "highestWPM": 128,
-      "teamRaces": 342,
+      "teamRaces": 343,
       "acc": 95.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1792765044
+      "lastLogin": 1792767840
     },
     {
       "username": "tre1typer",
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4943,
-      "wpm": 97,
+      "allTimeRaces": 4954,
+      "wpm": 91,
       "highestWPM": 127,
-      "teamRaces": 2510,
+      "teamRaces": 2529,
       "acc": 92.57,
       "season": null,
       "status": "active",
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 785,
-      "wpm": 58,
+      "allTimeRaces": 799,
+      "wpm": 106,
       "highestWPM": 108,
-      "teamRaces": 528,
-      "acc": 92.06,
+      "teamRaces": 551,
+      "acc": 92.02,
       "season": null,
       "status": "active",
       "lastLogin": 1792766920
@@ -643,10 +643,10 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4801,
-      "wpm": 88,
+      "allTimeRaces": 4804,
+      "wpm": 87,
       "highestWPM": 111,
-      "teamRaces": 1157,
+      "teamRaces": 1168,
       "acc": 91.74,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57795,
+      "races": 57849,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 1086,
+      "races": 1120,
       "avgWPM": 85,
-      "avgAcc": 94.58,
+      "avgAcc": 94.49,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792767380645
+  "_syncedAt": 1792768626235
 }

@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 14:00:00",
-      "racer": "certified",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-22 14:00:00",
-      "racer": "Unknown",
-      "races": 5
-    },
-    {
       "hour": "2026-10-22 15:00:00",
       "racer": "insta _trewatkins",
-      "races": 22
+      "races": 21
     },
     {
       "hour": "2026-10-22 15:00:00",
@@ -34,11 +24,6 @@
       "hour": "2026-10-22 15:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 3
-    },
-    {
-      "hour": "2026-10-22 15:00:00",
-      "racer": "certified",
-      "races": 2
     },
     {
       "hour": "2026-10-22 16:00:00",
@@ -332,12 +317,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
+      "racer": "Nathan",
       "races": 7
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Nathan",
+      "racer": "Void Racer",
       "races": 7
     },
     {
@@ -367,18 +352,23 @@
     },
     {
       "hour": "2026-10-23 14:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 33
+    },
+    {
+      "hour": "2026-10-23 14:00:00",
       "racer": "Namedisplayed",
       "races": 27
     },
     {
       "hour": "2026-10-23 14:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 18
+      "racer": "viewmyvioletgarage",
+      "races": 26
     },
     {
       "hour": "2026-10-23 14:00:00",
-      "racer": "viewmyvioletgarage",
-      "races": 15
+      "racer": "Void Racer",
+      "races": 14
     },
     {
       "hour": "2026-10-23 14:00:00",
@@ -391,11 +381,21 @@
       "races": 1
     },
     {
-      "hour": "2026-10-23 14:00:00",
+      "hour": "2026-10-23 15:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-23 15:00:00",
       "racer": "Void Racer",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-23 15:00:00",
+      "racer": "Nathan",
       "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792767441466
+  "_syncedAt": 1792768682173
 }
