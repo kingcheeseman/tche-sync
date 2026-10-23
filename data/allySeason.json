@@ -2,12 +2,12 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 39,
-        "races": 370,
-        "accuracy": 93.23,
-        "wpm": 60.8,
-        "points": 44974,
-        "ppr": 122
+        "rank": 43,
+        "races": 340,
+        "accuracy": 92.99,
+        "wpm": 61.3,
+        "points": 41303,
+        "ppr": 121
       },
       "season": {
         "rank": 43,
@@ -19,11 +19,11 @@
       },
       "week": {
         "rank": 42,
-        "races": 2149,
-        "accuracy": 92.24,
-        "wpm": 65.7,
-        "points": 263301,
-        "ppr": 123
+        "races": 2130,
+        "accuracy": 92.22,
+        "wpm": 65.5,
+        "points": 260780,
+        "ppr": 122
       },
       "weekly": {
         "rank": 43,
@@ -49,40 +49,40 @@
     "points": 225002,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792783123747
+    "_syncedAt": 1792785289250
   },
   "SVC": {
     "timeframes": {
       "24h": {
         "rank": 52,
-        "races": 250,
-        "accuracy": 93.01,
-        "wpm": 74.8,
-        "points": 31953,
+        "races": 255,
+        "accuracy": 92.99,
+        "wpm": 75,
+        "points": 32609,
         "ppr": 128
       },
       "season": {
         "rank": 59,
-        "races": 769,
-        "accuracy": 94.12,
-        "wpm": 80.8,
-        "points": 101638,
+        "races": 774,
+        "accuracy": 94.11,
+        "wpm": 80.9,
+        "points": 102291,
         "ppr": 132
       },
       "week": {
         "rank": 63,
-        "races": 900,
-        "accuracy": 94.2,
-        "wpm": 79.9,
-        "points": 118662,
+        "races": 905,
+        "accuracy": 94.18,
+        "wpm": 80,
+        "points": 119315,
         "ppr": 132
       },
       "weekly": {
         "rank": 59,
-        "races": 769,
-        "accuracy": 94.12,
-        "wpm": 80.8,
-        "points": 101638,
+        "races": 774,
+        "accuracy": 94.11,
+        "wpm": 80.9,
+        "points": 102291,
         "ppr": 132
       },
       "alltime": {
@@ -95,13 +95,13 @@
       }
     },
     "rank": 59,
-    "races": 769,
-    "accuracy": 94.12,
-    "wpm": 80.8,
-    "points": 101638,
+    "races": 774,
+    "accuracy": 94.11,
+    "wpm": 80.9,
+    "points": 102291,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792783142596
+    "_syncedAt": 1792785308069
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792783312130
+    "_syncedAt": 1792785477320
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 24,
-        "races": 804,
-        "accuracy": 94,
-        "wpm": 71.1,
-        "points": 102462,
-        "ppr": 127
+        "rank": 23,
+        "races": 852,
+        "accuracy": 94.26,
+        "wpm": 73.1,
+        "points": 109648,
+        "ppr": 129
       },
       "season": {
         "rank": 28,
-        "races": 4316,
-        "accuracy": 93.36,
-        "wpm": 70.3,
-        "points": 544636,
+        "races": 4364,
+        "accuracy": 93.42,
+        "wpm": 70.7,
+        "points": 551834,
         "ppr": 126
       },
       "week": {
         "rank": 23,
-        "races": 6200,
-        "accuracy": 93.61,
-        "wpm": 70.8,
-        "points": 785846,
+        "races": 6253,
+        "accuracy": 93.63,
+        "wpm": 71,
+        "points": 793187,
         "ppr": 127
       },
       "weekly": {
         "rank": 28,
-        "races": 4465,
-        "accuracy": 93.34,
-        "wpm": 69.7,
-        "points": 562095,
+        "races": 4541,
+        "accuracy": 93.41,
+        "wpm": 70.3,
+        "points": 573218,
         "ppr": 126
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 28,
-    "races": 4316,
-    "accuracy": 93.36,
-    "wpm": 70.3,
-    "points": 544636,
+    "races": 4364,
+    "accuracy": 93.42,
+    "wpm": 70.7,
+    "points": 551834,
     "ppr": 126,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792783331426
+    "_syncedAt": 1792785496166
   }
 }
