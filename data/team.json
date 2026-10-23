@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2052,
+  "profileViews": 2056,
   "leagueTier": 12,
   "racers": [
     {
@@ -237,14 +237,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5302,
+      "allTimeRaces": 5310,
       "wpm": 73,
       "highestWPM": 111,
-      "teamRaces": 273,
-      "acc": 94.81,
+      "teamRaces": 281,
+      "acc": 94.84,
       "season": null,
       "status": "active",
-      "lastLogin": 1792770329
+      "lastLogin": 1792775126
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -419,14 +419,14 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2254,
-      "wpm": 66,
+      "allTimeRaces": 2268,
+      "wpm": 72,
       "highestWPM": 85,
-      "teamRaces": 80,
-      "acc": 91.3,
+      "teamRaces": 94,
+      "acc": 91.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792686656
+      "lastLogin": 1792774417
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -538,7 +538,7 @@
       "acc": 92.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1792766920
+      "lastLogin": 1792775250
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -587,28 +587,28 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 803,
+      "allTimeRaces": 809,
       "wpm": 92,
       "highestWPM": 215,
-      "teamRaces": 23,
-      "acc": 92.07,
+      "teamRaces": 29,
+      "acc": 92.25,
       "season": null,
       "status": "active",
-      "lastLogin": 1792761482
+      "lastLogin": 1792773903
     },
     {
       "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
       "displayName": "reteyrhyj",
       "role": "member",
       "joinStamp": 1792448692,
-      "allTimeRaces": 5353,
-      "wpm": 64,
+      "allTimeRaces": 5355,
+      "wpm": 66,
       "highestWPM": 103,
-      "teamRaces": 56,
-      "acc": 90.76,
+      "teamRaces": 58,
+      "acc": 90.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1792705738
+      "lastLogin": 1792775777
     },
     {
       "username": "bc6469247e9ac57a0a45c6c345d4bb57",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57986,
+      "races": 58016,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 1165,
+      "races": 1099,
       "avgWPM": 84,
-      "avgAcc": 94.44,
+      "avgAcc": 94.39,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792773699874
+  "_syncedAt": 1792776153434
 }
