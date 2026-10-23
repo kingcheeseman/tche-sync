@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 87,
+    "tierA": 88,
     "tierB": 80,
     "weeklyReq": 100
   },
@@ -27,7 +27,7 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 87,
       "topWPM": 110,
       "lifetimeRaces": 20201,
@@ -183,7 +183,7 @@
       "nickname": "May The 4th Be With You",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 87,
       "topWPM": 100,
       "lifetimeRaces": 4132,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792730503069
+  "_syncedAt": 1792732281108
 }

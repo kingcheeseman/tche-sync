@@ -325,7 +325,7 @@
         "wpm": 90,
         "accuracy": 97.63,
         "points": 10192,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 26,
@@ -356,6 +356,19 @@
       {
         "rank": 28,
         "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 68,
+        "wpm": 62.3,
+        "accuracy": 95.99,
+        "points": 8559,
+        "tier": "C"
+      },
+      {
+        "rank": 29,
+        "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
         "nickname": "Champion Chaser",
@@ -367,7 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "Natuski",
         "displayName": "Natuski",
@@ -403,10 +416,10 @@
         "wpm": 66,
         "accuracy": 88.98,
         "points": 8048,
-        "tier": "B"
+        "tier": "A"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "KEYCAT",
         "username": "TheDoctor225181",
         "displayName": "TheDoctor225181",
@@ -419,7 +432,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "THB0S",
         "username": "Patrick Jane",
         "displayName": "Patrick Jane",
@@ -429,10 +442,10 @@
         "wpm": 83,
         "accuracy": 92.45,
         "points": 7719,
-        "tier": "A"
+        "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -443,19 +456,6 @@
         "accuracy": 97.84,
         "points": 7561,
         "tier": "A"
-      },
-      {
-        "rank": 35,
-        "tag": "THB0S",
-        "username": "Speedster-1",
-        "displayName": "Speedster-1",
-        "nickname": "Pro Gamer Move",
-        "squad": null,
-        "races": 59,
-        "wpm": 62.7,
-        "accuracy": 96.22,
-        "points": 7457,
-        "tier": "C"
       },
       {
         "rank": 36,
@@ -559,7 +559,7 @@
         "wpm": 82.1,
         "accuracy": 95.88,
         "points": 6491,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 44,
@@ -598,7 +598,7 @@
         "wpm": 72.2,
         "accuracy": 95.5,
         "points": 6109,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 47,
@@ -1326,7 +1326,7 @@
         "wpm": 69,
         "accuracy": 95.71,
         "points": 386,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 103,
@@ -1498,6 +1498,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792730543186
+    "_syncedAt": 1792732322153
   }
 }
