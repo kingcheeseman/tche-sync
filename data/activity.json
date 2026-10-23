@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 06:00:00",
-      "racer": "Ep_1K PFP VIEWS_Ep",
-      "races": 14
-    },
-    {
       "hour": "2026-10-22 11:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 21
@@ -172,12 +167,12 @@
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "WindMaker",
+      "racer": "Namedisplayed",
       "races": 1
     },
     {
       "hour": "2026-10-22 16:00:00",
-      "racer": "Namedisplayed",
+      "racer": "WindMaker",
       "races": 1
     },
     {
@@ -387,5 +382,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792735831336
+  "_syncedAt": 1792737986655
 }
