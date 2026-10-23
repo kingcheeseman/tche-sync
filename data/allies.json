@@ -217,7 +217,7 @@
         "acc": 90.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792689901
+        "lastLogin": 1792749871
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792748723350
+    "_syncedAt": 1792750578228
   },
   "SVC": {
     "tag": "SVC",
@@ -1301,7 +1301,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792748743072
+    "_syncedAt": 1792750597200
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792748762184
+    "_syncedAt": 1792750616286
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1362,7 +1362,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4393,
+    "profileViews": 4395,
     "leagueTier": 12,
     "racers": [
       {
@@ -1832,14 +1832,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3483,
-        "wpm": 39,
+        "allTimeRaces": 3498,
+        "wpm": 40,
         "highestWPM": 60,
-        "teamRaces": 1945,
-        "acc": 92.11,
+        "teamRaces": 1960,
+        "acc": 92.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792710480
+        "lastLogin": 1792749279
       },
       {
         "username": "sara0010",
@@ -2040,13 +2040,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121010,
+        "races": 121025,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1226,
+        "races": 1239,
         "avgWPM": 68,
         "avgAcc": 94.09,
         "members": 48
@@ -2054,6 +2054,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792748932027
+    "_syncedAt": 1792750785890
   }
 }

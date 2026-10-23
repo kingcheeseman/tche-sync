@@ -356,6 +356,19 @@
       {
         "rank": 28,
         "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 91,
+        "wpm": 40.2,
+        "accuracy": 90.49,
+        "points": 9890,
+        "tier": "C"
+      },
+      {
+        "rank": 29,
+        "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
         "nickname": "Pro Gamer Move",
@@ -367,7 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -380,7 +393,7 @@
         "tier": "C"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -391,19 +404,6 @@
         "accuracy": 95.11,
         "points": 8270,
         "tier": "A"
-      },
-      {
-        "rank": 31,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 76,
-        "wpm": 40.4,
-        "accuracy": 90.24,
-        "points": 8243,
-        "tier": "C"
       },
       {
         "rank": 32,
@@ -1511,6 +1511,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792748723126
+    "_syncedAt": 1792750578082
   }
 }
