@@ -3,22 +3,22 @@
     {
       "hour": "2026-10-22 17:00:00",
       "racer": "Void Racer",
-      "races": 37
-    },
-    {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "Nathan",
-      "races": 32
+      "races": 16
     },
     {
       "hour": "2026-10-22 17:00:00",
       "racer": "insta _trewatkins",
-      "races": 31
+      "races": 13
     },
     {
       "hour": "2026-10-22 17:00:00",
       "racer": "LedByHim",
       "races": 13
+    },
+    {
+      "hour": "2026-10-22 17:00:00",
+      "racer": "Nathan",
+      "races": 8
     },
     {
       "hour": "2026-10-22 17:00:00",
@@ -192,12 +192,12 @@
     },
     {
       "hour": "2026-10-23 03:00:00",
-      "racer": "cone_manager",
+      "racer": "Nathan",
       "races": 1
     },
     {
       "hour": "2026-10-23 03:00:00",
-      "racer": "Nathan",
+      "racer": "cone_manager",
       "races": 1
     },
     {
@@ -267,12 +267,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Amaterasu",
+      "racer": "Joe and Uh",
       "races": 2
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Joe and Uh",
+      "racer": "Amaterasu",
       "races": 2
     },
     {
@@ -337,12 +337,12 @@
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "t_unknown",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "t_unknown",
       "races": 3
     },
     {
@@ -383,14 +383,24 @@
     {
       "hour": "2026-10-23 17:00:00",
       "racer": "IMIME_IMIME",
-      "races": 6
+      "races": 14
     },
     {
       "hour": "2026-10-23 17:00:00",
       "racer": "t_unknown",
-      "races": 2
+      "races": 10
+    },
+    {
+      "hour": "2026-10-23 17:00:00",
+      "racer": "reteyrhyj",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-23 17:00:00",
+      "racer": "Namedisplayed",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792776210745
+  "_syncedAt": 1792777236211
 }
