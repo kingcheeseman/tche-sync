@@ -1,36 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 26
-    },
-    {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "Void Racer",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "The Queen",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "Amaterasu",
-      "races": 1
-    },
-    {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "loganim12btw",
-      "races": 1
-    },
-    {
-      "hour": "2026-10-22 13:00:00",
-      "racer": "loganim12btw",
-      "races": 18
-    },
-    {
       "hour": "2026-10-22 13:00:00",
       "racer": "Amaterasu",
       "races": 16
@@ -47,8 +17,13 @@
     },
     {
       "hour": "2026-10-22 13:00:00",
+      "racer": "loganim12btw",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-22 13:00:00",
       "racer": "YellowBronzeCoral",
-      "races": 2
+      "races": 1
     },
     {
       "hour": "2026-10-22 14:00:00",
@@ -77,12 +52,12 @@
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "Unknown",
       "races": 5
     },
     {
       "hour": "2026-10-22 14:00:00",
-      "racer": "Unknown",
+      "racer": "PootsyWafflebiscuits",
       "races": 5
     },
     {
@@ -242,12 +217,12 @@
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "KippKat",
+      "racer": "Void Racer",
       "races": 2
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "Void Racer",
+      "racer": "KippKat",
       "races": 2
     },
     {
@@ -383,7 +358,7 @@
     {
       "hour": "2026-10-23 12:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 33
+      "races": 49
     },
     {
       "hour": "2026-10-23 12:00:00",
@@ -393,9 +368,29 @@
     {
       "hour": "2026-10-23 12:00:00",
       "racer": "Void Racer",
+      "races": 23
+    },
+    {
+      "hour": "2026-10-23 12:00:00",
+      "racer": "disgratedboy191",
       "races": 6
+    },
+    {
+      "hour": "2026-10-23 12:00:00",
+      "racer": "Joe and Uh",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-23 13:00:00",
+      "racer": "Void Racer",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-23 13:00:00",
+      "racer": "t_unknown",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792759548985
+  "_syncedAt": 1792761811166
 }

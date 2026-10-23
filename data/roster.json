@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 98,
       "topWPM": 127,
-      "lifetimeRaces": 4916,
-      "teamRaces": 2485,
+      "lifetimeRaces": 4934,
+      "teamRaces": 2509,
       "joined": "06/10/26"
     },
     {
@@ -303,8 +303,8 @@
       "tier": "C",
       "avgWPM": 75,
       "topWPM": 90,
-      "lifetimeRaces": 2333,
-      "teamRaces": 438,
+      "lifetimeRaces": 2339,
+      "teamRaces": 444,
       "joined": "10/05/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 56,
+      "avgWPM": 57,
       "topWPM": 108,
-      "lifetimeRaces": 749,
-      "teamRaces": 494,
+      "lifetimeRaces": 758,
+      "teamRaces": 510,
       "joined": "10/07/26"
     },
     {
@@ -469,11 +469,11 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 86,
       "topWPM": 111,
-      "lifetimeRaces": 5280,
-      "teamRaces": 251,
+      "lifetimeRaces": 5285,
+      "teamRaces": 253,
       "joined": "10/15/26"
     },
     {
@@ -573,11 +573,11 @@
       "nickname": "Epic Nitro User",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 86,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 109,
-      "lifetimeRaces": 1190,
-      "teamRaces": 5,
+      "lifetimeRaces": 1195,
+      "teamRaces": 10,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792759548984
+  "_syncedAt": 1792761811165
 }

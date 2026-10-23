@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792759569584
+        "_syncedAt": 1792761834418
       }
     },
     {
@@ -2214,7 +2214,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 8857
+                  "score": 11080
                 }
               ],
               "winner": null
@@ -2258,7 +2258,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 31357
+                  "score": 34619
                 }
               ],
               "winner": 1
@@ -2382,7 +2382,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 8270
+                  "score": 8403
                 },
                 {
                   "seed": "18",
@@ -2390,7 +2390,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 17123
+                  "score": 17355
                 }
               ],
               "winner": 1
@@ -2470,7 +2470,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 20205
+                  "score": 20575
                 },
                 {
                   "seed": "19",
@@ -2500,7 +2500,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 11334
+                  "score": 11598
                 }
               ],
               "winner": 0
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792759586478
+        "_syncedAt": 1792761850931
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792759586480
+  "_syncedAt": 1792761850935
 }
