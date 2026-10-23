@@ -74,10 +74,10 @@
         "displayName": "SUPER_PIGGLE",
         "nickname": "Car Collector",
         "squad": "Active!",
-        "races": 283,
+        "races": 291,
         "wpm": 64.8,
-        "accuracy": 96.43,
-        "points": 36138,
+        "accuracy": 96.41,
+        "points": 37141,
         "tier": "C"
       },
       {
@@ -87,10 +87,10 @@
         "displayName": "Mwhit4",
         "nickname": "Ghost Lap",
         "squad": "Active!",
-        "races": 293,
-        "wpm": 62.1,
-        "accuracy": 93.74,
-        "points": 35995,
+        "races": 297,
+        "wpm": 62,
+        "accuracy": 93.77,
+        "points": 36488,
         "tier": "C"
       },
       {
@@ -161,6 +161,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Ghost Lap",
+        "squad": "Side Hustler 100",
+        "races": 200,
+        "wpm": 79.8,
+        "accuracy": 93.28,
+        "points": 26095,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
         "nickname": "Original Gangster",
@@ -170,19 +183,6 @@
         "accuracy": 96.85,
         "points": 25697,
         "tier": "A"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Ghost Lap",
-        "squad": "Side Hustler 100",
-        "races": 175,
-        "wpm": 80.3,
-        "accuracy": 93.37,
-        "points": 22902,
-        "tier": "B"
       },
       {
         "rank": 15,
@@ -295,14 +295,27 @@
         "displayName": "Spy on teams",
         "nickname": "Epic Nitro User",
         "squad": "Active!",
-        "races": 134,
-        "wpm": 40.4,
-        "accuracy": 90.05,
-        "points": 14506,
+        "races": 137,
+        "wpm": 40.3,
+        "accuracy": 89.99,
+        "points": 14815,
         "tier": "C"
       },
       {
         "rank": 24,
+        "tag": "KEYCAT",
+        "username": "Adam Smasher",
+        "displayName": "Adam Smasher",
+        "nickname": "I Love Cats",
+        "squad": "Investor 1k ;)",
+        "races": 117,
+        "wpm": 66.2,
+        "accuracy": 88.94,
+        "points": 13852,
+        "tier": "B"
+      },
+      {
+        "rank": 25,
         "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
@@ -313,19 +326,6 @@
         "accuracy": 95.15,
         "points": 13524,
         "tier": "A"
-      },
-      {
-        "rank": 25,
-        "tag": "KEYCAT",
-        "username": "Adam Smasher",
-        "displayName": "Adam Smasher",
-        "nickname": "I Love Cats",
-        "squad": "Investor 1k ;)",
-        "races": 113,
-        "wpm": 66.3,
-        "accuracy": 88.94,
-        "points": 13385,
-        "tier": "B"
       },
       {
         "rank": 26,
@@ -369,6 +369,19 @@
       {
         "rank": 29,
         "tag": "SVC",
+        "username": "emmett",
+        "displayName": "emmett",
+        "nickname": "Astronaut",
+        "squad": "Member",
+        "races": 90,
+        "wpm": 84,
+        "accuracy": 94.02,
+        "points": 12017,
+        "tier": "B"
+      },
+      {
+        "rank": 30,
+        "tag": "SVC",
         "username": "Im not warmed up",
         "displayName": "Im not warmed up",
         "nickname": "Raw Racing Recruit",
@@ -380,7 +393,7 @@
         "tier": "C"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -393,7 +406,7 @@
         "tier": "B"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -403,19 +416,6 @@
         "wpm": 53.8,
         "accuracy": 94.88,
         "points": 11198,
-        "tier": "B"
-      },
-      {
-        "rank": 32,
-        "tag": "SVC",
-        "username": "emmett",
-        "displayName": "emmett",
-        "nickname": "Astronaut",
-        "squad": "Member",
-        "races": 79,
-        "wpm": 84.3,
-        "accuracy": 94.75,
-        "points": 10638,
         "tier": "B"
       },
       {
@@ -706,6 +706,19 @@
       },
       {
         "rank": 55,
+        "tag": "IMT",
+        "username": "IMIME_IMIME",
+        "displayName": "IMIME_IMIME",
+        "nickname": "Yeah, Buoy!",
+        "squad": "Starter Fund",
+        "races": 45,
+        "wpm": 69.3,
+        "accuracy": 92.46,
+        "points": 5604,
+        "tier": "C"
+      },
+      {
+        "rank": 56,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -718,7 +731,7 @@
         "tier": "B"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -731,7 +744,7 @@
         "tier": "A"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -744,7 +757,7 @@
         "tier": "A"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -757,7 +770,7 @@
         "tier": "B"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -770,7 +783,7 @@
         "tier": "B"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -781,19 +794,6 @@
         "accuracy": 93.08,
         "points": 5082,
         "tier": "B"
-      },
-      {
-        "rank": 61,
-        "tag": "IMT",
-        "username": "IMIME_IMIME",
-        "displayName": "IMIME_IMIME",
-        "nickname": "Yeah, Buoy!",
-        "squad": "Starter Fund",
-        "races": 40,
-        "wpm": 69.2,
-        "accuracy": 92.66,
-        "points": 4988,
-        "tier": "C"
       },
       {
         "rank": 62,
@@ -810,6 +810,19 @@
       },
       {
         "rank": 63,
+        "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Starter Fund",
+        "races": 36,
+        "wpm": 91.1,
+        "accuracy": 91.2,
+        "points": 4779,
+        "tier": "A"
+      },
+      {
+        "rank": 64,
         "tag": "SVC",
         "username": "la balright",
         "displayName": "la balright",
@@ -820,19 +833,6 @@
         "accuracy": 89.79,
         "points": 4720,
         "tier": "C"
-      },
-      {
-        "rank": 64,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Starter Fund",
-        "races": 35,
-        "wpm": 91.1,
-        "accuracy": 91.26,
-        "points": 4649,
-        "tier": "A"
       },
       {
         "rank": 65,
@@ -1057,6 +1057,19 @@
       },
       {
         "rank": 82,
+        "tag": "IMT",
+        "username": "Kingzillao9",
+        "displayName": "Kingzillao9",
+        "nickname": "Dvorak Destroyer",
+        "squad": "Starter Fund",
+        "races": 19,
+        "wpm": 63.4,
+        "accuracy": 94.19,
+        "points": 2357,
+        "tier": "C"
+      },
+      {
+        "rank": 83,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -1069,7 +1082,7 @@
         "tier": "C"
       },
       {
-        "rank": 83,
+        "rank": 84,
         "tag": "KEYCAT",
         "username": "IM A FOODIE",
         "displayName": "IM A FOODIE",
@@ -1082,7 +1095,7 @@
         "tier": "A"
       },
       {
-        "rank": 84,
+        "rank": 85,
         "tag": "THB0S",
         "username": "Cherryl",
         "displayName": "Cherryl",
@@ -1095,7 +1108,7 @@
         "tier": "C"
       },
       {
-        "rank": 85,
+        "rank": 86,
         "tag": "THB0S",
         "username": "ben the fem",
         "displayName": "ben the fem",
@@ -1108,7 +1121,7 @@
         "tier": "B"
       },
       {
-        "rank": 86,
+        "rank": 87,
         "tag": "KEYCAT",
         "username": "prismaticbeam",
         "displayName": "prismaticbeam",
@@ -1121,7 +1134,20 @@
         "tier": "A"
       },
       {
-        "rank": 87,
+        "rank": 88,
+        "tag": "IMT",
+        "username": "falcon 6x",
+        "displayName": "falcon 6x",
+        "nickname": "Original Gangster",
+        "squad": null,
+        "races": 16,
+        "wpm": 90.7,
+        "accuracy": 90.96,
+        "points": 2115,
+        "tier": "A"
+      },
+      {
+        "rank": 89,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -1134,7 +1160,7 @@
         "tier": "B"
       },
       {
-        "rank": 88,
+        "rank": 90,
         "tag": "THB0S",
         "username": "Lachlan676767676767",
         "displayName": "Lachlan676767676767",
@@ -1147,7 +1173,7 @@
         "tier": "C"
       },
       {
-        "rank": 89,
+        "rank": 91,
         "tag": "THB0S",
         "username": "davidfast1234",
         "displayName": "davidfast1234",
@@ -1160,7 +1186,7 @@
         "tier": "A"
       },
       {
-        "rank": 90,
+        "rank": 92,
         "tag": "SVC",
         "username": "NotFastEnough",
         "displayName": "NotFastEnough",
@@ -1173,7 +1199,7 @@
         "tier": "B"
       },
       {
-        "rank": 91,
+        "rank": 93,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -1186,7 +1212,7 @@
         "tier": "A"
       },
       {
-        "rank": 92,
+        "rank": 94,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -1199,7 +1225,7 @@
         "tier": "C"
       },
       {
-        "rank": 93,
+        "rank": 95,
         "tag": "KEYCAT",
         "username": "ECLIPS - MARIO CART",
         "displayName": "ECLIPS - MARIO CART",
@@ -1212,7 +1238,7 @@
         "tier": "C"
       },
       {
-        "rank": 94,
+        "rank": 96,
         "tag": "KEYCAT",
         "username": "james111",
         "displayName": "james111",
@@ -1225,20 +1251,7 @@
         "tier": "C"
       },
       {
-        "rank": 95,
-        "tag": "IMT",
-        "username": "Kingzillao9",
-        "displayName": "Kingzillao9",
-        "nickname": "Dvorak Destroyer",
-        "squad": "Starter Fund",
-        "races": 12,
-        "wpm": 64.4,
-        "accuracy": 94.81,
-        "points": 1504,
-        "tier": "C"
-      },
-      {
-        "rank": 96,
+        "rank": 97,
         "tag": "THB0S",
         "username": "stew2k",
         "displayName": "stew2k",
@@ -1251,7 +1264,7 @@
         "tier": "B"
       },
       {
-        "rank": 97,
+        "rank": 98,
         "tag": "IMT",
         "username": "LeoRuna",
         "displayName": "LeoRuna",
@@ -1264,7 +1277,7 @@
         "tier": "C"
       },
       {
-        "rank": 98,
+        "rank": 99,
         "tag": "IMT",
         "username": "12 loyal",
         "displayName": "12 loyal",
@@ -1277,7 +1290,7 @@
         "tier": "A"
       },
       {
-        "rank": 99,
+        "rank": 100,
         "tag": "KEYCAT",
         "username": "slushy is back",
         "displayName": "slushy is back",
@@ -1288,19 +1301,6 @@
         "accuracy": 89.22,
         "points": 1061,
         "tier": "B"
-      },
-      {
-        "rank": 100,
-        "tag": "IMT",
-        "username": "falcon 6x",
-        "displayName": "falcon 6x",
-        "nickname": "Original Gangster",
-        "squad": null,
-        "races": 8,
-        "wpm": 89.2,
-        "accuracy": 91.24,
-        "points": 1056,
-        "tier": "A"
       },
       {
         "rank": 101,
@@ -1626,8 +1626,34 @@
         "accuracy": 93.09,
         "points": 137,
         "tier": "B"
+      },
+      {
+        "rank": 126,
+        "tag": "KEYCAT",
+        "username": "Cristiano Ronaldo 7",
+        "displayName": "Cristiano Ronaldo 7",
+        "nickname": "Original Gangster",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "C"
+      },
+      {
+        "rank": 127,
+        "tag": "THB0S",
+        "username": "ticklemonsterr",
+        "displayName": "ticklemonsterr",
+        "nickname": "Green Streak",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "B"
       }
     ],
-    "_syncedAt": 1792790573430
+    "_syncedAt": 1792792184473
   }
 }

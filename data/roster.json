@@ -197,10 +197,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 72,
+      "avgWPM": 70,
       "topWPM": 85,
-      "lifetimeRaces": 2287,
-      "teamRaces": 110,
+      "lifetimeRaces": 2289,
+      "teamRaces": 115,
       "joined": "09/17/26"
     },
     {
@@ -469,11 +469,11 @@
       "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 82,
+      "tier": "C",
+      "avgWPM": 75,
       "topWPM": 102,
-      "lifetimeRaces": 6575,
-      "teamRaces": 550,
+      "lifetimeRaces": 6600,
+      "teamRaces": 575,
       "joined": "10/15/26"
     },
     {
@@ -626,10 +626,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 66,
+      "avgWPM": 63,
       "topWPM": 109,
-      "lifetimeRaces": 1113,
-      "teamRaces": 12,
+      "lifetimeRaces": 1121,
+      "teamRaces": 19,
       "joined": "10/23/26"
     },
     {
@@ -641,8 +641,8 @@
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 111,
-      "lifetimeRaces": 279,
-      "teamRaces": 35,
+      "lifetimeRaces": 280,
+      "teamRaces": 36,
       "joined": "10/23/26"
     },
     {
@@ -652,13 +652,13 @@
       "role": "member",
       "squad": null,
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 94,
       "topWPM": 110,
-      "lifetimeRaces": 2726,
-      "teamRaces": 8,
+      "lifetimeRaces": 2727,
+      "teamRaces": 16,
       "joined": "10/23/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792790531083
+  "_syncedAt": 1792792141538
 }
