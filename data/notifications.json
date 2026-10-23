@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:2b1da3257327aa35b65ea45deb938ebb",
+      "type": "new-member",
+      "text": "falcon 6x joined the team.",
+      "meta": {
+        "username": "2b1da3257327aa35b65ea45deb938ebb"
+      },
+      "createdAt": 1792790567923
+    },
+    {
       "key": "new-member:newkeyboard512",
       "type": "new-member",
       "text": "-HyperTyper- joined the team.",
@@ -345,5 +354,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792788287145
+  "_syncedAt": 1792790567923
 }

@@ -1,39 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "insta _trewatkins",
-      "races": 16
-    },
-    {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "LedByHim",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-22 20:00:00",
-      "racer": "KippKat",
-      "races": 2
-    },
-    {
       "hour": "2026-10-22 21:00:00",
       "racer": "insta _trewatkins",
-      "races": 58
+      "races": 34
     },
     {
       "hour": "2026-10-22 21:00:00",
@@ -54,11 +24,6 @@
       "hour": "2026-10-22 21:00:00",
       "racer": "KippKat",
       "races": 8
-    },
-    {
-      "hour": "2026-10-22 21:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 2
     },
     {
       "hour": "2026-10-22 22:00:00",
@@ -97,12 +62,12 @@
     },
     {
       "hour": "2026-10-23 03:00:00",
-      "racer": "Nathan",
+      "racer": "cone_manager",
       "races": 1
     },
     {
       "hour": "2026-10-23 03:00:00",
-      "racer": "cone_manager",
+      "racer": "Nathan",
       "races": 1
     },
     {
@@ -172,12 +137,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Amaterasu",
+      "racer": "Joe and Uh",
       "races": 2
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Joe and Uh",
+      "racer": "Amaterasu",
       "races": 2
     },
     {
@@ -382,8 +347,18 @@
     },
     {
       "hour": "2026-10-23 20:00:00",
+      "racer": "-HyperTyper-",
+      "races": 27
+    },
+    {
+      "hour": "2026-10-23 20:00:00",
       "racer": "Void Racer",
-      "races": 14
+      "races": 20
+    },
+    {
+      "hour": "2026-10-23 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 16
     },
     {
       "hour": "2026-10-23 20:00:00",
@@ -392,15 +367,35 @@
     },
     {
       "hour": "2026-10-23 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 11
+      "racer": "KirbyDelta",
+      "races": 12
     },
     {
       "hour": "2026-10-23 20:00:00",
       "racer": "Nathan",
       "races": 10
+    },
+    {
+      "hour": "2026-10-23 20:00:00",
+      "racer": "falcon 6x",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-23 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 13
+    },
+    {
+      "hour": "2026-10-23 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-23 21:00:00",
+      "racer": "falcon 6x",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792788250450
+  "_syncedAt": 1792790531084
 }

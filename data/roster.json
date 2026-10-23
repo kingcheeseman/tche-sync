@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 4979,
-      "teamRaces": 2552,
+      "lifetimeRaces": 4983,
+      "teamRaces": 2558,
       "joined": "06/10/26"
     },
     {
@@ -134,8 +134,8 @@
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 119,
-      "lifetimeRaces": 1449,
-      "teamRaces": 1102,
+      "lifetimeRaces": 1465,
+      "teamRaces": 1118,
       "joined": "08/31/26"
     },
     {
@@ -197,9 +197,9 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 71,
+      "avgWPM": 72,
       "topWPM": 85,
-      "lifetimeRaces": 2284,
+      "lifetimeRaces": 2287,
       "teamRaces": 110,
       "joined": "09/17/26"
     },
@@ -470,10 +470,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 80,
+      "avgWPM": 82,
       "topWPM": 102,
-      "lifetimeRaces": 6550,
-      "teamRaces": 525,
+      "lifetimeRaces": 6575,
+      "teamRaces": 550,
       "joined": "10/15/26"
     },
     {
@@ -639,13 +639,26 @@
       "role": "officer",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 94,
       "topWPM": 111,
-      "lifetimeRaces": 258,
-      "teamRaces": 11,
+      "lifetimeRaces": 279,
+      "teamRaces": 35,
+      "joined": "10/23/26"
+    },
+    {
+      "username": "2b1da3257327aa35b65ea45deb938ebb",
+      "displayName": "falcon 6x",
+      "nickname": "Original Gangster",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 91,
+      "topWPM": 110,
+      "lifetimeRaces": 2726,
+      "teamRaces": 8,
       "joined": "10/23/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792788250449
+  "_syncedAt": 1792790531083
 }

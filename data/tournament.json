@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792788270758
+        "_syncedAt": 1792790551296
       }
     },
     {
@@ -2228,7 +2228,7 @@
                   "teamTag": "IMT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 19618
+                  "score": 22902
                 },
                 {
                   "seed": "25",
@@ -2258,7 +2258,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 40386
+                  "score": 41201
                 }
               ],
               "winner": 1
@@ -2324,7 +2324,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 31578
+                  "score": 33799
                 }
               ],
               "winner": 1
@@ -2522,7 +2522,7 @@
                   "teamTag": "SVC",
                   "gold": false,
                   "placeholder": false,
-                  "score": 9303
+                  "score": 10638
                 }
               ],
               "winner": 1
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792788287140
+        "_syncedAt": 1792790567919
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792788287142
+  "_syncedAt": 1792790567921
 }
