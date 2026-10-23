@@ -125,7 +125,7 @@
         "username": "Mwhit4",
         "displayName": "Mwhit4",
         "nickname": "Titan",
-        "squad": null,
+        "squad": "Active!",
         "races": 173,
         "wpm": 61.5,
         "accuracy": 93.91,
@@ -238,6 +238,19 @@
       },
       {
         "rank": 19,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 98,
+        "wpm": 90.1,
+        "accuracy": 95.15,
+        "points": 13524,
+        "tier": "A"
+      },
+      {
+        "rank": 20,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -248,19 +261,6 @@
         "accuracy": 93.88,
         "points": 13112,
         "tier": "B"
-      },
-      {
-        "rank": 20,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 93,
-        "wpm": 90.1,
-        "accuracy": 95.13,
-        "points": 12831,
-        "tier": "A"
       },
       {
         "rank": 21,
@@ -424,7 +424,7 @@
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
         "nickname": "Original Gangster",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 50,
         "wpm": 109.1,
         "accuracy": 97.84,
@@ -1485,6 +1485,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792725157941
+    "_syncedAt": 1792726820746
   }
 }

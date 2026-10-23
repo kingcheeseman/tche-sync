@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5316,
+      "allTimeRaces": 5317,
       "wpm": 95,
       "highestWPM": 128,
       "teamRaces": 304,
       "acc": 95.37,
       "season": null,
       "status": "active",
-      "lastLogin": 1792715479
+      "lastLogin": 1792726283
     },
     {
       "username": "tre1typer",
@@ -209,14 +209,14 @@
       "displayName": "cone_manager",
       "role": "member",
       "joinStamp": 1790378920,
-      "allTimeRaces": 2646,
-      "wpm": 84,
+      "allTimeRaces": 2647,
+      "wpm": 85,
       "highestWPM": 98,
       "teamRaces": 27,
       "acc": 97.11,
       "season": null,
       "status": "active",
-      "lastLogin": 1792292108
+      "lastLogin": 1792726557
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -496,7 +496,7 @@
       "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792715989
+      "lastLogin": 1792726003
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792725060803
+  "_syncedAt": 1792726723302
 }
