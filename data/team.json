@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2056,
+  "profileViews": 2058,
   "leagueTier": 12,
   "racers": [
     {
@@ -27,14 +27,14 @@
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6906,
-      "wpm": 105,
+      "allTimeRaces": 6913,
+      "wpm": 108,
       "highestWPM": 132,
-      "teamRaces": 168,
-      "acc": 95.97,
+      "teamRaces": 173,
+      "acc": 95.98,
       "season": null,
       "status": "active",
-      "lastLogin": 1792693247
+      "lastLogin": 1792778641
     },
     {
       "username": "vlambjr",
@@ -86,8 +86,8 @@
       "allTimeRaces": 1298,
       "wpm": 92,
       "highestWPM": 105,
-      "teamRaces": 69,
-      "acc": 97.27,
+      "teamRaces": 70,
+      "acc": 97.3,
       "season": null,
       "status": "active",
       "lastLogin": 1792776682
@@ -237,14 +237,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5312,
-      "wpm": 74,
+      "allTimeRaces": 5316,
+      "wpm": 77,
       "highestWPM": 111,
-      "teamRaces": 283,
+      "teamRaces": 287,
       "acc": 94.85,
       "season": null,
       "status": "active",
-      "lastLogin": 1792775126
+      "lastLogin": 1792778077
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -408,8 +408,8 @@
       "allTimeRaces": 1440,
       "wpm": 95,
       "highestWPM": 119,
-      "teamRaces": 1087,
-      "acc": 94.43,
+      "teamRaces": 1093,
+      "acc": 94.42,
       "season": null,
       "status": "active",
       "lastLogin": 1792776404
@@ -419,10 +419,10 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2268,
-      "wpm": 72,
+      "allTimeRaces": 2269,
+      "wpm": 71,
       "highestWPM": 85,
-      "teamRaces": 94,
+      "teamRaces": 95,
       "acc": 91.57,
       "season": null,
       "status": "active",
@@ -604,8 +604,8 @@
       "allTimeRaces": 5360,
       "wpm": 74,
       "highestWPM": 103,
-      "teamRaces": 62,
-      "acc": 90.88,
+      "teamRaces": 63,
+      "acc": 90.9,
       "season": null,
       "status": "active",
       "lastLogin": 1792777078
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58027,
+      "races": 58045,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 1078,
-      "avgWPM": 84,
-      "avgAcc": 94.37,
+      "races": 984,
+      "avgWPM": 83,
+      "avgAcc": 94.36,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792777177339
+  "_syncedAt": 1792779272635
 }

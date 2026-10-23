@@ -1,44 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "Void Racer",
-      "races": 16
-    },
-    {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "insta _trewatkins",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "LedByHim",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "Nathan",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-22 17:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 6
-    },
-    {
       "hour": "2026-10-22 18:00:00",
       "racer": "WindMaker",
-      "races": 29
+      "races": 24
     },
     {
       "hour": "2026-10-22 18:00:00",
       "racer": "LedByHim",
-      "races": 19
-    },
-    {
-      "hour": "2026-10-22 18:00:00",
-      "racer": "Void Racer",
-      "races": 5
+      "races": 8
     },
     {
       "hour": "2026-10-22 18:00:00",
@@ -262,7 +232,7 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "KirbyDelta",
+      "racer": "Amaterasu",
       "races": 2
     },
     {
@@ -272,7 +242,7 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Amaterasu",
+      "racer": "KirbyDelta",
       "races": 2
     },
     {
@@ -337,12 +307,12 @@
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "t_unknown",
       "races": 3
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "t_unknown",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
@@ -383,24 +353,29 @@
     {
       "hour": "2026-10-23 17:00:00",
       "racer": "IMIME_IMIME",
-      "races": 14
+      "races": 15
     },
     {
       "hour": "2026-10-23 17:00:00",
       "racer": "t_unknown",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-23 17:00:00",
-      "racer": "reteyrhyj",
-      "races": 6
+      "races": 14
     },
     {
       "hour": "2026-10-23 17:00:00",
       "racer": "Namedisplayed",
-      "races": 5
+      "races": 11
+    },
+    {
+      "hour": "2026-10-23 17:00:00",
+      "racer": "reteyrhyj",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-23 17:00:00",
+      "racer": "Torque_Demon",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792777236211
+  "_syncedAt": 1792779327793
 }

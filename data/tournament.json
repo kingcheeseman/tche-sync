@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792777257000
+        "_syncedAt": 1792779348497
       }
     },
     {
@@ -2214,7 +2214,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 13013
+                  "score": 13385
                 }
               ],
               "winner": null
@@ -2324,7 +2324,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 29514
+                  "score": 30335
                 }
               ],
               "winner": 1
@@ -2382,7 +2382,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 9633
+                  "score": 10724
                 },
                 {
                   "seed": "18",
@@ -2426,7 +2426,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 2916
+                  "score": 3658
                 },
                 {
                   "seed": "42",
@@ -2470,7 +2470,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 24007
+                  "score": 25887
                 },
                 {
                   "seed": "19",
@@ -2500,7 +2500,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 15502
+                  "score": 16017
                 }
               ],
               "winner": 0
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792777273379
+        "_syncedAt": 1792779364952
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792777273382
+  "_syncedAt": 1792779364956
 }
