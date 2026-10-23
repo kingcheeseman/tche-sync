@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792713098454
+    "_syncedAt": 1792714704117
   },
   "SVC": {
     "tag": "SVC",
@@ -637,7 +637,7 @@
     "activePercent": 56,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2030,
+    "profileViews": 2031,
     "leagueTier": 10,
     "racers": [
       {
@@ -1121,14 +1121,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3353,
-        "wpm": 70,
+        "allTimeRaces": 3366,
+        "wpm": 80,
         "highestWPM": 101,
-        "teamRaces": 76,
-        "acc": 91.5,
+        "teamRaces": 89,
+        "acc": 91.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792625426
+        "lastLogin": 1792713827
       },
       {
         "username": "naussica",
@@ -1287,21 +1287,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40430,
+        "races": 40443,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 229,
-        "avgWPM": 86,
-        "avgAcc": 95.08,
+        "races": 242,
+        "avgWPM": 85,
+        "avgAcc": 94.97,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792713117406
+    "_syncedAt": 1792714723448
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,16 +1353,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792713136259
+    "_syncedAt": 1792714742487
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 48,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4385,
+    "profileViews": 4386,
     "leagueTier": 12,
     "racers": [
       {
@@ -1485,7 +1485,7 @@
         "allTimeRaces": 1600,
         "wpm": 61,
         "highestWPM": 87,
-        "teamRaces": 1293,
+        "teamRaces": 1294,
         "acc": 93.69,
         "season": null,
         "status": "active",
@@ -1588,20 +1588,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792695436
-      },
-      {
-        "username": "00973d9bbf98af4eea02921a6082cb41",
-        "displayName": "you cont stop me",
-        "role": "member",
-        "joinStamp": 1789390604,
-        "allTimeRaces": 2124,
-        "wpm": 44,
-        "highestWPM": 113,
-        "teamRaces": 303,
-        "acc": 90.2,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791470064
       },
       {
         "username": "f9ff13aa2cc96f7a74f545f13e457032",
@@ -1742,20 +1728,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792513820
-      },
-      {
-        "username": "1fe94eee8cf8eb49fd78bdb28b23f60f",
-        "displayName": "Tanjiro Kamado",
-        "role": "member",
-        "joinStamp": 1792528710,
-        "allTimeRaces": 1288,
-        "wpm": 58,
-        "highestWPM": 78,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792514092
       },
       {
         "username": "xans1111",
@@ -2068,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120870,
+        "races": 120871,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 50
+        "members": 48
       },
       "daily": {
-        "races": 1177,
+        "races": 1178,
         "avgWPM": 69,
         "avgAcc": 94.24,
-        "members": 50
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792713305831
+    "_syncedAt": 1792714912393
   }
 }
