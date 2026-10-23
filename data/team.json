@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5236,
-      "wpm": 99,
+      "allTimeRaces": 5265,
+      "wpm": 100,
       "highestWPM": 128,
-      "teamRaces": 224,
-      "acc": 95.24,
+      "teamRaces": 248,
+      "acc": 95.33,
       "season": null,
       "status": "active",
-      "lastLogin": 1792705137
+      "lastLogin": 1792715479
     },
     {
       "username": "tre1typer",
@@ -321,14 +321,14 @@
       "displayName": "LedByHim",
       "role": "member",
       "joinStamp": 1792690569,
-      "allTimeRaces": 4130,
-      "wpm": 97,
+      "allTimeRaces": 4135,
+      "wpm": 96,
       "highestWPM": 110,
-      "teamRaces": 51,
-      "acc": 96.32,
+      "teamRaces": 52,
+      "acc": 96.36,
       "season": null,
       "status": "active",
-      "lastLogin": 1792700844
+      "lastLogin": 1792716509
     },
     {
       "username": "sterling757",
@@ -496,7 +496,7 @@
       "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792712422
+      "lastLogin": 1792715989
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57407,
+      "races": 57432,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1079,
-      "avgWPM": 80,
-      "avgAcc": 94.94,
+      "races": 1104,
+      "avgWPM": 81,
+      "avgAcc": 94.98,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792714602827
+  "_syncedAt": 1792716822011
 }
