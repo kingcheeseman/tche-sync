@@ -378,10 +378,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13887,
+        "allTimeRaces": 13888,
         "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 11670,
+        "teamRaces": 11679,
         "acc": 93.24,
         "season": null,
         "status": "active",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78737,
+        "races": 78746,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 370,
-        "avgWPM": 59,
-        "avgAcc": 93.26,
+        "races": 379,
+        "avgWPM": 60,
+        "avgAcc": 93.19,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792795112572
+    "_syncedAt": 1792796862640
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792795131535
+    "_syncedAt": 1792796881604
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792795150382
+    "_syncedAt": 1792796900515
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4426,
+    "profileViews": 4427,
     "leagueTier": 12,
     "racers": [
       {
@@ -1426,10 +1426,10 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 3135,
-        "wpm": 61,
+        "allTimeRaces": 3147,
+        "wpm": 64,
         "highestWPM": 81,
-        "teamRaces": 1428,
+        "teamRaces": 1441,
         "acc": 96.47,
         "season": null,
         "status": "active",
@@ -1622,11 +1622,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792699949,
-        "allTimeRaces": 8031,
-        "wpm": 59,
+        "allTimeRaces": 8046,
+        "wpm": 61,
         "highestWPM": 84,
-        "teamRaces": 299,
-        "acc": 94.13,
+        "teamRaces": 316,
+        "acc": 94.26,
         "season": null,
         "status": "active",
         "lastLogin": 1792794899
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121624,
+        "races": 121654,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 858,
-        "avgWPM": 73,
-        "avgAcc": 94.31,
+        "races": 811,
+        "avgWPM": 72,
+        "avgAcc": 94.23,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792795320117
+    "_syncedAt": 1792797070082
   }
 }

@@ -56,6 +56,19 @@
       },
       {
         "rank": 5,
+        "tag": "THB0S",
+        "username": "SUPER_PIGGLE",
+        "displayName": "SUPER_PIGGLE",
+        "nickname": "Car Collector",
+        "squad": "Active!",
+        "races": 307,
+        "wpm": 64.7,
+        "accuracy": 96.44,
+        "points": 39180,
+        "tier": "C"
+      },
+      {
+        "rank": 6,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -68,29 +81,16 @@
         "tier": "A"
       },
       {
-        "rank": 6,
-        "tag": "THB0S",
-        "username": "SUPER_PIGGLE",
-        "displayName": "SUPER_PIGGLE",
-        "nickname": "Car Collector",
-        "squad": "Active!",
-        "races": 291,
-        "wpm": 64.8,
-        "accuracy": 96.41,
-        "points": 37141,
-        "tier": "C"
-      },
-      {
         "rank": 7,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
         "nickname": "Ghost Lap",
         "squad": "Active!",
-        "races": 297,
+        "races": 316,
         "wpm": 62,
-        "accuracy": 93.77,
-        "points": 36488,
+        "accuracy": 93.91,
+        "points": 38871,
         "tier": "C"
       },
       {
@@ -408,6 +408,19 @@
       {
         "rank": 32,
         "tag": "KEYCAT",
+        "username": "Cats_4_Eva",
+        "displayName": "Cats_4_Eva",
+        "nickname": "I Love Cats",
+        "squad": "KEYCAT Captain ⚞^. .^⚟",
+        "races": 91,
+        "wpm": 81,
+        "accuracy": 88.04,
+        "points": 11254,
+        "tier": "A"
+      },
+      {
+        "rank": 33,
+        "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
         "nickname": "Nitro Drift",
@@ -419,7 +432,7 @@
         "tier": "B"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "LedByHim",
         "displayName": "LedByHim",
@@ -429,19 +442,6 @@
         "wpm": 95.4,
         "accuracy": 96.64,
         "points": 10133,
-        "tier": "A"
-      },
-      {
-        "rank": 34,
-        "tag": "KEYCAT",
-        "username": "Cats_4_Eva",
-        "displayName": "Cats_4_Eva",
-        "nickname": "I Love Cats",
-        "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 82,
-        "wpm": 81.1,
-        "accuracy": 87.8,
-        "points": 10118,
         "tier": "A"
       },
       {
@@ -1654,6 +1654,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792795112419
+    "_syncedAt": 1792796862456
   }
 }
