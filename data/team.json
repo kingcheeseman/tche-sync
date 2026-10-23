@@ -55,10 +55,10 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5355,
-      "wpm": 100,
+      "allTimeRaces": 5365,
+      "wpm": 99,
       "highestWPM": 128,
-      "teamRaces": 343,
+      "teamRaces": 353,
       "acc": 95.38,
       "season": null,
       "status": "active",
@@ -237,14 +237,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5299,
-      "wpm": 72,
+      "allTimeRaces": 5302,
+      "wpm": 73,
       "highestWPM": 111,
-      "teamRaces": 270,
-      "acc": 94.84,
+      "teamRaces": 273,
+      "acc": 94.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1792763145
+      "lastLogin": 1792770329
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -265,28 +265,28 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6502,
-      "wpm": 82,
+      "allTimeRaces": 6506,
+      "wpm": 84,
       "highestWPM": 102,
-      "teamRaces": 477,
+      "teamRaces": 480,
       "acc": 93.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1792761578
+      "lastLogin": 1792771056
     },
     {
       "username": "cash4087",
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3867,
-      "wpm": 94,
+      "allTimeRaces": 3884,
+      "wpm": 100,
       "highestWPM": 120,
-      "teamRaces": 218,
-      "acc": 96.64,
+      "teamRaces": 234,
+      "acc": 96.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1792766582
+      "lastLogin": 1792770387
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -300,7 +300,7 @@
       "acc": 90.53,
       "season": null,
       "status": "active",
-      "lastLogin": 1792763681
+      "lastLogin": 1792769802
     },
     {
       "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
@@ -349,14 +349,14 @@
       "displayName": "Sile314",
       "role": "member",
       "joinStamp": 1791903595,
-      "allTimeRaces": 1279,
-      "wpm": 111,
+      "allTimeRaces": 1281,
+      "wpm": 109,
       "highestWPM": 129,
-      "teamRaces": 143,
-      "acc": 96.4,
+      "teamRaces": 145,
+      "acc": 96.37,
       "season": null,
       "status": "active",
-      "lastLogin": 1792681966
+      "lastLogin": 1792769758
     },
     {
       "username": "wsoccerboy0929",
@@ -636,7 +636,7 @@
       "acc": 79.96,
       "season": null,
       "status": "active",
-      "lastLogin": 1792679015
+      "lastLogin": 1792771072
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57849,
+      "races": 57883,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 1120,
+      "races": 1104,
       "avgWPM": 85,
-      "avgAcc": 94.49,
+      "avgAcc": 94.45,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792768626235
+  "_syncedAt": 1792771262987
 }
