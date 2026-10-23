@@ -6,7 +6,7 @@
     "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2947,
+    "profileViews": 2948,
     "leagueTier": 12,
     "racers": [
       {
@@ -210,10 +210,10 @@
         "displayName": "Natuski",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2209,
-        "wpm": 66,
+        "allTimeRaces": 2214,
+        "wpm": 65,
         "highestWPM": 94,
-        "teamRaces": 1164,
+        "teamRaces": 1169,
         "acc": 90.28,
         "season": null,
         "status": "active",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78396,
+        "races": 78401,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 43
       },
       "daily": {
-        "races": 223,
+        "races": 218,
         "avgWPM": 64,
-        "avgAcc": 94.69,
+        "avgAcc": 94.75,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792750578228
+    "_syncedAt": 1792752246875
   },
   "SVC": {
     "tag": "SVC",
@@ -1301,7 +1301,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792750597200
+    "_syncedAt": 1792752265838
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792750616286
+    "_syncedAt": 1792752284650
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1832,14 +1832,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3498,
-        "wpm": 40,
+        "allTimeRaces": 3504,
+        "wpm": 39,
         "highestWPM": 60,
         "teamRaces": 1960,
         "acc": 92.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1792749279
+        "lastLogin": 1792752042
       },
       {
         "username": "sara0010",
@@ -2054,6 +2054,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792750785890
+    "_syncedAt": 1792752454036
   }
 }
