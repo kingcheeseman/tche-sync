@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792721058592
+    "_syncedAt": 1792723452682
   },
   "SVC": {
     "tag": "SVC",
@@ -942,8 +942,8 @@
         "allTimeRaces": 691,
         "wpm": 85,
         "highestWPM": 109,
-        "teamRaces": 145,
-        "acc": 93.31,
+        "teamRaces": 147,
+        "acc": 93.3,
         "season": null,
         "status": "active",
         "lastLogin": 1792718850
@@ -1287,21 +1287,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40472,
+        "races": 40474,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 271,
+        "races": 273,
         "avgWPM": 85,
-        "avgAcc": 94.79,
+        "avgAcc": 94.77,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792721077350
+    "_syncedAt": 1792723471812
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792721096074
+    "_syncedAt": 1792723490705
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1440,28 +1440,28 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12047,
-        "wpm": 92,
+        "allTimeRaces": 12069,
+        "wpm": 88,
         "highestWPM": 116,
-        "teamRaces": 5086,
-        "acc": 92.34,
+        "teamRaces": 5103,
+        "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792720512
+        "lastLogin": 1792722358
       },
       {
         "username": "frareynolds",
         "displayName": "FireworkLauncher",
         "role": "member",
         "joinStamp": 1785290295,
-        "allTimeRaces": 6945,
-        "wpm": 64,
+        "allTimeRaces": 6971,
+        "wpm": 65,
         "highestWPM": 90,
-        "teamRaces": 3050,
-        "acc": 91.41,
+        "teamRaces": 3072,
+        "acc": 91.43,
         "season": null,
         "status": "active",
-        "lastLogin": 1792549925
+        "lastLogin": 1792722221
       },
       {
         "username": "joe772",
@@ -1657,7 +1657,7 @@
         "acc": 97.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792652929
+        "lastLogin": 1792722198
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1748,14 +1748,14 @@
         "displayName": "Cherryl",
         "role": "member",
         "joinStamp": 1792201146,
-        "allTimeRaces": 1068,
-        "wpm": 25,
+        "allTimeRaces": 1073,
+        "wpm": 22,
         "highestWPM": 43,
         "teamRaces": 761,
         "acc": 94.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1792201115
+        "lastLogin": 1792723342
       },
       {
         "username": "joey2011allgyer",
@@ -1846,14 +1846,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18757,
-        "wpm": 96,
+        "allTimeRaces": 18763,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18295,
+        "teamRaces": 18303,
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792719370
+        "lastLogin": 1792723007
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1923,7 +1923,7 @@
         "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792712543
+        "lastLogin": 1792721720
       },
       {
         "username": "nev444ehh",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120893,
+        "races": 120940,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1198,
+        "races": 1232,
         "avgWPM": 69,
-        "avgAcc": 94.27,
+        "avgAcc": 94.14,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792721265328
+    "_syncedAt": 1792723660275
   }
 }
