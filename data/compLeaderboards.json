@@ -316,6 +316,19 @@
       },
       {
         "rank": 25,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 98,
+        "wpm": 40.2,
+        "accuracy": 90.49,
+        "points": 10649,
+        "tier": "C"
+      },
+      {
+        "rank": 26,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -328,7 +341,7 @@
         "tier": "B"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "IMT",
         "username": "LedByHim",
         "displayName": "LedByHim",
@@ -341,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -354,20 +367,20 @@
         "tier": "A"
       },
       {
-        "rank": 28,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 91,
-        "wpm": 40.2,
-        "accuracy": 90.49,
-        "points": 9890,
-        "tier": "C"
+        "rank": 29,
+        "tag": "KEYCAT",
+        "username": "Natuski",
+        "displayName": "Natuski",
+        "nickname": "I Love Cats",
+        "squad": "Investor 1k ;)",
+        "races": 73,
+        "wpm": 65.7,
+        "accuracy": 88.91,
+        "points": 8624,
+        "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -380,7 +393,7 @@
         "tier": "C"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -403,19 +416,6 @@
         "wpm": 89.8,
         "accuracy": 95.11,
         "points": 8270,
-        "tier": "A"
-      },
-      {
-        "rank": 32,
-        "tag": "KEYCAT",
-        "username": "Natuski",
-        "displayName": "Natuski",
-        "nickname": "I Love Cats",
-        "squad": "Investor 1k ;)",
-        "races": 68,
-        "wpm": 66,
-        "accuracy": 88.98,
-        "points": 8048,
         "tier": "A"
       },
       {
@@ -1511,6 +1511,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792752246742
+    "_syncedAt": 1792754519201
   }
 }
