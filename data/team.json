@@ -55,11 +55,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5331,
-      "wpm": 100,
+      "allTimeRaces": 5347,
+      "wpm": 96,
       "highestWPM": 128,
-      "teamRaces": 310,
-      "acc": 95.37,
+      "teamRaces": 335,
+      "acc": 95.38,
       "season": null,
       "status": "active",
       "lastLogin": 1792756550
@@ -489,11 +489,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 4904,
-      "wpm": 97,
+      "allTimeRaces": 4916,
+      "wpm": 95,
       "highestWPM": 127,
-      "teamRaces": 2479,
-      "acc": 92.57,
+      "teamRaces": 2485,
+      "acc": 92.58,
       "season": null,
       "status": "active",
       "lastLogin": 1792757183
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 709,
-      "wpm": 48,
+      "allTimeRaces": 748,
+      "wpm": 55,
       "highestWPM": 108,
-      "teamRaces": 461,
-      "acc": 92.31,
+      "teamRaces": 494,
+      "acc": 92.17,
       "season": null,
       "status": "active",
       "lastLogin": 1792757087
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57560,
+      "races": 57624,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1061,
+      "races": 1101,
       "avgWPM": 85,
       "avgAcc": 94.53,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792757232318
+  "_syncedAt": 1792759493115
 }

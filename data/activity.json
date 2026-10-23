@@ -3,12 +3,12 @@
     {
       "hour": "2026-10-22 12:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 39
+      "races": 26
     },
     {
       "hour": "2026-10-22 12:00:00",
       "racer": "Void Racer",
-      "races": 22
+      "races": 13
     },
     {
       "hour": "2026-10-22 12:00:00",
@@ -17,17 +17,12 @@
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "LeoRuna",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-22 12:00:00",
-      "racer": "loganim12btw",
+      "racer": "Amaterasu",
       "races": 1
     },
     {
       "hour": "2026-10-22 12:00:00",
-      "racer": "Amaterasu",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -247,12 +242,12 @@
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "Void Racer",
+      "racer": "KippKat",
       "races": 2
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "KippKat",
+      "racer": "Void Racer",
       "races": 2
     },
     {
@@ -384,8 +379,23 @@
       "hour": "2026-10-23 11:00:00",
       "racer": "Nathan",
       "races": 5
+    },
+    {
+      "hour": "2026-10-23 12:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 33
+    },
+    {
+      "hour": "2026-10-23 12:00:00",
+      "racer": "Nathan",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-23 12:00:00",
+      "racer": "Void Racer",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792757286730
+  "_syncedAt": 1792759548985
 }
