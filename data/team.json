@@ -524,7 +524,7 @@
       "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792789036
+      "lastLogin": 1792793595
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -717,13 +717,13 @@
       "members": 50
     },
     "daily": {
-      "races": 1026,
-      "avgWPM": 84,
-      "avgAcc": 94.24,
+      "races": 996,
+      "avgWPM": 83,
+      "avgAcc": 94.17,
       "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792793328519
+  "_syncedAt": 1792795003078
 }

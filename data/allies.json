@@ -6,7 +6,7 @@
     "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2969,
+    "profileViews": 2970,
     "leagueTier": 12,
     "racers": [
       {
@@ -378,14 +378,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13878,
-        "wpm": 83,
+        "allTimeRaces": 13887,
+        "wpm": 80,
         "highestWPM": 111,
         "teamRaces": 11670,
         "acc": 93.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1792790177
+        "lastLogin": 1792794680
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792793433734
+    "_syncedAt": 1792795112572
   },
   "SVC": {
     "tag": "SVC",
@@ -1114,7 +1114,7 @@
         "acc": 95.53,
         "season": null,
         "status": "active",
-        "lastLogin": 1792516321
+        "lastLogin": 1792794541
       },
       {
         "username": "73e9119399c5e48123c481a73e87840c",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792793452933
+    "_syncedAt": 1792795131535
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,12 +1283,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792793471793
+    "_syncedAt": 1792795150382
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 49,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
@@ -1350,20 +1350,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792450027
-      },
-      {
-        "username": "1aae40d4e717fbfd0765a622f5febaea",
-        "displayName": "GOATFLOAT",
-        "role": "member",
-        "joinStamp": 1787070024,
-        "allTimeRaces": 5173,
-        "wpm": 108,
-        "highestWPM": 121,
-        "teamRaces": 439,
-        "acc": 95.5,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792683203
       },
       {
         "username": "joereynolds",
@@ -1440,14 +1426,14 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 3128,
-        "wpm": 62,
+        "allTimeRaces": 3135,
+        "wpm": 61,
         "highestWPM": 81,
-        "teamRaces": 1423,
-        "acc": 96.46,
+        "teamRaces": 1428,
+        "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1792789390
+        "lastLogin": 1792794968
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1636,14 +1622,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792699949,
-        "allTimeRaces": 8027,
-        "wpm": 61,
+        "allTimeRaces": 8031,
+        "wpm": 59,
         "highestWPM": 84,
-        "teamRaces": 297,
-        "acc": 94.14,
+        "teamRaces": 299,
+        "acc": 94.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1792784670
+        "lastLogin": 1792794899
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1998,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121617,
+        "races": 121624,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 50
+        "members": 49
       },
       "daily": {
-        "races": 895,
+        "races": 858,
         "avgWPM": 73,
-        "avgAcc": 94.37,
-        "members": 50
+        "avgAcc": 94.31,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792793641470
+    "_syncedAt": 1792795320117
   }
 }

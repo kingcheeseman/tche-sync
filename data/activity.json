@@ -2,11 +2,6 @@
   "hours": [
     {
       "hour": "2026-10-22 22:00:00",
-      "racer": "Nathan",
-      "races": 30
-    },
-    {
-      "hour": "2026-10-22 22:00:00",
       "racer": "Torque_Demon",
       "races": 1
     },
@@ -97,12 +92,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
+      "racer": "Nathan",
       "races": 7
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Nathan",
+      "racer": "Void Racer",
       "races": 7
     },
     {
@@ -382,5 +377,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792793390757
+  "_syncedAt": 1792795069827
 }
