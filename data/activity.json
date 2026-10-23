@@ -277,12 +277,12 @@
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "KippKat",
+      "racer": "Void Racer",
       "races": 2
     },
     {
       "hour": "2026-10-22 19:00:00",
-      "racer": "Void Racer",
+      "racer": "KippKat",
       "races": 2
     },
     {
@@ -373,9 +373,24 @@
     {
       "hour": "2026-10-23 00:00:00",
       "racer": "Nathan",
-      "races": 10
+      "races": 36
+    },
+    {
+      "hour": "2026-10-23 00:00:00",
+      "racer": "LedByHim",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-23 01:00:00",
+      "racer": "Nathan",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-23 01:00:00",
+      "racer": "LedByHim",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792716883459
+  "_syncedAt": 1792719001040
 }

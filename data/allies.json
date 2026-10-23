@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 270,
+        "races": 255,
         "avgWPM": 64,
-        "avgAcc": 94.85,
+        "avgAcc": 94.83,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792716925421
+    "_syncedAt": 1792719043950
   },
   "SVC": {
     "tag": "SVC",
@@ -637,7 +637,7 @@
     "activePercent": 56,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2031,
+    "profileViews": 2032,
     "leagueTier": 10,
     "racers": [
       {
@@ -680,7 +680,7 @@
         "acc": 93.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1792298311
+        "lastLogin": 1792718148
       },
       {
         "username": "akb7109",
@@ -939,14 +939,14 @@
         "displayName": "BabyDudeSued",
         "role": "member",
         "joinStamp": 1788876402,
-        "allTimeRaces": 666,
-        "wpm": 83,
+        "allTimeRaces": 670,
+        "wpm": 82,
         "highestWPM": 109,
-        "teamRaces": 116,
-        "acc": 93.33,
+        "teamRaces": 126,
+        "acc": 93.31,
         "season": null,
         "status": "active",
-        "lastLogin": 1792716622
+        "lastLogin": 1792718850
       },
       {
         "username": "walb253",
@@ -1287,21 +1287,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40443,
+        "races": 40453,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 46
       },
       "daily": {
-        "races": 242,
+        "races": 252,
         "avgWPM": 85,
-        "avgAcc": 94.97,
+        "avgAcc": 94.9,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792716946501
+    "_syncedAt": 1792719063316
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792716965452
+    "_syncedAt": 1792719082051
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1846,10 +1846,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18741,
+        "allTimeRaces": 18751,
         "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 18280,
+        "teamRaces": 18291,
         "acc": 93.96,
         "season": null,
         "status": "active",
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120878,
+        "races": 120889,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1185,
+        "races": 1196,
         "avgWPM": 69,
-        "avgAcc": 94.26,
+        "avgAcc": 94.27,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792717135263
+    "_syncedAt": 1792719251308
   }
 }
