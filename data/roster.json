@@ -236,10 +236,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 84,
+      "avgWPM": 85,
       "topWPM": 98,
-      "lifetimeRaces": 2646,
-      "teamRaces": 27,
+      "lifetimeRaces": 2647,
+      "teamRaces": 28,
       "joined": "09/25/26"
     },
     {
@@ -564,7 +564,7 @@
       "avgWPM": 95,
       "topWPM": 128,
       "lifetimeRaces": 5317,
-      "teamRaces": 304,
+      "teamRaces": 305,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792726777712
+  "_syncedAt": 1792728822772
 }

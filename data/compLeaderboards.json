@@ -9,10 +9,10 @@
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
         "squad": "Side Hustler 100",
-        "races": 304,
+        "races": 305,
         "wpm": 97.9,
         "accuracy": 95.14,
-        "points": 43087,
+        "points": 43229,
         "tier": "A"
       },
       {
@@ -498,6 +498,19 @@
       },
       {
         "rank": 39,
+        "tag": "THB0S",
+        "username": "Speedster-1",
+        "displayName": "Speedster-1",
+        "nickname": "Pro Gamer Move",
+        "squad": null,
+        "races": 55,
+        "wpm": 62.6,
+        "accuracy": 96.23,
+        "points": 6948,
+        "tier": "A"
+      },
+      {
+        "rank": 40,
         "tag": "IMT",
         "username": "reteyrhyj",
         "displayName": "reteyrhyj",
@@ -510,7 +523,7 @@
         "tier": "C"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "THB0S",
         "username": "GOATFLOAT",
         "displayName": "GOATFLOAT",
@@ -523,7 +536,7 @@
         "tier": "A"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "tag": "THB0S",
         "username": "The Ghost",
         "displayName": "The Ghost",
@@ -536,7 +549,7 @@
         "tier": "A"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -549,7 +562,7 @@
         "tier": "B"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "tag": "SVC",
         "username": "Egoista",
         "displayName": "Egoista",
@@ -562,7 +575,7 @@
         "tier": "C"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "tag": "KEYCAT",
         "username": "TheDoctor225181",
         "displayName": "TheDoctor225181",
@@ -575,7 +588,7 @@
         "tier": "A"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -588,7 +601,7 @@
         "tier": "B"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "tag": "SVC",
         "username": "PeriwinkleCoffeeStarfish",
         "displayName": "PeriwinkleCoffeeStarfish",
@@ -601,7 +614,7 @@
         "tier": "A"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "tag": "SVC",
         "username": "Im not warmed up",
         "displayName": "Im not warmed up",
@@ -614,7 +627,7 @@
         "tier": "C"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -627,7 +640,7 @@
         "tier": "A"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "tag": "SVC",
         "username": "emmett",
         "displayName": "emmett",
@@ -637,19 +650,6 @@
         "wpm": 84.9,
         "accuracy": 94.92,
         "points": 5274,
-        "tier": "B"
-      },
-      {
-        "rank": 50,
-        "tag": "THB0S",
-        "username": "Speedster-1",
-        "displayName": "Speedster-1",
-        "nickname": "Pro Gamer Move",
-        "squad": null,
-        "races": 39,
-        "wpm": 62.5,
-        "accuracy": 96.37,
-        "points": 4932,
         "tier": "B"
       },
       {
@@ -1447,6 +1447,19 @@
       },
       {
         "rank": 112,
+        "tag": "IMT",
+        "username": "cone_manager",
+        "displayName": "cone_manager",
+        "nickname": "I Hate Words",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 91.5,
+        "accuracy": 97.81,
+        "points": 143,
+        "tier": "B"
+      },
+      {
+        "rank": 113,
         "tag": "SVC",
         "username": "WhimsicalAmberDolphin",
         "displayName": "WhimsicalAmberDolphin",
@@ -1459,7 +1472,7 @@
         "tier": "C"
       },
       {
-        "rank": 113,
+        "rank": 114,
         "tag": "KEYCAT",
         "username": "FluffCat",
         "displayName": "FluffCat",
@@ -1472,7 +1485,7 @@
         "tier": "A"
       },
       {
-        "rank": 114,
+        "rank": 115,
         "tag": "KEYCAT",
         "username": "How_Random",
         "displayName": "How_Random",
@@ -1485,6 +1498,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792726820746
+    "_syncedAt": 1792728863764
   }
 }
