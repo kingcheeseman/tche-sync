@@ -222,11 +222,11 @@
       "nickname": "Titan",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 85,
       "topWPM": 111,
-      "lifetimeRaces": 4759,
-      "teamRaces": 1123,
+      "lifetimeRaces": 4778,
+      "teamRaces": 1142,
       "joined": "09/19/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792742748969
+  "_syncedAt": 1792744917306
 }

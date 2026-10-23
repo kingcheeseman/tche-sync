@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2049,
+  "profileViews": 2050,
   "leagueTier": 12,
   "racers": [
     {
@@ -643,11 +643,11 @@
       "displayName": "viewmyvioletgarage",
       "role": "officer",
       "joinStamp": 1789836736,
-      "allTimeRaces": 4759,
-      "wpm": 92,
+      "allTimeRaces": 4778,
+      "wpm": 85,
       "highestWPM": 111,
-      "teamRaces": 1123,
-      "acc": 91.7,
+      "teamRaces": 1142,
+      "acc": 91.73,
       "season": null,
       "status": "active",
       "lastLogin": 1792742592
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 57513,
+      "races": 57532,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 48
     },
     "daily": {
-      "races": 1043,
+      "races": 1062,
       "avgWPM": 85,
-      "avgAcc": 94.61,
+      "avgAcc": 94.59,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792742683868
+  "_syncedAt": 1792744860476
 }

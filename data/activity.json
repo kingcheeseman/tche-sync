@@ -379,8 +379,13 @@
       "hour": "2026-10-23 03:00:00",
       "racer": "cone_manager",
       "races": 1
+    },
+    {
+      "hour": "2026-10-23 08:00:00",
+      "racer": "viewmyvioletgarage",
+      "races": 19
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792742748970
+  "_syncedAt": 1792744917307
 }
