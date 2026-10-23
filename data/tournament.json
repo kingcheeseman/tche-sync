@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792764234090
+        "_syncedAt": 1792767461742
       }
     },
     {
@@ -2236,10 +2236,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 137
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2304",
@@ -2258,7 +2258,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 34619
+                  "score": 34755
                 }
               ],
               "winner": 1
@@ -2324,7 +2324,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 25155
+                  "score": 28813
                 }
               ],
               "winner": 1
@@ -2470,7 +2470,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 21746
+                  "score": 21871
                 },
                 {
                   "seed": "19",
@@ -2500,7 +2500,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 12143
+                  "score": 13818
                 }
               ],
               "winner": 0
@@ -2514,7 +2514,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 2482
+                  "score": 4481
                 },
                 {
                   "seed": "43",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792764251434
+        "_syncedAt": 1792767478847
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792764251436
+  "_syncedAt": 1792767478851
 }

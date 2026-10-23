@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "key": "tour-win:57:Match 2303",
+      "type": "tournament-win",
+      "text": "KirbyDelta won their Round of 32 * match vs - 9te - in IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2303",
+        "username": "KirbyDelta",
+        "tournamentId": "57"
+      },
+      "createdAt": 1792767478853
+    },
+    {
       "key": "tour-loss:57:Match 2316",
       "type": "tournament-loss",
       "text": "viewmyvioletgarage was eliminated in the Round of 32 * of IMT Ally Celebration Tournament.",
@@ -316,5 +327,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792764251440
+  "_syncedAt": 1792767478853
 }
