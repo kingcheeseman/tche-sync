@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792771340311
+        "_syncedAt": 1792773775137
       }
     },
     {
@@ -2228,7 +2228,7 @@
                   "teamTag": "IMT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 13379
+                  "score": 18841
                 },
                 {
                   "seed": "25",
@@ -2250,7 +2250,7 @@
                   "teamTag": "IMT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 10192
+                  "score": 13009
                 },
                 {
                   "seed": "24",
@@ -2412,7 +2412,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 1999
+                  "score": 2244
                 }
               ],
               "winner": 1
@@ -2434,7 +2434,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 4194
+                  "score": 5204
                 }
               ],
               "winner": 1
@@ -2478,10 +2478,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 18167
+                  "score": 23102
                 }
               ],
-              "winner": 0
+              "winner": 1
             },
             {
               "id": "Match 2315",
@@ -2522,10 +2522,10 @@
                   "teamTag": "SVC",
                   "gold": false,
                   "placeholder": false,
-                  "score": 5274
+                  "score": 7183
                 }
               ],
-              "winner": 0
+              "winner": 1
             }
           ]
         },
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792771357318
+        "_syncedAt": 1792773792111
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792771357323
+  "_syncedAt": 1792773792113
 }

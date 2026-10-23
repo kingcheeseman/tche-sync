@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 88,
       "topWPM": 110,
-      "lifetimeRaces": 20201,
-      "teamRaces": 2562,
+      "lifetimeRaces": 20221,
+      "teamRaces": 2582,
       "joined": "06/24/26"
     },
     {
@@ -158,10 +158,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 66,
+      "avgWPM": 62,
       "topWPM": 84,
-      "lifetimeRaces": 777,
-      "teamRaces": 276,
+      "lifetimeRaces": 781,
+      "teamRaces": 280,
       "joined": "09/08/26"
     },
     {
@@ -391,11 +391,11 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 80,
+      "tier": "A",
+      "avgWPM": 88,
       "topWPM": 127,
-      "lifetimeRaces": 20596,
-      "teamRaces": 244,
+      "lifetimeRaces": 20606,
+      "teamRaces": 254,
       "joined": "10/07/26"
     },
     {
@@ -483,23 +483,23 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 82,
+      "avgWPM": 80,
       "topWPM": 102,
-      "lifetimeRaces": 6502,
-      "teamRaces": 477,
+      "lifetimeRaces": 6550,
+      "teamRaces": 519,
       "joined": "10/15/26"
     },
     {
       "username": "cash4087",
       "displayName": "WindMaker",
-      "nickname": "I Love Cats",
+      "nickname": "Need 4 Speed",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 97,
       "topWPM": 120,
-      "lifetimeRaces": 3878,
-      "teamRaces": 222,
+      "lifetimeRaces": 3907,
+      "teamRaces": 257,
       "joined": "10/16/26"
     },
     {
@@ -561,10 +561,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 99,
       "topWPM": 128,
-      "lifetimeRaces": 5364,
-      "teamRaces": 351,
+      "lifetimeRaces": 5365,
+      "teamRaces": 353,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792771318581
+  "_syncedAt": 1792773755350
 }
