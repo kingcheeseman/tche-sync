@@ -55,11 +55,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5370,
-      "wpm": 103,
+      "allTimeRaces": 5376,
+      "wpm": 101,
       "highestWPM": 128,
-      "teamRaces": 357,
-      "acc": 95.37,
+      "teamRaces": 364,
+      "acc": 95.36,
       "season": null,
       "status": "active",
       "lastLogin": 1792781189
@@ -174,7 +174,7 @@
       "acc": 94.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1792772408
+      "lastLogin": 1792781463
     },
     {
       "username": "ilovepokedigers",
@@ -279,11 +279,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3926,
-      "wpm": 103,
+      "allTimeRaces": 3937,
+      "wpm": 94,
       "highestWPM": 120,
-      "teamRaces": 276,
-      "acc": 96.71,
+      "teamRaces": 288,
+      "acc": 96.68,
       "season": null,
       "status": "active",
       "lastLogin": 1792780512
@@ -335,14 +335,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2721,
-      "wpm": 82,
+      "allTimeRaces": 2723,
+      "wpm": 80,
       "highestWPM": 102,
-      "teamRaces": 102,
-      "acc": 95.17,
+      "teamRaces": 104,
+      "acc": 95.15,
       "season": null,
       "status": "active",
-      "lastLogin": 1792695489
+      "lastLogin": 1792781835
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -391,14 +391,14 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2363,
-      "wpm": 76,
-      "highestWPM": 90,
-      "teamRaces": 468,
-      "acc": 93.79,
+      "allTimeRaces": 2379,
+      "wpm": 83,
+      "highestWPM": 93,
+      "teamRaces": 474,
+      "acc": 93.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1792764467
+      "lastLogin": 1792782133
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -419,14 +419,14 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2277,
-      "wpm": 70,
+      "allTimeRaces": 2280,
+      "wpm": 68,
       "highestWPM": 85,
-      "teamRaces": 102,
-      "acc": 91.77,
+      "teamRaces": 103,
+      "acc": 91.79,
       "season": null,
       "status": "active",
-      "lastLogin": 1792780635
+      "lastLogin": 1792782859
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -538,7 +538,7 @@
       "acc": 92.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1792775250
+      "lastLogin": 1792781974
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -671,31 +671,31 @@
       "displayName": "KippKat",
       "role": "member",
       "joinStamp": 1782491687,
-      "allTimeRaces": 986,
-      "wpm": 76,
+      "allTimeRaces": 990,
+      "wpm": 78,
       "highestWPM": 96,
       "teamRaces": 973,
       "acc": 96.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1792701217
+      "lastLogin": 1792782803
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 58085,
+      "races": 58113,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 988,
+      "races": 1010,
       "avgWPM": 83,
-      "avgAcc": 94.35,
+      "avgAcc": 94.39,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792781452336
+  "_syncedAt": 1792783008321
 }

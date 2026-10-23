@@ -41,9 +41,9 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 79,
       "topWPM": 96,
-      "lifetimeRaces": 986,
+      "lifetimeRaces": 988,
       "teamRaces": 973,
       "joined": "06/26/26"
     },
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 82,
+      "avgWPM": 80,
       "topWPM": 102,
-      "lifetimeRaces": 2721,
-      "teamRaces": 102,
+      "lifetimeRaces": 2723,
+      "teamRaces": 104,
       "joined": "09/08/26"
     },
     {
@@ -197,10 +197,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 70,
+      "avgWPM": 69,
       "topWPM": 85,
-      "lifetimeRaces": 2272,
-      "teamRaces": 97,
+      "lifetimeRaces": 2278,
+      "teamRaces": 103,
       "joined": "09/17/26"
     },
     {
@@ -300,11 +300,11 @@
       "nickname": "Legendary Lapper",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 76,
-      "topWPM": 90,
-      "lifetimeRaces": 2363,
-      "teamRaces": 468,
+      "tier": "B",
+      "avgWPM": 82,
+      "topWPM": 93,
+      "lifetimeRaces": 2377,
+      "teamRaces": 474,
       "joined": "10/05/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 99,
+      "avgWPM": 94,
       "topWPM": 120,
-      "lifetimeRaces": 3918,
-      "teamRaces": 262,
+      "lifetimeRaces": 3937,
+      "teamRaces": 288,
       "joined": "10/16/26"
     },
     {
@@ -561,10 +561,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 99,
+      "avgWPM": 101,
       "topWPM": 128,
-      "lifetimeRaces": 5365,
-      "teamRaces": 353,
+      "lifetimeRaces": 5376,
+      "teamRaces": 364,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792781515792
+  "_syncedAt": 1792783062688
 }

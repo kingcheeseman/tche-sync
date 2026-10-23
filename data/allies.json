@@ -381,8 +381,8 @@
         "allTimeRaces": 928,
         "wpm": 54,
         "highestWPM": 77,
-        "teamRaces": 35,
-        "acc": 95.13,
+        "teamRaces": 36,
+        "acc": 95.01,
         "season": null,
         "status": "active",
         "lastLogin": 1792780692
@@ -409,8 +409,8 @@
         "allTimeRaces": 1353,
         "wpm": 70,
         "highestWPM": 99,
-        "teamRaces": 1097,
-        "acc": 93.96,
+        "teamRaces": 1098,
+        "acc": 93.97,
         "season": null,
         "status": "active",
         "lastLogin": 1792781061
@@ -479,7 +479,7 @@
         "allTimeRaces": 5221,
         "wpm": 79,
         "highestWPM": 112,
-        "teamRaces": 784,
+        "teamRaces": 785,
         "acc": 94.92,
         "season": null,
         "status": "active",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78673,
+        "races": 78676,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 388,
-        "avgWPM": 60,
-        "avgAcc": 93.65,
+        "races": 372,
+        "avgWPM": 61,
+        "avgAcc": 93.66,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792781559688
+    "_syncedAt": 1792783104987
   },
   "SVC": {
     "tag": "SVC",
@@ -687,14 +687,14 @@
         "displayName": "Egoista",
         "role": "member",
         "joinStamp": 1789407653,
-        "allTimeRaces": 7888,
+        "allTimeRaces": 7891,
         "wpm": 87,
         "highestWPM": 105,
-        "teamRaces": 402,
-        "acc": 95.35,
+        "teamRaces": 405,
+        "acc": 95.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792777354
+        "lastLogin": 1792781764
       },
       {
         "username": "08024f51d600a72c2b2b75363c4c3277",
@@ -1051,14 +1051,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3366,
-        "wpm": 80,
+        "allTimeRaces": 3371,
+        "wpm": 81,
         "highestWPM": 101,
-        "teamRaces": 89,
-        "acc": 91.7,
+        "teamRaces": 94,
+        "acc": 91.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1792773369
+        "lastLogin": 1792781728
       },
       {
         "username": "naussica",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40638,
+        "races": 40646,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 39
       },
       "daily": {
-        "races": 242,
-        "avgWPM": 74,
-        "avgAcc": 93.48,
+        "races": 250,
+        "avgWPM": 75,
+        "avgAcc": 93.47,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792781578954
+    "_syncedAt": 1792783123878
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792781598027
+    "_syncedAt": 1792783142716
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1300,14 +1300,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9478,
-        "wpm": 102,
+        "allTimeRaces": 9501,
+        "wpm": 113,
         "highestWPM": 135,
-        "teamRaces": 50,
+        "teamRaces": 71,
         "acc": 97.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1792764372
+        "lastLogin": 1792782041
       },
       {
         "username": "mjwolf1019",
@@ -1440,14 +1440,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1417,
+        "allTimeRaces": 1419,
         "wpm": 53,
         "highestWPM": 84,
-        "teamRaces": 642,
-        "acc": 91.57,
+        "teamRaces": 644,
+        "acc": 91.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1792764554
+        "lastLogin": 1792781921
       },
       {
         "username": "baglepet000",
@@ -1496,11 +1496,11 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4754,
-        "wpm": 52,
+        "allTimeRaces": 4759,
+        "wpm": 86,
         "highestWPM": 121,
-        "teamRaces": 1339,
-        "acc": 87.67,
+        "teamRaces": 1345,
+        "acc": 87.68,
         "season": null,
         "status": "active",
         "lastLogin": 1792781646
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121383,
+        "races": 121412,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 814,
-        "avgWPM": 70,
-        "avgAcc": 94.21,
+        "races": 822,
+        "avgWPM": 72,
+        "avgAcc": 94.46,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792781767772
+    "_syncedAt": 1792783312304
   }
 }
