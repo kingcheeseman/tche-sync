@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 21:00:00",
-      "racer": "Nathan",
-      "races": 28
-    },
-    {
-      "hour": "2026-10-22 21:00:00",
-      "racer": "insta _trewatkins",
-      "races": 11
-    },
-    {
-      "hour": "2026-10-22 21:00:00",
-      "racer": "reteyrhyj",
-      "races": 9
-    },
-    {
-      "hour": "2026-10-22 21:00:00",
-      "racer": "KippKat",
-      "races": 3
-    },
-    {
       "hour": "2026-10-22 22:00:00",
       "racer": "Nathan",
       "races": 30
@@ -127,17 +107,17 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "KirbyDelta",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-23 13:00:00",
       "racer": "Joe and Uh",
       "races": 2
     },
     {
       "hour": "2026-10-23 13:00:00",
       "racer": "Amaterasu",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-23 13:00:00",
+      "racer": "KirbyDelta",
       "races": 2
     },
     {
@@ -312,12 +292,12 @@
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Void Racer",
       "races": 9
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Void Racer",
+      "racer": "Namedisplayed",
       "races": 9
     },
     {
@@ -388,12 +368,12 @@
     {
       "hour": "2026-10-23 21:00:00",
       "racer": "-HyperTyper-",
-      "races": 9
+      "races": 10
     },
     {
       "hour": "2026-10-23 21:00:00",
       "racer": "Kingzillao9",
-      "races": 7
+      "races": 8
     },
     {
       "hour": "2026-10-23 21:00:00",
@@ -402,5 +382,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792792141539
+  "_syncedAt": 1792793390757
 }
