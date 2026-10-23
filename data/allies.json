@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 43,
-    "activePercent": 88,
+    "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2947,
@@ -70,10 +70,10 @@
         "displayName": "TheDoctor225181",
         "role": "officer",
         "joinStamp": 1784274178,
-        "allTimeRaces": 4020,
-        "wpm": 82,
+        "allTimeRaces": 4021,
+        "wpm": 81,
         "highestWPM": 97,
-        "teamRaces": 3214,
+        "teamRaces": 3220,
         "acc": 95.48,
         "season": null,
         "status": "active",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78390,
+        "races": 78396,
         "avgWPM": 55,
         "avgAcc": 93.54,
         "members": 43
       },
       "daily": {
-        "races": 236,
-        "avgWPM": 63,
+        "races": 242,
+        "avgWPM": 64,
         "avgAcc": 94.76,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792728863954
+    "_syncedAt": 1792730543308
   },
   "SVC": {
     "tag": "SVC",
@@ -1301,7 +1301,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792728882975
+    "_syncedAt": 1792730566051
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1353,7 +1353,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792728901882
+    "_syncedAt": 1792730584722
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1650,11 +1650,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8593,
-        "wpm": 83,
+        "allTimeRaces": 8606,
+        "wpm": 60,
         "highestWPM": 95,
-        "teamRaces": 1046,
-        "acc": 97.32,
+        "teamRaces": 1059,
+        "acc": 97.29,
         "season": null,
         "status": "active",
         "lastLogin": 1792727155
@@ -2040,20 +2040,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 120997,
+        "races": 121010,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 1242,
+        "races": 1240,
         "avgWPM": 68,
-        "avgAcc": 94.13,
+        "avgAcc": 94.1,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792729071779
+    "_syncedAt": 1792730754003
   }
 }
