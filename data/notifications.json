@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:taylorja32:5000",
+      "type": "milestone",
+      "text": "Void Racer crossed 5,000 lifetime races!",
+      "meta": {
+        "username": "taylorja32",
+        "milestone": 5000
+      },
+      "createdAt": 1792803286743
+    },
+    {
       "key": "new-member:2b1da3257327aa35b65ea45deb938ebb",
       "type": "new-member",
       "text": "falcon 6x joined the team.",
@@ -354,5 +364,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792800224830
+  "_syncedAt": 1792803286743
 }

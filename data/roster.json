@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 94,
       "topWPM": 127,
-      "lifetimeRaces": 4983,
-      "teamRaces": 2558,
+      "lifetimeRaces": 5000,
+      "teamRaces": 2575,
       "joined": "06/10/26"
     },
     {
@@ -72,19 +72,6 @@
       "lifetimeRaces": 7970,
       "teamRaces": 490,
       "joined": "07/08/26"
-    },
-    {
-      "username": "wsoccerboy0929",
-      "displayName": "GoudaCheese",
-      "nickname": "Sweaty Typer",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 85,
-      "topWPM": 113,
-      "lifetimeRaces": 3092,
-      "teamRaces": 55,
-      "joined": "07/22/26"
     },
     {
       "username": "e15c66b54114e594bdd4281610664507",
@@ -660,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792800186379
+  "_syncedAt": 1792803249613
 }

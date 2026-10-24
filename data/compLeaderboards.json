@@ -22,10 +22,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 303,
-        "wpm": 94.5,
-        "accuracy": 92.36,
-        "points": 41201,
+        "races": 320,
+        "wpm": 94.4,
+        "accuracy": 92.33,
+        "points": 43492,
         "tier": "A"
       },
       {
@@ -35,10 +35,10 @@
         "displayName": "SUPER_PIGGLE",
         "nickname": "Car Collector",
         "squad": "Active!",
-        "races": 321,
+        "races": 322,
         "wpm": 64.5,
-        "accuracy": 96.46,
-        "points": 40947,
+        "accuracy": 96.45,
+        "points": 41066,
         "tier": "C"
       },
       {
@@ -187,6 +187,19 @@
       {
         "rank": 15,
         "tag": "THB0S",
+        "username": "JCKrayzie",
+        "displayName": "JCKrayzie",
+        "nickname": "Original Gangster",
+        "squad": "Newbies!",
+        "races": 150,
+        "wpm": 108.1,
+        "accuracy": 97.61,
+        "points": 22556,
+        "tier": "A"
+      },
+      {
+        "rank": 16,
+        "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
         "nickname": "Nitro Rich",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -211,20 +224,20 @@
         "tier": "A"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
         "nickname": "Colemak Conqueror",
         "squad": "Officer",
-        "races": 149,
+        "races": 150,
         "wpm": 49,
         "accuracy": 93.57,
-        "points": 17355,
+        "points": 17472,
         "tier": "C"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
@@ -237,7 +250,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -250,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -263,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -274,19 +287,6 @@
         "accuracy": 95.26,
         "points": 16017,
         "tier": "C"
-      },
-      {
-        "rank": 22,
-        "tag": "THB0S",
-        "username": "JCKrayzie",
-        "displayName": "JCKrayzie",
-        "nickname": "Original Gangster",
-        "squad": "Newbies!",
-        "races": 106,
-        "wpm": 108.7,
-        "accuracy": 97.67,
-        "points": 15981,
-        "tier": "A"
       },
       {
         "rank": 23,
@@ -863,6 +863,19 @@
       {
         "rank": 67,
         "tag": "KEYCAT",
+        "username": "Faster than fast",
+        "displayName": "Faster than fast",
+        "nickname": "I Hate Words",
+        "squad": "Starter!!",
+        "races": 33,
+        "wpm": 61.6,
+        "accuracy": 96.19,
+        "points": 4152,
+        "tier": "B"
+      },
+      {
+        "rank": 68,
+        "tag": "KEYCAT",
         "username": "macawgamer88yt",
         "displayName": "macawgamer88yt",
         "nickname": "Catty Wampus",
@@ -872,19 +885,6 @@
         "accuracy": 93.11,
         "points": 4083,
         "tier": "C"
-      },
-      {
-        "rank": 68,
-        "tag": "KEYCAT",
-        "username": "Faster than fast",
-        "displayName": "Faster than fast",
-        "nickname": "I Hate Words",
-        "squad": "Starter!!",
-        "races": 32,
-        "wpm": 61.7,
-        "accuracy": 96.16,
-        "points": 4026,
-        "tier": "B"
       },
       {
         "rank": 69,
@@ -1654,6 +1654,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792800229656
+    "_syncedAt": 1792803291273
   }
 }

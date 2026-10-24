@@ -6,7 +6,7 @@
     "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2972,
+    "profileViews": 2990,
     "leagueTier": 12,
     "racers": [
       {
@@ -605,8 +605,8 @@
         "allTimeRaces": 506,
         "wpm": 61,
         "highestWPM": 77,
-        "teamRaces": 32,
-        "acc": 96.3,
+        "teamRaces": 33,
+        "acc": 96.33,
         "season": null,
         "status": "active",
         "lastLogin": 1792800149
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78784,
+        "races": 78785,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 402,
+        "races": 403,
         "avgWPM": 61,
-        "avgAcc": 92.91,
+        "avgAcc": 92.92,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792800229833
+    "_syncedAt": 1792803291421
   },
   "SVC": {
     "tag": "SVC",
@@ -1209,15 +1209,15 @@
         "members": 39
       },
       "daily": {
-        "races": 256,
+        "races": 250,
         "avgWPM": 75,
-        "avgAcc": 93.16,
+        "avgAcc": 93.18,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792800249010
+    "_syncedAt": 1792803311236
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792800267979
+    "_syncedAt": 1792803330189
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4430,
+    "profileViews": 4432,
     "leagueTier": 12,
     "racers": [
       {
@@ -1300,11 +1300,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9553,
-        "wpm": 108,
+        "allTimeRaces": 9578,
+        "wpm": 107,
         "highestWPM": 135,
-        "teamRaces": 117,
-        "acc": 97.73,
+        "teamRaces": 150,
+        "acc": 97.66,
         "season": null,
         "status": "active",
         "lastLogin": 1792798914
@@ -1415,7 +1415,7 @@
         "allTimeRaces": 3159,
         "wpm": 60,
         "highestWPM": 81,
-        "teamRaces": 1453,
+        "teamRaces": 1454,
         "acc": 96.47,
         "season": null,
         "status": "active",
@@ -1615,7 +1615,7 @@
         "acc": 94.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1792794899
+        "lastLogin": 1792802903
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1944,14 +1944,14 @@
         "displayName": "NitroLegends",
         "role": "officer",
         "joinStamp": 1792035997,
-        "allTimeRaces": 3064,
-        "wpm": 48,
+        "allTimeRaces": 3065,
+        "wpm": 50,
         "highestWPM": 74,
-        "teamRaces": 878,
+        "teamRaces": 879,
         "acc": 93.81,
         "season": null,
         "status": "active",
-        "lastLogin": 1792758298
+        "lastLogin": 1792801909
       },
       {
         "username": "malott12",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121683,
+        "races": 121718,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 812,
-        "avgWPM": 72,
-        "avgAcc": 94.23,
+        "races": 840,
+        "avgWPM": 73,
+        "avgAcc": 94.39,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792800437570
+    "_syncedAt": 1792803499780
   }
 }
