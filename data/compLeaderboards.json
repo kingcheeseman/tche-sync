@@ -264,6 +264,19 @@
       },
       {
         "rank": 21,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 153,
+        "wpm": 40.3,
+        "accuracy": 90.07,
+        "points": 16554,
+        "tier": "C"
+      },
+      {
+        "rank": 22,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -276,7 +289,7 @@
         "tier": "C"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -286,19 +299,6 @@
         "wpm": 77.9,
         "accuracy": 95.26,
         "points": 16017,
-        "tier": "C"
-      },
-      {
-        "rank": 23,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 137,
-        "wpm": 40.3,
-        "accuracy": 89.99,
-        "points": 14815,
         "tier": "C"
       },
       {
@@ -1680,6 +1680,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792843581147
+    "_syncedAt": 1792845838525
   }
 }

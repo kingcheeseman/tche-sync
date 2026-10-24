@@ -634,15 +634,15 @@
         "members": 44
       },
       "daily": {
-        "races": 379,
+        "races": 362,
         "avgWPM": 59,
-        "avgAcc": 92.64,
+        "avgAcc": 92.69,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792843581326
+    "_syncedAt": 1792845838677
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792843600386
+    "_syncedAt": 1792845857582
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792843619240
+    "_syncedAt": 1792845876421
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4433,
+    "profileViews": 4435,
     "leagueTier": 12,
     "racers": [
       {
@@ -1776,14 +1776,14 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3544,
-        "wpm": 40,
+        "allTimeRaces": 3572,
+        "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 2006,
-        "acc": 92.06,
+        "teamRaces": 2029,
+        "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792787248
+        "lastLogin": 1792843931
       },
       {
         "username": "sara0010",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121800,
+        "races": 121823,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 761,
+        "races": 758,
         "avgWPM": 74,
-        "avgAcc": 94.6,
+        "avgAcc": 94.55,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792843788766
+    "_syncedAt": 1792846045690
   }
 }
