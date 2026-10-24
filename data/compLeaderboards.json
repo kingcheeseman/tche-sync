@@ -30,6 +30,19 @@
       },
       {
         "rank": 3,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 318,
+        "wpm": 87.8,
+        "accuracy": 96.85,
+        "points": 44323,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
         "tag": "THB0S",
         "username": "SUPER_PIGGLE",
         "displayName": "SUPER_PIGGLE",
@@ -42,7 +55,7 @@
         "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -55,7 +68,7 @@
         "tier": "C"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -65,19 +78,6 @@
         "wpm": 89.7,
         "accuracy": 94.83,
         "points": 39970,
-        "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 284,
-        "wpm": 87.3,
-        "accuracy": 96.88,
-        "points": 39523,
         "tier": "A"
       },
       {
@@ -1667,6 +1667,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792809500236
+    "_syncedAt": 1792811378930
   }
 }
