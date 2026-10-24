@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792811379094
+    "_syncedAt": 1792813093927
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792811398069
+    "_syncedAt": 1792813113086
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792811416859
+    "_syncedAt": 1792813132365
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1874,14 +1874,14 @@
         "displayName": "nev444ehh",
         "role": "member",
         "joinStamp": 1779496787,
-        "allTimeRaces": 2791,
-        "wpm": 74,
+        "allTimeRaces": 2796,
+        "wpm": 76,
         "highestWPM": 110,
-        "teamRaces": 2491,
-        "acc": 91.91,
+        "teamRaces": 2496,
+        "acc": 91.9,
         "season": null,
         "status": "active",
-        "lastLogin": 1791758081
+        "lastLogin": 1792812191
       },
       {
         "username": "sampath87",
@@ -1909,7 +1909,7 @@
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792763825
+        "lastLogin": 1792812296
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121728,
+        "races": 121733,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 756,
-        "avgWPM": 74,
-        "avgAcc": 94.56,
+        "races": 752,
+        "avgWPM": 73,
+        "avgAcc": 94.48,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792811586355
+    "_syncedAt": 1792813301879
   }
 }
