@@ -875,6 +875,19 @@
       },
       {
         "rank": 68,
+        "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Active!",
+        "races": 44,
+        "wpm": 30.1,
+        "accuracy": 82.77,
+        "points": 4190,
+        "tier": "C"
+      },
+      {
+        "rank": 69,
         "tag": "KEYCAT",
         "username": "Faster than fast",
         "displayName": "Faster than fast",
@@ -887,7 +900,7 @@
         "tier": "B"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "tag": "KEYCAT",
         "username": "macawgamer88yt",
         "displayName": "macawgamer88yt",
@@ -897,19 +910,6 @@
         "wpm": 37,
         "accuracy": 93.11,
         "points": 4083,
-        "tier": "C"
-      },
-      {
-        "rank": 70,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Active!",
-        "races": 42,
-        "wpm": 30.6,
-        "accuracy": 82.53,
-        "points": 3996,
         "tier": "C"
       },
       {
@@ -1680,6 +1680,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792836445619
+    "_syncedAt": 1792838214528
   }
 }
