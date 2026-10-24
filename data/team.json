@@ -251,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9385,
-      "wpm": 88,
+      "allTimeRaces": 9413,
+      "wpm": 87,
       "highestWPM": 111,
-      "teamRaces": 8575,
+      "teamRaces": 8598,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58753,
+      "races": 58776,
       "avgWPM": 76,
-      "avgAcc": 95,
+      "avgAcc": 95.01,
       "members": 49
     },
     "daily": {
-      "races": 1240,
+      "races": 1263,
       "avgWPM": 85,
-      "avgAcc": 94.75,
+      "avgAcc": 94.79,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792826394381
+  "_syncedAt": 1792828459845
 }
