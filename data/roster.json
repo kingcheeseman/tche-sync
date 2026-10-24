@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 89,
       "topWPM": 127,
-      "lifetimeRaces": 5014,
-      "teamRaces": 2584,
+      "lifetimeRaces": 5016,
+      "teamRaces": 2591,
       "joined": "06/10/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 9053,
-      "teamRaces": 8243,
+      "lifetimeRaces": 9107,
+      "teamRaces": 8293,
       "joined": "07/04/26"
     },
     {
@@ -644,8 +644,21 @@
       "lifetimeRaces": 2727,
       "teamRaces": 16,
       "joined": "10/23/26"
+    },
+    {
+      "username": "735493474a38feb614a4a76e3cde2c1a",
+      "displayName": "UJAADDAH",
+      "nickname": "Endurance Racer",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 89,
+      "topWPM": 107,
+      "lifetimeRaces": 1540,
+      "teamRaces": 7,
+      "joined": "10/24/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792805489005
+  "_syncedAt": 1792807598539
 }

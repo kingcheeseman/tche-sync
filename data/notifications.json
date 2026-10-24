@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:735493474a38feb614a4a76e3cde2c1a",
+      "type": "new-member",
+      "text": "UJAADDAH joined the team.",
+      "meta": {
+        "username": "735493474a38feb614a4a76e3cde2c1a"
+      },
+      "createdAt": 1792807637321
+    },
+    {
       "key": "milestone:taylorja32:5000",
       "type": "milestone",
       "text": "Void Racer crossed 5,000 lifetime races!",
@@ -364,5 +373,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792805526031
+  "_syncedAt": 1792807637321
 }

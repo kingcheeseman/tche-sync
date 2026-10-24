@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 49,
+  "members": 50,
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2065,
+  "profileViews": 2066,
   "leagueTier": 12,
   "racers": [
     {
@@ -265,10 +265,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9060,
+      "allTimeRaces": 9107,
       "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 8249,
+      "teamRaces": 8293,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -443,6 +443,20 @@
       "lastLogin": 1792787974
     },
     {
+      "username": "735493474a38feb614a4a76e3cde2c1a",
+      "displayName": "UJAADDAH",
+      "role": "member",
+      "joinStamp": 1792806291,
+      "allTimeRaces": 1540,
+      "wpm": 89,
+      "highestWPM": 107,
+      "teamRaces": 7,
+      "acc": 91.69,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1792805968
+    },
+    {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
       "displayName": "supermom",
       "role": "member",
@@ -503,10 +517,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5015,
+      "allTimeRaces": 5016,
       "wpm": 89,
       "highestWPM": 127,
-      "teamRaces": 2590,
+      "teamRaces": 2591,
       "acc": 92.58,
       "season": null,
       "status": "active",
@@ -697,19 +711,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58419,
+      "races": 58471,
       "avgWPM": 76,
       "avgAcc": 94.99,
-      "members": 49
+      "members": 50
     },
     "daily": {
-      "races": 915,
+      "races": 960,
       "avgWPM": 83,
-      "avgAcc": 93.98,
-      "members": 49
+      "avgAcc": 94.08,
+      "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792805428365
+  "_syncedAt": 1792807510322
 }

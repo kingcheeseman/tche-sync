@@ -1,18 +1,13 @@
 {
   "hours": [
     {
-      "hour": "2026-10-23 01:00:00",
-      "racer": "Nathan",
-      "races": 7
-    },
-    {
       "hour": "2026-10-23 03:00:00",
-      "racer": "Nathan",
+      "racer": "cone_manager",
       "races": 1
     },
     {
       "hour": "2026-10-23 03:00:00",
-      "racer": "cone_manager",
+      "racer": "Nathan",
       "races": 1
     },
     {
@@ -92,12 +87,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "- 9te -",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "loganim12btw",
+      "racer": "- 9te -",
       "races": 1
     },
     {
@@ -368,14 +363,19 @@
     {
       "hour": "2026-10-24 01:00:00",
       "racer": "rorok09",
-      "races": 16
+      "races": 66
     },
     {
       "hour": "2026-10-24 01:00:00",
       "racer": "Void Racer",
-      "races": 5
+      "races": 12
+    },
+    {
+      "hour": "2026-10-24 01:00:00",
+      "racer": "UJAADDAH",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792805489006
+  "_syncedAt": 1792807598540
 }

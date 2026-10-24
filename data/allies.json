@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792805531439
+    "_syncedAt": 1792807642299
   },
   "SVC": {
     "tag": "SVC",
@@ -1209,15 +1209,15 @@
         "members": 39
       },
       "daily": {
-        "races": 240,
-        "avgWPM": 75,
-        "avgAcc": 93.18,
+        "races": 221,
+        "avgWPM": 74,
+        "avgAcc": 93.17,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792805550329
+    "_syncedAt": 1792807661431
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792805569346
+    "_syncedAt": 1792807680425
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1356,14 +1356,14 @@
         "displayName": "FireworkLauncher",
         "role": "member",
         "joinStamp": 1785290295,
-        "allTimeRaces": 6971,
-        "wpm": 65,
+        "allTimeRaces": 6981,
+        "wpm": 69,
         "highestWPM": 90,
-        "teamRaces": 3076,
+        "teamRaces": 3086,
         "acc": 91.42,
         "season": null,
         "status": "active",
-        "lastLogin": 1792722221
+        "lastLogin": 1792807068
       },
       {
         "username": "joe772",
@@ -1797,7 +1797,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792804520
+        "lastLogin": 1792807198
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121718,
+        "races": 121728,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 829,
+        "races": 832,
         "avgWPM": 73,
-        "avgAcc": 94.38,
+        "avgAcc": 94.33,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792805738664
+    "_syncedAt": 1792807850110
   }
 }
