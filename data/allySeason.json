@@ -3,11 +3,11 @@
     "timeframes": {
       "24h": {
         "rank": 43,
-        "races": 390,
-        "accuracy": 92.16,
-        "wpm": 59.7,
-        "points": 46674,
-        "ppr": 120
+        "races": 377,
+        "accuracy": 92.05,
+        "wpm": 59.5,
+        "points": 45034,
+        "ppr": 119
       },
       "season": {
         "rank": 43,
@@ -19,10 +19,10 @@
       },
       "week": {
         "rank": 42,
-        "races": 2215,
-        "accuracy": 92.11,
+        "races": 2207,
+        "accuracy": 92.12,
         "wpm": 65,
-        "points": 270304,
+        "points": 269398,
         "ppr": 122
       },
       "weekly": {
@@ -49,12 +49,12 @@
     "points": 238969,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792841831648
+    "_syncedAt": 1792843600221
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 55,
+        "rank": 54,
         "races": 237,
         "accuracy": 92.76,
         "wpm": 74.5,
@@ -101,7 +101,7 @@
     "points": 110116,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792841850348
+    "_syncedAt": 1792843619089
   },
   "IMTR": {
     "timeframes": {
@@ -118,16 +118,16 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792842019253
+    "_syncedAt": 1792843788553
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 26,
-        "races": 761,
+        "races": 760,
         "accuracy": 94.29,
         "wpm": 74.7,
-        "points": 98552,
+        "points": 98437,
         "ppr": 130
       },
       "season": {
@@ -140,10 +140,10 @@
       },
       "week": {
         "rank": 24,
-        "races": 5785,
+        "races": 5778,
         "accuracy": 93.69,
         "wpm": 71.2,
-        "points": 734904,
+        "points": 734122,
         "ppr": 127
       },
       "weekly": {
@@ -170,6 +170,6 @@
     "points": 597876,
     "ppr": 127,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792842038038
+    "_syncedAt": 1792843807514
   }
 }
