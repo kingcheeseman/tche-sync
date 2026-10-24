@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 88,
-    "tierB": 80,
+    "tierA": 89,
+    "tierB": 82,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -27,7 +27,7 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 88,
       "topWPM": 110,
       "lifetimeRaces": 20221,
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 90,
       "topWPM": 111,
-      "lifetimeRaces": 9279,
-      "teamRaces": 8469,
+      "lifetimeRaces": 9293,
+      "teamRaces": 8483,
       "joined": "07/04/26"
     },
     {
@@ -105,7 +105,7 @@
       "nickname": "I Have Fans!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 125,
       "lifetimeRaces": 4443,
@@ -131,7 +131,7 @@
       "nickname": "The Caped Crusader",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 102,
       "lifetimeRaces": 2723,
@@ -235,7 +235,7 @@
       "nickname": "TOUGE「峠」VIPER",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 104,
       "lifetimeRaces": 2011,
@@ -365,7 +365,7 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 88,
       "topWPM": 127,
       "lifetimeRaces": 20606,
@@ -469,7 +469,7 @@
       "nickname": "Ghoul's Gold",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 88,
       "topWPM": 120,
       "lifetimeRaces": 1072,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792818523272
+  "_syncedAt": 1792820230057
 }

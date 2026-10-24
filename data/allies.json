@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792818565357
+    "_syncedAt": 1792820272466
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792818584285
+    "_syncedAt": 1792820291294
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792818603178
+    "_syncedAt": 1792820310152
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4432,
+    "profileViews": 4433,
     "leagueTier": 12,
     "racers": [
       {
@@ -1468,14 +1468,14 @@
         "displayName": "longreux",
         "role": "member",
         "joinStamp": 1792637620,
-        "allTimeRaces": 1263,
-        "wpm": 93,
+        "allTimeRaces": 1280,
+        "wpm": 88,
         "highestWPM": 107,
-        "teamRaces": 143,
-        "acc": 95.57,
+        "teamRaces": 157,
+        "acc": 95.67,
         "season": null,
         "status": "active",
-        "lastLogin": 1792637604
+        "lastLogin": 1792819629
       },
       {
         "username": "blu3_colour",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121761,
+        "races": 121775,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 751,
-        "avgWPM": 73,
-        "avgAcc": 94.46,
+        "races": 765,
+        "avgWPM": 74,
+        "avgAcc": 94.51,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792818772702
+    "_syncedAt": 1792820479749
   }
 }

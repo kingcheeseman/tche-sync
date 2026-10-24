@@ -9,11 +9,11 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 428,
+        "races": 442,
         "wpm": 88.3,
         "accuracy": 96.84,
-        "points": 59758,
-        "tier": "B"
+        "points": 61705,
+        "tier": "A"
       },
       {
         "rank": 2,
@@ -966,6 +966,19 @@
       },
       {
         "rank": 75,
+        "tag": "THB0S",
+        "username": "longreux",
+        "displayName": "longreux",
+        "nickname": "Filthy Rich",
+        "squad": "Active!",
+        "races": 23,
+        "wpm": 89.3,
+        "accuracy": 93.86,
+        "points": 3123,
+        "tier": "A"
+      },
+      {
+        "rank": 76,
         "tag": "SVC",
         "username": "pantheon",
         "displayName": "pantheon",
@@ -975,19 +988,6 @@
         "wpm": 129.4,
         "accuracy": 97.34,
         "points": 2726,
-        "tier": "A"
-      },
-      {
-        "rank": 76,
-        "tag": "THB0S",
-        "username": "longreux",
-        "displayName": "longreux",
-        "nickname": "Filthy Rich",
-        "squad": "Active!",
-        "races": 20,
-        "wpm": 89.3,
-        "accuracy": 93.36,
-        "points": 2701,
         "tier": "A"
       },
       {
@@ -1680,6 +1680,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792818565201
+    "_syncedAt": 1792820272330
   }
 }
