@@ -52,12 +52,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Nathan",
+      "racer": "Void Racer",
       "races": 7
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
+      "racer": "Nathan",
       "races": 7
     },
     {
@@ -137,12 +137,12 @@
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "t_unknown",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "t_unknown",
       "races": 3
     },
     {
@@ -384,8 +384,13 @@
       "hour": "2026-10-24 05:00:00",
       "racer": "rorok09",
       "races": 21
+    },
+    {
+      "hour": "2026-10-24 06:00:00",
+      "racer": "rorok09",
+      "races": 41
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792821974994
+  "_syncedAt": 1792824205893
 }
