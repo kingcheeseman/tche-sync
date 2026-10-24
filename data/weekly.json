@@ -1,13 +1,13 @@
 {
   "racers": [
     {
-      "rank": 80,
+      "rank": 78,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 876,
-      "accuracy": 96.88,
+      "races": 897,
+      "accuracy": 96.89,
       "wpm": 88.5,
-      "points": 122405,
+      "points": 125345,
       "ppr": 140
     },
     {
@@ -71,7 +71,7 @@
       "ppr": 137
     },
     {
-      "rank": 367,
+      "rank": 368,
       "username": "cash4087",
       "displayName": "WindMaker",
       "races": 248,
@@ -251,7 +251,7 @@
       "ppr": 138
     },
     {
-      "rank": 1463,
+      "rank": 1464,
       "username": "vlambjr",
       "displayName": "certified",
       "races": 25,
@@ -261,7 +261,7 @@
       "ppr": 128
     },
     {
-      "rank": 1512,
+      "rank": 1513,
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
       "displayName": "LeoRuna",
       "races": 21,
@@ -271,7 +271,7 @@
       "ppr": 134
     },
     {
-      "rank": 1517,
+      "rank": 1518,
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
       "displayName": "Bobby Junior",
       "races": 21,
@@ -281,7 +281,7 @@
       "ppr": 133
     },
     {
-      "rank": 1543,
+      "rank": 1544,
       "username": "crxy99",
       "displayName": "Amaterasu",
       "races": 20,
@@ -291,7 +291,7 @@
       "ppr": 131
     },
     {
-      "rank": 1555,
+      "rank": 1556,
       "username": "aa4cdca9a5dfd9b967fe0c0efe24d5ed",
       "displayName": "Kingzillao9",
       "races": 20,
@@ -301,7 +301,7 @@
       "ppr": 124
     },
     {
-      "rank": 1576,
+      "rank": 1577,
       "username": "sterling757",
       "displayName": "sterling757",
       "races": 18,
@@ -311,7 +311,7 @@
       "ppr": 132
     },
     {
-      "rank": 1623,
+      "rank": 1624,
       "username": "2b1da3257327aa35b65ea45deb938ebb",
       "displayName": "falcon 6x",
       "races": 16,
@@ -321,7 +321,7 @@
       "ppr": 132
     },
     {
-      "rank": 1710,
+      "rank": 1711,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 12,
@@ -381,5 +381,5 @@
       "ppr": 132
     }
   ],
-  "_syncedAt": 1792828501618
+  "_syncedAt": 1792829722386
 }
