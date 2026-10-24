@@ -336,14 +336,14 @@
         "displayName": "Cristiano Ronaldo 7",
         "role": "member",
         "joinStamp": 1792790946,
-        "allTimeRaces": 1345,
-        "wpm": 27,
+        "allTimeRaces": 1346,
+        "wpm": 39,
         "highestWPM": 66,
         "teamRaces": 0,
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1792789568
+        "lastLogin": 1792815024
       },
       {
         "username": "vertur",
@@ -634,15 +634,15 @@
         "members": 44
       },
       "daily": {
-        "races": 403,
+        "races": 395,
         "avgWPM": 61,
-        "avgAcc": 92.92,
+        "avgAcc": 92.86,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792813093927
+    "_syncedAt": 1792815081086
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792813113086
+    "_syncedAt": 1792815100356
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,13 +1269,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792813132365
+    "_syncedAt": 1792815119424
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 49,
-    "activePercent": 97,
+    "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
     "profileViews": 4432,
@@ -1384,14 +1384,14 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1600,
-        "wpm": 61,
+        "allTimeRaces": 1615,
+        "wpm": 64,
         "highestWPM": 87,
-        "teamRaces": 1294,
-        "acc": 93.69,
+        "teamRaces": 1309,
+        "acc": 93.7,
         "season": null,
         "status": "active",
-        "lastLogin": 1792713010
+        "lastLogin": 1792813583
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121733,
+        "races": 121748,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 752,
+        "races": 751,
         "avgWPM": 73,
-        "avgAcc": 94.48,
+        "avgAcc": 94.45,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792813301879
+    "_syncedAt": 1792815289381
   }
 }

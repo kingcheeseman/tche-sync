@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-23 03:00:00",
-      "racer": "cone_manager",
-      "races": 1
-    },
-    {
-      "hour": "2026-10-23 03:00:00",
-      "racer": "Nathan",
-      "races": 1
-    },
-    {
       "hour": "2026-10-23 08:00:00",
       "racer": "viewmyvioletgarage",
       "races": 19
@@ -62,12 +52,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Nathan",
+      "racer": "Void Racer",
       "races": 7
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
+      "racer": "Nathan",
       "races": 7
     },
     {
@@ -257,12 +247,12 @@
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Void Racer",
+      "racer": "Namedisplayed",
       "races": 9
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Void Racer",
       "races": 9
     },
     {
@@ -383,9 +373,9 @@
     {
       "hour": "2026-10-24 03:00:00",
       "racer": "rorok09",
-      "races": 4
+      "races": 27
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792813048875
+  "_syncedAt": 1792815036976
 }
