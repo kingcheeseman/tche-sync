@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-22 23:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 17
-    },
-    {
       "hour": "2026-10-23 00:00:00",
       "racer": "Nathan",
       "races": 36
@@ -282,12 +277,12 @@
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Void Racer",
       "races": 9
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Void Racer",
+      "racer": "Namedisplayed",
       "races": 9
     },
     {
@@ -377,5 +372,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792798941648
+  "_syncedAt": 1792800186380
 }

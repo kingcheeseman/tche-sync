@@ -35,10 +35,10 @@
         "displayName": "SUPER_PIGGLE",
         "nickname": "Car Collector",
         "squad": "Active!",
-        "races": 320,
+        "races": 321,
         "wpm": 64.5,
         "accuracy": 96.46,
-        "points": 40825,
+        "points": 40947,
         "tier": "C"
       },
       {
@@ -282,10 +282,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Original Gangster",
         "squad": "Newbies!",
-        "races": 100,
+        "races": 106,
         "wpm": 108.7,
-        "accuracy": 97.66,
-        "points": 15076,
+        "accuracy": 97.67,
+        "points": 15981,
         "tier": "A"
       },
       {
@@ -304,6 +304,19 @@
       {
         "rank": 24,
         "tag": "KEYCAT",
+        "username": "Cats_4_Eva",
+        "displayName": "Cats_4_Eva",
+        "nickname": "I Love Cats",
+        "squad": "KEYCAT Captain ⚞^. .^⚟",
+        "races": 118,
+        "wpm": 80.9,
+        "accuracy": 88.22,
+        "points": 14620,
+        "tier": "A"
+      },
+      {
+        "rank": 25,
+        "tag": "KEYCAT",
         "username": "Adam Smasher",
         "displayName": "Adam Smasher",
         "nickname": "I Love Cats",
@@ -313,19 +326,6 @@
         "accuracy": 88.94,
         "points": 13852,
         "tier": "B"
-      },
-      {
-        "rank": 25,
-        "tag": "KEYCAT",
-        "username": "Cats_4_Eva",
-        "displayName": "Cats_4_Eva",
-        "nickname": "I Love Cats",
-        "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 110,
-        "wpm": 80.9,
-        "accuracy": 88.2,
-        "points": 13627,
-        "tier": "A"
       },
       {
         "rank": 26,
@@ -1525,19 +1525,6 @@
       },
       {
         "rank": 118,
-        "tag": "KEYCAT",
-        "username": "s218250",
-        "displayName": "s218250",
-        "nickname": "Original Gangster",
-        "squad": "Starter!!",
-        "races": 2,
-        "wpm": 29.7,
-        "accuracy": 92.91,
-        "points": 213,
-        "tier": "C"
-      },
-      {
-        "rank": 119,
         "tag": "IMT",
         "username": "cone_manager",
         "displayName": "cone_manager",
@@ -1550,7 +1537,7 @@
         "tier": "B"
       },
       {
-        "rank": 120,
+        "rank": 119,
         "tag": "KEYCAT",
         "username": "Void Racer alt",
         "displayName": "Void Racer alt",
@@ -1563,7 +1550,7 @@
         "tier": "A"
       },
       {
-        "rank": 121,
+        "rank": 120,
         "tag": "SVC",
         "username": "WhimsicalAmberDolphin",
         "displayName": "WhimsicalAmberDolphin",
@@ -1576,7 +1563,7 @@
         "tier": "C"
       },
       {
-        "rank": 122,
+        "rank": 121,
         "tag": "KEYCAT",
         "username": "FluffCat",
         "displayName": "FluffCat",
@@ -1589,7 +1576,7 @@
         "tier": "A"
       },
       {
-        "rank": 123,
+        "rank": 122,
         "tag": "KEYCAT",
         "username": "How_Random",
         "displayName": "How_Random",
@@ -1602,7 +1589,7 @@
         "tier": "A"
       },
       {
-        "rank": 124,
+        "rank": 123,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -1615,7 +1602,7 @@
         "tier": "B"
       },
       {
-        "rank": 125,
+        "rank": 124,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1628,7 +1615,7 @@
         "tier": "A"
       },
       {
-        "rank": 126,
+        "rank": 125,
         "tag": "KEYCAT",
         "username": "Cristiano Ronaldo 7",
         "displayName": "Cristiano Ronaldo 7",
@@ -1641,7 +1628,7 @@
         "tier": "C"
       },
       {
-        "rank": 127,
+        "rank": 126,
         "tag": "THB0S",
         "username": "ren21s",
         "displayName": "ren21s",
@@ -1654,7 +1641,7 @@
         "tier": "A"
       },
       {
-        "rank": 128,
+        "rank": 127,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -1667,6 +1654,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792798984269
+    "_syncedAt": 1792800229656
   }
 }

@@ -602,14 +602,14 @@
         "displayName": "Faster than fast",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 505,
-        "wpm": 60,
+        "allTimeRaces": 506,
+        "wpm": 61,
         "highestWPM": 77,
         "teamRaces": 32,
         "acc": 96.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1792797353
+        "lastLogin": 1792800149
       },
       {
         "username": "makawgamer88",
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792798984494
+    "_syncedAt": 1792800229833
   },
   "SVC": {
     "tag": "SVC",
@@ -1209,15 +1209,15 @@
         "members": 39
       },
       "daily": {
-        "races": 263,
+        "races": 256,
         "avgWPM": 75,
-        "avgAcc": 93.17,
+        "avgAcc": 93.16,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792799003803
+    "_syncedAt": 1792800249010
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1226,7 +1226,7 @@
     "activePercent": 0,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 15,
+    "profileViews": 16,
     "leagueTier": 2,
     "racers": [
       {
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792799022880
+    "_syncedAt": 1792800267979
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4427,
+    "profileViews": 4430,
     "leagueTier": 12,
     "racers": [
       {
@@ -1300,11 +1300,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9529,
-        "wpm": 106,
+        "allTimeRaces": 9553,
+        "wpm": 108,
         "highestWPM": 135,
-        "teamRaces": 100,
-        "acc": 97.71,
+        "teamRaces": 117,
+        "acc": 97.73,
         "season": null,
         "status": "active",
         "lastLogin": 1792798914
@@ -1412,8 +1412,8 @@
         "displayName": "SUPER_PIGGLE",
         "role": "member",
         "joinStamp": 1785878235,
-        "allTimeRaces": 3158,
-        "wpm": 61,
+        "allTimeRaces": 3159,
+        "wpm": 60,
         "highestWPM": 81,
         "teamRaces": 1453,
         "acc": 96.47,
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121666,
+        "races": 121683,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 798,
-        "avgWPM": 71,
-        "avgAcc": 94.12,
+        "races": 812,
+        "avgWPM": 72,
+        "avgAcc": 94.23,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792799192746
+    "_syncedAt": 1792800437570
   }
 }
