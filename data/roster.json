@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 88,
       "topWPM": 127,
-      "lifetimeRaces": 5000,
-      "teamRaces": 2575,
+      "lifetimeRaces": 5014,
+      "teamRaces": 2584,
       "joined": "06/10/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 88,
+      "avgWPM": 91,
       "topWPM": 110,
-      "lifetimeRaces": 9036,
-      "teamRaces": 8226,
+      "lifetimeRaces": 9053,
+      "teamRaces": 8243,
       "joined": "07/04/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792803249613
+  "_syncedAt": 1792805489005
 }

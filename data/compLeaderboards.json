@@ -22,10 +22,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 320,
-        "wpm": 94.4,
-        "accuracy": 92.33,
-        "points": 43492,
+        "races": 329,
+        "wpm": 94.3,
+        "accuracy": 92.35,
+        "points": 44705,
         "tier": "A"
       },
       {
@@ -122,6 +122,19 @@
       {
         "rank": 10,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 202,
+        "wpm": 87,
+        "accuracy": 96.85,
+        "points": 28073,
+        "tier": "A"
+      },
+      {
+        "rank": 11,
+        "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
         "nickname": "Need 4 Speed",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -146,7 +159,7 @@
         "tier": "B"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -170,19 +183,6 @@
         "accuracy": 93.28,
         "points": 26095,
         "tier": "C"
-      },
-      {
-        "rank": 14,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 185,
-        "wpm": 86.8,
-        "accuracy": 96.85,
-        "points": 25697,
-        "tier": "A"
       },
       {
         "rank": 15,
@@ -1654,6 +1654,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792803291273
+    "_syncedAt": 1792805531012
   }
 }

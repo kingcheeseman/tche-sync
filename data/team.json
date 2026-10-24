@@ -5,7 +5,7 @@
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2064,
+  "profileViews": 2065,
   "leagueTier": 12,
   "racers": [
     {
@@ -265,14 +265,14 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9036,
-      "wpm": 88,
+      "allTimeRaces": 9060,
+      "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 8226,
-      "acc": 97.09,
+      "teamRaces": 8249,
+      "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1792564286
+      "lastLogin": 1792803485
     },
     {
       "username": "kirbydelta",
@@ -503,11 +503,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5002,
+      "allTimeRaces": 5015,
       "wpm": 89,
       "highestWPM": 127,
-      "teamRaces": 2576,
-      "acc": 92.57,
+      "teamRaces": 2590,
+      "acc": 92.58,
       "season": null,
       "status": "active",
       "lastLogin": 1792801543
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58382,
+      "races": 58419,
       "avgWPM": 76,
       "avgAcc": 94.99,
       "members": 49
     },
     "daily": {
-      "races": 950,
-      "avgWPM": 84,
-      "avgAcc": 94.1,
+      "races": 915,
+      "avgWPM": 83,
+      "avgAcc": 93.98,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792803186822
+  "_syncedAt": 1792805428365
 }

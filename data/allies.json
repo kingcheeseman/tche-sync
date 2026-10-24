@@ -217,7 +217,7 @@
         "acc": 90.27,
         "season": null,
         "status": "active",
-        "lastLogin": 1792790138
+        "lastLogin": 1792805136
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -427,7 +427,7 @@
         "acc": 95.68,
         "season": null,
         "status": "active",
-        "lastLogin": 1792784513
+        "lastLogin": 1792804096
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792803291421
+    "_syncedAt": 1792805531439
   },
   "SVC": {
     "tag": "SVC",
@@ -1209,7 +1209,7 @@
         "members": 39
       },
       "daily": {
-        "races": 250,
+        "races": 240,
         "avgWPM": 75,
         "avgAcc": 93.18,
         "members": 39
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792803311236
+    "_syncedAt": 1792805550329
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792803330189
+    "_syncedAt": 1792805569346
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1797,7 +1797,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792797985
+        "lastLogin": 1792804520
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1976,14 +1976,14 @@
         "members": 49
       },
       "daily": {
-        "races": 840,
+        "races": 829,
         "avgWPM": 73,
-        "avgAcc": 94.39,
+        "avgAcc": 94.38,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792803499780
+    "_syncedAt": 1792805738664
   }
 }
