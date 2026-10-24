@@ -87,11 +87,11 @@
         "displayName": "I_Am_So_Cheesy",
         "nickname": "Spring Speedster",
         "squad": "Entrepreneur 500",
-        "races": 340,
-        "wpm": 51.9,
-        "accuracy": 91.21,
-        "points": 39056,
-        "tier": "A"
+        "races": 347,
+        "wpm": 51.6,
+        "accuracy": 91.33,
+        "points": 39867,
+        "tier": "C"
       },
       {
         "rank": 8,
@@ -100,10 +100,10 @@
         "displayName": "Mwhit4",
         "nickname": "Ghost Lap",
         "squad": "Active!",
-        "races": 316,
+        "races": 320,
         "wpm": 62,
-        "accuracy": 93.91,
-        "points": 38871,
+        "accuracy": 93.92,
+        "points": 39365,
         "tier": "C"
       },
       {
@@ -213,6 +213,19 @@
       {
         "rank": 17,
         "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 179,
+        "wpm": 40.3,
+        "accuracy": 90.1,
+        "points": 19377,
+        "tier": "C"
+      },
+      {
+        "rank": 18,
+        "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
         "nickname": "Street Spectre",
@@ -224,20 +237,20 @@
         "tier": "A"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
         "nickname": "Colemak Conqueror",
         "squad": "Officer",
-        "races": 150,
-        "wpm": 49,
+        "races": 151,
+        "wpm": 48.9,
         "accuracy": 93.57,
-        "points": 17472,
+        "points": 17585,
         "tier": "C"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
@@ -250,7 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -261,19 +274,6 @@
         "accuracy": 86.9,
         "points": 16747,
         "tier": "A"
-      },
-      {
-        "rank": 21,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 153,
-        "wpm": 40.3,
-        "accuracy": 90.07,
-        "points": 16554,
-        "tier": "C"
       },
       {
         "rank": 22,
@@ -1655,6 +1655,19 @@
       },
       {
         "rank": 128,
+        "tag": "KEYCAT",
+        "username": "ORANGELILLIANAK",
+        "displayName": "ORANGELILLIANAK",
+        "nickname": "Endurance Racer",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "rank": 129,
         "tag": "THB0S",
         "username": "ren21s",
         "displayName": "ren21s",
@@ -1667,7 +1680,7 @@
         "tier": "A"
       },
       {
-        "rank": 129,
+        "rank": 130,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -1680,6 +1693,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792845838525
+    "_syncedAt": 1792847869566
   }
 }

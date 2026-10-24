@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-23 12:00:00",
-      "racer": "Void Racer",
-      "races": 17
-    },
-    {
-      "hour": "2026-10-23 12:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 16
-    },
-    {
-      "hour": "2026-10-23 12:00:00",
-      "racer": "disgratedboy191",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-23 12:00:00",
-      "racer": "Joe and Uh",
-      "races": 5
-    },
-    {
       "hour": "2026-10-23 13:00:00",
       "racer": "disgratedboy191",
       "races": 24
@@ -28,12 +8,7 @@
     {
       "hour": "2026-10-23 13:00:00",
       "racer": "t_unknown",
-      "races": 11
-    },
-    {
-      "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
-      "races": 7
+      "races": 9
     },
     {
       "hour": "2026-10-23 13:00:00",
@@ -57,12 +32,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "loganim12btw",
+      "racer": "- 9te -",
       "races": 1
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "- 9te -",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -117,12 +92,12 @@
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "t_unknown",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
       "hour": "2026-10-23 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "t_unknown",
       "races": 3
     },
     {
@@ -379,8 +354,13 @@
       "hour": "2026-10-24 08:00:00",
       "racer": "rorok09",
       "races": 44
+    },
+    {
+      "hour": "2026-10-24 12:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792845796885
+  "_syncedAt": 1792847825784
 }
