@@ -434,11 +434,11 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2541,
-        "wpm": 67,
+        "allTimeRaces": 2552,
+        "wpm": 64,
         "highestWPM": 83,
-        "teamRaces": 56,
-        "acc": 95.68,
+        "teamRaces": 68,
+        "acc": 95.91,
         "season": null,
         "status": "active",
         "lastLogin": 1792856038
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78812,
+        "races": 78824,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 290,
-        "avgWPM": 59,
-        "avgAcc": 92.87,
+        "races": 300,
+        "avgWPM": 60,
+        "avgAcc": 93.04,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792856249346
+    "_syncedAt": 1792858001415
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 183,
-        "avgWPM": 77,
-        "avgAcc": 93.14,
+        "races": 159,
+        "avgWPM": 82,
+        "avgAcc": 93.46,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792856268770
+    "_syncedAt": 1792858020414
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792856288129
+    "_syncedAt": 1792858039371
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4445,
+    "profileViews": 4446,
     "leagueTier": 12,
     "racers": [
       {
@@ -1314,10 +1314,10 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9613,
-        "wpm": 111,
+        "allTimeRaces": 9628,
+        "wpm": 109,
         "highestWPM": 135,
-        "teamRaces": 184,
+        "teamRaces": 200,
         "acc": 97.71,
         "season": null,
         "status": "active",
@@ -1461,7 +1461,7 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1792774946
+        "lastLogin": 1792857750
       },
       {
         "username": "baglepet000",
@@ -1797,7 +1797,7 @@
         "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792843931
+        "lastLogin": 1792858024
       },
       {
         "username": "sara0010",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121979,
+        "races": 121995,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 770,
-        "avgWPM": 74,
-        "avgAcc": 94.72,
+        "races": 762,
+        "avgWPM": 75,
+        "avgAcc": 94.97,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792856457943
+    "_syncedAt": 1792858209149
   }
 }

@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 5042,
-      "teamRaces": 2617,
+      "lifetimeRaces": 5048,
+      "teamRaces": 2622,
       "joined": "06/10/26"
     },
     {
@@ -505,14 +505,14 @@
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
-      "nickname": "Epic Nitro User",
+      "nickname": "Pro Pacer",
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 89,
       "topWPM": 109,
-      "lifetimeRaces": 1197,
-      "teamRaces": 12,
+      "lifetimeRaces": 1201,
+      "teamRaces": 14,
       "joined": "10/21/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792856205635
+  "_syncedAt": 1792857958964
 }
