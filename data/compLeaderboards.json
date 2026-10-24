@@ -901,6 +901,19 @@
       },
       {
         "rank": 70,
+        "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Active!",
+        "races": 42,
+        "wpm": 30.6,
+        "accuracy": 82.53,
+        "points": 3996,
+        "tier": "C"
+      },
+      {
+        "rank": 71,
         "tag": "KEYCAT",
         "username": "that guy",
         "displayName": "that guy",
@@ -913,7 +926,7 @@
         "tier": "B"
       },
       {
-        "rank": 71,
+        "rank": 72,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -926,7 +939,7 @@
         "tier": "B"
       },
       {
-        "rank": 72,
+        "rank": 73,
         "tag": "KEYCAT",
         "username": "12345b",
         "displayName": "12345b",
@@ -939,7 +952,7 @@
         "tier": "B"
       },
       {
-        "rank": 73,
+        "rank": 74,
         "tag": "KEYCAT",
         "username": "expelliarmus",
         "displayName": "expelliarmus",
@@ -952,7 +965,7 @@
         "tier": "B"
       },
       {
-        "rank": 74,
+        "rank": 75,
         "tag": "IMT",
         "username": "certified",
         "displayName": "certified",
@@ -963,19 +976,6 @@
         "accuracy": 90.41,
         "points": 3198,
         "tier": "B"
-      },
-      {
-        "rank": 75,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Active!",
-        "races": 34,
-        "wpm": 32,
-        "accuracy": 79.86,
-        "points": 3149,
-        "tier": "C"
       },
       {
         "rank": 76,
@@ -1680,6 +1680,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792834654032
+    "_syncedAt": 1792836445619
   }
 }

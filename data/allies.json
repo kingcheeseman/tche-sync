@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792834654208
+    "_syncedAt": 1792836445766
   },
   "SVC": {
     "tag": "SVC",
@@ -651,7 +651,7 @@
     "activePercent": 64,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2040,
+    "profileViews": 2041,
     "leagueTier": 10,
     "racers": [
       {
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792834673200
+    "_syncedAt": 1792836464608
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792834691969
+    "_syncedAt": 1792836483442
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1916,11 +1916,11 @@
         "displayName": "dark type",
         "role": "member",
         "joinStamp": 1785487372,
-        "allTimeRaces": 2864,
-        "wpm": 27,
+        "allTimeRaces": 2868,
+        "wpm": 25,
         "highestWPM": 47,
-        "teamRaces": 2499,
-        "acc": 83.13,
+        "teamRaces": 2503,
+        "acc": 83.14,
         "season": null,
         "status": "active",
         "lastLogin": 1792833894
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121796,
+        "races": 121800,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 786,
-        "avgWPM": 73,
-        "avgAcc": 94.55,
+        "races": 775,
+        "avgWPM": 74,
+        "avgAcc": 94.57,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792834861393
+    "_syncedAt": 1792836652950
   }
 }
