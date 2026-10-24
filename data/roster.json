@@ -14,11 +14,11 @@
       "nickname": "The Smasher",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 88,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 5029,
-      "teamRaces": 2601,
+      "lifetimeRaces": 5042,
+      "teamRaces": 2617,
       "joined": "06/10/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792854327170
+  "_syncedAt": 1792856205635
 }

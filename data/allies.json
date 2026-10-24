@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2991,
+    "profileViews": 2992,
     "leagueTier": 12,
     "racers": [
       {
@@ -385,7 +385,7 @@
         "acc": 93.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792850984
+        "lastLogin": 1792855166
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -434,14 +434,14 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2540,
+        "allTimeRaces": 2541,
         "wpm": 67,
         "highestWPM": 83,
         "teamRaces": 56,
         "acc": 95.68,
         "season": null,
         "status": "active",
-        "lastLogin": 1792804096
+        "lastLogin": 1792856038
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -648,7 +648,7 @@
         "members": 45
       },
       "daily": {
-        "races": 316,
+        "races": 290,
         "avgWPM": 59,
         "avgAcc": 92.87,
         "members": 45
@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792854370310
+    "_syncedAt": 1792856249346
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 202,
-        "avgWPM": 76,
-        "avgAcc": 93.2,
+        "races": 183,
+        "avgWPM": 77,
+        "avgAcc": 93.14,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792854390521
+    "_syncedAt": 1792856268770
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792854409402
+    "_syncedAt": 1792856288129
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4444,
+    "profileViews": 4445,
     "leagueTier": 12,
     "racers": [
       {
@@ -1314,14 +1314,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9598,
-        "wpm": 108,
+        "allTimeRaces": 9613,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 170,
-        "acc": 97.73,
+        "teamRaces": 184,
+        "acc": 97.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1792848800
+        "lastLogin": 1792855686
       },
       {
         "username": "mjwolf1019",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121965,
+        "races": 121979,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 766,
-        "avgWPM": 73,
-        "avgAcc": 94.6,
+        "races": 770,
+        "avgWPM": 74,
+        "avgAcc": 94.72,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792854578891
+    "_syncedAt": 1792856457943
   }
 }

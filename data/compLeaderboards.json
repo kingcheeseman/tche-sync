@@ -22,11 +22,11 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 14,
-        "wpm": 84.8,
-        "accuracy": 94.24,
-        "points": 1879,
-        "tier": "B"
+        "races": 26,
+        "wpm": 87.6,
+        "accuracy": 93.93,
+        "points": 3512,
+        "tier": "A"
       },
       {
         "rank": 3,
@@ -48,10 +48,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Original Gangster",
         "squad": "Newbies!",
-        "races": 10,
-        "wpm": 108.2,
-        "accuracy": 97.91,
-        "points": 1509,
+        "races": 11,
+        "wpm": 108.1,
+        "accuracy": 97.98,
+        "points": 1660,
         "tier": "A"
       },
       {
@@ -68,6 +68,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792854370122
+    "_syncedAt": 1792856249140
   }
 }
