@@ -296,10 +296,10 @@
           "rank": 80,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 827,
-          "accuracy": 96.83,
+          "races": 856,
+          "accuracy": 96.85,
           "wpm": 88.6,
-          "points": 115557,
+          "points": 119623,
           "ppr": 140
         },
         {
@@ -373,7 +373,7 @@
           "ppr": 144
         },
         {
-          "rank": 471,
+          "rank": 472,
           "username": "me_likey_typey",
           "displayName": "me_likey_typey",
           "races": 278,
@@ -383,7 +383,7 @@
           "ppr": 96
         },
         {
-          "rank": 524,
+          "rank": 525,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 181,
@@ -433,7 +433,7 @@
           "ppr": 130
         },
         {
-          "rank": 1024,
+          "rank": 1025,
           "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
           "displayName": "reteyrhyj",
           "races": 63,
@@ -674,7 +674,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792831450177
+      "_syncedAt": 1792832977029
     }
   },
   "order": [
@@ -682,5 +682,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792831450177
+  "_syncedAt": 1792832977029
 }

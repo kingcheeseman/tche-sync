@@ -1,13 +1,13 @@
 {
   "racers": [
     {
-      "rank": 78,
+      "rank": 75,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 912,
-      "accuracy": 96.89,
+      "races": 941,
+      "accuracy": 96.9,
       "wpm": 88.5,
-      "points": 127457,
+      "points": 131523,
       "ppr": 140
     },
     {
@@ -51,7 +51,7 @@
       "ppr": 137
     },
     {
-      "rank": 253,
+      "rank": 254,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 438,
@@ -81,7 +81,7 @@
       "ppr": 144
     },
     {
-      "rank": 486,
+      "rank": 487,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 278,
@@ -101,7 +101,7 @@
       "ppr": 130
     },
     {
-      "rank": 702,
+      "rank": 703,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 116,
@@ -381,5 +381,5 @@
       "ppr": 132
     }
   ],
-  "_syncedAt": 1792831460807
+  "_syncedAt": 1792832987318
 }
