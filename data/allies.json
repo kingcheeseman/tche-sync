@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792807642299
+    "_syncedAt": 1792809500440
   },
   "SVC": {
     "tag": "SVC",
@@ -715,14 +715,14 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1569,
-        "wpm": 82,
+        "allTimeRaces": 1587,
+        "wpm": 79,
         "highestWPM": 105,
-        "teamRaces": 475,
-        "acc": 94.4,
+        "teamRaces": 493,
+        "acc": 94.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1792788277
+        "lastLogin": 1792808103
       },
       {
         "username": "shamp00",
@@ -1203,21 +1203,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40693,
+        "races": 40711,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 39
       },
       "daily": {
-        "races": 221,
+        "races": 237,
         "avgWPM": 74,
-        "avgAcc": 93.17,
+        "avgAcc": 93.25,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792807661431
+    "_syncedAt": 1792809519361
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792807680425
+    "_syncedAt": 1792809538328
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1349,7 +1349,7 @@
         "acc": 92.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792722358
+        "lastLogin": 1792809562
       },
       {
         "username": "frareynolds",
@@ -1797,7 +1797,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792807198
+        "lastLogin": 1792808230
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1976,14 +1976,14 @@
         "members": 49
       },
       "daily": {
-        "races": 832,
-        "avgWPM": 73,
-        "avgAcc": 94.33,
+        "races": 788,
+        "avgWPM": 72,
+        "avgAcc": 94.5,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792807850110
+    "_syncedAt": 1792809707530
   }
 }

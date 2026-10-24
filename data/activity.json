@@ -62,12 +62,12 @@
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Void Racer",
+      "racer": "Nathan",
       "races": 7
     },
     {
       "hour": "2026-10-23 13:00:00",
-      "racer": "Nathan",
+      "racer": "Void Racer",
       "races": 7
     },
     {
@@ -374,8 +374,13 @@
       "hour": "2026-10-24 01:00:00",
       "racer": "UJAADDAH",
       "races": 7
+    },
+    {
+      "hour": "2026-10-24 02:00:00",
+      "racer": "rorok09",
+      "races": 32
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792807598540
+  "_syncedAt": 1792809458183
 }
