@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "B",
-      "avgWPM": 86,
+      "avgWPM": 88,
       "topWPM": 127,
-      "lifetimeRaces": 5020,
-      "teamRaces": 2591,
+      "lifetimeRaces": 5029,
+      "teamRaces": 2601,
       "joined": "06/10/26"
     },
     {
@@ -598,7 +598,7 @@
       "displayName": "falcon 6x",
       "nickname": "Original Gangster",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 110,
@@ -611,7 +611,7 @@
       "displayName": "UJAADDAH",
       "nickname": "Endurance Racer",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "B",
       "avgWPM": 88,
       "topWPM": 107,
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792852697544
+  "_syncedAt": 1792854327170
 }

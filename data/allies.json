@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 318,
+        "races": 316,
         "avgWPM": 59,
-        "avgAcc": 92.85,
+        "avgAcc": 92.87,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792852740216
+    "_syncedAt": 1792854370310
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792852759439
+    "_syncedAt": 1792854390521
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792852778468
+    "_syncedAt": 1792854409402
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4443,
+    "profileViews": 4444,
     "leagueTier": 12,
     "racers": [
       {
@@ -1790,10 +1790,10 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3651,
+        "allTimeRaces": 3654,
         "wpm": 39,
         "highestWPM": 60,
-        "teamRaces": 2111,
+        "teamRaces": 2116,
         "acc": 92.05,
         "season": null,
         "status": "active",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121960,
+        "races": 121965,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 789,
+        "races": 766,
         "avgWPM": 73,
-        "avgAcc": 94.65,
+        "avgAcc": 94.6,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792852948153
+    "_syncedAt": 1792854578891
   }
 }

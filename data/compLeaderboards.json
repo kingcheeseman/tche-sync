@@ -9,14 +9,27 @@
         "displayName": "Spy on teams",
         "nickname": "Epic Nitro User",
         "squad": "Active!",
-        "races": 30,
-        "wpm": 43.1,
-        "accuracy": 91.34,
-        "points": 3332,
+        "races": 46,
+        "wpm": 41.7,
+        "accuracy": 90.36,
+        "points": 5023,
         "tier": "C"
       },
       {
         "rank": 2,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Dominator 2.5k",
+        "races": 14,
+        "wpm": 84.8,
+        "accuracy": 94.24,
+        "points": 1879,
+        "tier": "B"
+      },
+      {
+        "rank": 3,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -29,25 +42,25 @@
         "tier": "A"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
         "nickname": "Original Gangster",
         "squad": "Newbies!",
-        "races": 7,
-        "wpm": 107.8,
-        "accuracy": 97.58,
-        "points": 1051,
+        "races": 10,
+        "wpm": 108.2,
+        "accuracy": 97.91,
+        "points": 1509,
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
-        "squad": null,
+        "squad": "Starter Fund",
         "races": 5,
         "wpm": 88,
         "accuracy": 90.69,
@@ -55,6 +68,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792852740020
+    "_syncedAt": 1792854370122
   }
 }
