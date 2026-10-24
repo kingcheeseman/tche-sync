@@ -14,10 +14,10 @@
       "nickname": "The Smasher",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 86,
       "topWPM": 127,
-      "lifetimeRaces": 5016,
+      "lifetimeRaces": 5020,
       "teamRaces": 2591,
       "joined": "06/10/26"
     },
@@ -217,19 +217,6 @@
       "joined": "09/19/26"
     },
     {
-      "username": "jules_dot",
-      "displayName": "cone_manager",
-      "nickname": "I Hate Words",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 85,
-      "topWPM": 98,
-      "lifetimeRaces": 2647,
-      "teamRaces": 28,
-      "joined": "09/25/26"
-    },
-    {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "nickname": "TOUGE「峠」VIPER",
@@ -293,19 +280,6 @@
       "lifetimeRaces": 3230,
       "teamRaces": 172,
       "joined": "10/05/26"
-    },
-    {
-      "username": "mweid2",
-      "displayName": "cheese",
-      "nickname": "Potaytoes",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 90,
-      "topWPM": 104,
-      "lifetimeRaces": 3689,
-      "teamRaces": 14,
-      "joined": "10/06/26"
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -638,14 +612,14 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": null,
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 107,
-      "lifetimeRaces": 1540,
-      "teamRaces": 7,
+      "lifetimeRaces": 1545,
+      "teamRaces": 12,
       "joined": "10/24/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792851191730
+  "_syncedAt": 1792852697544
 }

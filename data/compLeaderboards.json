@@ -1,7 +1,60 @@
 {
   "1344": {
     "eventId": "1344",
-    "racers": [],
-    "_syncedAt": 1792851233070
+    "racers": [
+      {
+        "rank": 1,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 30,
+        "wpm": 43.1,
+        "accuracy": 91.34,
+        "points": 3332,
+        "tier": "C"
+      },
+      {
+        "rank": 2,
+        "tag": "THB0S",
+        "username": "Srivanth",
+        "displayName": "Srivanth",
+        "nickname": "Nitro Rich",
+        "squad": "Loyal",
+        "races": 13,
+        "wpm": 92.4,
+        "accuracy": 93.5,
+        "points": 1777,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
+        "tag": "THB0S",
+        "username": "JCKrayzie",
+        "displayName": "JCKrayzie",
+        "nickname": "Original Gangster",
+        "squad": "Newbies!",
+        "races": 7,
+        "wpm": 107.8,
+        "accuracy": 97.58,
+        "points": 1051,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
+        "tag": "IMT",
+        "username": "UJAADDAH",
+        "displayName": "UJAADDAH",
+        "nickname": "Endurance Racer",
+        "squad": null,
+        "races": 5,
+        "wpm": 88,
+        "accuracy": 90.69,
+        "points": 653,
+        "tier": "B"
+      }
+    ],
+    "_syncedAt": 1792852740020
   }
 }

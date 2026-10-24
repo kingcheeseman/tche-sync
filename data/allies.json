@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 350,
-        "avgWPM": 58,
-        "avgAcc": 92.82,
+        "races": 318,
+        "avgWPM": 59,
+        "avgAcc": 92.85,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792851233248
+    "_syncedAt": 1792852740216
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 221,
-        "avgWPM": 75,
-        "avgAcc": 93.22,
+        "races": 202,
+        "avgWPM": 76,
+        "avgAcc": 93.2,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792851252412
+    "_syncedAt": 1792852759439
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792851271378
+    "_syncedAt": 1792852778468
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4437,
+    "profileViews": 4443,
     "leagueTier": 12,
     "racers": [
       {
@@ -1314,11 +1314,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 9588,
-        "wpm": 105,
+        "allTimeRaces": 9598,
+        "wpm": 108,
         "highestWPM": 135,
-        "teamRaces": 160,
-        "acc": 97.71,
+        "teamRaces": 170,
+        "acc": 97.73,
         "season": null,
         "status": "active",
         "lastLogin": 1792848800
@@ -1650,14 +1650,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3137,
-        "wpm": 87,
+        "allTimeRaces": 3150,
+        "wpm": 95,
         "highestWPM": 109,
-        "teamRaces": 1176,
+        "teamRaces": 1189,
         "acc": 94.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792784096
+        "lastLogin": 1792851579
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1790,11 +1790,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3629,
-        "wpm": 44,
+        "allTimeRaces": 3651,
+        "wpm": 39,
         "highestWPM": 60,
-        "teamRaces": 2083,
-        "acc": 92.07,
+        "teamRaces": 2111,
+        "acc": 92.05,
         "season": null,
         "status": "active",
         "lastLogin": 1792843931
@@ -1984,13 +1984,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121909,
+        "races": 121960,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 776,
+        "races": 789,
         "avgWPM": 73,
         "avgAcc": 94.65,
         "members": 49
@@ -1998,6 +1998,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792851440923
+    "_syncedAt": 1792852948153
   }
 }
