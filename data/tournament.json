@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792847847285
+        "_syncedAt": 1792849953301
       }
     },
     {
@@ -2172,7 +2172,7 @@
           ]
         },
         {
-          "label": "Round of 32 *",
+          "label": "Round of 32 ✓",
           "prize": null,
           "matches": [
             {
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792847864532
+        "_syncedAt": 1792849969806
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792847864535
+  "_syncedAt": 1792849969811
 }
