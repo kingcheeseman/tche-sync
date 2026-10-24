@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792820272466
+    "_syncedAt": 1792822016640
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792820291294
+    "_syncedAt": 1792822035572
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792820310152
+    "_syncedAt": 1792822054325
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1468,11 +1468,11 @@
         "displayName": "longreux",
         "role": "member",
         "joinStamp": 1792637620,
-        "allTimeRaces": 1280,
+        "allTimeRaces": 1292,
         "wpm": 88,
         "highestWPM": 107,
-        "teamRaces": 157,
-        "acc": 95.67,
+        "teamRaces": 172,
+        "acc": 95.72,
         "season": null,
         "status": "active",
         "lastLogin": 1792819629
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121775,
+        "races": 121790,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 765,
+        "races": 780,
         "avgWPM": 74,
-        "avgAcc": 94.51,
+        "avgAcc": 94.55,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792820479749
+    "_syncedAt": 1792822223530
   }
 }
