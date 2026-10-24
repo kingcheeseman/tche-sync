@@ -293,17 +293,17 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 86,
+          "rank": 80,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 812,
+          "races": 827,
           "accuracy": 96.83,
           "wpm": 88.6,
-          "points": 113446,
+          "points": 115557,
           "ppr": 140
         },
         {
-          "rank": 177,
+          "rank": 179,
           "username": "taylorja32",
           "displayName": "Void Racer",
           "races": 485,
@@ -333,7 +333,7 @@
           "ppr": 137
         },
         {
-          "rank": 254,
+          "rank": 256,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 375,
@@ -343,7 +343,7 @@
           "ppr": 130
         },
         {
-          "rank": 260,
+          "rank": 262,
           "username": "a0604971cedb19bc8237c0b2bd3de21e",
           "displayName": "I_Am_So_Cheesy",
           "races": 415,
@@ -353,7 +353,7 @@
           "ppr": 115
         },
         {
-          "rank": 329,
+          "rank": 330,
           "username": "b12d93562133c1f47d58fd7c2118abd6",
           "displayName": "Namedisplayed",
           "races": 282,
@@ -363,7 +363,7 @@
           "ppr": 137
         },
         {
-          "rank": 357,
+          "rank": 359,
           "username": "cash4087",
           "displayName": "WindMaker",
           "races": 248,
@@ -393,7 +393,7 @@
           "ppr": 130
         },
         {
-          "rank": 680,
+          "rank": 681,
           "username": "sidoh",
           "displayName": "PootsyWafflebiscuits",
           "races": 116,
@@ -674,7 +674,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792829712951
+      "_syncedAt": 1792831450177
     }
   },
   "order": [
@@ -682,5 +682,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792829712951
+  "_syncedAt": 1792831450177
 }

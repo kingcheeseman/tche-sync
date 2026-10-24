@@ -53,11 +53,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Tycoon 7.5k ",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 111,
-      "lifetimeRaces": 9423,
-      "teamRaces": 8612,
+      "lifetimeRaces": 9444,
+      "teamRaces": 8627,
       "joined": "07/04/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792829734512
+  "_syncedAt": 1792831473544
 }
