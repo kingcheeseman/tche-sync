@@ -5,6 +5,19 @@
       {
         "rank": 1,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 428,
+        "wpm": 88.3,
+        "accuracy": 96.84,
+        "points": 59758,
+        "tier": "B"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
@@ -13,19 +26,6 @@
         "wpm": 98.1,
         "accuracy": 95.17,
         "points": 56598,
-        "tier": "A"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 386,
-        "wpm": 88.3,
-        "accuracy": 96.86,
-        "points": 53891,
         "tier": "A"
       },
       {
@@ -260,7 +260,7 @@
         "wpm": 48.7,
         "accuracy": 86.9,
         "points": 16747,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 21,
@@ -364,7 +364,7 @@
         "wpm": 89.9,
         "accuracy": 97.56,
         "points": 13009,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 29,
@@ -637,7 +637,7 @@
         "wpm": 80.8,
         "accuracy": 94.43,
         "points": 6098,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 50,
@@ -1066,7 +1066,7 @@
         "wpm": 81,
         "accuracy": 94.1,
         "points": 2380,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 83,
@@ -1287,7 +1287,7 @@
         "wpm": 90.7,
         "accuracy": 96.63,
         "points": 1124,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 100,
@@ -1508,7 +1508,7 @@
         "wpm": 71.5,
         "accuracy": 87.86,
         "points": 358,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 117,
@@ -1638,7 +1638,7 @@
         "wpm": 94,
         "accuracy": 93.09,
         "points": 137,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 127,
@@ -1680,6 +1680,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792816668400
+    "_syncedAt": 1792818565201
   }
 }
