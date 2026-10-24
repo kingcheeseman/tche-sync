@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 88,
       "topWPM": 111,
-      "lifetimeRaces": 9204,
-      "teamRaces": 8386,
+      "lifetimeRaces": 9246,
+      "teamRaces": 8427,
       "joined": "07/04/26"
     },
     {
@@ -399,19 +399,6 @@
       "joined": "10/09/26"
     },
     {
-      "username": "ilovepokedigers",
-      "displayName": "Ep_1K PFP VIEWS_Ep",
-      "nickname": "Yo",
-      "role": "member",
-      "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 54,
-      "topWPM": 129,
-      "lifetimeRaces": 18460,
-      "teamRaces": 759,
-      "joined": "10/13/26"
-    },
-    {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
       "displayName": "Sile314",
       "nickname": "Filthy Rich",
@@ -660,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792815036975
+  "_syncedAt": 1792816627590
 }

@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 50,
-  "activePercent": 93,
+  "members": 49,
+  "activePercent": 98,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2067,
+  "profileViews": 2069,
   "leagueTier": 12,
   "racers": [
     {
@@ -191,20 +191,6 @@
       "lastLogin": 1792781463
     },
     {
-      "username": "ilovepokedigers",
-      "displayName": "Ep_1K PFP VIEWS_Ep",
-      "role": "member",
-      "joinStamp": 1791866672,
-      "allTimeRaces": 18460,
-      "wpm": 54,
-      "highestWPM": 129,
-      "teamRaces": 759,
-      "acc": 98.6,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792650978
-    },
-    {
       "username": "6f89f1bde5b8c5cc3b94c3286fb614dc",
       "displayName": "Shane and Eury",
       "role": "member",
@@ -265,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9209,
-      "wpm": 90,
+      "allTimeRaces": 9246,
+      "wpm": 88,
       "highestWPM": 111,
-      "teamRaces": 8386,
+      "teamRaces": 8427,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -711,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58564,
+      "races": 58605,
       "avgWPM": 76,
       "avgAcc": 95,
-      "members": 50
+      "members": 49
     },
     "daily": {
-      "races": 1051,
+      "races": 1092,
       "avgWPM": 84,
-      "avgAcc": 94.37,
-      "members": 50
+      "avgAcc": 94.46,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792814971061
+  "_syncedAt": 1792816551197
 }

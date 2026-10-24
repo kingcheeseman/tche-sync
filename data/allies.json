@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 44,
-    "activePercent": 97,
+    "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 2990,
@@ -336,11 +336,11 @@
         "displayName": "Cristiano Ronaldo 7",
         "role": "member",
         "joinStamp": 1792790946,
-        "allTimeRaces": 1346,
-        "wpm": 39,
+        "allTimeRaces": 1355,
+        "wpm": 36,
         "highestWPM": 66,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 10,
+        "acc": 85.47,
         "season": null,
         "status": "active",
         "lastLogin": 1792815024
@@ -628,27 +628,27 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78785,
+        "races": 78795,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 395,
-        "avgWPM": 61,
-        "avgAcc": 92.86,
+        "races": 399,
+        "avgWPM": 60,
+        "avgAcc": 92.71,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792815081086
+    "_syncedAt": 1792816668538
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 39,
-    "activePercent": 56,
+    "activePercent": 64,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 2040,
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792815100356
+    "_syncedAt": 1792816687255
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792815119424
+    "_syncedAt": 1792816705977
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1384,11 +1384,11 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1615,
-        "wpm": 64,
+        "allTimeRaces": 1628,
+        "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1309,
-        "acc": 93.7,
+        "teamRaces": 1322,
+        "acc": 93.72,
         "season": null,
         "status": "active",
         "lastLogin": 1792813583
@@ -1895,7 +1895,7 @@
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792507349
+        "lastLogin": 1792815486
       },
       {
         "username": "legendsince2026",
@@ -1970,7 +1970,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121748,
+        "races": 121761,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
@@ -1978,12 +1978,12 @@
       "daily": {
         "races": 751,
         "avgWPM": 73,
-        "avgAcc": 94.45,
+        "avgAcc": 94.46,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792815289381
+    "_syncedAt": 1792816875219
   }
 }
